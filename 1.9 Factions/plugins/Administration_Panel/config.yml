@@ -1,0 +1,44 @@
+chat-prefix: "&7[&bAdministration&3Panel&7]"
+
+world-options:
+
+  player-time:
+    
+    # If you set the bellow option to false, and you set someone's player time to something, he will always have that time.
+    # If you set it to true, the player will have the normal day-night cycle.
+    time-loop: true
+
+# Configuration for the information tool.
+infotool:
+
+  item:
+  
+    item: STICK # Please don't use items with durability - e.g. Swords, Flint & Steel etc.
+    
+    player-state: NONE # Available states: NONE - NOT snaking; SNEAK - Holding Shift; BOTH - Doesn't matter
+    
+    activate-by-state: RIGHT_CLICK # Available states: CLICK_LEFT - Item must be left clicked; CLICK_RIGHT - Item must be right clicked; CLICK_BOTH - Item can be both left and right clicked
+    
+    target: BOTH # Available inputs: BOTH - Target can be both; AIR - Target must be air; BLOCK - Target must be a block
+    
+    title: "&3Information &cTool"
+    
+    lore:
+    
+      1: "&fThis magical item tells"
+      2: "&fyou various information"
+      3: "&fabout players and blocks."
+      
+adminpanel:
+
+  item:
+  
+    item: BEDROCK # This sets which item will open the admin panel
+    
+    player-state: NONE # Available states: NONE - NOT snaking; SNEAK - Holding Shift; BOTH - Doesn't matter
+    
+    activate-by-state: RIGHT_CLICK # Available states: CLICK_LEFT - Item must be left clicked; CLICK_RIGHT - Item must be right clicked; CLICK_BOTH - Item can be both left and right clicked
+    
+    target: BOTH # Available inputs: BOTH - Target can be both; AIR - Target must be air; BLOCK - Target must be a block
+    
+    ####### Item title / lore doesn't affect this tool, as it affects every item in the game. #######

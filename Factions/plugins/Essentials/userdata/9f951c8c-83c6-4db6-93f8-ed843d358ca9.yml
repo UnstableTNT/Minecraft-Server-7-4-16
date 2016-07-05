@@ -1,0 +1,30 @@
+geolocation: United States
+lastAccountName: Ninjyx
+timestamps:
+  login: 1467306001039
+  lastteleport: 1467241873823
+  logout: 1467306223242
+ipAddress: 72.201.122.223
+lastlocation:
+  world: Factions
+  x: 10122.47882692554
+  y: 160.0
+  z: 10028.125178517352
+  yaw: 288.6823
+  pitch: 2.1223044
+logoutlocation:
+  world: Factions
+  x: 10119.983326088697
+  y: 160.0
+  z: 10026.29366294653
+  yaw: 13.863037
+  pitch: 26.249994
+money: '2999800.0'
+homes:
+  home:
+    world: Factions
+    x: 10085.672103528641
+    y: 63.0
+    z: 10000.638525021322
+    yaw: 146.23279
+    pitch: -4.500018

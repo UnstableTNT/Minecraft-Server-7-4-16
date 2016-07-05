@@ -1,0 +1,480 @@
+CreeperEgg:
+  Slot1:
+    ==: org.bukkit.inventory.ItemStack
+    type: SAND
+  Slot2:
+    ==: org.bukkit.inventory.ItemStack
+    type: SULPHUR
+  Slot3:
+    ==: org.bukkit.inventory.ItemStack
+    type: SAND
+  Slot4:
+    ==: org.bukkit.inventory.ItemStack
+    type: SULPHUR
+  Slot5:
+    ==: org.bukkit.inventory.ItemStack
+    type: EGG
+  Slot6:
+    ==: org.bukkit.inventory.ItemStack
+    type: SULPHUR
+  Slot7:
+    ==: org.bukkit.inventory.ItemStack
+    type: SAND
+  Slot8:
+    ==: org.bukkit.inventory.ItemStack
+    type: SULPHUR
+  Slot9:
+    ==: org.bukkit.inventory.ItemStack
+    type: SAND
+  Product:
+    ==: org.bukkit.inventory.ItemStack
+    type: MONSTER_EGG
+    damage: 50
+  Enabled: true
+  Type: Shaped
+CreeperSpawner:
+  Slot1:
+    ==: org.bukkit.inventory.ItemStack
+    type: IRON_FENCE
+  Slot2:
+    ==: org.bukkit.inventory.ItemStack
+    type: MONSTER_EGG
+    damage: 50
+  Slot3:
+    ==: org.bukkit.inventory.ItemStack
+    type: IRON_FENCE
+  Slot4:
+    ==: org.bukkit.inventory.ItemStack
+    type: MONSTER_EGG
+    damage: 50
+  Slot5:
+    ==: org.bukkit.inventory.ItemStack
+    type: TNT
+  Slot6:
+    ==: org.bukkit.inventory.ItemStack
+    type: MONSTER_EGG
+    damage: 50
+  Slot7:
+    ==: org.bukkit.inventory.ItemStack
+    type: IRON_FENCE
+  Slot8:
+    ==: org.bukkit.inventory.ItemStack
+    type: MONSTER_EGG
+    damage: 50
+  Slot9:
+    ==: org.bukkit.inventory.ItemStack
+    type: IRON_FENCE
+  Product:
+    ==: org.bukkit.inventory.ItemStack
+    type: MOB_SPAWNER
+    meta:
+      ==: ItemMeta
+      meta-type: TILE_ENTITY
+      display-name: "\xa7eCreeper \xa7fSpawner"
+      internal: H4sIAAAAAAAAAONiYOBi4HPKyU/Ods0rySypDElM52DggLA9UxjYnYtSUwtSi4CqeIIzc7KDCxLL81KLipkYOFIhalwYjBgYAKR4PzdHAAAA
+      blockMaterial: MOB_SPAWNER
+  Enabled: true
+  Type: Shaped
+Obsidian:
+  Slot2:
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_PICKAXE
+  Slot4:
+    ==: org.bukkit.inventory.ItemStack
+    type: WATER_BUCKET
+  Slot6:
+    ==: org.bukkit.inventory.ItemStack
+    type: LAVA_BUCKET
+  Slot8:
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_PICKAXE
+  Product:
+    ==: org.bukkit.inventory.ItemStack
+    type: OBSIDIAN
+    amount: 8
+  Enabled: true
+  Type: Shapeless
+VillagerEgg:
+  Slot1:
+    ==: org.bukkit.inventory.ItemStack
+    type: EMERALD
+  Slot2:
+    ==: org.bukkit.inventory.ItemStack
+    type: EMERALD
+  Slot3:
+    ==: org.bukkit.inventory.ItemStack
+    type: EMERALD
+  Slot4:
+    ==: org.bukkit.inventory.ItemStack
+    type: BONE
+  Slot5:
+    ==: org.bukkit.inventory.ItemStack
+    type: EGG
+  Slot6:
+    ==: org.bukkit.inventory.ItemStack
+    type: BONE
+  Slot7:
+    ==: org.bukkit.inventory.ItemStack
+    type: EMERALD
+  Slot8:
+    ==: org.bukkit.inventory.ItemStack
+    type: EMERALD
+  Slot9:
+    ==: org.bukkit.inventory.ItemStack
+    type: EMERALD
+  Product:
+    ==: org.bukkit.inventory.ItemStack
+    type: MONSTER_EGG
+    damage: 120
+  Enabled: true
+  Type: Shaped
+IGSpawner:
+  Slot1:
+    ==: org.bukkit.inventory.ItemStack
+    type: IRON_FENCE
+  Slot2:
+    ==: org.bukkit.inventory.ItemStack
+    type: IRON_BLOCK
+  Slot3:
+    ==: org.bukkit.inventory.ItemStack
+    type: IRON_FENCE
+  Slot4:
+    ==: org.bukkit.inventory.ItemStack
+    type: IRON_BLOCK
+  Slot5:
+    ==: org.bukkit.inventory.ItemStack
+    type: NETHER_STAR
+  Slot6:
+    ==: org.bukkit.inventory.ItemStack
+    type: IRON_BLOCK
+  Slot7:
+    ==: org.bukkit.inventory.ItemStack
+    type: IRON_FENCE
+  Slot8:
+    ==: org.bukkit.inventory.ItemStack
+    type: IRON_BLOCK
+  Slot9:
+    ==: org.bukkit.inventory.ItemStack
+    type: IRON_FENCE
+  Product:
+    ==: org.bukkit.inventory.ItemStack
+    type: MOB_SPAWNER
+    meta:
+      ==: ItemMeta
+      meta-type: TILE_ENTITY
+      display-name: "\xa7eIron Golem \xa7fSpawner"
+      internal: H4sIAAAAAAAAAONiYOBi4HPKyU/Ods0rySypDElM52DggLA9Uxh4wzJzchLTU4vc83NSc4FqeYIzc7KDCxLL81KLipkYOFIhKl0YkhkYAAov8TVNAAAA
+      blockMaterial: MOB_SPAWNER
+  Enabled: true
+  Type: Shaped
+skeleton_egg:
+  Slot1:
+    ==: org.bukkit.inventory.ItemStack
+    type: BONE
+  Slot2:
+    ==: org.bukkit.inventory.ItemStack
+    type: BOW
+  Slot3:
+    ==: org.bukkit.inventory.ItemStack
+    type: BONE
+  Slot4:
+    ==: org.bukkit.inventory.ItemStack
+    type: ARROW
+  Slot5:
+    ==: org.bukkit.inventory.ItemStack
+    type: EGG
+  Slot6:
+    ==: org.bukkit.inventory.ItemStack
+    type: ARROW
+  Slot7:
+    ==: org.bukkit.inventory.ItemStack
+    type: BONE
+  Slot8:
+    ==: org.bukkit.inventory.ItemStack
+    type: BOW
+  Slot9:
+    ==: org.bukkit.inventory.ItemStack
+    type: BONE
+  Product:
+    ==: org.bukkit.inventory.ItemStack
+    type: MONSTER_EGG
+    damage: 51
+  Enabled: true
+  Type: Shaped
+skeleton_Spawner:
+  Slot1:
+    ==: org.bukkit.inventory.ItemStack
+    type: IRON_FENCE
+  Slot2:
+    ==: org.bukkit.inventory.ItemStack
+    type: MONSTER_EGG
+    damage: 51
+  Slot3:
+    ==: org.bukkit.inventory.ItemStack
+    type: IRON_FENCE
+  Slot4:
+    ==: org.bukkit.inventory.ItemStack
+    type: MONSTER_EGG
+    damage: 51
+  Slot5:
+    ==: org.bukkit.inventory.ItemStack
+    type: BOW
+  Slot6:
+    ==: org.bukkit.inventory.ItemStack
+    type: MONSTER_EGG
+    damage: 51
+  Slot7:
+    ==: org.bukkit.inventory.ItemStack
+    type: IRON_FENCE
+  Slot8:
+    ==: org.bukkit.inventory.ItemStack
+    type: MONSTER_EGG
+    damage: 51
+  Slot9:
+    ==: org.bukkit.inventory.ItemStack
+    type: IRON_FENCE
+  Product:
+    ==: org.bukkit.inventory.ItemStack
+    type: MOB_SPAWNER
+    meta:
+      ==: ItemMeta
+      meta-type: TILE_ENTITY
+      display-name: "\xa7eSkeleton \xa7fSpawner"
+      internal: H4sIAAAAAAAAAONiYOBi4HPKyU/Ods0rySypDElM52DggLA9Uxg4grNTc1JL8vOAyniCM3OygwsSy/NSi4qZGDhSIYpcGIwZGACidI6tSAAAAA==
+      blockMaterial: MOB_SPAWNER
+  Enabled: true
+  Type: Shaped
+reinforced_Bars:
+  Slot1:
+    ==: org.bukkit.inventory.ItemStack
+    type: IRON_BLOCK
+  Slot2:
+    ==: org.bukkit.inventory.ItemStack
+    type: IRON_BLOCK
+  Slot3:
+    ==: org.bukkit.inventory.ItemStack
+    type: IRON_BLOCK
+  Slot4:
+    ==: org.bukkit.inventory.ItemStack
+    type: IRON_FENCE
+  Slot5:
+    ==: org.bukkit.inventory.ItemStack
+    type: NETHER_STAR
+  Slot6:
+    ==: org.bukkit.inventory.ItemStack
+    type: IRON_FENCE
+  Slot7:
+    ==: org.bukkit.inventory.ItemStack
+    type: IRON_BLOCK
+  Slot8:
+    ==: org.bukkit.inventory.ItemStack
+    type: IRON_BLOCK
+  Slot9:
+    ==: org.bukkit.inventory.ItemStack
+    type: IRON_BLOCK
+  Product:
+    ==: org.bukkit.inventory.ItemStack
+    type: IRON_FENCE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: Reinforced Bars
+      enchants:
+        DURABILITY: 1
+      repair-cost: 1
+  Enabled: true
+  Type: Shaped
+Lucky_Pickaxe:
+  Slot1:
+    ==: org.bukkit.inventory.ItemStack
+    type: EMERALD_BLOCK
+  Slot2:
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLD_BLOCK
+  Slot3:
+    ==: org.bukkit.inventory.ItemStack
+    type: EMERALD_BLOCK
+  Slot4:
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLDEN_APPLE
+    damage: 1
+  Slot5:
+    ==: org.bukkit.inventory.ItemStack
+    type: IRON_PICKAXE
+  Slot6:
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLDEN_APPLE
+    damage: 1
+  Slot7:
+    ==: org.bukkit.inventory.ItemStack
+    type: EMERALD_BLOCK
+  Slot8:
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLD_BLOCK
+  Slot9:
+    ==: org.bukkit.inventory.ItemStack
+    type: EMERALD_BLOCK
+  Product:
+    ==: org.bukkit.inventory.ItemStack
+    type: IRON_PICKAXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        LOOT_BONUS_BLOCKS: 5
+  Enabled: true
+  Type: Shaped
+soft_pickaxe:
+  Slot1:
+    ==: org.bukkit.inventory.ItemStack
+    type: WOOL
+  Slot2:
+    ==: org.bukkit.inventory.ItemStack
+    type: STRING
+  Slot3:
+    ==: org.bukkit.inventory.ItemStack
+    type: WOOL
+  Slot4:
+    ==: org.bukkit.inventory.ItemStack
+    type: FEATHER
+  Slot5:
+    ==: org.bukkit.inventory.ItemStack
+    type: IRON_PICKAXE
+  Slot6:
+    ==: org.bukkit.inventory.ItemStack
+    type: FEATHER
+  Slot7:
+    ==: org.bukkit.inventory.ItemStack
+    type: WOOL
+  Slot8:
+    ==: org.bukkit.inventory.ItemStack
+    type: STRING
+  Slot9:
+    ==: org.bukkit.inventory.ItemStack
+    type: WOOL
+  Product:
+    ==: org.bukkit.inventory.ItemStack
+    type: IRON_PICKAXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: Soft Pickaxe
+      enchants:
+        SILK_TOUCH: 50
+      repair-cost: 1
+  Enabled: true
+  Type: Shaped
+swift_pickaxe:
+  Slot1:
+    ==: org.bukkit.inventory.ItemStack
+    type: GLOWSTONE
+  Slot2:
+    ==: org.bukkit.inventory.ItemStack
+    type: SUGAR
+  Slot3:
+    ==: org.bukkit.inventory.ItemStack
+    type: GLOWSTONE
+  Slot4:
+    ==: org.bukkit.inventory.ItemStack
+    type: REDSTONE_BLOCK
+  Slot5:
+    ==: org.bukkit.inventory.ItemStack
+    type: IRON_PICKAXE
+  Slot6:
+    ==: org.bukkit.inventory.ItemStack
+    type: REDSTONE_BLOCK
+  Slot7:
+    ==: org.bukkit.inventory.ItemStack
+    type: GLOWSTONE
+  Slot8:
+    ==: org.bukkit.inventory.ItemStack
+    type: SUGAR
+  Slot9:
+    ==: org.bukkit.inventory.ItemStack
+    type: GLOWSTONE
+  Product:
+    ==: org.bukkit.inventory.ItemStack
+    type: IRON_PICKAXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: Swift Pickaxe
+      enchants:
+        DIG_SPEED: 50
+      repair-cost: 1
+  Enabled: true
+  Type: Shaped
+sturdy_pickaxe:
+  Slot1:
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_BLOCK
+  Slot2:
+    ==: org.bukkit.inventory.ItemStack
+    type: IRON_BLOCK
+  Slot3:
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_BLOCK
+  Slot4:
+    ==: org.bukkit.inventory.ItemStack
+    type: OBSIDIAN
+  Slot5:
+    ==: org.bukkit.inventory.ItemStack
+    type: IRON_PICKAXE
+  Slot6:
+    ==: org.bukkit.inventory.ItemStack
+    type: OBSIDIAN
+  Slot7:
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_BLOCK
+  Slot8:
+    ==: org.bukkit.inventory.ItemStack
+    type: IRON_BLOCK
+  Slot9:
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_BLOCK
+  Product:
+    ==: org.bukkit.inventory.ItemStack
+    type: IRON_PICKAXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: Sturdy Pickaxe
+      enchants:
+        DURABILITY: 50
+      repair-cost: 1
+  Enabled: true
+  Type: Shaped
+witherskeletonskull:
+  Slot1:
+    ==: org.bukkit.inventory.ItemStack
+    type: COAL_BLOCK
+  Slot2:
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+  Slot3:
+    ==: org.bukkit.inventory.ItemStack
+    type: COAL_BLOCK
+  Slot4:
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+  Slot5:
+    ==: org.bukkit.inventory.ItemStack
+    type: STONE_SWORD
+  Slot6:
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+  Slot7:
+    ==: org.bukkit.inventory.ItemStack
+    type: COAL_BLOCK
+  Slot8:
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+  Slot9:
+    ==: org.bukkit.inventory.ItemStack
+    type: COAL_BLOCK
+  Product:
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+    damage: 1
+  Enabled: true
+  Type: Shaped

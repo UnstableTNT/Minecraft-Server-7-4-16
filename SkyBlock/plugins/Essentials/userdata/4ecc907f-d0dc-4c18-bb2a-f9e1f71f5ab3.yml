@@ -1,0 +1,43 @@
+lastAccountName: CHOOCOBO
+timestamps:
+  login: 1466615835808
+  logout: 1466616552366
+  lastteleport: 1466616519103
+  lastheal: 1461780566944
+  kits:
+    youtube: 1461869225760
+    default: 1461691215462
+    color: 1464010931849
+    ultra: 1466356430570
+ipAddress: 85.165.224.75
+lastlocation:
+  world: ASkyBlock_nether
+  x: 602.9067506921717
+  y: 116.96824330175293
+  z: -401.17690003043333
+  yaw: 47.08728
+  pitch: 31.254494
+geolocation: Norway
+logoutlocation:
+  world: ASkyBlock
+  x: 599.2465791996727
+  y: 130.90758578925076
+  z: -402.46483176502073
+  yaw: -24.754097
+  pitch: 0.19138023
+homes:
+  home:
+    world: ASkyBlock
+    x: 5.715324758413051
+    y: 122.0
+    z: 200.324855529178
+    yaw: 60.532467
+    pitch: 25.1199
+nickname: "\xa7eChocobow"
+powertools:
+  '6':
+  - killall skeleton
+afk: false
+money: '340.0'
+godmode: false
+socialspy: true

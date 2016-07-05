@@ -1,0 +1,85 @@
+playerName: CHOOCOBO
+hasIsland: false
+islandLocation: ''
+hasTeam: true
+teamLeader: 31ec30b9-3c83-40ce-9f8b-ea94a7de7f3d
+islandLevel: 0
+members: []
+resetsLeft: 10
+locale: ''
+useControlPanel: false
+teamIslandLocation: ASkyBlock:200:115:400:0:0
+startIslandRating: 50
+homeLocations:
+  '1': ASkyBlock:200:120:402:0:1106247680
+challenges:
+  status:
+    dj: false
+    craftsman: false
+    beaconator: false
+    stewmaker: false
+    enderpearls: false
+    pioneer: false
+    shepherd: false
+    culinaryartist: false
+    acidduke: false
+    ittakesavillage: false
+    homestead: false
+    mason: false
+    builder: false
+    dyemaker: false
+    itsamonsterparty: false
+    glassmaker: false
+    nether: false
+    alchemist: false
+    gemcollector: false
+    grinder: false
+    papermaker: false
+    cobblemaker: false
+    seedbank: false
+    cookiemaker: false
+    slimeballfarmer: false
+    itsaparty: false
+    baker: false
+    breadmaker: false
+    myprecious: false
+    snowplay: false
+    farmer: false
+    angler: false
+    treecutter: false
+  times:
+    dj: 0
+    craftsman: 0
+    beaconator: 0
+    stewmaker: 0
+    enderpearls: 0
+    pioneer: 0
+    shepherd: 0
+    culinaryartist: 0
+    acidduke: 0
+    ittakesavillage: 0
+    homestead: 0
+    mason: 0
+    builder: 0
+    dyemaker: 0
+    itsamonsterparty: 0
+    glassmaker: 0
+    nether: 0
+    alchemist: 0
+    gemcollector: 0
+    grinder: 0
+    papermaker: 0
+    cobblemaker: 0
+    seedbank: 0
+    cookiemaker: 0
+    slimeballfarmer: 0
+    itsaparty: 0
+    baker: 0
+    breadmaker: 0
+    myprecious: 0
+    snowplay: 0
+    farmer: 0
+    angler: 0
+    treecutter: 0
+invitecooldown:
+  '1461691419807': ASkyBlock:600:115:600:0:0

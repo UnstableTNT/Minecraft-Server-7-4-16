@@ -1,0 +1,22 @@
+timestamps:
+  lastteleport: 1467074205999
+  login: 1467074206020
+  logout: 1467074390720
+lastlocation:
+  world: Plots
+  x: -173.4296269784385
+  y: 120.74297213311641
+  z: -28.567218064332348
+  yaw: 182.70007
+  pitch: -1.0500098
+geolocation: N/A
+lastAccountName: PiePigAnonymous
+ipAddress: 127.0.0.1
+logoutlocation:
+  world: Plots
+  x: -192.4326013086818
+  y: 125.13172873042295
+  z: -23.849141970924258
+  yaw: 193.05032
+  pitch: 1.9499887
+afk: false

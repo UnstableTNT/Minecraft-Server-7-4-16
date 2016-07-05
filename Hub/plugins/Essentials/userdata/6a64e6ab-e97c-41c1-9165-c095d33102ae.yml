@@ -1,0 +1,42 @@
+timestamps:
+  lastteleport: 1467309727141
+  login: 1467309727189
+  logout: 1467309734597
+  kits:
+    color: 1465300140906
+lastlocation:
+  world: world
+  x: -857.4643094024323
+  y: 140.966
+  z: 22.62006132537687
+  yaw: 271.96503
+  pitch: 20.961739
+geolocation: Norway
+lastAccountName: stimpayyyyyyyyy
+ipAddress: 85.165.224.75
+logoutlocation:
+  world: world
+  x: -890.5911432646834
+  y: 141.0
+  z: 22.48719139386958
+  yaw: 269.09106
+  pitch: 0.22429214
+afk: false
+homes:
+  bar:
+    world: world
+    x: -897.791589432174
+    y: 182.83062798697338
+    z: 39.62097820571375
+    yaw: 68.30527
+    pitch: 17.674654
+  my_house:
+    world: world
+    x: -1513.884996300013
+    y: 73.20000004768372
+    z: 536.3160919873613
+    yaw: 43.94217
+    pitch: 24.962889
+money: '9999999'
+socialspy: true
+unlimited: []

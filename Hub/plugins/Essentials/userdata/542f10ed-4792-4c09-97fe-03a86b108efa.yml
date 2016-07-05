@@ -1,0 +1,22 @@
+lastAccountName: oreomisty6567
+timestamps:
+  login: 1466981876961
+  logout: 1466981886159
+  lastteleport: 1466981876927
+ipAddress: 156.57.208.105
+geolocation: Canada
+lastlocation:
+  world: world
+  x: -869.2334869770566
+  y: 142.0
+  z: 19.171828436405992
+  yaw: 268.04538
+  pitch: 21.072878
+logoutlocation:
+  world: world
+  x: -902.1180863878432
+  y: 141.5
+  z: 22.511838393169455
+  yaw: 269.5908
+  pitch: -0.90002334
+godmode: false

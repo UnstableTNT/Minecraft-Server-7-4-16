@@ -1,0 +1,28 @@
+lastAccountName: EpicKiller321
+timestamps:
+  login: 1467006586263
+  logout: 1467007284545
+  lastteleport: 1467007204814
+  mute: 0
+  kits:
+    default: 1467007162908
+    helper: 1466601460725
+  lastheal: 1466603244328
+ipAddress: 49.181.199.24
+lastlocation:
+  world: Factions
+  x: 52.18795833558347
+  y: 69.0
+  z: 83.76249998807907
+  yaw: 286.34802
+  pitch: 22.500004
+geolocation: Australia
+logoutlocation:
+  world: Factions
+  x: 902.5909420738161
+  y: 95.61436084370536
+  z: 918.2470116039781
+  yaw: -319.4846
+  pitch: 33.749996
+muted: false
+money: '1550.0'

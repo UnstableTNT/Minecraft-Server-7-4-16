@@ -1,0 +1,21 @@
+geolocation: Canada
+lastAccountName: JakeC76
+timestamps:
+  login: 1457810705311
+  logout: 1457810705385
+  lastteleport: 1457810705275
+ipAddress: 156.57.190.69
+lastlocation:
+  world: world
+  x: -567.4981872356084
+  y: 48.0
+  z: 162.30000001192093
+  yaw: -262.30423
+  pitch: 66.00001
+logoutlocation:
+  world: world
+  x: -556.5
+  y: 45.0
+  z: 163.5
+  yaw: 25.395834
+  pitch: 10.650002

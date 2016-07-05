@@ -1,0 +1,30 @@
+geolocation: Canada
+lastAccountName: _OriginalDoge_
+timestamps:
+  login: 1451507117743
+  lastheal: 1451233054979
+  lastteleport: 1451507507926
+  kits:
+    youtube: 1451500675550
+    mod: 1451500719420
+    helper: 1451235135705
+  logout: 1451507093963
+ipAddress: 156.57.198.238
+lastlocation:
+  world: world
+  x: -51.4992653912669
+  y: 245.5
+  z: 281.52223986320723
+  yaw: 90.00019
+  pitch: 4.6499505
+logoutlocation:
+  world: world
+  x: -51.4992653912669
+  y: 248.40414915409588
+  z: 281.52223986320723
+  yaw: 90.00019
+  pitch: 4.6499505
+godmode: false
+powertools:
+  '1':
+  - punish MooshroomFunXL slender

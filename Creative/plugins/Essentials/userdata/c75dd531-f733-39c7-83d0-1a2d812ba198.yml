@@ -1,0 +1,22 @@
+timestamps:
+  lastteleport: 1465315195488
+  login: 1465315195508
+  logout: 1465323797654
+lastlocation:
+  world: Plots
+  x: -61.299513930119275
+  y: 104.99484735438344
+  z: 79.93511479213963
+  yaw: 271.66605
+  pitch: -43.050095
+geolocation: N/A
+lastAccountName: EmeraldTrek
+ipAddress: 127.0.0.1
+afk: false
+logoutlocation:
+  world: Plots
+  x: -39.209773359648665
+  y: 102.0
+  z: 87.3288594080437
+  yaw: 188.28223
+  pitch: 7.800034

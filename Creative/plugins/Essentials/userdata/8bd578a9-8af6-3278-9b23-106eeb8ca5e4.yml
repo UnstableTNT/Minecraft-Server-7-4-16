@@ -1,0 +1,36 @@
+timestamps:
+  lastteleport: 1466878422699
+  login: 1466878398463
+  logout: 1466879200007
+lastlocation:
+  world: Plots
+  x: -160.5
+  y: 107.98937625721328
+  z: 0.34210618328959164
+  yaw: 3.0885613
+  pitch: -28.715298
+geolocation: N/A
+lastAccountName: DaOfficialOwen
+ipAddress: 127.0.0.1
+logoutlocation:
+  world: Plots
+  x: -158.09741345343488
+  y: 103.87054419328804
+  z: 55.434509066589705
+  yaw: 252.8169
+  pitch: -90.0
+homes:
+  home:
+    world: Plots
+    x: -118.27292453921667
+    y: 101.0
+    z: 6.191965376691671
+    yaw: 70.45042
+    pitch: 10.729217
+  newspawn:
+    world: Plots
+    x: -159.0255370624218
+    y: 101.0
+    z: 54.008339177140854
+    yaw: -0.70166016
+    pitch: 40.749924

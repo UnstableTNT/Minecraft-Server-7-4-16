@@ -1,0 +1,30 @@
+lastAccountName: CourtneyCat185
+timestamps:
+  login: 1460812810788
+  lastteleport: 1460813535079
+  logout: 1460813698728
+ipAddress: 89.243.57.144
+geolocation: United Kingdom
+lastlocation:
+  world: world
+  x: -618.0592241421703
+  y: 175.0
+  z: 338.36089521580425
+  yaw: 116.650696
+  pitch: 10.199801
+money: '-100.0'
+homes:
+  home:
+    world: world
+    x: -25983.409297083657
+    y: 14.0
+    z: -223871.7311683252
+    yaw: 8.999376
+    pitch: 70.60078
+logoutlocation:
+  world: world
+  x: -25984.30000001192
+  y: 12.0
+  z: -223862.45504065795
+  yaw: 142.64943
+  pitch: 46.34999

@@ -1,0 +1,23 @@
+geolocation: United States
+lastAccountName: LightWarrior_Kaz
+timestamps:
+  login: 1454874883895
+  logout: 1454874937496
+  lastteleport: 1453682815806
+ipAddress: 71.79.2.146
+lastlocation:
+  world: world
+  x: 33.435871334630825
+  y: 212.1707870772188
+  z: 362.5792174471762
+  yaw: 140.74805
+  pitch: 69.80391
+logoutlocation:
+  world: world
+  x: 22.562952813656107
+  y: 196.1547317930746
+  z: 361.2433805895182
+  yaw: 29.603691
+  pitch: 23.377235
+money: '0.00'
+godmode: false

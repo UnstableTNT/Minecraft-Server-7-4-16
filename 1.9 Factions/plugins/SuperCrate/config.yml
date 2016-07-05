@@ -1,0 +1,39 @@
+settings:
+  key:
+    item: 131
+    short: 0
+crates:
+  '1':
+    name: '&a&lTest'
+    location:
+      world: world
+      x: 5
+      y: 100
+      z: 5
+    particles: true
+    one-reward: false
+    opening:
+      sound: ORB_PICKUP
+      firework: true
+    rewards:
+      '1':
+        name: '&c16x TNT'
+        chance: 25.0
+        gui:
+          item: 46
+          short: 0
+          amount: 64
+        commands:
+        - give [player] tnt 16
+        - say [player] just won TNT from the Voting Crate!
+      '2':
+        name: Enchanted Bow
+        chance: 25.0
+        gui:
+          item: 261
+          short: 0
+          amount: 1
+          enchantments:
+          - ARROW_FIRE:1
+        commands:
+        - give [player] bow 1 flame:1

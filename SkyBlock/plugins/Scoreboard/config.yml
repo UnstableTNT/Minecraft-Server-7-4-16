@@ -1,0 +1,7 @@
+worlds-enabled:
+- world
+- world_nether
+- world_end
+- ASkyBlock
+- ASkyBlock_nether
+refresh-rate: 1

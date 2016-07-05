@@ -1,0 +1,35 @@
+damageModifier: '&8Damage: &c%min%&8-&c%max%'
+DamageEventType: dealing damage
+LeftClickEventType: left-clicking
+RightClickEventType: right-clicking
+HoldEventType: holding/equipped
+DamagedEventtype: damaged
+SneakEventType: toggling sneak
+KilledEventType: killed
+BlockBreakEventType: breaking blocks
+ArrowLandEventType: an arrow lands
+ConsumeEventType: consumed
+Durability: '&8Durability: &c'
+Armor: '&8Armor: &c%armor%'
+RequiredLevel: '&cRequires Level: %level%'
+arrow: Fires an arrow when %event%
+command: Uses /%command% when %event%
+fire: Sets the target on fire for %duration% ticks when %event%
+fireball: Fires a %type% fireball when %event%
+heal: Heals %amount% hearts when %event%
+lightning: Strikes lightning at the target when %event%
+potionself: Gives %type% %amplifier% for %duration%s when %event%
+potiontarget: Gives target %type% %amplifier% for %duration%s when %event%
+snowball: Fires a snowball when %event%
+teleport: Teleports %distance% blocks when %event%
+throw: Throws when %event%
+tnt: Throws tnt when %event%
+wither: Fires a wither skull when %event%
+backstab: Can backstab
+range: 'Range: &c%range%'
+speed: 'Speed: &c%speed%'
+dodge: 'Dodge Chance: &c%chance%'
+immune: Immune to %immune%
+soulbound: Soulbound to %name%
+durabilitycost: Takes %amount% durability when %event%
+breakspeed: 'Break Speed: &c%speed%'

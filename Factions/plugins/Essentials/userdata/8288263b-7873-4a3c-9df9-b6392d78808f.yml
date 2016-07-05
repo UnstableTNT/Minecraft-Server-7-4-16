@@ -1,0 +1,21 @@
+geolocation: Norway
+lastAccountName: Tommy2009
+timestamps:
+  login: 1465754283038
+  lastteleport: 1465754029301
+  logout: 1465754364184
+ipAddress: 88.88.41.71
+lastlocation:
+  world: Factions
+  x: 798.877731331495
+  y: 65.0
+  z: 913.5994611946679
+  yaw: -96.793236
+  pitch: 11.079315
+logoutlocation:
+  world: world
+  x: -628.3478106517447
+  y: 175.0
+  z: 338.72945965275255
+  yaw: 89.74122
+  pitch: 1.6889309

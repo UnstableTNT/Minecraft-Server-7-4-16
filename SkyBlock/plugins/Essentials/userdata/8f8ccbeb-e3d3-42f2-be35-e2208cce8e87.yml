@@ -1,0 +1,47 @@
+geolocation: United States
+lastAccountName: JaysOnMyFeet554
+timestamps:
+  login: 1459195552029
+  kits:
+    youtube: 1459195698291
+    donor: 1453495410102
+    color: 1449789388530
+    vip: 1454719758118
+    ultra: 1455404252598
+  logout: 1459195792463
+  lastteleport: 1459195587339
+  lastheal: 1454720676536
+ipAddress: 108.77.191.16
+lastlocation:
+  world: world
+  x: 4.013140721611152
+  y: 188.0
+  z: 370.6287149408688
+  yaw: -115.68558
+  pitch: 4.3500156
+nickname: "\xa71Jays"
+logoutlocation:
+  world: world
+  x: -7.0632250987973215
+  y: 199.05016386761127
+  z: 374.94214107661895
+  yaw: -119.990776
+  pitch: 31.761818
+godmode: false
+money: '2'
+afk: false
+powertools:
+  '397':
+  - ph spawn ibellaslyman
+  '354':
+  - kittycannon
+  '69':
+  - //wand
+  '326':
+  - summon WaterBucket
+  '52':
+  - kill unstabletnt
+  '383':
+  - summon Creeper
+  '98':
+  - butcher

@@ -1,0 +1,30 @@
+timestamps:
+  lastteleport: 1466618323319
+  login: 1466618323393
+  logout: 1466619226569
+  kits:
+    color: 1466357373308
+lastlocation:
+  world: Plots
+  x: -208.69999998807907
+  y: 106.20000004768372
+  z: -287.6140167153897
+  yaw: -196.18958
+  pitch: 12.600245
+geolocation: N/A
+lastAccountName: Preistest_Dragon
+ipAddress: 127.0.0.1
+logoutlocation:
+  world: Plots
+  x: -130.8698183113863
+  y: 128.0
+  z: -273.74934547467956
+  yaw: -149.2503
+  pitch: 31.049961
+nickname: "\xa7dDragon"
+afk: false
+powertools:
+  '276':
+  - /paste
+  '268':
+  - up 27

@@ -1,0 +1,109 @@
+groups:
+  Default:
+    default: true
+    build: true
+    prefix: '&2[&7Member&2]&f'
+    permissions:
+    - essentials.help
+    - modifyworld.chat
+    - modifyworld.*
+    - essentials.home
+    - essentials.sethome
+    - essentials.back
+    - essentials.tpa
+    - essentials.tpaccept
+    - essentials.tpdeny
+    - essentials.spawn
+    - bungeecord.command.server
+    - bungeecord.command.list
+    - factions.kit.fullplayer
+    - factions.admin
+    - factions.chat
+    - factions.claim
+    - factions.deinvite
+    - factions.description
+    - factions.disband
+    - factions.help
+    - factions.home
+    - factions.invite
+    - factions.join
+    - factions.kick
+    - factions.leave
+    - factions.list
+    - factions.map
+    - factions.mod
+    - factions.money.kit.standard
+    - factions.noboom
+    - factions.open
+    - factions.owner
+    - factions.ownerlist
+    - factions.power
+    - factions.relation
+    - factions.show
+    - factions.tag
+    - factions.title
+    - scoreboardstats.use
+    - ChestShop.shop.create
+    - ChestShop.shop.buy
+    - ChestShop.shop.sell
+    - essentials.delhome
+    - essentials.sethome
+    - essentials.tpa
+    - essentials.tpahere
+    - essentials.tpaccept
+    - essentials.tpdeny
+    - essentials.warp
+    - essentials.warp.list
+    - essentials.warp.*
+    - essentials.build
+    - commandsigns.*
+  VIP:
+    build: true
+    inheritance:
+    - Default
+    prefix: '&2[&aVIP&2]&a'
+    suffix: '&a'
+    permissions:
+    - essentials.fly
+    - essentials.repair
+    - essentials.feed
+  Moderator:
+    build: true
+    inheritance:
+    - VIP
+    prefix: '&2[&1Moderator&2]&2'
+    suffix: '&7'
+    permissions:
+    - essentials.repair
+    - essentials.heal
+    - essentials.item
+    - essentials.give
+    - essentials.fly
+    - essentials.kick
+    - essentials.mute
+    - essentials.tjail
+    - essentials.jail
+    - essentials.tempban
+    - essentials.vanish
+  Admin:
+    build: true
+    inheritance:
+    - Moderator
+    prefix: '&2[&cAdmin&2]&b'
+    suffix: '&b'
+    permissions:
+    - essentials.gamemode
+    - essentials.ban
+    - essentials.unban
+    - essentials.ipban
+    - essentials.unipban
+    - essentials.pardon
+    - essentials.enchant
+  Owner:
+    build: true
+    inheritance:
+    - Admin
+    prefix: '&2[&4Owner&2]'
+    suffix: '&c'
+    permissions:
+    - '*'

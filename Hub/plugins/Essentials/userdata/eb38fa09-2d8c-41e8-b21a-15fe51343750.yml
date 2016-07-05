@@ -1,0 +1,22 @@
+lastlocation:
+  world: world
+  x: -863.9420335861047
+  y: 156.98805302335222
+  z: 57.056109076047896
+  yaw: 91.54111
+  pitch: 59.39996
+lastAccountName: MrPandamacko
+timestamps:
+  login: 1467377970813
+  lastteleport: 1467377970778
+  logout: 1467377986077
+ipAddress: 71.179.6.25
+logoutlocation:
+  world: world
+  x: -898.5
+  y: 141.0
+  z: 22.5
+  yaw: 269.5908
+  pitch: -0.90002334
+powertools: {}
+afk: false

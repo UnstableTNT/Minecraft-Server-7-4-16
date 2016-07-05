@@ -1,0 +1,45 @@
+geolocation: Norway
+lastAccountName: TrackMax_
+timestamps:
+  login: 1467038798324
+  logout: 1467038841011
+  lastteleport: 1467038813301
+  kits:
+    ultra: 1466541837319
+ipAddress: 51.174.237.180
+lastlocation:
+  world: Factions
+  x: 1083.5
+  y: 251.0
+  z: 564.5
+  yaw: 285.87204
+  pitch: -25.422054
+logoutlocation:
+  world: Factions
+  x: 1503.3286507927223
+  y: 224.0
+  z: 3969.3809904003865
+  yaw: -205.62769
+  pitch: 26.92048
+homes:
+  grinder:
+    world: Factions
+    x: 1398.3423518944498
+    y: 9.0
+    z: 2027.699999988079
+    yaw: -181.72974
+    pitch: 66.88759
+  b2:
+    world: Factions
+    x: 1083.5700748869713
+    y: 251.0
+    z: 564.3000000119209
+    yaw: 169.99892
+    pitch: 83.63587
+  b1:
+    world: Factions
+    x: 1500.512499988079
+    y: 219.0
+    z: 3969.3581740885606
+    yaw: -104.70071
+    pitch: 84.63153

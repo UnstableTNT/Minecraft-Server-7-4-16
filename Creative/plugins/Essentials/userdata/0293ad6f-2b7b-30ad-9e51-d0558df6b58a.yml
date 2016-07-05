@@ -1,0 +1,34 @@
+timestamps:
+  lastteleport: 1466782591784
+  login: 1466782361097
+  logout: 1466782771672
+  kits:
+    color: 1464889221388
+lastlocation:
+  world: Plots
+  x: 49.991267704348154
+  y: 103.52936763998764
+  z: 12.316099410098708
+  yaw: -212.96509
+  pitch: -7.200015
+geolocation: N/A
+lastAccountName: UnstableTNT
+ipAddress: 127.0.0.1
+afk: false
+homes:
+  home:
+    world: Plots
+    x: 53.45499851885203
+    y: 103.0
+    z: 53.52436134302601
+    yaw: -271.98022
+    pitch: 90.0
+logoutlocation:
+  world: Plots
+  x: -197.4125341210766
+  y: 102.53786225589793
+  z: 75.65499395293531
+  yaw: -197.10522
+  pitch: -3.4549627
+powertools: {}
+nickname: "\xa7o\xa74T\xa7rN\xa74T"

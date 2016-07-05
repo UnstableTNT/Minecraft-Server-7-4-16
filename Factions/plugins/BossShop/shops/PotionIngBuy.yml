@@ -1,0 +1,157 @@
+ShopName: PotionIngreedientsShop
+signs:
+  text: '[PotionIngShop]'
+  NeedPermissionToCreateSign: true
+shop:
+  BrewingStand:
+    RewardType: item
+    PriceType: money
+    Price: 250
+    Reward:
+    - id:379
+    - amount:1
+    MenuItem:
+    - id:379
+    - amount:1
+    - 'lore:&bPrice: $250'
+    Message: '&bYou bought %reward%! Money left: &c%left%'
+    InventoryLocation: 1
+    ExtraPermission: ''
+  RedMushroom:
+    RewardType: item
+    PriceType: money
+    Price: 75
+    Reward:
+    - id:40
+    - amount:1
+    MenuItem:
+    - id:40
+    - amount:1
+    - 'lore:&bPrice: $75'
+    Message: '&bYou bought %reward%! Money left: &c%left%'
+    InventoryLocation: 2
+    ExtraPermission: ''
+  BrownMushroom:
+    RewardType: item
+    PriceType: money
+    Price: 75
+    Reward:
+    - id:39
+    - amount:1
+    MenuItem:
+    - id:39
+    - amount:1
+    - 'lore:&bPrice: $75'
+    Message: '&bYou bought %reward%! Money left: &c%left%'
+    InventoryLocation: 3
+    ExtraPermission: ''
+  Cauldron:
+    RewardType: item
+    PriceType: money
+    Price: 500
+    Reward:
+    - id:380
+    - amount:1
+    MenuItem:
+    - id:380
+    - amount:1
+    - 'lore:&bPrice: $500'
+    Message: '&bYou bought %reward%! Money left: &c%left%'
+    InventoryLocation: 4
+    ExtraPermission: ''
+  Glass Bottle:
+    RewardType: item
+    PriceType: money
+    Price: 150
+    Reward:
+    - id:374
+    - amount:32
+    MenuItem:
+    - id:374
+    - amount:32
+    - 'lore:&bPrice: $150'
+    Message: '&bYou bought %reward%! Money left: &c%left%'
+    InventoryLocation: 5
+    ExtraPermission: ''
+  Glistering Melon:
+    RewardType: item
+    PriceType: money
+    Price: 100
+    Reward:
+    - id:382
+    - amount:1
+    MenuItem:
+    - id:382
+    - amount:1
+    - 'lore:&bPrice: $100'
+    Message: '&bYou bought %reward%! Money left: &c%left%'
+    InventoryLocation: 6
+    ExtraPermission: ''
+  Sugar:
+    RewardType: item
+    PriceType: money
+    Price: 100
+    Reward:
+    - id:353
+    - amount:4
+    MenuItem:
+    - id:353
+    - amount:4
+    - 'lore:&bPrice: $100'
+    Message: '&bYou bought %reward%! Money left: &c%left%'
+    InventoryLocation: 7
+    ExtraPermission: ''
+  Glowstone Dust:
+    RewardType: item
+    PriceType: money
+    Price: 100
+    Reward:
+    - id:348
+    - amount:4
+    MenuItem:
+    - id:348
+    - amount:4
+    - 'lore:&bPrice: $100'
+    Message: '&bYou bought %reward%! Money left: &c%left%'
+    InventoryLocation: 8
+    ExtraPermission: ''
+  Golden Carrot:
+    RewardType: item
+    PriceType: money
+    Price: 225
+    Reward:
+    - id:396
+    - amount:4
+    MenuItem:
+    - id:396
+    - amount:4
+    - 'lore:&bPrice: $225'
+    Message: '&bYou bought %reward%! Money left: &c%left%'
+    InventoryLocation: 9
+    ExtraPermission: ''
+  Nether Wart:
+    RewardType: item
+    PriceType: money
+    Price: 200
+    Reward:
+    - id:372
+    - amount:16
+    MenuItem:
+    - id:372
+    - amount:16
+    - 'lore:&bPrice: $200'
+    Message: '&bYou bought %reward%! Money left: &c%left%'
+    InventoryLocation: 10
+    ExtraPermission: ''
+  Back:
+    RewardType: shop
+    PriceType: free
+    Reward: menu
+    MenuItem:
+    - type:REDSTONE
+    - amount:1
+    - name:&cBack
+    - lore:&8Back to Menu
+    Message: '&6Leaving The Mob Drop Shop...'
+    InventoryLocation: 18
+    ExtraPermission: ''

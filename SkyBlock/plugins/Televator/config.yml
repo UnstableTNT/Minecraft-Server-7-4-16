@@ -1,0 +1,12 @@
+elevator-block: IRON_BLOCK
+elevator-min-gap: 2
+elevator-max-gap: 254
+consume-hunger: false
+consume-hunger-rate: 2
+consume-exp: false
+consume-exp-rate: 5
+only-survival-mode: false
+sound-enable: true
+sound-name: FIREWORK_EXPLOSION
+elevator-delay: true
+elevator-dalay-second: 0

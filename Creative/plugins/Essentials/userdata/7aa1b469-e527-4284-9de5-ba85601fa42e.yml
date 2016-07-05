@@ -1,0 +1,21 @@
+geolocation: United States
+lastAccountName: NeoTv69
+timestamps:
+  login: 1455160105408
+  logout: 1455160111261
+  lastteleport: 1455160105355
+ipAddress: 24.251.3.126
+lastlocation:
+  world: world
+  x: -555.9935566766118
+  y: 48.0
+  z: 179.46787543977265
+  yaw: 173.54108
+  pitch: 39.98794
+logoutlocation:
+  world: world
+  x: -556.4405419566353
+  y: 48.0
+  z: 179.4494991113364
+  yaw: -35.386665
+  pitch: 8.840183

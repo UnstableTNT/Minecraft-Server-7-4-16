@@ -1,0 +1,28 @@
+lastlocation:
+  world: world
+  x: -896.3000000119209
+  y: 141.0
+  z: 22.500459124197732
+  yaw: 270.0407
+  pitch: -0.47799683
+geolocation: United States
+lastAccountName: JaysOnMyFeet554
+timestamps:
+  login: 1460830257059
+  logout: 1460830385017
+  lastteleport: 1460830257047
+  kits:
+    color: 1455153005924
+  lastheal: 1455390835664
+ipAddress: 108.77.191.16
+logoutlocation:
+  world: world
+  x: -938.0270693824289
+  y: 172.20000004768372
+  z: -17.69999998807907
+  yaw: -55.557625
+  pitch: 70.78918
+nickname: JaysOnMyFart554
+powertools:
+  '310':
+  - stop lag

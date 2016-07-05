@@ -1,0 +1,32 @@
+geolocation: United States
+lastAccountName: Yackity_Yack
+timestamps:
+  login: 1465659854822
+  lastteleport: 1465661001822
+  kits:
+    ultra: 1465660651560
+  logout: 1465662849669
+ipAddress: 75.72.16.22
+lastlocation:
+  world: world
+  x: 13.778378450487331
+  y: 67.0
+  z: 453.30000001192093
+  yaw: 182.24783
+  pitch: 35.24535
+homes:
+  home:
+    world: Factions
+    x: 1069.2787695726483
+    y: 26.0
+    z: 766.6999999880791
+    yaw: -152.65689
+    pitch: 34.660686
+money: '880902.0'
+logoutlocation:
+  world: Factions
+  x: 1067.1765912877083
+  y: 11.0
+  z: 762.6506694976173
+  yaw: -274.031
+  pitch: 6.1079416

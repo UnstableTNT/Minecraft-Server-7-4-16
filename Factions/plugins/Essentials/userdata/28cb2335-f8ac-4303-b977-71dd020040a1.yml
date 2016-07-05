@@ -1,0 +1,29 @@
+geolocation: United States
+lastAccountName: shortynovember
+timestamps:
+  login: 1467668466629
+  lastteleport: 1467668928305
+  logout: 1467668959056
+ipAddress: 72.49.243.188
+lastlocation:
+  world: Factions
+  x: 29.30000001192093
+  y: 66.0
+  z: 137.9308377696043
+  yaw: -204.73863
+  pitch: 30.44395
+logoutlocation:
+  world: Factions
+  x: 10123.956533190076
+  y: 181.0
+  z: 10025.367688068867
+  yaw: 169.64093
+  pitch: 56.078396
+homes:
+  home:
+    world: Factions
+    x: 10119.649818525595
+    y: 152.0
+    z: 10025.295195534507
+    yaw: -181.83818
+    pitch: -6.1060185

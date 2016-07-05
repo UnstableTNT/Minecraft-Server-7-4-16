@@ -1,0 +1,17 @@
+prefix: '&8[&cSuperCrates&8]'
+hologram:
+  right-click: '&7(Right click with a key to open!)'
+  left-click: '&7(Left click to see reward chances!)'
+success:
+  opened: '&aYou have opened the [crate].'
+  created: '&aYou have successfully created the [crate] &awith ID [id].'
+  removed: '&aYou have successfully removed the [crate] &awith ID [id].'
+gui:
+  chance: '&aChance: &e[chance]%'
+error:
+  no-key: '&cYou did not click this crate with the needed key in your hand!'
+  no-permission: '&cYou don''t have the permission to do this!'
+  player-not-found: '&cPlayer not found!'
+  no-block: '&cPlease stand on a block while typing this command!'
+  already-crate: '&cThis block is already defined as a crate!'
+  crate-id-not-found: '&cUnable to find a crate with the given ID!'

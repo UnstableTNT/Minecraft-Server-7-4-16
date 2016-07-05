@@ -1,0 +1,101 @@
+CTSNC:
+  AutoUpdater: true
+  ServerVersion: false
+  BungeeCord: false
+  CustomPrefix: '&6<4> &2[&4Unstable&5Network&2] &6<4> '
+  TimeFormat: HH:mm:ss
+  TeleportOnJoin: true
+  AFK_System:
+    AutoAFKMode: true
+    AutoAFKModeSchedule(InTicks): 200
+    AutoAFKModeMessage:
+      Private: true
+      Broadcast: true
+  ONJOIN:
+    Command:
+      Player:
+        Enabled: false
+        Cmd: say Hi! :)
+      Console:
+        Enabled: true
+        Cmd: say Welcome to UnstableNetwork, [PN]!
+    JoinMessage:
+      Enabled: true
+      Content: '&e&l[PN] &ahas joined the Server!'
+    Titles:
+      Enabled: true
+      Title:
+        Content: ''
+        Times:
+          FadeIn: 30
+          Stay: 40
+          FadeOut: 30
+      Subtitle:
+        Content: ''
+        Times:
+          FadeIn: 30
+          Stay: 40
+          FadeOut: 30
+    ActionBar:
+      Enabled: true
+      Normal:
+        Enabled: false
+        Content: '&aWelcome on this Server!'
+      Animated:
+        Enabled: true
+        Content: '&2Welcome to &4Unstable&5Network, [PN]!'
+        MaxLenght: 16
+        SpaceBetweenStartAndEnd: 4
+        DisplayDuration: 150
+  WELCOME_BACK:
+    ServerRestartOverride: false
+    Enabled: true
+    Titles:
+      Enabled: true
+      Title:
+        Content: ''
+      Subtitle:
+        Content: ''
+    ActionBar:
+      Enabled: true
+      Normal:
+        Enabled: false
+        Content: '&aWelcome again &e&l[PN]&a!'
+      Animated:
+        Enabled: true
+        Content: '&2Welcome Back, &4[PN], &2 To &4Unstable&5Network!'
+        MaxLenght: 16
+        SpaceBetweenStartAndEnd: 4
+        DisplayDuration: 150
+  ONQUIT:
+    QuitMessage:
+      Enabled: true
+      Content: '&e&l[PN] &chas left the Server!'
+  MESSAGES:
+    Spawn:
+      Enabled: true
+      Content: '&aYou were successfully teleported to the Spawn!'
+    NoPermission:
+      Enabled: true
+      Content: '&cYou dont have the right permission!'
+    Ping:
+      Broadcast:
+        Enabled: false
+        Content: '&aThe ping of &e[PN] &ais &6[PG]&a!'
+      Private:
+        Enabled: true
+        Content: '&aYour current ping is &c[PG]&a!'
+    AFK:
+      Broadcast:
+        Enabled: true
+        Content_Enabled: '&aThe player &e[PN] &ais now AFK!'
+        Content_Disabled: '&cThe player &e[PN] &cis not more AFK!'
+      Private:
+        Enabled: true
+        Content_Enabled: '&aYou are now in the &6&lAFK &aMode!'
+        Content_Disabled: '&cYou are not more in the &6&lAFK &cMode!'
+  WorldSupport: true
+  Worlds:
+  - world
+  - hub
+  - lobby

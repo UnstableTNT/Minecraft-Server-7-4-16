@@ -1,0 +1,104 @@
+lastAccountName: UnstableTNT
+timestamps:
+  login: 1467383434450
+  logout: 1467383917406
+  lastteleport: 1467383465903
+  kits:
+    youtube: 1461112751590
+    default: 1467054552805
+    color: 1467074054049
+    vip: 1466526146448
+    ultra: 1467220383510
+ipAddress: 192.168.200.189
+lastlocation:
+  world: Factions
+  x: 47.137668078225396
+  y: 69.0
+  z: 81.99331393171943
+  yaw: -101.10248
+  pitch: 7.950001
+logoutlocation:
+  world: Factions
+  x: 36.65476669483533
+  y: 57.24516601434812
+  z: 84.16419747768788
+  yaw: -171.71716
+  pitch: 1.6500233
+homes:
+  spawn:
+    world: world
+    x: -623.4894782810469
+    y: 175.0
+    z: 338.4934825690983
+    yaw: 91.34985
+    pitch: -1.2470517
+  something:
+    world: world
+    x: 20.280889802387815
+    y: 72.0
+    z: 459.8405305549308
+    yaw: 181.6206
+    pitch: 61.485237
+  base:
+    world: Factions
+    x: 1512.0098299619897
+    y: 56.0
+    z: 2760.2528772484675
+    yaw: -236.14111
+    pitch: 15.749892
+  snake:
+    world: world
+    x: 3536.5073916048323
+    y: 92.0
+    z: 4857.59601069682
+    yaw: -149.50647
+    pitch: -2.1000457
+  home:
+    world: MobArena
+    x: -5.578666406616077
+    y: 146.0
+    z: -18.30000001192093
+    yaw: -19.800093
+    pitch: 59.400005
+  spawnn:
+    world: Factions
+    x: 56.66304747570571
+    y: 65.0
+    z: 139.16093152408646
+    yaw: -14.119385
+    pitch: 14.250031
+  piepig:
+    world: Factions
+    x: 1084.1030384188402
+    y: 65.0
+    z: 844.0312658760846
+    yaw: -17.370697
+    pitch: 13.499824
+  plebs1:
+    world: Factions
+    x: 1090.3589547260374
+    y: 251.0
+    z: 562.8223837426867
+    yaw: -88.13086
+    pitch: 9.300042
+  dragonbase:
+    world: Factions
+    x: 10122.131418328085
+    y: 249.5
+    z: 10023.782607720457
+    yaw: -92.496796
+    pitch: 82.350006
+afk: false
+money: '1932934.00'
+godmode: false
+powertools:
+  '319':
+  - back
+  '280':
+  - tp Preistest_Dragon
+  '44':
+  - back
+mail:
+- "\xa76[\xa7rTheOlympicPanda\xa76] \xa7rI accidently broke my npc... whoops..."
+- "\xa76[\xa7rTheOlympicPanda\xa76] \xa7rtp to 3536 92 4857 [btw both these mail =\
+  \ Faction World]"

@@ -1,0 +1,20 @@
+geolocation: United States
+lastAccountName: Mangle50
+timestamps:
+  login: 1454193541613
+  logout: 1454193846667
+ipAddress: 107.10.184.232
+lastlocation:
+  world: world
+  x: 9.5
+  y: 218.0
+  z: 367.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: ASkyBlock
+  x: 201.46774310871226
+  y: 119.0
+  z: 194.5913151510393
+  yaw: -57.608685
+  pitch: 54.552505

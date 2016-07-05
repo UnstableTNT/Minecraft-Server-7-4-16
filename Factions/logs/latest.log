@@ -1,0 +1,1421 @@
+[00:01:05] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[00:01:06] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[00:01:07] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[00:01:08] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[00:01:09] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[00:01:10] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[00:08:04] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[00:08:04] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[00:09:26] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[00:09:27] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[00:09:28] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[00:09:29] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[00:09:30] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[00:09:31] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[00:10:25] [Thread-59/INFO]: UUID of player Preistest_Dragon is b1d489a0-0a6f-44c1-997b-135a7bcc0916
+[00:10:26] [Server thread/INFO]: Preistest_Dragon[/73.68.210.208:54225] logged in with entity id 153498 at ([Factions]11408.362928872537, 60.0, 8441.962667872685)
+[00:10:26] [Craft Scheduler Thread - 1071/INFO]: [GAListener] Player: Preistest_Dragon has 0 votes
+[00:11:39] [Server thread/INFO]: Preistest_Dragon issued server command: /fly
+[00:11:44] [Server thread/INFO]: Preistest_Dragon issued server command: /gm 1
+[00:17:47] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[00:17:48] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[00:17:49] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[00:17:50] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[00:17:51] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[00:17:52] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[00:18:04] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[00:18:04] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[00:19:28] [Craft Scheduler Thread - 1084/INFO]: [0;32;1mChecking for updates via Spigot...[m
+[00:19:29] [Craft Scheduler Thread - 1084/INFO]: [0;37;22m[[0;36;1mCratesPlus[0;37;22m] [mNo update was found, you are running the latest version. Will check again later.[m
+[00:23:16] [Server thread/INFO]: Preistest_Dragon lost connection: Disconnected
+[00:23:16] [Server thread/INFO]: Preistest_Dragon left the game.
+[00:26:08] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[00:26:09] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[00:26:10] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[00:26:11] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[00:26:12] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[00:26:13] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[00:28:04] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[00:28:04] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[00:34:28] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[00:34:29] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[00:34:30] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[00:34:31] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[00:34:32] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[00:34:33] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[00:38:04] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[00:38:04] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[00:42:49] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[00:42:50] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[00:42:51] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[00:42:52] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[00:42:53] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[00:42:54] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[00:48:04] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[00:48:04] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[00:51:10] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[00:51:11] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[00:51:12] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[00:51:13] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[00:51:14] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[00:51:15] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[00:58:04] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[00:58:04] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[00:59:31] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[00:59:32] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[00:59:33] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[00:59:34] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[00:59:35] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[00:59:36] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[01:07:52] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[01:07:53] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[01:07:54] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[01:07:55] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[01:07:56] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[01:07:57] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[01:08:04] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[01:08:04] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[01:16:12] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[01:16:13] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[01:16:14] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[01:16:15] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[01:16:16] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[01:16:17] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[01:18:04] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[01:18:04] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[01:19:32] [Craft Scheduler Thread - 1185/INFO]: [Vault] Checking for Updates ... 
+[01:19:33] [Craft Scheduler Thread - 1185/INFO]: [Vault] No new version available
+[01:19:34] [Craft Scheduler Thread - 1185/INFO]: [0;32;1mChecking for updates via Spigot...[m
+[01:19:35] [Craft Scheduler Thread - 1185/INFO]: [0;37;22m[[0;36;1mCratesPlus[0;37;22m] [mNo update was found, you are running the latest version. Will check again later.[m
+[01:24:33] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[01:24:34] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[01:24:35] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[01:24:36] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[01:24:37] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[01:24:38] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[01:28:04] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[01:28:04] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[01:32:54] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[01:32:55] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[01:32:56] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[01:32:57] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[01:32:58] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[01:32:59] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[01:38:04] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[01:38:04] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[01:41:15] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[01:41:16] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[01:41:17] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[01:41:18] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[01:41:19] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[01:41:20] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[01:48:04] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[01:48:04] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[01:49:36] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[01:49:37] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[01:49:38] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[01:49:39] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[01:49:40] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[01:49:41] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[01:57:57] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[01:57:58] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[01:57:59] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[01:58:00] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[01:58:01] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[01:58:02] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[01:58:04] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[01:58:04] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[02:06:18] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[02:06:19] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[02:06:20] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[02:06:21] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[02:06:22] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[02:06:23] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[02:08:04] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[02:08:04] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[02:14:39] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[02:14:40] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[02:14:41] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[02:14:42] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[02:14:43] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[02:14:44] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[02:18:04] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[02:18:05] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[02:19:41] [Craft Scheduler Thread - 1295/INFO]: [0;32;1mChecking for updates via Spigot...[m
+[02:19:41] [Craft Scheduler Thread - 1295/INFO]: [0;37;22m[[0;36;1mCratesPlus[0;37;22m] [mNo update was found, you are running the latest version. Will check again later.[m
+[02:23:00] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[02:23:01] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[02:23:02] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[02:23:03] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[02:23:04] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[02:23:05] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[02:28:05] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[02:28:05] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[02:31:21] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[02:31:22] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[02:31:23] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[02:31:24] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[02:31:25] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[02:31:26] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[02:38:05] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[02:38:05] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[02:39:42] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[02:39:43] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[02:39:44] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[02:39:45] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[02:39:46] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[02:39:47] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[02:48:03] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[02:48:04] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[02:48:05] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[02:48:05] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[02:48:05] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[02:48:06] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[02:48:07] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[02:48:08] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[02:56:23] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[02:56:24] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[02:56:25] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[02:56:26] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[02:56:27] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[02:56:28] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[02:58:05] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[02:58:05] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[03:04:44] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[03:04:45] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[03:04:46] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[03:04:47] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[03:04:48] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[03:04:49] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[03:08:05] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[03:08:05] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[03:13:05] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[03:13:06] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[03:13:07] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[03:13:08] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[03:13:09] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[03:13:10] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[03:18:05] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[03:18:05] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[03:19:48] [Craft Scheduler Thread - 1387/INFO]: [0;32;1mChecking for updates via Spigot...[m
+[03:19:48] [Craft Scheduler Thread - 1387/INFO]: [0;37;22m[[0;36;1mCratesPlus[0;37;22m] [mNo update was found, you are running the latest version. Will check again later.[m
+[03:21:26] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[03:21:27] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[03:21:28] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[03:21:29] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[03:21:30] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[03:21:31] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[03:28:05] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[03:28:05] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[03:29:47] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[03:29:48] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[03:29:49] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[03:29:50] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[03:29:51] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[03:29:52] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[03:38:05] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[03:38:05] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[03:38:08] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[03:38:09] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[03:38:10] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[03:38:11] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[03:38:12] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[03:38:13] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[03:46:29] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[03:46:30] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[03:46:31] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[03:46:32] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[03:46:33] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[03:46:34] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[03:48:05] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[03:48:05] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[03:54:50] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[03:54:51] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[03:54:52] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[03:54:53] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[03:54:54] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[03:54:55] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[03:58:05] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[03:58:05] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[04:03:11] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[04:03:12] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[04:03:13] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[04:03:14] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[04:03:15] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[04:03:16] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[04:08:05] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[04:08:05] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[04:11:32] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[04:11:33] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[04:11:34] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[04:11:35] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[04:11:36] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[04:11:37] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[04:18:05] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[04:18:05] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[04:19:53] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[04:19:54] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[04:19:55] [Craft Scheduler Thread - 1490/INFO]: [0;32;1mChecking for updates via Spigot...[m
+[04:19:55] [Craft Scheduler Thread - 1490/INFO]: [0;37;22m[[0;36;1mCratesPlus[0;37;22m] [mNo update was found, you are running the latest version. Will check again later.[m
+[04:19:55] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[04:19:56] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[04:19:57] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[04:19:58] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[04:28:05] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[04:28:05] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[04:28:14] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[04:28:15] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[04:28:16] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[04:28:17] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[04:28:18] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[04:28:19] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[04:36:34] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[04:36:35] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[04:36:36] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[04:36:37] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[04:36:38] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[04:36:39] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[04:38:05] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[04:38:05] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[04:44:55] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[04:44:56] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[04:44:57] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[04:44:58] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[04:44:59] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[04:45:00] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[04:48:05] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[04:48:05] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[04:53:16] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[04:53:17] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[04:53:18] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[04:53:19] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[04:53:20] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[04:53:21] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[04:58:05] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[04:58:05] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[05:01:37] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[05:01:38] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[05:01:39] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[05:01:40] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[05:01:41] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[05:01:42] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[05:08:05] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[05:08:05] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[05:09:58] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[05:09:59] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[05:10:00] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[05:10:01] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[05:10:02] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[05:10:03] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[05:18:05] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[05:18:05] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[05:18:19] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[05:18:20] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[05:18:21] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[05:18:22] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[05:18:23] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[05:18:24] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[05:20:01] [Craft Scheduler Thread - 1584/INFO]: [0;32;1mChecking for updates via Spigot...[m
+[05:20:01] [Craft Scheduler Thread - 1584/INFO]: [0;37;22m[[0;36;1mCratesPlus[0;37;22m] [mNo update was found, you are running the latest version. Will check again later.[m
+[05:26:40] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[05:26:41] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[05:26:42] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[05:26:43] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[05:26:44] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[05:26:45] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[05:28:05] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[05:28:05] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[05:35:01] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[05:35:02] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[05:35:03] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[05:35:04] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[05:35:05] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[05:35:06] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[05:38:05] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[05:38:05] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[05:43:22] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[05:43:23] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[05:43:24] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[05:43:25] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[05:43:26] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[05:43:27] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[05:48:05] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[05:48:05] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[05:51:43] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[05:51:44] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[05:51:45] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[05:51:46] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[05:51:47] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[05:51:48] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[05:58:05] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[05:58:05] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[06:00:04] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[06:00:05] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[06:00:06] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[06:00:07] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[06:00:08] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[06:00:09] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[06:08:05] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[06:08:05] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[06:08:25] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[06:08:26] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[06:08:27] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[06:08:28] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[06:08:29] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[06:08:30] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[06:16:46] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[06:16:47] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[06:16:48] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[06:16:49] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[06:16:50] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[06:16:51] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[06:18:05] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[06:18:05] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[06:20:08] [Craft Scheduler Thread - 1667/INFO]: [0;32;1mChecking for updates via Spigot...[m
+[06:20:08] [Craft Scheduler Thread - 1667/INFO]: [0;37;22m[[0;36;1mCratesPlus[0;37;22m] [mNo update was found, you are running the latest version. Will check again later.[m
+[06:25:07] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[06:25:08] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[06:25:09] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[06:25:10] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[06:25:11] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[06:25:12] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[06:28:05] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[06:28:05] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[06:33:27] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[06:33:28] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[06:33:29] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[06:33:30] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[06:33:31] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[06:33:32] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[06:38:05] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[06:38:05] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[06:41:48] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[06:41:49] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[06:41:50] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[06:41:51] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[06:41:52] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[06:41:53] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[06:48:05] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[06:48:05] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[06:50:09] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[06:50:10] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[06:50:11] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[06:50:12] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[06:50:13] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[06:50:14] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[06:58:05] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[06:58:05] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[06:58:30] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[06:58:31] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[06:58:32] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[06:58:33] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[06:58:34] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[06:58:35] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[07:06:51] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[07:06:52] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[07:06:53] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[07:06:54] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[07:06:55] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[07:06:56] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[07:08:05] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[07:08:05] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[07:15:12] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[07:15:13] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[07:15:14] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[07:15:15] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[07:15:16] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[07:15:17] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[07:18:05] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[07:18:05] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[07:20:12] [Craft Scheduler Thread - 1772/INFO]: [Vault] Checking for Updates ... 
+[07:20:13] [Craft Scheduler Thread - 1772/INFO]: [Vault] No new version available
+[07:20:15] [Craft Scheduler Thread - 1772/INFO]: [0;32;1mChecking for updates via Spigot...[m
+[07:20:15] [Craft Scheduler Thread - 1772/INFO]: [0;37;22m[[0;36;1mCratesPlus[0;37;22m] [mNo update was found, you are running the latest version. Will check again later.[m
+[07:23:33] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[07:23:34] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[07:23:35] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[07:23:36] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[07:23:37] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[07:23:38] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[07:28:05] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[07:28:06] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[07:31:54] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[07:31:55] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[07:31:56] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[07:31:57] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[07:31:58] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[07:31:59] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[07:38:06] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[07:38:06] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[07:40:15] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[07:40:16] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[07:40:17] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[07:40:18] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[07:40:19] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[07:40:20] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[07:48:06] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[07:48:06] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[07:48:36] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[07:48:37] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[07:48:38] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[07:48:39] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[07:48:40] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[07:48:41] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[07:56:56] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[07:56:57] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[07:56:58] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[07:56:59] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[07:57:00] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[07:57:01] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[07:58:06] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[07:58:06] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[08:03:10] [Craft Scheduler Thread - 1833/WARN]: [NoCheatPlus] System time ran backwards (1467633799559->1467633790282), clear all data and history...
+[08:05:07] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[08:05:08] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[08:05:09] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[08:05:10] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[08:05:11] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[08:05:12] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[08:07:56] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[08:07:56] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[08:13:28] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[08:13:29] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[08:13:30] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[08:13:31] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[08:13:32] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[08:13:33] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[08:17:56] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[08:17:56] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[08:20:10] [Craft Scheduler Thread - 1878/INFO]: [0;32;1mChecking for updates via Spigot...[m
+[08:20:10] [Craft Scheduler Thread - 1878/INFO]: [0;37;22m[[0;36;1mCratesPlus[0;37;22m] [mNo update was found, you are running the latest version. Will check again later.[m
+[08:21:48] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[08:21:49] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[08:21:50] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[08:21:51] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[08:21:52] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[08:21:53] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[08:27:56] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[08:27:56] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[08:30:09] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[08:30:10] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[08:30:11] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[08:30:12] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[08:30:13] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[08:30:14] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[08:37:56] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[08:37:56] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[08:38:29] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[08:38:30] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[08:38:31] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[08:38:32] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[08:38:33] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[08:38:34] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[08:46:49] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[08:46:50] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[08:46:51] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[08:46:52] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[08:46:53] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[08:46:54] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[08:47:56] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[08:47:56] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[08:55:10] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[08:55:11] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[08:55:12] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[08:55:13] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[08:55:14] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[08:55:15] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[08:57:56] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[08:57:56] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[09:03:30] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[09:03:31] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[09:03:32] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[09:03:33] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[09:03:34] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[09:03:35] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[09:07:56] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[09:07:56] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[09:11:51] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[09:11:52] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[09:11:53] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[09:11:54] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[09:11:55] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[09:11:56] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[09:17:56] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[09:17:57] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[09:20:11] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[09:20:12] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[09:20:13] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[09:20:13] [Craft Scheduler Thread - 1966/INFO]: [0;32;1mChecking for updates via Spigot...[m
+[09:20:13] [Craft Scheduler Thread - 1966/INFO]: [0;37;22m[[0;36;1mCratesPlus[0;37;22m] [mNo update was found, you are running the latest version. Will check again later.[m
+[09:20:14] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[09:20:15] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[09:20:16] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[09:27:57] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[09:27:57] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[09:28:32] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[09:28:33] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[09:28:34] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[09:28:35] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[09:28:36] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[09:28:37] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[09:36:52] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[09:36:53] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[09:36:54] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[09:36:55] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[09:36:56] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[09:36:57] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[09:37:57] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[09:37:57] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[09:45:12] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[09:45:13] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[09:45:14] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[09:45:15] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[09:45:16] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[09:45:17] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[09:47:57] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[09:47:57] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[09:53:33] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[09:53:34] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[09:53:35] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[09:53:36] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[09:53:37] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[09:53:38] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[09:57:57] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[09:57:57] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[10:01:53] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[10:01:54] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[10:01:55] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[10:01:56] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[10:01:57] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[10:01:58] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[10:07:57] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[10:07:57] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[10:10:14] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[10:10:15] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[10:10:16] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[10:10:17] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[10:10:18] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[10:10:19] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[10:17:57] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[10:17:57] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[10:18:34] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[10:18:35] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[10:18:36] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[10:18:37] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[10:18:38] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[10:18:39] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[10:20:16] [Craft Scheduler Thread - 2067/INFO]: [0;32;1mChecking for updates via Spigot...[m
+[10:20:17] [Craft Scheduler Thread - 2067/INFO]: [0;37;22m[[0;36;1mCratesPlus[0;37;22m] [mNo update was found, you are running the latest version. Will check again later.[m
+[10:26:55] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[10:26:56] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[10:26:57] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[10:26:58] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[10:26:59] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[10:27:00] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[10:27:57] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[10:27:57] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[10:35:15] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[10:35:16] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[10:35:17] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[10:35:18] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[10:35:19] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[10:35:20] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[10:37:57] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[10:37:57] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[10:43:35] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[10:43:36] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[10:43:37] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[10:43:38] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[10:43:39] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[10:43:40] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[10:47:57] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[10:47:57] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[10:51:56] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[10:51:57] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[10:51:58] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[10:51:59] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[10:52:00] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[10:52:01] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[10:57:57] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[10:57:57] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[11:00:16] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[11:00:17] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[11:00:18] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[11:00:19] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[11:00:20] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[11:00:21] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[11:07:57] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[11:07:57] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[11:08:37] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[11:08:38] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[11:08:39] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[11:08:40] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[11:08:41] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[11:08:42] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[11:16:57] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[11:16:58] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[11:16:59] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[11:17:00] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[11:17:01] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[11:17:02] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[11:17:57] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[11:17:57] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[11:20:20] [Craft Scheduler Thread - 2166/INFO]: [0;32;1mChecking for updates via Spigot...[m
+[11:20:20] [Craft Scheduler Thread - 2166/INFO]: [0;37;22m[[0;36;1mCratesPlus[0;37;22m] [mNo update was found, you are running the latest version. Will check again later.[m
+[11:25:18] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[11:25:19] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[11:25:20] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[11:25:21] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[11:25:22] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[11:25:23] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[11:27:57] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[11:27:57] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[11:33:38] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[11:33:39] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[11:33:40] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[11:33:41] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[11:33:42] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[11:33:43] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[11:37:57] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[11:37:57] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[11:41:59] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[11:42:00] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[11:42:01] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[11:42:02] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[11:42:03] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[11:42:04] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[11:47:57] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[11:47:57] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[11:50:19] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[11:50:20] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[11:50:21] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[11:50:22] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[11:50:23] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[11:50:24] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[11:57:57] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[11:57:57] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[11:58:40] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[11:58:41] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[11:58:42] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[11:58:43] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[11:58:44] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[11:58:45] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[12:07:00] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[12:07:01] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[12:07:02] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[12:07:03] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[12:07:04] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[12:07:05] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[12:07:57] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[12:07:57] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[12:15:21] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[12:15:22] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[12:15:23] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[12:15:24] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[12:15:25] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[12:15:26] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[12:17:57] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[12:17:57] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[12:20:24] [Craft Scheduler Thread - 2256/INFO]: [0;32;1mChecking for updates via Spigot...[m
+[12:20:24] [Craft Scheduler Thread - 2256/INFO]: [0;37;22m[[0;36;1mCratesPlus[0;37;22m] [mNo update was found, you are running the latest version. Will check again later.[m
+[12:23:41] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[12:23:42] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[12:23:43] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[12:23:44] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[12:23:45] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[12:23:46] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[12:27:57] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[12:27:57] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[12:32:02] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[12:32:03] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[12:32:04] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[12:32:05] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[12:32:06] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[12:32:07] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[12:37:57] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[12:37:57] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[12:40:22] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[12:40:23] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[12:40:24] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[12:40:25] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[12:40:26] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[12:40:27] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[12:47:57] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[12:47:57] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[12:48:43] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[12:48:44] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[12:48:45] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[12:48:46] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[12:48:47] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[12:48:48] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[12:57:03] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[12:57:04] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[12:57:05] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[12:57:06] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[12:57:07] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[12:57:08] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[12:57:57] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[12:57:57] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[13:05:24] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[13:05:25] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[13:05:26] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[13:05:27] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[13:05:28] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[13:05:29] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[13:07:57] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[13:07:57] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[13:13:44] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[13:13:45] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[13:13:46] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[13:13:47] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[13:13:48] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[13:13:49] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[13:17:57] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[13:17:57] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[13:20:24] [Craft Scheduler Thread - 2357/INFO]: [Vault] Checking for Updates ... 
+[13:20:24] [Craft Scheduler Thread - 2357/INFO]: [Vault] No new version available
+[13:20:27] [Craft Scheduler Thread - 2357/INFO]: [0;32;1mChecking for updates via Spigot...[m
+[13:20:27] [Craft Scheduler Thread - 2357/INFO]: [0;37;22m[[0;36;1mCratesPlus[0;37;22m] [mNo update was found, you are running the latest version. Will check again later.[m
+[13:22:05] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[13:22:06] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[13:22:07] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[13:22:08] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[13:22:09] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[13:22:10] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[13:27:57] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[13:27:57] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[13:30:25] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[13:30:26] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[13:30:27] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[13:30:28] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[13:30:29] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[13:30:30] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[13:37:57] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[13:37:57] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[13:38:46] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[13:38:47] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[13:38:48] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[13:38:49] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[13:38:50] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[13:38:51] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[13:47:06] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[13:47:07] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[13:47:08] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[13:47:09] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[13:47:10] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[13:47:11] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[13:47:57] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[13:47:57] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[13:55:26] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[13:55:27] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[13:55:28] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[13:55:29] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[13:55:30] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[13:55:31] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[13:57:57] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[13:57:57] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[14:03:47] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[14:03:48] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[14:03:49] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[14:03:50] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[14:03:51] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[14:03:52] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[14:07:57] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[14:07:57] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[14:12:07] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[14:12:08] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[14:12:09] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[14:12:10] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[14:12:11] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[14:12:12] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[14:17:57] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[14:17:57] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[14:20:28] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[14:20:29] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[14:20:30] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[14:20:31] [Craft Scheduler Thread - 2460/INFO]: [0;32;1mChecking for updates via Spigot...[m
+[14:20:31] [Craft Scheduler Thread - 2460/INFO]: [0;37;22m[[0;36;1mCratesPlus[0;37;22m] [mNo update was found, you are running the latest version. Will check again later.[m
+[14:20:31] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[14:20:32] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[14:20:33] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[14:27:57] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[14:27:57] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[14:28:48] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[14:28:49] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[14:28:50] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[14:28:51] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[14:28:52] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[14:28:54] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[14:37:09] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[14:37:10] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[14:37:11] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[14:37:12] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[14:37:13] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[14:37:14] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[14:37:57] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[14:37:57] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[14:45:33] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[14:45:34] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[14:45:35] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[14:45:36] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[14:45:37] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[14:45:38] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[14:47:57] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[14:47:57] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[14:53:54] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[14:53:55] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[14:53:56] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[14:53:57] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[14:53:58] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[14:53:59] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[14:57:57] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[14:57:57] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[15:02:15] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[15:02:16] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[15:02:17] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[15:02:18] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[15:02:19] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[15:02:20] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[15:07:57] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[15:07:58] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[15:10:36] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[15:10:37] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[15:10:38] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[15:10:39] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[15:10:40] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[15:10:41] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[15:17:58] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[15:17:58] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[15:18:57] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[15:18:58] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[15:18:59] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[15:19:00] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[15:19:01] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[15:19:02] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[15:20:40] [Craft Scheduler Thread - 2545/INFO]: [0;32;1mChecking for updates via Spigot...[m
+[15:20:40] [Craft Scheduler Thread - 2545/INFO]: [0;37;22m[[0;36;1mCratesPlus[0;37;22m] [mNo update was found, you are running the latest version. Will check again later.[m
+[15:27:18] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[15:27:19] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[15:27:20] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[15:27:21] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[15:27:22] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[15:27:23] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[15:27:58] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[15:27:58] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[15:35:39] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[15:35:40] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[15:35:41] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[15:35:42] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[15:35:43] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[15:35:44] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[15:37:58] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[15:37:58] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[15:44:00] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[15:44:01] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[15:44:02] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[15:44:03] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[15:44:04] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[15:44:05] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[15:47:58] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[15:47:58] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[15:52:21] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[15:52:22] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[15:52:23] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[15:52:24] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[15:52:25] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[15:52:26] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[15:57:58] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[15:57:58] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[16:00:41] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[16:00:42] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[16:00:43] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[16:00:44] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[16:00:45] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[16:00:46] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[16:07:58] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[16:07:58] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[16:09:02] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[16:09:03] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[16:09:04] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[16:09:05] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[16:09:06] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[16:09:07] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[16:17:23] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[16:17:24] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[16:17:25] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[16:17:26] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[16:17:27] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[16:17:28] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[16:17:58] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[16:17:58] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[16:20:46] [Craft Scheduler Thread - 2648/INFO]: [0;32;1mChecking for updates via Spigot...[m
+[16:20:47] [Craft Scheduler Thread - 2648/INFO]: [0;37;22m[[0;36;1mCratesPlus[0;37;22m] [mNo update was found, you are running the latest version. Will check again later.[m
+[16:25:44] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[16:25:45] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[16:25:46] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[16:25:47] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[16:25:48] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[16:25:49] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[16:27:58] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[16:27:58] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[16:34:05] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[16:34:06] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[16:34:07] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[16:34:08] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[16:34:09] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[16:34:10] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[16:37:58] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[16:37:58] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[16:42:26] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[16:42:27] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[16:42:28] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[16:42:29] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[16:42:30] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[16:42:31] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[16:47:58] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[16:47:58] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[16:50:47] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[16:50:48] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[16:50:49] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[16:50:50] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[16:50:51] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[16:50:52] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[16:57:58] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[16:57:58] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[16:59:08] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[16:59:09] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[16:59:10] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[16:59:11] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[16:59:12] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[16:59:13] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[17:07:29] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[17:07:30] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[17:07:31] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[17:07:32] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[17:07:33] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[17:07:34] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[17:07:58] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[17:07:58] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[17:15:50] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[17:15:51] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[17:15:52] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[17:15:53] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[17:15:54] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[17:15:55] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[17:17:58] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[17:17:58] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[17:20:54] [Craft Scheduler Thread - 2749/INFO]: [0;32;1mChecking for updates via Spigot...[m
+[17:20:54] [Craft Scheduler Thread - 2749/INFO]: [0;37;22m[[0;36;1mCratesPlus[0;37;22m] [mNo update was found, you are running the latest version. Will check again later.[m
+[17:24:11] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[17:24:12] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[17:24:13] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[17:24:14] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[17:24:15] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[17:24:16] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[17:27:58] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[17:27:58] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[17:32:32] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[17:32:33] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[17:32:34] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[17:32:35] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[17:32:36] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[17:32:37] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[17:37:58] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[17:37:58] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[17:40:53] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[17:40:54] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[17:40:55] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[17:40:56] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[17:40:57] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[17:40:58] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[17:41:06] [Thread-78/INFO]: UUID of player shortynovember is 28cb2335-f8ac-4303-b977-71dd020040a1
+[17:41:06] [Server thread/INFO]: shortynovember[/72.49.243.188:62820] logged in with entity id 154522 at ([Factions]41.44393281469615, 70.0, 89.47813344991206)
+[17:41:06] [Craft Scheduler Thread - 2776/INFO]: [GAListener] Player: shortynovember has 0 votes
+[17:41:12] [Server thread/INFO]: shortynovember issued server command: /home
+[17:42:27] [Server thread/INFO]: shortynovember issued server command: /warp shop
+[17:42:33] [Server thread/INFO]: shortynovember issued server command: /warp ItemShop
+[17:43:00] [Server thread/INFO]: shortynovember issued server command: /warp
+[17:43:02] [Server thread/INFO]: shortynovember issued server command: /warp shop
+[17:43:20] [Server thread/INFO]: shortynovember issued server command: /tp shortynovember 21 57 72
+[17:43:20] [Server thread/INFO]: shortynovember issued server command: /tp shortynovember 21 57 72 180.76
+[17:43:20] [Server thread/INFO]: shortynovember issued server command: /tp shortynovember 21 57 72 180.76 12.953
+[17:43:20] [Server thread/INFO]: shortynovember issued server command: /tp shortynovember 21 57 72
+[17:43:24] [Server thread/INFO]: shortynovember issued server command: /warp shop
+[17:43:47] [Server thread/INFO]: shortynovember issued server command: /warp ItemShop
+[17:43:54] [Server thread/INFO]: shortynovember issued server command: /warp shop
+[17:44:08] [Server thread/INFO]: shortynovember issued server command: /tp shortynovember 21 57 72
+[17:44:08] [Server thread/INFO]: shortynovember issued server command: /tp shortynovember 21 57 72 180.76
+[17:44:08] [Server thread/INFO]: shortynovember issued server command: /tp shortynovember 21 57 72 180.76 12.953
+[17:44:08] [Server thread/INFO]: shortynovember issued server command: /tp shortynovember 21 57 72
+[17:44:10] [Server thread/INFO]: shortynovember issued server command: /warp shop
+[17:44:52] [Server thread/INFO]: shortynovember issued server command: /tp shortynovember 21 57 72
+[17:44:52] [Server thread/INFO]: shortynovember issued server command: /tp shortynovember 21 57 72 180.76
+[17:44:52] [Server thread/INFO]: shortynovember issued server command: /tp shortynovember 21 57 72 180.76 12.953
+[17:44:52] [Server thread/INFO]: shortynovember issued server command: /tp shortynovember 21 57 72
+[17:44:54] [Server thread/INFO]: shortynovember issued server command: /warp shop
+[17:45:25] [Server thread/INFO]: shortynovember issued server command: /spawners
+[17:45:31] [Server thread/INFO]: shortynovember issued server command: /warp ItemShop
+[17:45:40] [Server thread/INFO]: shortynovember issued server command: /warp shop
+[17:46:05] [Server thread/INFO]: shortynovember issued server command: /home
+[17:46:31] [Craft Scheduler Thread - 2780/INFO]: [NoCheatPlus] shortynovember failed FastClick: tried to move items in their inventory too quickly. VL 88.
+[17:47:05] [Server thread/INFO]: shortynovember issued server command: /warp
+[17:47:12] [Server thread/INFO]: shortynovember issued server command: /warp itemshop
+[17:47:47] [Server thread/INFO]: shortynovember issued server command: /money
+[17:47:58] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[17:47:58] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[17:48:05] [Server thread/INFO]: shortynovember issued server command: /warp
+[17:48:09] [Server thread/INFO]: shortynovember issued server command: /warp shop
+[17:48:46] [Server thread/INFO]: shortynovember issued server command: /homme
+[17:48:48] [Server thread/INFO]: shortynovember issued server command: /home
+[17:49:14] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[17:49:15] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[17:49:16] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[17:49:17] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[17:49:18] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[17:49:19] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[17:49:21] [Server thread/INFO]: shortynovember lost connection: Disconnected
+[17:49:21] [Server thread/INFO]: shortynovember left the game.
+[17:57:35] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[17:57:36] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[17:57:37] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[17:57:38] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[17:57:39] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[17:57:40] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[17:57:58] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[17:57:58] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[18:05:56] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[18:05:57] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[18:05:58] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[18:05:59] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[18:06:00] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[18:06:01] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[18:07:58] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[18:07:58] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[18:14:17] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[18:14:18] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[18:14:19] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[18:14:20] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[18:14:21] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[18:14:22] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[18:17:58] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[18:17:58] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[18:21:01] [Craft Scheduler Thread - 2838/INFO]: [0;32;1mChecking for updates via Spigot...[m
+[18:21:01] [Craft Scheduler Thread - 2838/INFO]: [0;37;22m[[0;36;1mCratesPlus[0;37;22m] [mNo update was found, you are running the latest version. Will check again later.[m
+[18:22:38] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[18:22:39] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[18:22:40] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[18:22:41] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[18:22:42] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[18:22:43] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[18:27:58] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[18:27:58] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[18:30:59] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[18:31:00] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[18:31:01] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[18:31:02] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[18:31:03] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[18:31:04] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[18:37:58] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[18:37:58] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[18:39:20] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[18:39:21] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[18:39:22] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[18:39:23] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[18:39:24] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[18:39:25] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[18:47:41] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[18:47:42] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[18:47:43] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[18:47:44] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[18:47:45] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[18:47:46] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[18:47:58] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[18:47:58] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[18:56:02] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[18:56:03] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[18:56:04] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[18:56:05] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[18:56:06] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[18:56:07] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[18:57:58] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[18:57:58] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[19:04:23] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[19:04:24] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[19:04:25] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[19:04:26] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[19:04:27] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[19:04:28] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[19:07:58] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[19:07:58] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[19:12:44] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[19:12:45] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[19:12:46] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[19:12:47] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[19:12:48] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[19:12:49] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[19:17:58] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[19:17:58] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[19:21:04] [Craft Scheduler Thread - 2929/INFO]: [Vault] Checking for Updates ... 
+[19:21:05] [Craft Scheduler Thread - 2929/INFO]: [Vault] No new version available
+[19:21:05] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[19:21:06] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[19:21:07] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[19:21:08] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[19:21:08] [Craft Scheduler Thread - 2929/INFO]: [0;32;1mChecking for updates via Spigot...[m
+[19:21:09] [Craft Scheduler Thread - 2929/INFO]: [0;37;22m[[0;36;1mCratesPlus[0;37;22m] [mNo update was found, you are running the latest version. Will check again later.[m
+[19:21:09] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[19:21:10] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[19:27:58] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[19:27:58] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[19:29:26] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[19:29:27] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[19:29:28] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[19:29:29] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[19:29:30] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[19:29:31] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[19:37:47] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[19:37:48] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[19:37:49] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[19:37:50] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[19:37:51] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[19:37:52] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[19:37:58] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[19:37:58] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[19:46:08] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[19:46:09] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[19:46:10] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[19:46:11] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[19:46:12] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[19:46:13] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[19:47:58] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[19:47:58] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[19:54:29] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[19:54:30] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[19:54:31] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[19:54:32] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[19:54:33] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[19:54:34] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[19:57:58] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[19:57:58] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[20:02:50] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[20:02:51] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[20:02:52] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[20:02:53] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[20:02:54] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[20:02:55] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[20:07:58] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[20:07:58] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[20:11:11] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[20:11:12] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[20:11:13] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[20:11:14] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[20:11:15] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[20:11:16] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[20:17:58] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[20:17:58] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[20:19:32] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[20:19:33] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[20:19:34] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[20:19:35] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[20:19:36] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[20:19:37] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[20:21:15] [Craft Scheduler Thread - 3033/INFO]: [0;32;1mChecking for updates via Spigot...[m
+[20:21:15] [Craft Scheduler Thread - 3033/INFO]: [0;37;22m[[0;36;1mCratesPlus[0;37;22m] [mNo update was found, you are running the latest version. Will check again later.[m
+[20:26:36] [Thread-82/INFO]: UUID of player PiePigAnonymous is 1d6e4db5-262d-44f4-939f-7e718186c592
+[20:26:37] [Server thread/INFO]: PiePigAnonymous[/50.148.119.91:50514] logged in with entity id 180251 at ([Factions]59.46995751486954, 65.0, 127.97366065211607)
+[20:26:37] [Craft Scheduler Thread - 3033/INFO]: [GAListener] Player: PiePigAnonymous has 0 votes
+[20:26:54] [Server thread/INFO]: PiePigAnonymous lost connection: Disconnected
+[20:26:54] [Server thread/INFO]: PiePigAnonymous left the game.
+[20:27:53] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[20:27:54] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[20:27:55] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[20:27:56] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[20:27:57] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[20:27:58] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[20:27:58] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[20:27:59] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[20:36:13] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[20:36:14] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[20:36:15] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[20:36:16] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[20:36:18] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[20:36:19] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[20:37:59] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[20:37:59] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[20:44:34] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[20:44:35] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[20:44:36] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[20:44:37] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[20:44:38] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[20:44:39] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[20:47:59] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[20:47:59] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[20:52:55] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[20:52:56] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[20:52:57] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[20:52:58] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[20:52:59] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[20:53:00] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[20:57:59] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[20:57:59] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[21:01:16] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[21:01:17] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[21:01:18] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[21:01:19] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[21:01:20] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[21:01:21] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[21:07:59] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[21:07:59] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[21:09:37] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[21:09:38] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[21:09:39] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[21:09:40] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[21:09:41] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[21:09:42] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[21:17:58] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[21:17:59] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[21:17:59] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[21:17:59] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[21:18:00] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[21:18:01] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[21:18:02] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[21:18:03] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[21:21:22] [Craft Scheduler Thread - 3145/INFO]: [0;32;1mChecking for updates via Spigot...[m
+[21:21:23] [Craft Scheduler Thread - 3145/INFO]: [0;37;22m[[0;36;1mCratesPlus[0;37;22m] [mNo update was found, you are running the latest version. Will check again later.[m
+[21:26:19] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[21:26:20] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[21:26:21] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[21:26:22] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[21:26:23] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[21:26:24] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[21:27:59] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[21:27:59] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[21:34:40] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[21:34:41] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[21:34:42] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[21:34:43] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[21:34:44] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[21:34:45] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[21:37:59] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[21:37:59] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[21:43:01] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[21:43:02] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[21:43:03] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[21:43:04] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[21:43:05] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[21:43:06] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[21:47:59] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[21:47:59] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[21:51:22] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[21:51:23] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[21:51:24] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[21:51:25] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[21:51:26] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[21:51:27] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[21:57:59] [Thread-17/INFO]: [Backpacks] Saving 14 backpack(s)...
+[21:57:59] [Thread-17/INFO]: [Backpacks] Backpacks have been saved.
+[21:59:43] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 5 seconds[m
+[21:59:44] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 4 seconds[m
+[21:59:45] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 3 seconds[m
+[21:59:46] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 2 seconds[m
+[21:59:47] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m All dropped items will be removed in 1 seconds[m
+[21:59:48] [Server thread/INFO]: [0;32;22m[[0;35;22mAntiLag[0;32;22m] [m>[0;31;22m Removing...[m
+[22:07:48] [Server thread/INFO]: Stopping the server
+[22:07:48] [Server thread/INFO]: Stopping server
+[22:07:48] [Server thread/INFO]: [ShopGUIPlus] Disabling ShopGUIPlus v1.2.9
+[22:07:48] [Server thread/INFO]: [CommandNPC] Disabling CommandNPC v1.7.2
+[22:07:48] [Server thread/INFO]: [ChestShop] Disabling ChestShop v3.8.12
+[22:07:48] [Server thread/INFO]: [EchoPet] Disabling EchoPet v2.8.0-b52
+[22:07:48] [Server thread/INFO]: [Citizens] Disabling Citizens v2.0.16-SNAPSHOT (build 1267)
+[22:07:48] [Server thread/INFO]: [SilkSpawners] Disabling SilkSpawners v3.7.3
+[22:07:48] [Server thread/INFO]: [CombatLog] Disabling CombatLog v1.8.11
+[22:07:48] [Server thread/INFO]: [CombatLog] CombatLog v1.8.11 Disabled.
+[22:07:48] [Server thread/INFO]: [SpawnerShop] Disabling SpawnerShop v3.2
+[22:07:48] [Server thread/INFO]: [SimpleWilderness] Disabling SimpleWilderness v1.0
+[22:07:48] [Server thread/INFO]: [SimpleWilderness] [SimpleWilderness Disabled]
+[22:07:48] [Server thread/INFO]: [CratesPlus] Disabling CratesPlus v4.1.1
+[22:07:48] [Server thread/INFO]: [CustomEnchantments] Disabling CustomEnchantments v2.4c
+[22:07:48] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn vTeamCity
+[22:07:48] [Server thread/INFO]: [Multiverse-NetherPortals] Disabling Multiverse-NetherPortals v2.4-b530
+[22:07:48] [Server thread/INFO]: [MultiVerse-NetherPortals] - Disabled
+[22:07:48] [Server thread/INFO]: [EssentialsAntiBuild] Disabling EssentialsAntiBuild vTeamCity
+[22:07:48] [Server thread/INFO]: [EssentialsGeoIP] Disabling EssentialsGeoIP vTeamCity
+[22:07:48] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect vTeamCity
+[22:07:48] [Server thread/INFO]: [Factions] Disabling Factions v2.8.7Beta
+[22:07:48] [Server thread/INFO]: [0;36;22m[[0;36;1mFactions 2.8.7Beta[0;36;22m] [0;33;1m[0;31;1mDeactivated Integration [0;35;1mIntegrationWorldGuard[m
+[22:07:48] [Server thread/INFO]: [0;36;22m[[0;36;1mFactions 2.8.7Beta[0;36;22m] [0;33;1m[0;31;1mDeactivated Integration [0;35;1mIntegrationSpigot[m
+[22:07:48] [Server thread/INFO]: [0;36;22m[[0;36;1mFactions 2.8.7Beta[0;36;22m] [0;33;1mDisabled[m
+[22:07:48] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.1.3-SNAPSHOT;1679-f006a95
+[22:07:48] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[22:07:48] [Server thread/INFO]: [HolographicDisplays] Disabling HolographicDisplays v2.1.13
+[22:07:48] [Server thread/INFO]: [Trading] Disabling Trading v3.2
+[22:07:48] [Server thread/INFO]: [MobArena] Disabling MobArena v0.97.1
+[22:07:48] [Server thread/INFO]: [MobArena] disabled.
+[22:07:48] [Server thread/INFO]: [ObsidianAuctions] Disabling ObsidianAuctions v4.0.2
+[22:07:48] [Server thread/INFO]: [ObsidianAuctions] has been disabled.
+[22:07:48] [Server thread/INFO]: [EpicRename] Disabling EpicRename v2.5.1
+[22:07:48] [Server thread/INFO]: [0;30;1m[[0;36;1mEpic[0;37;1mRename[0;30;1m] [0;37;1m[0;31;1mHas Been Disabled.[m
+[22:07:48] [Server thread/INFO]: [MassiveCore] Disabling MassiveCore v2.8.7Beta
+[22:07:48] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.8.7Beta[0;36;22m] [0;33;1m[0;31;1mDeactivated Integration [0;35;1mIntegrationVault[m
+[22:07:48] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.8.7Beta[0;36;22m] [0;33;1mDisabled[m
+[22:07:48] [Server thread/INFO]: [Vault] Disabling Vault v1.5.6-b49
+[22:07:48] [Server thread/INFO]: [GAListener] Disabling GAListener v1.3.1
+[22:07:48] [Server thread/INFO]: [GAListener] GAListener v1.3.1 Disabled
+[22:07:48] [Server thread/INFO]: [DuelMe] Disabling DuelMe v0.10.0
+[22:07:48] [Server thread/INFO]: [0;32;1m[DuelMe] [Info] Disabling.[m
+[22:07:48] [Server thread/INFO]: [0;32;1m[DuelMe] [Info] Successfully saved [0;36;1m2[0;32;1m Duel Arena(s).[m
+[22:07:48] [Server thread/INFO]: [mcMMO] Disabling mcMMO v1.5.03-dev-b45
+[22:07:48] [Server thread/INFO]: [SuperCrate] Disabling SuperCrate v1.0.13
+[22:07:48] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.22.7-SNAPSHOT
+[22:07:48] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[22:07:48] [Server thread/INFO]: [BedrockBreaker] Disabling BedrockBreaker v1.0
+[22:07:48] [Server thread/INFO]: Essentials: Using config file enhanced permissions.
+[22:07:48] [Server thread/INFO]: Permissions listed in as player-commands will be given to all users.
+[22:07:48] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat vTeamCity
+[22:07:48] [Server thread/INFO]: [NoCheatPlus] Disabling NoCheatPlus v3.13.7-RC-sMD5NET-b925
+[22:07:48] [Server thread/INFO]: [NoCheatPlus] Removed hook: AllViolations(NCP) [1.0].
+[22:07:48] [Server thread/INFO]: Version 3.13.7-RC-sMD5NET-b925 is disabled.
+[22:07:48] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.5-b711
+[22:07:48] [Server thread/INFO]: [Votifier] Disabling Votifier v1.9
+[22:07:48] [Server thread/INFO]: [Votifier] Votifier disabled.
+[22:07:48] [Server thread/INFO]: [CommandSigns] Disabling CommandSigns v1.7.9
+[22:07:48] [Server thread/INFO]: [Frame_Protector] Disabling Frame_Protector v1.3
+[22:07:48] [Thread-22/WARN]: [Votifier] Protocol error. Ignoring packet - socket closed
+[22:07:48] [Server thread/INFO]: [0;32;1m[Frame_Protector][0;31;1m Frame Protector Disabled.[m
+[22:07:48] [Server thread/INFO]: [TorchLightAdvanced] Disabling TorchLightAdvanced v1
+[22:07:48] [Server thread/INFO]: [AutoBroadcaster] Disabling AutoBroadcaster v0.4
+[22:07:48] [Server thread/INFO]: [RandomLocationTeleporter] Disabling RandomLocationTeleporter v4.0.4
+[22:07:48] [Server thread/INFO]: [Essentials] Disabling Essentials vTeamCity
+[22:07:48] [Server thread/INFO]: [OpenInv] Disabling OpenInv v2.3.3
+[22:07:48] [Server thread/INFO]: [Orebfuscator3] Disabling Orebfuscator3 v3.0.5
+[22:07:48] [Server thread/INFO]: [AdminFun] Disabling AdminFun v2.4.6
+[22:07:48] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[22:07:48] [Server thread/INFO]: [Backpacks] Disabling Backpacks v0.1.3
+[22:07:48] [Server thread/INFO]: [Backpacks] Saving 14 backpack(s)...
+[22:07:48] [Server thread/INFO]: [Backpacks] Backpacks have been saved.
+[22:07:48] [Server thread/INFO]: [Backpacks] Backpacks has been disabled!
+[22:07:48] [Server thread/INFO]: [BossShop] Disabling BossShop v2.1.0
+[22:07:48] [Server thread/INFO]: [BossShop] Disabling... bye!
+[22:07:48] [Server thread/INFO]: [ColoredChat] Disabling ColoredChat v0.3
+[22:07:48] [Server thread/INFO]: ColoredChat v0.3 disabled!
+[22:07:48] [Server thread/INFO]: [VoxelSniper] Disabling VoxelSniper v5.170.0-SNAPSHOT-jnks317-gitfcb8fe1
+[22:07:48] [Server thread/INFO]: [ICBM_Plugin_Edition] Disabling ICBM_Plugin_Edition v1.6
+[22:07:48] [Server thread/INFO]: [ICBM_Plugin_Edition] ICBM Plugin shutting down!
+[22:07:48] [Server thread/INFO]: [Administration_Panel] Disabling Administration_Panel v1.1.0
+[22:07:48] [Server thread/INFO]: [0;37;22m[[0;36;1mAdministration[0;36;22mPanel[0;37;22m][0;37;1m: [0;31;1m[0;31;1mAdministration_Panel v1.1.0 has been disabled![m
+[22:07:48] [Server thread/INFO]: [MoreItems] Disabling MoreItems v2.0.1
+[22:07:48] [Server thread/INFO]: [MoreItems] Saving all items...
+[22:07:48] [Server thread/INFO]: [MoreItems] Saved!
+[22:07:48] [Server thread/INFO]: [FurnacerLeather] Disabling FurnacerLeather v1.04
+[22:07:48] [Server thread/INFO]: [VoidWorld] Disabling VoidWorld v1.0
+[22:07:48] [Server thread/INFO]: [AntiLag] Disabling AntiLag v2.0
+[22:07:48] [Server thread/INFO]: Saving players
+[22:07:48] [Server thread/INFO]: Saving worlds
+[22:07:48] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[22:07:49] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[22:07:49] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
+[22:07:49] [Server thread/INFO]: Saving chunks for level 'Factions_nether'/Nether
+[22:07:49] [Server thread/INFO]: Saving chunks for level 'Factions'/Overworld
+[22:07:49] [Server thread/INFO]: Saving chunks for level 'MobArena'/Overworld
+[22:07:49] [Server thread/INFO]: Saving chunks for level 'Factions_the_end'/The End
+[22:07:49] [Server thread/INFO]: Saving chunks for level 'PVP'/Overworld

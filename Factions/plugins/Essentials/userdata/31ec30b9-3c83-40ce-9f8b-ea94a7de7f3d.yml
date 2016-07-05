@@ -1,0 +1,65 @@
+lastAccountName: DaOfficialOwen
+timestamps:
+  login: 1467306777769
+  logout: 1467307031215
+  lastteleport: 1467228322095
+  kits:
+    youtube: 1466698522815
+    default: 1466445794328
+    elite: 1466696588419
+    mod: 1466696596119
+    donor: 1466787612522
+    helper: 1466696535311
+    color: 1466445901192
+    vip: 1466787604273
+    ultra: 1466788680812
+ipAddress: 87.112.208.192
+geolocation: United Kingdom
+lastlocation:
+  world: Factions
+  x: 10120.5
+  y: 250.0
+  z: 10037.5
+  yaw: 208.80627
+  pitch: 33.6
+logoutlocation:
+  world: Factions
+  x: 10122.5
+  y: 250.0
+  z: 10039.5
+  yaw: 120.60535
+  pitch: 3.4500005
+money: '2061.0'
+homes:
+  staffshop:
+    world: Factions
+    x: 105.50370624626407
+    y: 221.0
+    z: 981.6273579179187
+    yaw: 3.597351
+    pitch: 21.80119
+  base:
+    world: Factions
+    x: 1513.1349526342055
+    y: 56.0
+    z: 2761.3846630146945
+    yaw: -288.0412
+    pitch: 34.19992
+  raid:
+    world: Factions
+    x: 1109.2039179826713
+    y: 253.0
+    z: 564.9053529424323
+    yaw: -189.1153
+    pitch: 20.576647
+  piepigbase:
+    world: Factions
+    x: 2791.28578754309
+    y: 86.0
+    z: 2435.388063276006
+    yaw: -172.58618
+    pitch: 3.7420528
+afk: false
+socialspy: true
+powertools: {}
+godmode: false

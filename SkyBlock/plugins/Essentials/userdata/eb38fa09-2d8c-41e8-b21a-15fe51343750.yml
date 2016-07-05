@@ -1,0 +1,39 @@
+geolocation: United States
+lastAccountName: TheOlympicPanda
+timestamps:
+  login: 1464440366514
+  logout: 1464440540189
+  kits:
+    default: 1452805567824
+    elite: 1452451655963
+    donor: 1451439413464
+    color: 1453129560626
+    vip: 1452636060084
+    ultra: 1453321485807
+  lastteleport: 1464440534024
+  lastheal: 1452286905950
+ipAddress: 71.179.6.25
+lastlocation:
+  world: ASkyBlock
+  x: -410.07668785550516
+  y: 125.0
+  z: -401.1831330227648
+  yaw: 86.54993
+  pitch: 25.799997
+logoutlocation:
+  world: world
+  x: 8.424544772425632
+  y: 189.0
+  z: 369.4965995716957
+  yaw: -89.88559
+  pitch: 10.200021
+money: '0'
+afk: false
+homes:
+  pvptunnel:
+    world: world
+    x: 29.435501344209722
+    y: 165.0
+    z: 369.45345419539535
+    yaw: -89.692055
+    pitch: 1.0500016

@@ -1,0 +1,817 @@
+groups:
+  Default:
+    build: true
+    permissions:
+    - essentials.balancetop
+    - essentials.balance
+    - essentials.balance.*
+    - backpack.craft.link
+    - backpack.craft.small
+    - backpack.craft.large
+    - backpack.user
+    - auction.bid
+    - auction.start
+    - silkspawners.silkdrop.*
+    - silkspawners.place.*
+    - ce.item.*
+    - ce.ench.*
+    - bungeecord.command.list
+    - bungeecord.command.server
+    - essentials.kits.Default
+    - essentials.help
+    - modifyworld.chat
+    - modifyworld.*
+    - essentials.home
+    - essentials.sethome
+    - essentials.back
+    - essentials.tpa
+    - essentials.tpaccept
+    - essentials.tpdeny
+    - essentials.spawn
+    - essentials.msg
+    - essentials.rules
+    - factions.kit.fullplayer
+    - factions.admin
+    - factions.chat
+    - factions.claim
+    - factions.deinvite
+    - factions.description
+    - factions.disband
+    - factions.help
+    - factions.home
+    - factions.invite
+    - factions.join
+    - factions.kick
+    - factions.leave
+    - factions.list
+    - factions.map
+    - factions.mod
+    - factions.money.kit.standard
+    - factions.noboom
+    - factions.open
+    - factions.owner
+    - factions.ownerlist
+    - factions.power
+    - factions.relation
+    - factions.show
+    - factions.tag
+    - factions.title
+    - scoreboardstats.use
+    - ChestShop.shop.create
+    - ChestShop.shop.buy
+    - ChestShop.shop.sell
+    - essentials.delhome
+    - essentials.sethome
+    - essentials.tpa
+    - essentials.tpahere
+    - essentials.tpaccept
+    - essentials.tpdeny
+    - essentials.warp
+    - essentials.warp.list
+    - essentials.warp.*
+    - essentials.build
+    - commandsigns.*
+    - essentials.kits
+    - mcmmo.chat.partychat
+    - mcmmo.commands.party.*
+    options:
+      prefix: '&2[&7Member&2]&f'
+      default: true
+  VIP:
+    build: true
+    inheritance:
+    - Elite
+    permissions:
+    - chatcolor.bold
+    - chatcolor.darkgreen
+    - chatcolor.green
+    - essential.color.&6
+    - essentials.kit.VIP
+    - essentials.kit
+    - essentials.kits
+    - essentials.kits.VIP
+    - essentials.fly
+    - essentials.repair
+    - essentials.feed
+    - essentials.enderchest
+    - essentials.spawner.pig
+    - essentials.spawner.cow
+    - essentials.spawner.sheep
+    - essentials.spawner.chicken
+    - essentials.spawner.rabbit
+    - essentials.spawner.zombie
+    - essentials.spawner.skeleton
+    - essentials.spawner.blaze
+    - essentials.spawner.cavespider
+    - essentials.spawner.spider
+    - essentials.spawner.creeper
+    - essentials.spawner.enderman
+    - essentials.spawner.ghast
+    - essentials.spawner.magmacube
+    - essentials.spawner.silverfish
+    - essentials.spawner.slime
+    - essentials.spawner.witch
+    - essentials.spawner.pigzombie
+    - essentials.spawner.horse
+    - essentials.spawner.mooshroom
+    - essentials.spawner.squid
+    - essentials.spawner.wolf
+    - essentials.spawner.irongolem
+    - essentials.spawner.villager
+    - echopet.pet.*
+    - chestmaster.open
+    - chestmaster.multiple.3
+    - mobileworckbench.use.free
+    - mobileworckbench.use
+    - essentials.kits.color
+    - chatcolor.use
+    - mcmmo.chat.partychat
+    - mcmmo.commands.party.*
+    options:
+      prefix: '&2[&aVIP&2]&a'
+      suffix: '&a'
+  Donor:
+    build: true
+    inheritance:
+    - Default
+    permissions:
+    - chatcolor.green
+    - essentials.kits
+    - essentials.kit
+    - essentials.kit.donor
+    - essentials.kits.donor
+    - essentials.help
+    - essentials.fly
+    - essentials.repair
+    - essentials.feed
+    - essentials.enderchest
+    - essentials.spawner.pig
+    - essentials.spawner.cow
+    - essentials.spawner.sheep
+    - essentials.spawner.chicken
+    - essentials.spawner.rabbit
+    - essentials.spawner.zombie
+    - essentials.spawner.skeleton
+    - essentials.spawner.blaze
+    - essentials.spawner.cavespider
+    - essentials.spawner.spider
+    - essentials.spawner.creeper
+    - essentials.spawner.enderman
+    - essentials.spawner.ghast
+    - essentials.spawner.magmacube
+    - essentials.spawner.silverfish
+    - essentials.spawner.slime
+    - essentials.spawner.witch
+    - essentials.spawner.pigzombie
+    - essentials.spawner.horse
+    - essentials.spawner.mooshroom
+    - essentials.spawner.squid
+    - essentials.spawner.wolf
+    - essentials.spawner.irongolem
+    - essentials.spawner.villager
+    - echopet.pet.*
+    - chestmaster.open
+    - chestmaster.multiple.1
+    - essentials.kits.Donor
+    - essentials.kits.color
+    - mobileworckbench.use.free
+    - mobileworckbench.use
+    - chatcolor.use
+    - mcmmo.chat.partychat
+    - mcmmo.commands.party.*
+    options:
+      prefix: '&2[&aDonor&2]&a'
+      suffix: '&a'
+  Elite:
+    build: true
+    inheritance:
+    - Donor
+    permissions:
+    - chatcolor.green
+    - chatcolor.darkgreen
+    - essentials.help
+    - essentials.fly
+    - essentials.repair
+    - essentials.feed
+    - essentials.enderchest
+    - essentials.spawner.pig
+    - essentials.spawner.cow
+    - essentials.spawner.sheep
+    - essentials.spawner.chicken
+    - essentials.spawner.rabbit
+    - essentials.spawner.zombie
+    - essentials.spawner.skeleton
+    - essentials.spawner.blaze
+    - essentials.spawner.cavespider
+    - essentials.spawner.spider
+    - essentials.spawner.creeper
+    - essentials.spawner.enderman
+    - essentials.spawner.ghast
+    - essentials.spawner.magmacube
+    - essentials.spawner.silverfish
+    - essentials.spawner.slime
+    - essentials.spawner.witch
+    - essentials.spawner.pigzombie
+    - essentials.spawner.horse
+    - essentials.spawner.mooshroom
+    - essentials.spawner.squid
+    - essentials.spawner.wolf
+    - essentials.spawner.irongolem
+    - essentials.spawner.villager
+    - echopet.pet.*
+    - chestmaster.open
+    - chestmaster.multiple.2
+    - essentials.kits.Elite
+    - essentials.kits.color
+    - essentials.kits
+    - mobileworckbench.use.free
+    - mobileworckbench.use
+    - chatcolor.use
+    - mcmmo.chat.partychat
+    - mcmmo.commands.party.*
+    options:
+      prefix: '&2[&aElite&2]&a'
+      suffix: '&a'
+  Ultra:
+    build: true
+    inheritance:
+    - VIP
+    permissions:
+    - chatcolor.use
+    - chatcolor.darkpurple
+    - chatcolor.darkgreen
+    - chatcolor.green
+    - chatcolor.bold
+    - essentials.fly
+    - essentials.repair
+    - essentials.feed
+    - essentials.enderchest
+    - essentials.spawner.pig
+    - essentials.spawner.cow
+    - essentials.spawner.sheep
+    - essentials.spawner.chicken
+    - essentials.spawner.rabbit
+    - essentials.spawner.zombie
+    - essentials.spawner.skeleton
+    - essentials.spawner.blaze
+    - essentials.spawner.cavespider
+    - essentials.spawner.spider
+    - essentials.spawner.creeper
+    - essentials.spawner.enderman
+    - essentials.spawner.ghast
+    - essentials.spawner.magmacube
+    - essentials.spawner.silverfish
+    - essentials.spawner.slime
+    - essentials.spawner.witch
+    - essentials.spawner.pigzombie
+    - essentials.spawner.horse
+    - essentials.spawner.mooshroom
+    - essentials.spawner.squid
+    - essentials.spawner.wolf
+    - essentials.spawner.irongolem
+    - essentials.spawner.villager
+    - echopet.pet.*
+    - chestmaster.open
+    - chestmaster.multiple.4
+    - essentials.kits.Ultra
+    - essentials.kits.color
+    - essentials.kits
+    - mobileworckbench.use.free
+    - mobileworckbench.use
+    - mcmmo.chat.partychat
+    - mcmmo.commands.party.*
+    options:
+      prefix: '&2[&1U&3L&5T&7R&9A&2]&a'
+      suffix: '&a'
+  YouTube:
+    build: true
+    inheritance:
+    - Ultra
+    permissions:
+    - essentials.kit
+    - essentials.kit.YouTube
+    - essentials.fly
+    - essentials.repair
+    - essentials.feed
+    - essentials.enderchest
+    - essentials.spawner.pig
+    - essentials.spawner.cow
+    - essentials.spawner.sheep
+    - essentials.spawner.chicken
+    - essentials.spawner.rabbit
+    - essentials.spawner.zombie
+    - essentials.spawner.skeleton
+    - essentials.spawner.blaze
+    - essentials.spawner.cavespider
+    - essentials.spawner.spider
+    - essentials.spawner.creeper
+    - essentials.spawner.enderman
+    - essentials.spawner.ghast
+    - essentials.spawner.magmacube
+    - essentials.spawner.silverfish
+    - essentials.spawner.slime
+    - essentials.spawner.witch
+    - essentials.spawner.pigzombie
+    - essentials.spawner.horse
+    - essentials.spawner.mooshroom
+    - essentials.spawner.squid
+    - essentials.spawner.wolf
+    - essentials.kit.youtube
+    - essentials.spawner.snowman
+    - essentials.echopet.*
+    - chestmaster.open
+    - chestmaster.multiple.5
+    - essentials.kits.YouTube
+    - essentials.kits.color
+    - essentials.kits
+    - mobileworckbench.use.free
+    - mobileworckbench.use
+    - mcmmo.chat.partychat
+    - mcmmo.commands.party.*
+    options:
+      prefix: '&2[&fYou&4Tube&2]&f'
+      suffix: '&4'
+  Helper:
+    build: true
+    inheritance:
+    - VIP
+    permissions:
+    - essentials.kits.Helper
+    - essentials.kit.Helper
+    - essentials.gamemode
+    - bukkit.*
+    - essentials.repair
+    - essentials.heal
+    - essentials.item
+    - essentials.fly
+    - essentials.kick
+    - essentials.mute
+    - essentials.tjail
+    - essentials.vanish
+    - essentials.tp
+    - essentials.tphere
+    - essetntials.kits.Mod
+    - essentials.kits.color
+    - essentails.gamemode
+    - essentials.kits
+    - mobileworckbench.use.free
+    - mobileworckbench.use
+    - chestmaster.open
+    - chestmaster.multiple.5
+    - mcmmo.chat.partychat
+    - mcmmo.commands.party.*
+    options:
+      prefix: '&2[&cHelper&2]&9'
+      suffix: '&c'
+  Moderator:
+    build: true
+    inheritance:
+    - VIP
+    permissions:
+    - essentials.kits.Mod
+    - essentials.kit.Mod
+    - essentials.gamemode
+    - bukkit.*
+    - essentials.banip
+    - essentials.ban
+    - essentials.repair
+    - essentials.heal
+    - essentials.item
+    - essentials.give
+    - essentials.fly
+    - essentials.kick
+    - essentials.mute
+    - essentials.tjail
+    - essentials.jail
+    - essentials.tempban
+    - essentials.vanish
+    - essentials.tp
+    - essentials.tphere
+    - essetntials.kits.Mod
+    - essentials.kits.color
+    - essentails.gamemode
+    - essentials.kits
+    - mobileworckbench.use.free
+    - mobileworckbench.use
+    - chestmaster.open
+    - chestmaster.multiple.5
+    - mcmmo.chat.partychat
+    - mcmmo.commands.party.*
+    options:
+      prefix: '&2[&9Moderator&2]&9'
+      suffix: '&a'
+  Universal-Moderator:
+    build: true
+    inheritance:
+    - Moderator
+    permissions:
+    - bukkit.*
+    - essentials.banip
+    - essentials.ban
+    - essentials.repair
+    - essentials.heal
+    - essentials.item
+    - essentials.give
+    - essentials.fly
+    - essentials.kick
+    - essentials.mute
+    - essentials.tjail
+    - essentials.jail
+    - essentials.tempban
+    - essentials.vanish
+    - essentials.tp
+    - essentials.tphere
+    - essentials.kits.color
+    - essentials.kits.Mod
+    - essentials.gamemode
+    - essentials.kits
+    - mobileworckbench.use.free
+    - mobileworckbench.use
+    - chestmaster.open
+    - chestmaster.multiple.5
+    - mcmmo.chat.partychat
+    - mcmmo.commands.party.*
+    options:
+      prefix: '&2[&6Universal &9Moderator&2]&9'
+      suffix: '&6'
+  Head-Moderator:
+    build: true
+    inheritance:
+    - Moderator
+    permissions:
+    - bukkit.*
+    - essentials.banip
+    - essentials.ban
+    - essentials.repair
+    - essentials.heal
+    - essentials.item
+    - essentials.give
+    - essentials.fly
+    - essentials.kick
+    - essentials.mute
+    - essentials.tjail
+    - essentials.jail
+    - essentials.tempban
+    - essentials.vanish
+    - essentials.tp
+    - essentials.tphere
+    - essentials.gamemode
+    - essentials.ban
+    - essentials.unban
+    - essentials.ipban
+    - essentials.unipban
+    - essentials.pardon
+    - essentials.enchant
+    - essentials.kit.Mod
+    - essentials.kit.color
+    - essentials.gamemode
+    - essentials.kits
+    - mobileworckbench.use.free
+    - mobileworckbench.use
+    - chestmaster.open
+    - chestmaster.multiple.5
+    - mcmmo.chat.partychat
+    - mcmmo.commands.party.*
+    options:
+      prefix: '&2[&cHead &9Moderator&2]&9'
+      suffix: '&7'
+  Admin:
+    build: true
+    inheritance:
+    - Moderator
+    permissions:
+    - essentials.*
+    - bukkit.*
+    - essentials.gamemode
+    - essentials.ban
+    - essentials.unban
+    - essentials.ipban
+    - essentials.unipban
+    - essentials.pardon
+    - essentials.enchant
+    - essentials.kit.color
+    - essentials.gamemode
+    - essentials.kits
+    - mobileworckbench.use.free
+    - mobileworckbench.use
+    - chestmaster.open
+    - chestmaster.multiple.5
+    - mcmmo.chat.partychat
+    - mcmmo.commands.party.*
+    options:
+      prefix: '&2[&cAdmin&2]&b'
+      suffix: '&b'
+  Head-Dev:
+    build: true
+    inheritance:
+    - Admin
+    permissions:
+    - essentials.*
+    - bukkit.*
+    - essentials.gamemode
+    - essentials.ban
+    - essentials.unban
+    - essentials.ipban
+    - essentials.unipban
+    - essentials.pardon
+    - essentials.enchant
+    - essentials.kit.color
+    - essentials.gamemode
+    - essentials.kits
+    - mobileworckbench.use.free
+    - mobileworckbench.use
+    - chestmaster.open
+    - chestmaster.multiple.5
+    - mcmmo.chat.partychat
+    - mcmmo.commands.party.*
+    options:
+      prefix: '&2[&4Head &1Dev&2]&b'
+      suffix: '&b'
+  Builder:
+    build: true
+    inheritance:
+    - VIP
+    permissions:
+    - worldedit.*
+    - worldguard.*
+    - bukkit.*
+    - essentials.*
+    - mobileworckbench.use.free
+    - mobileworckbench.use
+    - chestmaster.open
+    - chestmaster.multiple.5
+    - mcmmo.chat.partychat
+    - mcmmo.commands.party.*
+    options:
+      prefix: '&2[&5Builder&2]&c'
+      suffix: '&c'
+  Head-Admin:
+    build: true
+    inheritance:
+    - Admin
+    permissions:
+    - essentials.*
+    - bukkit.*
+    - essentials.gamemode
+    - essentials.ban
+    - essentials.unban
+    - essentials.ipban
+    - essentials.unipban
+    - essentials.pardon
+    - essentials.enchant
+    - essentials.kit.color
+    - essentials.gamemode
+    - mobileworckbench.use.free
+    - mobileworckbench.use
+    - chestmaster.open
+    - chestmaster.multiple.5
+    - mcmmo.chat.partychat
+    - mcmmo.commands.party.*
+    options:
+      prefix: '&2[&4Head &cAdmin&2]&b'
+      suffix: '&b'
+  Owner:
+    build: true
+    inheritance:
+    - Admin
+    permissions:
+    - '*'
+    options:
+      prefix: '&2[&4Owner&2]'
+      suffix: '&c'
+  Member:
+    permissions:
+    - ce.item.*
+    - ce.ench.*
+    - EnchantmentAPI.enchant.vanilla
+    - EnchantmentAPI.enchant.enchantName
+    - EnchantmentAPI.enchant
+    - EnchantmentAPI.names
+    - EnchantmentAPI.table
+    - EnchantmentAPI.book
+    - EnchantmentAPI.list
+    - bungeecord.command.server
+    - bungeecord.command.list
+    - DJP.doubleJump
+  Uvip:
+    permissions:
+    - playervaults.commands.use
+schema-version: 1
+users:
+  77dfc7d1-7e24-4371-9f9d-c89cf60bc59a:
+    group:
+    - Owner
+    options:
+      name: UnstableTNT
+    permissions: []
+  91658022-8a47-4f3d-9c4e-2ed2d7cc61c6:
+    group:
+    - Moderator
+    options:
+      name: skyisasquid
+  560984c2-4090-4e29-902b-f8dac1bad41e:
+    group:
+    - Universal-Moderator
+    options:
+      name: ibellaSlyman
+  e2ec8e14-9040-4d03-b933-bd7a0fcdd3fc:
+    group:
+    - Head-Admin
+    options:
+      name: MooshroomFunXL
+    permissions:
+    - DoubleJump
+    - doublejump.doublejump
+    - doublejump.doublejump\
+    - permissions.*
+  542f10ed-4792-4c09-97fe-03a86b108efa:
+    group:
+    - Moderator
+    - Ultra
+    options:
+      name: oreomisty6567
+  c2960ff8-92e0-4802-b61b-5ba87ae8e10b:
+    group:
+    - Universal-Moderator
+    options:
+      name: Thatolddog
+  4d5b8aca-02b5-4d29-9834-7ef8760d2454:
+    group:
+    - Builder
+    options:
+      name: DxSpirit
+  a3f33216-6e72-4db2-8910-abf1bae9308b:
+    group:
+    - YouTube
+    options:
+      name: Jensen_Games
+  8f8ccbeb-e3d3-42f2-be35-e2208cce8e87:
+    group:
+    - Universal-Moderator
+    options:
+      name: JaysOnMyFeet554
+  eea18531-2396-417b-a350-56e68d33faba:
+    group: []
+    options:
+      name: GodLike_Gaming
+  fd750f36-eef4-4661-9127-c35366f1fa19:
+    group:
+    - Moderator
+    options:
+      name: LightWarrior_Kaz
+  010c1522-cd50-4c94-b945-1fdf87b79c0a:
+    group:
+    - Moderator
+    options:
+      name: _OriginalDoge_
+  d1ca8c81-4ba8-40b3-b341-fcaef165c687:
+    group:
+    - Builder
+    options:
+      name: BreakinqAnkles
+  fc7a8ba0-ecdf-40ec-a0c5-bdb9985ad22b:
+    group:
+    - Moderator
+    - Helper
+    - Elite
+    options:
+      name: Swaven
+  6ca1556b-0889-4e8c-a841-a3308cb78446:
+    group:
+    - VIP
+    - Elite
+    options:
+      name: REDEYEDMOB
+    permissions:
+    - playerheads.alwaysbeheadmob
+    - playerheads.alwaysbehead
+    - chatcolor.use
+    - chatcolor.bold
+    - chatcolor.green
+    - chatcolor.darkgreen
+    - chatcolor.darkpurple
+  4504f748-ff45-40bd-a227-8d3ab7f6c51b:
+    group:
+    - Elite
+    options:
+      name: MatthewThomas13
+  b14e667e-00ed-4954-89c8-3cbf80e75d25:
+    group:
+    - Donor
+    options:
+      name: Mikami_Kurosaki
+  75346a13-c146-4006-a173-eb6f599f9d67:
+    group:
+    - Donor
+    options:
+      name: lordsheamus
+  cb5c8e18-c741-4b6d-a5b3-39755a12fa6f:
+    group:
+    - Head-Moderator
+    - Donor
+    options:
+      name: ChihuahuaLove01
+  ddbfe6e1-c659-42f5-82bd-1ce7bddb9aad:
+    group:
+    - Donor
+    options:
+      name: panster3
+  carter678:
+    group:
+    - Donor
+  d4e37c49-aa95-46af-8e5a-29fbfa5358b7:
+    group:
+    - Donor
+    options:
+      name: carter678
+  bd281508-2a30-4756-a81d-6f85ef7cd409:
+    group:
+    - Donor
+    options:
+      name: poopoojenga
+  d3db9726-ac6a-4461-959b-4befedb63d95:
+    group:
+    - Ultra
+    options:
+      name: coolerthanu8642
+  a9507987-8b74-4207-9ee2-815f1d34a081:
+    group:
+    - YouTube
+    options:
+      name: PrettyGirl12
+  eb38fa09-2d8c-41e8-b21a-15fe51343750:
+    group:
+    - Builder
+    - VIP
+    options:
+      name: MrPandamacko
+  b1d489a0-0a6f-44c1-997b-135a7bcc0916:
+    group:
+    - Head-Admin
+    - Admin
+    - Helper
+    options:
+      name: Preistest_Dragon
+  82c2f996-1172-4882-9d6c-95837514937f:
+    group:
+    - Universal-Moderator
+    options:
+      name: HypnoAnime
+  c79e0d60-51db-49a7-8fab-90270ae26a00:
+    group:
+    - Helper
+    options:
+      name: Plecostemous
+  4eade716-764c-4289-b132-7eb42e5e284f:
+    group:
+    - Ultra
+    options:
+      name: DeezCoolDonuts
+  1d6e4db5-262d-44f4-939f-7e718186c592:
+    group:
+    - Head-Dev
+    options:
+      name: PiePigAnonymous
+  e561350f-fc3d-44de-b4f6-e77e42140a08:
+    group:
+    - Builder
+    options:
+      name: PixelMinerXD123
+  4ecc907f-d0dc-4c18-bb2a-f9e1f71f5ab3:
+    group:
+    - Helper
+    options:
+      name: CHOOCOBO
+  6a64e6ab-e97c-41c1-9165-c095d33102ae:
+    group: []
+    options:
+      name: stimpayyyyyyyyy
+  ebddb6ee-72be-43e5-8b1c-f4f470f88b91:
+    group:
+    - Helper
+    options:
+      name: nonocp
+  633e9492-e24b-4eca-8531-a83ae36f58d7:
+    group:
+    - Admin
+    options:
+      name: TrackMax_
+  31ec30b9-3c83-40ce-9f8b-ea94a7de7f3d:
+    group:
+    - Helper
+    options:
+      name: DaOfficialOwen
+  5c4392d5-c10d-4d41-af56-afe00ebc47b0:
+    group:
+    - Helper
+    options:
+      name: fantaboy15
+  ce.ench.*:
+    group:
+    - Member
+  ce.item.*:
+    group:
+    - Member
+  epickiller321:
+    group:
+    - Moderator

@@ -1,0 +1,27 @@
+geolocation: South Africa
+lastAccountName: PixelMinerXD123
+timestamps:
+  login: 1461527335374
+  logout: 1461527509429
+  lastteleport: 1461253505005
+  kits:
+    youtube: 1461161562359
+    ultra: 1461161800110
+ipAddress: 105.184.77.188
+lastlocation:
+  world: world
+  x: -129.15143792935484
+  y: 70.0
+  z: 248.92569898852736
+  yaw: 182.75818
+  pitch: 37.35
+logoutlocation:
+  world: world
+  x: -621.7555401311599
+  y: 175.0
+  z: 321.5151654392435
+  yaw: 234.0409
+  pitch: 7.38891
+powertools: {}
+money: '-100.0'
+godmode: false

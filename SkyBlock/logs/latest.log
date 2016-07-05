@@ -1,0 +1,1880 @@
+[11:04:10] [Server thread/INFO]: Starting minecraft server version 1.8.6
+[11:04:10] [Server thread/INFO]: Loading properties
+[11:04:10] [Server thread/INFO]: Default game type: SURVIVAL
+[11:04:10] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-044d928-e8c6403 (MC: 1.8.6) (Implementing API version 1.8.6-R0.1-SNAPSHOT)
+[11:04:10] [Server thread/INFO]: Debug logging is disabled
+[11:04:10] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[11:04:10] [Server thread/INFO]: Using 4 threads for Netty based IO
+[11:04:11] [Server thread/INFO]: Generating keypair
+[11:04:11] [Server thread/INFO]: Starting Minecraft server on *:25557
+[11:04:11] [Server thread/INFO]: Using default channel type
+[11:04:11] [Server thread/WARN]: Plugin `Administration_Panel v1.1.0' uses the space-character (0x20) in its name `Administration Panel' - this is discouraged
+[11:04:11] [Server thread/ERROR]: Ambiguous plugin name `DisguiseCraft' for files `plugins\DisguiseCraft.jar' and `plugins\DisguiseCraft-5.1.jar' in `plugins'
+[11:04:12] [Server thread/WARN]: Plugin `Mobile_Workbench v1.2' uses the space-character (0x20) in its name `Mobile Workbench' - this is discouraged
+[11:04:12] [Server thread/ERROR]: Ambiguous plugin name `PermissionsEx' for files `plugins\PermissionsEx.jar' and `plugins\PermissionsEx-1.23.3.jar' in `plugins'
+[11:04:12] [Server thread/ERROR]: Ambiguous plugin name `Vault' for files `plugins\Vault.jar' and `plugins\Vault-1.4.1.jar' in `plugins'
+[11:04:12] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[11:04:13] [Server thread/ERROR]: Could not load 'plugins\MobDisguise.jar' in folder 'plugins'
+org.bukkit.plugin.InvalidPluginException: java.lang.NoClassDefFoundError: net/minecraft/server/Packet
+	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:135) ~[spigot.jar:git-Spigot-044d928-e8c6403]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugin(SimplePluginManager.java:329) ~[spigot.jar:git-Spigot-044d928-e8c6403]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:251) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadPlugins(CraftServer.java:291) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:198) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:528) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_92]
+Caused by: java.lang.NoClassDefFoundError: net/minecraft/server/Packet
+	at me.desmin88.mobdisguise.MobDisguise.<clinit>(MobDisguise.java:37) ~[?:?]
+	at java.lang.Class.forName0(Native Method) ~[?:1.8.0_92]
+	at java.lang.Class.forName(Class.java:348) ~[?:1.8.0_92]
+	at org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoader.java:64) ~[spigot.jar:git-Spigot-044d928-e8c6403]
+	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:131) ~[spigot.jar:git-Spigot-044d928-e8c6403]
+	... 6 more
+Caused by: java.lang.ClassNotFoundException: net.minecraft.server.Packet
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:91) ~[spigot.jar:git-Spigot-044d928-e8c6403]
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:86) ~[spigot.jar:git-Spigot-044d928-e8c6403]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424) ~[?:1.8.0_92]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357) ~[?:1.8.0_92]
+	at me.desmin88.mobdisguise.MobDisguise.<clinit>(MobDisguise.java:37) ~[?:?]
+	at java.lang.Class.forName0(Native Method) ~[?:1.8.0_92]
+	at java.lang.Class.forName(Class.java:348) ~[?:1.8.0_92]
+	at org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoader.java:64) ~[spigot.jar:git-Spigot-044d928-e8c6403]
+	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:131) ~[spigot.jar:git-Spigot-044d928-e8c6403]
+	... 6 more
+[11:04:14] [Server thread/ERROR]: Could not load 'plugins\LightSource.jar' in folder 'plugins'
+org.bukkit.plugin.UnknownDependencyException: LightAPI
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:219) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadPlugins(CraftServer.java:291) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:198) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:528) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_92]
+[11:04:14] [Server thread/ERROR]: Could not load 'plugins\DisguiseCraft.jar' in folder 'plugins'
+org.bukkit.plugin.InvalidPluginException: java.lang.NoClassDefFoundError: net/minecraft/server/v1_8_R2/Packet
+	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:135) ~[spigot.jar:git-Spigot-044d928-e8c6403]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugin(SimplePluginManager.java:329) ~[spigot.jar:git-Spigot-044d928-e8c6403]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:251) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadPlugins(CraftServer.java:291) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:198) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:528) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_92]
+Caused by: java.lang.NoClassDefFoundError: net/minecraft/server/v1_8_R2/Packet
+	at java.lang.Class.forName0(Native Method) ~[?:1.8.0_92]
+	at java.lang.Class.forName(Class.java:348) ~[?:1.8.0_92]
+	at org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoader.java:64) ~[spigot.jar:git-Spigot-044d928-e8c6403]
+	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:131) ~[spigot.jar:git-Spigot-044d928-e8c6403]
+	... 6 more
+Caused by: java.lang.ClassNotFoundException: net.minecraft.server.v1_8_R2.Packet
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:91) ~[spigot.jar:git-Spigot-044d928-e8c6403]
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:86) ~[spigot.jar:git-Spigot-044d928-e8c6403]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424) ~[?:1.8.0_92]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357) ~[?:1.8.0_92]
+	at java.lang.Class.forName0(Native Method) ~[?:1.8.0_92]
+	at java.lang.Class.forName(Class.java:348) ~[?:1.8.0_92]
+	at org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoader.java:64) ~[spigot.jar:git-Spigot-044d928-e8c6403]
+	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:131) ~[spigot.jar:git-Spigot-044d928-e8c6403]
+	... 6 more
+[11:04:14] [Server thread/INFO]: [OreGen2] Loading OreGen2 v1.2
+[11:04:14] [Server thread/INFO]: [AntiLag] Loading AntiLag v2.0
+[11:04:14] [Server thread/INFO]: [PlugMan] Loading PlugMan v2.1.1
+[11:04:14] [Server thread/INFO]: [Administration_Panel] Loading Administration_Panel v1.1.0
+[11:04:14] [Server thread/INFO]: [Lockette] Loading Lockette v1.8.20
+[11:04:14] [Server thread/INFO]: [CustomRecipes] Loading CustomRecipes v2.0.1
+[11:04:14] [Server thread/INFO]: [Pixelator] Loading Pixelator v1.2.1
+[11:04:14] [Server thread/INFO]: [SuperTrails] Loading SuperTrails v8.7.5
+[11:04:14] [Server thread/INFO]: [VoxelSniper] Loading VoxelSniper v5.170.0-SNAPSHOT-jnks317-gitfcb8fe1
+[11:04:14] [Server thread/INFO]: [ColoredChat] Loading ColoredChat v0.3
+[11:04:14] [Server thread/INFO]: [Televator] Loading Televator v1.4
+[11:04:14] [Server thread/INFO]: [Simple-AutoSave] Loading Simple-AutoSave v0.2.2
+[11:04:14] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v0.8.3
+[11:04:15] [Server thread/INFO]: [ViaVersion] ViaVersion 0.8.3 is now loaded, injecting.
+[11:04:15] [Server thread/INFO]: [ChatColor] Loading ChatColor v2.1
+[11:04:15] [Server thread/INFO]: [ChatManager] Loading ChatManager v4.0
+[11:04:15] [Server thread/INFO]: [ChestMaster] Loading ChestMaster v3.3
+[11:04:15] [Server thread/INFO]: [TTA] Loading TTA v2.3
+[11:04:15] [Server thread/INFO]: [LeakParkour] Loading LeakParkour v1.9
+[11:04:15] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[11:04:15] [Server thread/INFO]: [AdminFun] Loading AdminFun v2.4.6
+[11:04:15] [Server thread/INFO]: [TimTheEnchanter] Loading TimTheEnchanter v3.0
+[11:04:15] [Server thread/INFO]: [FirstJoinPlus] Loading FirstJoinPlus v2.4
+[11:04:15] [Server thread/INFO]: [HealthBar] Loading HealthBar v1.8.2
+[11:04:15] [Server thread/INFO]: [OpenInv] Loading OpenInv v2.3.3
+[11:04:15] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[11:04:15] [Server thread/INFO]: [AutoBroadcaster] Loading AutoBroadcaster v0.4
+[11:04:15] [Server thread/INFO]: [Scoreboard] Loading Scoreboard v1.0
+[11:04:15] [Server thread/INFO]: [CommandSigns] Loading CommandSigns v1.7.9
+[11:04:15] [Server thread/INFO]: [Votifier] Loading Votifier v1.9
+[11:04:15] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v3.6.4
+[11:04:15] [Server thread/INFO]: [LibsDisguises] Loading LibsDisguises v8.2.6-SNAPSHOT
+[11:04:15] [Server thread/INFO]: [NoCheatPlus] Loading NoCheatPlus v3.11.1-RC-sMD5NET-b743
+[11:04:15] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat vTeamCity
+[11:04:15] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.22.7-SNAPSHOT
+[11:04:15] [Server thread/WARN]: [PermissionsEx] This server is in offline mode. Unless this server is configured to integrate with a supported proxy (see http://dft.ba/-8ous), UUIDs *may not be stable*!
+[11:04:15] [Server thread/INFO]: [PTweaks] Loading PTweaks v6.0.15
+[11:04:15] [Server thread/INFO]: [SuperCrate] Loading SuperCrate v1.0.13
+[11:04:15] [Server thread/INFO]: [mcMMO] Loading mcMMO v1.5.04-SNAPSHOT-b82
+[11:04:15] [Server thread/INFO]: [GAListener] Loading GAListener v1.3.1
+[11:04:15] [Server thread/INFO]: [Vault] Loading Vault v1.5.5-b47
+[11:04:15] [Server thread/INFO]: [EnjinMinecraftPlugin] Loading EnjinMinecraftPlugin v2.7.2
+[11:04:15] [Server thread/INFO]: [Lift] Loading Lift v52
+[11:04:15] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1
+[11:04:15] [Server thread/INFO]: [Punishmental] Loading Punishmental v5.1
+[11:04:15] [Server thread/INFO]: [ASkyBlock] Loading ASkyBlock v3.0.0.4
+[11:04:15] [Server thread/INFO]: [EssentialsXMPP] Loading EssentialsXMPP vTeamCity
+[11:04:15] [Server thread/INFO]: [ChestCommands] Loading ChestCommands v3.1.2
+[11:04:15] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vTeamCity
+[11:04:15] [Server thread/INFO]: [EssentialsGeoIP] Loading EssentialsGeoIP vTeamCity
+[11:04:15] [Server thread/INFO]: [ServerSigns] Loading ServerSigns v4.2.1-DEV
+[11:04:15] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
+[11:04:15] [Server thread/INFO]: [PlayerHeads] Loading PlayerHeads v3.10-SNAPSHOT-jenkins-PlayerHeads-1-61-g39b94b4
+[11:04:15] [Server thread/INFO]: [Greenhouses] Loading Greenhouses v2.4.5
+[11:04:15] [Server thread/INFO]: [Mobile_Workbench] Loading Mobile_Workbench v1.2
+[11:04:15] [Server thread/INFO]: [SilkSpawners] Loading SilkSpawners v3.7.3
+[11:04:15] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5-b699
+[11:04:15] [Server thread/INFO]: [CTSNC] Loading CTSNC v8.9
+[11:04:15] [Server thread/INFO]: [Shopkeepers] Loading Shopkeepers v1.68
+[11:04:15] [Server thread/INFO]: [EchoPet] Loading EchoPet v2.8.0-b52
+[11:04:15] [Server thread/INFO]: [FramePicture] Loading FramePicture v1.7.7
+[11:04:15] [Server thread/INFO]: [CS-CoreLib] Loading CS-CoreLib v1.5.5
+[11:04:15] [Server thread/INFO]: [ChestShop] Loading ChestShop v3.8.12
+[11:04:15] [Server thread/INFO]: [HolographicDisplays] Loading HolographicDisplays v2.1.10
+[11:04:15] [Server thread/INFO]: [Slimefun] Loading Slimefun v4.0.7
+[11:04:15] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v0.8.3
+[11:04:16] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v3.6.4
+[11:04:16] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[11:04:16] [Server thread/INFO]: [mcMMO] Enabling mcMMO v1.5.04-SNAPSHOT-b82
+[11:04:17] [Server thread/INFO]: [mcMMO] HealthBar plugin found, mcMMO's healthbars are automatically disabled.
+[11:04:17] [Server thread/WARN]: [mcMMO] NoCheatPlus plugin found, but CompatNoCheatPlus was not found!
+[11:04:17] [Server thread/WARN]: [mcMMO] mcMMO will not work properly alongside NoCheatPlus without CompatNoCheatPlus
+[11:04:18] [Server thread/INFO]: [Vault] Enabling Vault v1.5.5-b47
+[11:04:18] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[11:04:18] [Server thread/INFO]: [Vault] [Permission] PermissionsEx found: Waiting
+[11:04:18] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[11:04:18] [Server thread/INFO]: [Vault] [Chat] PermissionsEx found: Waiting
+[11:04:18] [Server thread/INFO]: [Vault] Enabled Version 1.5.5-b47
+[11:04:18] [Server thread/INFO]: [ASkyBlock] Enabling ASkyBlock v3.0.0.4
+[11:04:18] [Server thread/WARN]: [ASkyBlock] ***********************************************************
+[11:04:18] [Server thread/WARN]: [ASkyBlock] Config file is out of date. See config.new.yml for updates!
+[11:04:18] [Server thread/WARN]: [ASkyBlock] config.yml version is '2.9.7'
+[11:04:18] [Server thread/WARN]: [ASkyBlock] Latest config version is '3.0.0'
+[11:04:18] [Server thread/WARN]: [ASkyBlock] ***********************************************************
+[11:04:19] [Server thread/INFO]: [ASkyBlock] Loading schematic UnstableNetwork's Starter Island (island.schematic) for all players, order 1
+[11:04:19] [Server thread/INFO]: [ASkyBlock] Loading schematic NetherBlock Island (nether.schematic) for all players, order 0
+[11:04:19] [Server thread/INFO]: [ASkyBlock] Loading schematic Island Duo (double.schematic) for all players, order 2
+[11:04:19] [Server thread/INFO]: [ASkyBlock] Loading schematic §lBlack §bDiamonds (harder.schematic) for all players, order 3
+[11:04:19] [Server thread/INFO]: [ASkyBlock] Loading schematic §2Shopper's §5Heaven (Shopper.schematic) for all players, order 4
+[11:04:19] [Server thread/ERROR]: [ASkyBlock] Could not parse biome )PLAINS using default instead.
+[11:04:19] [Server thread/INFO]: [ASkyBlock] Loading schematic §5Classic §bSky§2Block §4Remade (ClassicRemake.schematic) for all players, order 5
+[11:04:19] [Server thread/INFO]: [ASkyBlock] Loading schematic §2Planet (Planet.schematic) for all players, order 6
+[11:04:19] [Server thread/INFO]: [ASkyBlock] Loading schematic §2Cavern (Cavern.schematic) for all players, order 7
+[11:04:19] [Server thread/ERROR]: [ASkyBlock] Could not parse biome THE_END using default instead.
+[11:04:19] [Server thread/INFO]: [ASkyBlock] Loading schematic §7The End (TheEnd.schematic) for all players, order 9
+[11:04:19] [Server thread/ERROR]: Could not parse item [SNOWBALL] in schematic - skipping!
+[11:04:19] [Server thread/WARN]: java.lang.IllegalArgumentException: No enum constant org.bukkit.Material.SNOWBALL
+[11:04:19] [Server thread/WARN]: 	at java.lang.Enum.valueOf(Enum.java:238)
+[11:04:19] [Server thread/WARN]: 	at org.bukkit.Material.valueOf(Material.java:1)
+[11:04:19] [Server thread/WARN]: 	at com.wasteofplastic.askyblock.schematics.IslandBlock.setChest(IslandBlock.java:460)
+[11:04:19] [Server thread/WARN]: 	at com.wasteofplastic.askyblock.schematics.Schematic.prePasteSchematic(Schematic.java:1088)
+[11:04:19] [Server thread/WARN]: 	at com.wasteofplastic.askyblock.schematics.Schematic.<init>(Schematic.java:609)
+[11:04:19] [Server thread/WARN]: 	at com.wasteofplastic.askyblock.commands.IslandCmd.loadSchematics(IslandCmd.java:265)
+[11:04:19] [Server thread/WARN]: 	at com.wasteofplastic.askyblock.commands.IslandCmd.<init>(IslandCmd.java:122)
+[11:04:19] [Server thread/WARN]: 	at com.wasteofplastic.askyblock.ASkyBlock.onEnable(ASkyBlock.java:325)
+[11:04:19] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:321)
+[11:04:19] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:340)
+[11:04:19] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:405)
+[11:04:19] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadPlugin(CraftServer.java:356)
+[11:04:19] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.enablePlugins(CraftServer.java:316)
+[11:04:19] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:199)
+[11:04:19] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:528)
+[11:04:19] [Server thread/WARN]: 	at java.lang.Thread.run(Thread.java:745)
+[11:04:19] [Server thread/ERROR]: Could not parse item [SNOWBALL] in schematic - skipping!
+[11:04:19] [Server thread/WARN]: java.lang.IllegalArgumentException: No enum constant org.bukkit.Material.SNOWBALL
+[11:04:19] [Server thread/WARN]: 	at java.lang.Enum.valueOf(Enum.java:238)
+[11:04:19] [Server thread/WARN]: 	at org.bukkit.Material.valueOf(Material.java:1)
+[11:04:19] [Server thread/WARN]: 	at com.wasteofplastic.askyblock.schematics.IslandBlock.setChest(IslandBlock.java:460)
+[11:04:19] [Server thread/WARN]: 	at com.wasteofplastic.askyblock.schematics.Schematic.prePasteSchematic(Schematic.java:1088)
+[11:04:19] [Server thread/WARN]: 	at com.wasteofplastic.askyblock.schematics.Schematic.<init>(Schematic.java:609)
+[11:04:19] [Server thread/WARN]: 	at com.wasteofplastic.askyblock.commands.IslandCmd.loadSchematics(IslandCmd.java:265)
+[11:04:19] [Server thread/WARN]: 	at com.wasteofplastic.askyblock.commands.IslandCmd.<init>(IslandCmd.java:122)
+[11:04:19] [Server thread/WARN]: 	at com.wasteofplastic.askyblock.ASkyBlock.onEnable(ASkyBlock.java:325)
+[11:04:19] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:321)
+[11:04:19] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:340)
+[11:04:19] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:405)
+[11:04:19] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadPlugin(CraftServer.java:356)
+[11:04:19] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.enablePlugins(CraftServer.java:316)
+[11:04:19] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:199)
+[11:04:19] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:528)
+[11:04:19] [Server thread/WARN]: 	at java.lang.Thread.run(Thread.java:745)
+[11:04:19] [Server thread/INFO]: [ASkyBlock] Loading schematic §2Ruins (Ruins.schematic) for all players, order 8
+[11:04:19] [Server thread/INFO]: [ASkyBlock] Loading offline messages...
+[11:04:19] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[11:04:19] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[11:04:19] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[11:04:19] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[11:04:19] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[11:04:19] [Server thread/INFO]: Preparing level "world"
+[11:04:19] [Server thread/INFO]: -------- World Settings For [world] --------
+[11:04:19] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:04:19] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:04:19] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[11:04:19] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[11:04:19] [Server thread/INFO]: Clear tick list: false
+[11:04:19] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:04:19] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:04:19] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:04:19] [Server thread/INFO]: View Distance: 10
+[11:04:19] [Server thread/INFO]: Max Entity Collisions: 8
+[11:04:19] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[11:04:19] [Server thread/INFO]: Mob Spawn Range: 4
+[11:04:19] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:04:19] [Server thread/INFO]: Anti X-Ray: true
+[11:04:19] [Server thread/INFO]: 	Engine Mode: 1
+[11:04:19] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[11:04:19] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[11:04:19] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:04:19] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:04:19] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:04:19] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:04:19] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:04:19] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:04:19] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:04:19] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:04:19] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[11:04:19] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:04:19] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[11:04:19] [Server thread/INFO]: Random Lighting Updates: false
+[11:04:19] [Server thread/INFO]: Structure Info Saving: true
+[11:04:19] [Server thread/INFO]: Sending up to 10 chunks per packet
+[11:04:19] [Server thread/INFO]: Max TNT Explosions: 100
+[11:04:19] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:04:19] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[11:04:19] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:04:19] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:04:19] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[11:04:19] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[11:04:19] [Server thread/INFO]: Clear tick list: false
+[11:04:19] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:04:19] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:04:19] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:04:19] [Server thread/INFO]: View Distance: 10
+[11:04:19] [Server thread/INFO]: Max Entity Collisions: 8
+[11:04:19] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[11:04:19] [Server thread/INFO]: Mob Spawn Range: 4
+[11:04:19] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:04:19] [Server thread/INFO]: Anti X-Ray: true
+[11:04:19] [Server thread/INFO]: 	Engine Mode: 1
+[11:04:19] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[11:04:19] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[11:04:19] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:04:19] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:04:19] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:04:19] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:04:19] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:04:19] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:04:19] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:04:19] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:04:19] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[11:04:19] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:04:19] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[11:04:19] [Server thread/INFO]: Random Lighting Updates: false
+[11:04:19] [Server thread/INFO]: Structure Info Saving: true
+[11:04:19] [Server thread/INFO]: Sending up to 10 chunks per packet
+[11:04:19] [Server thread/INFO]: Max TNT Explosions: 100
+[11:04:19] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:04:19] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[11:04:19] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:04:19] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:04:19] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[11:04:19] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[11:04:19] [Server thread/INFO]: Clear tick list: false
+[11:04:19] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:04:19] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:04:19] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:04:19] [Server thread/INFO]: View Distance: 10
+[11:04:19] [Server thread/INFO]: Max Entity Collisions: 8
+[11:04:19] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[11:04:19] [Server thread/INFO]: Mob Spawn Range: 4
+[11:04:19] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:04:19] [Server thread/INFO]: Anti X-Ray: true
+[11:04:19] [Server thread/INFO]: 	Engine Mode: 1
+[11:04:19] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[11:04:19] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[11:04:19] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:04:19] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:04:19] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:04:19] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:04:19] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:04:19] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:04:19] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:04:19] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:04:19] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[11:04:19] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:04:19] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[11:04:19] [Server thread/INFO]: Random Lighting Updates: false
+[11:04:19] [Server thread/INFO]: Structure Info Saving: true
+[11:04:19] [Server thread/INFO]: Sending up to 10 chunks per packet
+[11:04:19] [Server thread/INFO]: Max TNT Explosions: 100
+[11:04:19] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:04:19] [Server thread/INFO]: Preparing start region for level 0 (Seed: 5957746613631817888)
+[11:04:20] [Server thread/INFO]: -------- World Settings For [ASkyBlock] --------
+[11:04:20] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:04:20] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:04:20] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[11:04:20] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[11:04:20] [Server thread/INFO]: Clear tick list: false
+[11:04:20] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:04:20] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:04:20] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:04:20] [Server thread/INFO]: View Distance: 10
+[11:04:20] [Server thread/INFO]: Max Entity Collisions: 8
+[11:04:20] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[11:04:20] [Server thread/INFO]: Mob Spawn Range: 4
+[11:04:20] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:04:20] [Server thread/INFO]: Anti X-Ray: true
+[11:04:20] [Server thread/INFO]: 	Engine Mode: 1
+[11:04:20] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[11:04:20] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[11:04:20] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:04:20] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:04:20] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:04:20] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:04:20] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:04:20] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:04:20] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:04:20] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:04:20] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[11:04:20] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:04:20] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[11:04:20] [Server thread/INFO]: Random Lighting Updates: false
+[11:04:20] [Server thread/INFO]: Structure Info Saving: true
+[11:04:20] [Server thread/INFO]: Sending up to 10 chunks per packet
+[11:04:20] [Server thread/INFO]: Max TNT Explosions: 100
+[11:04:20] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:04:20] [Server thread/INFO]: Preparing start region for level 3 (Seed: 2676606146150071376)
+[11:04:20] [Server thread/INFO]: Creating ASkyBlock's Nether...
+[11:04:20] [Server thread/INFO]: -------- World Settings For [ASkyBlock_nether] --------
+[11:04:20] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:04:20] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:04:20] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[11:04:20] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[11:04:20] [Server thread/INFO]: Clear tick list: false
+[11:04:20] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:04:20] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:04:20] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:04:20] [Server thread/INFO]: View Distance: 10
+[11:04:20] [Server thread/INFO]: Max Entity Collisions: 8
+[11:04:20] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[11:04:20] [Server thread/INFO]: Mob Spawn Range: 4
+[11:04:20] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:04:20] [Server thread/INFO]: Anti X-Ray: true
+[11:04:20] [Server thread/INFO]: 	Engine Mode: 1
+[11:04:20] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[11:04:20] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[11:04:20] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:04:20] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:04:20] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:04:20] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:04:20] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:04:20] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:04:20] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:04:20] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:04:20] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[11:04:20] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:04:20] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[11:04:20] [Server thread/INFO]: Random Lighting Updates: false
+[11:04:20] [Server thread/INFO]: Structure Info Saving: true
+[11:04:20] [Server thread/INFO]: Sending up to 10 chunks per packet
+[11:04:20] [Server thread/INFO]: Max TNT Explosions: 100
+[11:04:20] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:04:20] [Server thread/INFO]: Preparing start region for level 4 (Seed: -7535670759735458386)
+[11:04:21] [Server thread/INFO]: Preparing spawn area: 0%
+[11:04:22] [Server thread/INFO]: Preparing spawn area: 77%
+[11:04:22] [Server thread/INFO]: Preparing start region for level 1 (Seed: 5957746613631817888)
+[11:04:23] [Server thread/INFO]: Preparing start region for level 2 (Seed: 5957746613631817888)
+[11:04:23] [Server thread/INFO]: Preparing start region for level 3 (Seed: 2676606146150071376)
+[11:04:23] [Server thread/INFO]: Preparing start region for level 4 (Seed: -7535670759735458386)
+[11:04:23] [Server thread/INFO]: [OreGen2] Enabling OreGen2 v1.2
+[11:04:23] [Server thread/INFO]: [OreGen2] OreGen2 by Tster has been enabled!
+[11:04:23] [Server thread/INFO]: [AntiLag] Enabling AntiLag v2.0
+[11:04:23] [Server thread/INFO]: [PlugMan] Enabling PlugMan v2.1.1
+[11:04:23] [Server thread/INFO]: [Administration_Panel] Enabling Administration_Panel v1.1.0
+[11:04:24] [Server thread/INFO]: [0;37;22m[[0;36;1mAdministration[0;36;22mPanel[0;37;22m][0;37;1m: [0;31;1m[0;31;1mAdministration_Panel v1.1.0 has been enabled![m
+[11:04:24] [Server thread/INFO]: [Lockette] Enabling Lockette v1.8.20
+[11:04:24] [Server thread/INFO]: [Lockette] Version 1.8.20 is being enabled!  Yay!  (Core version 1.3.5)
+[11:04:24] [Server thread/INFO]: [Lockette] Detected Bukkit version [v1_8_R3] ok.
+[11:04:24] [Server thread/INFO]: [Lockette] Custom lockable block list: [116, 84, 57, 145, 154]
+[11:04:24] [Server thread/INFO]: [Lockette] Ignoring linked plugins: [mcMMO]
+[11:04:24] [Server thread/INFO]: [Lockette] Loading strings file for English by Acru
+[11:04:24] [Server thread/INFO]: [Lockette] Enabled link to plugin mcMMO for Groups, version 1.5.04-SNAPSHOT-b82
+[11:04:24] [Server thread/INFO]: [Lockette] Using ops file for admin permissions.
+[11:04:24] [Server thread/INFO]: [Lockette] Ready to protect your containers.
+[11:04:24] [Server thread/INFO]: [CustomRecipes] Enabling CustomRecipes v2.0.1
+[11:04:24] [Server thread/INFO]: [CustomRecipes] The plugin has been enabled successfully, and all recipes have been loaded.
+[11:04:24] [Server thread/INFO]: [Pixelator] Enabling Pixelator v1.2.1
+[11:04:24] [Server thread/INFO]: [Pixelator] config.yml successfully loaded.
+[11:04:24] [Server thread/INFO]: [Pixelator] Ignoring renderer with id '0'. Cause: The input string has an invalid format
+[11:04:24] [Server thread/INFO]: [Pixelator] Ignoring renderer with id '2'. Cause: The input string has an invalid format
+[11:04:24] [Server thread/INFO]: [Pixelator] 1 renderer loaded.
+[11:04:24] [Server thread/INFO]: [Pixelator] This plugin is using Metrics by Hidendra!
+[11:04:24] [Server thread/INFO]: [Pixelator] Plugin version 1.2.1 activated! (32 ms)
+[11:04:24] [Server thread/INFO]: [SuperTrails] Enabling SuperTrails v8.7.5
+[11:04:25] [Server thread/INFO]:  
+[11:04:25] [Server thread/INFO]: === Super Trails ===
+[11:04:25] [Server thread/INFO]: SuperTrails 8.7.5 for MC 1.8 enabled
+[11:04:25] [Server thread/INFO]: Thank you for using my plugin
+[11:04:25] [Server thread/INFO]: =====================
+[11:04:25] [Server thread/INFO]:  
+[11:04:25] [Server thread/INFO]: [VoxelSniper] Enabling VoxelSniper v5.170.0-SNAPSHOT-jnks317-gitfcb8fe1
+[11:04:25] [Server thread/INFO]: [VoxelSniper] Registered 75 Sniper Brushes with 149 handles.
+[11:04:25] [Server thread/INFO]: [VoxelSniper] Registered Sniper Listener.
+[11:04:25] [Server thread/INFO]: [ColoredChat] Enabling ColoredChat v0.3
+[11:04:25] [Server thread/INFO]: ColoredChat v0.3 enabled!
+[11:04:25] [Server thread/INFO]: [Televator] Enabling Televator v1.4
+[11:04:25] [Server thread/INFO]: [Televator] Televator v1.4 is now enabling...
+[11:04:25] [Server thread/INFO]: [Televator] Televator v1.4 is now enabled
+[11:04:25] [Server thread/INFO]: [Simple-AutoSave] Enabling Simple-AutoSave v0.2.2
+[11:04:25] [Server thread/INFO]: [Simple-AutoSave] [Simple-AutoSave] 0.2.2 enabled.
+[11:04:25] [Server thread/INFO]: [Simple-AutoSave] Autosave Started.
+[11:04:25] [Server thread/INFO]: [ChatColor] Enabling ChatColor v2.1
+[11:04:25] [Server thread/INFO]: [ChatManager] Enabling ChatManager v4.0
+[11:04:25] [Server thread/INFO]: [ChatManager] [ChatManager] Plugin Enabling!
+[11:04:25] [Server thread/INFO]: [ChestMaster] Enabling ChestMaster v3.3
+[11:04:25] [Server thread/WARN]: [ChestMaster] Default system encoding may have misread config.yml from plugin jar
+[11:04:25] [Server thread/INFO]: ChestMaster - Config file detected, reading config now!
+[11:04:25] [Server thread/INFO]: ChestMaster - Config loaded!
+[11:04:25] [Server thread/INFO]: ChestMaster - Starting ChestMaster
+[11:04:25] [Server thread/INFO]: ChestMaster - Using SQLite!
+[11:04:25] [Server thread/INFO]: ChestMaster - SQLite already exists!
+[11:04:25] [Server thread/INFO]: ChestMaster - No SQL dataformat issues found! :D
+[11:04:26] [Server thread/INFO]: ChestMaster - You are running the latest version :)
+[11:04:26] [Server thread/INFO]: ChestMaster - Metrics Started
+[11:04:26] [Server thread/INFO]: ChestMaster - Sending start ping command to AdvancedMetrics!
+[11:04:26] [Server thread/INFO]: ChestMaster - Registered pinger to AdvancedMetrics!
+[11:04:26] [Server thread/INFO]: ChestMaster - This server AdvancedMetrics ID is: 251
+[11:04:26] [Server thread/INFO]: [TTA] Enabling TTA v2.3
+[11:04:26] [Server thread/INFO]: [m
+[11:04:26] [Server thread/INFO]: [0;31;1m=========>[[0;33;22mTTA Terms[0;31;1m]<=========[m
+[11:04:26] [Server thread/INFO]: [0;31;1m-> You are not permitted to claim this plugin as your own![m
+[11:04:26] [Server thread/INFO]: [0;31;1m-> You are not permitted to decompiling the plugin's sourcecode![m
+[11:04:26] [Server thread/INFO]: [0;31;1m-> You are not permitted to modify the code or the plugin and call it your own![m
+[11:04:26] [Server thread/INFO]: [0;31;1m-> You are not permitted to redistributing this plugin as your own![m
+[11:04:26] [Server thread/INFO]: [0;31;1m======>[[0;32;1mTerms Accepted![0;31;1m]<======[m
+[11:04:26] [Server thread/INFO]: [m
+[11:04:26] [Server thread/INFO]: [0;31;1m[[0;33;22mTTA[0;31;1m] [0;36;22mVersion: 2.3 [0;32;22mby [0;31;22m[Herbystar][0;32;22m enabled![m
+[11:04:26] [Server thread/INFO]: [0;31;1m[[0;33;22mTTA[0;31;1m] [0;32;1m-=> Update is available! <=-[m
+[11:04:26] [Server thread/INFO]: [0;31;1m[[0;33;22mTTA[0;31;1m] [0;33;22mMinecraft 1.8.4-1.8.9 Support [0;32;22menabled![m
+[11:04:26] [Server thread/INFO]: [0;31;1m[[0;33;22mTTA[0;31;1m] [0;32;22mStarted [0;33;22mMetrics [0;32;22msuccessful![m
+[11:04:26] [Server thread/INFO]: [LeakParkour] Enabling LeakParkour v1.9
+[11:04:26] [Server thread/INFO]: [LeakParkour] Disabling LeakParkour v1.9
+[11:04:26] [Server thread/INFO]: [0;32;1m [m[m
+[11:04:26] [Server thread/INFO]: [0;32;1m**************************************************[m[m
+[11:04:26] [Server thread/INFO]: [0;32;1m----------------- LEAK PARKOUR ------------------[m[m
+[11:04:26] [Server thread/INFO]: [0;32;1m [m[m
+[11:04:26] [Server thread/INFO]: [0;31;1mLicense:[m[m
+[11:04:26] [Server thread/INFO]: [0;31;1m   - Do not modify plugin![m[m
+[11:04:26] [Server thread/INFO]: [0;31;1m   - Do not share/upload anywhere![m[m
+[11:04:26] [Server thread/INFO]: [0;31;1m   - Do not use for commercial purposes![m[m
+[11:04:26] [Server thread/INFO]: [0;32;1m [m[m
+[11:04:26] [Server thread/INFO]: [0;33;1mIf you want download new version just copy this:[m[m
+[11:04:26] [Server thread/INFO]: [0;33;1m> https://goo.gl/7kHp33[m[m
+[11:04:26] [Server thread/INFO]: [0;32;1m [m[m
+[11:04:26] [Server thread/INFO]: [0;32;1m---------------- PROBLEM DETECTOR ----------------[m[m
+[11:04:26] [Server thread/INFO]: [0;32;1m [m[m
+[11:04:26] [Server thread/INFO]: [0;31;1m > Update is available, new version: 1.9![m[m
+[11:04:26] [Server thread/INFO]: [0;32;1m [m[m
+[11:04:26] [Server thread/INFO]: [0;32;1m**************************************************[m[m
+[11:04:26] [Server thread/INFO]: [0;32;1m [m[m
+[11:04:26] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[11:04:27] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[11:04:27] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[11:04:27] [Server thread/INFO]: [AdminFun] Enabling AdminFun v2.4.6
+[11:04:27] [Server thread/INFO]: [AdminFun] ============================================
+[11:04:27] [Server thread/INFO]: [AdminFun]                  AdminFun              
+[11:04:27] [Server thread/INFO]: [AdminFun] ============================================
+[11:04:27] [Server thread/INFO]: [AdminFun] A new version is available: AdminFun v2.4.7
+[11:04:27] [Server thread/INFO]: [AdminFun] Your current version: AdminFun v2.4.6
+[11:04:27] [Server thread/INFO]: [AdminFun] Download it from: http://servermods.cursecdn.com/files/906/796/AdminFun.jar
+[11:04:27] [Server thread/INFO]: [TimTheEnchanter] Enabling TimTheEnchanter v3.0
+[11:04:27] [Server thread/INFO]: [0;33;1m[Tim] Unused enchantments: null(70) DEPTH_STRIDER(8) Glow(111) LUCK(61) LURE(62) [m
+[11:04:27] [Server thread/INFO]: [TimTheEnchanter] There are some who call me... Tim?
+[11:04:27] [Server thread/INFO]: [FirstJoinPlus] Enabling FirstJoinPlus v2.4
+[11:04:27] [Server thread/INFO]: [HealthBar] Enabling HealthBar v1.8.2
+[11:04:27] [Server thread/INFO]: [OpenInv] Enabling OpenInv v2.3.3
+[11:04:27] [Server thread/INFO]: [OpenInv] [Config] Update not required.
+[11:04:27] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[11:04:27] [Server thread/INFO]: Bukkit version format changed. Version not checked.
+[11:04:27] [Server thread/INFO]: git-Spigot-044d928-e8c6403 (MC: 1.8.6)
+[11:04:27] [Server thread/INFO]: 1.8.6-R0.1-SNAPSHOT
+[11:04:28] [Server thread/INFO]: Using locale en_US
+[11:04:28] [Server thread/INFO]: Using locale en_US
+[11:04:28] [Server thread/INFO]: [Vault][Economy] Essentials Economy hooked.
+[11:04:28] [Server thread/INFO]: Essentials: Using config file enhanced permissions.
+[11:04:28] [Server thread/INFO]: Permissions listed in as player-commands will be given to all users.
+[11:04:28] [Server thread/INFO]: [AutoBroadcaster] Enabling AutoBroadcaster v0.4
+[11:04:28] [Server thread/INFO]: [Scoreboard] Enabling Scoreboard v1.0
+[11:04:28] [Server thread/INFO]: [0;34;1m[[0;31;22mScoreboard[0;34;1m] [0;32;1mEnabled![m
+[11:04:28] [Server thread/INFO]: [CommandSigns] Enabling CommandSigns v1.7.9
+[11:04:28] [Server thread/INFO]: [Votifier] Enabling Votifier v1.9
+[11:04:28] [Server thread/INFO]: [Votifier] Votifier enabled.
+[11:04:28] [Server thread/INFO]: [LibsDisguises] Enabling LibsDisguises v8.2.6-SNAPSHOT
+[11:04:28] [Server thread/INFO]: [NoCheatPlus] Enabling NoCheatPlus v3.11.1-RC-sMD5NET-b743
+[11:04:29] [Server thread/WARN]: [NoCheatPlus]  Check for updates and support at BukkitDev: http://dev.bukkit.org/server-mods/nocheatplus/
+[11:04:29] [Server thread/WARN]: [NoCheatPlus]  Development builds (unsupported by the Bukkit Staff, at your own risk): http://ci.md-5.net/job/NoCheatPlus/changes
+[11:04:29] [Server thread/WARN]: [NoCheatPlus] Could not set up native access for the server-mod (git-Spigot-044d928-e8c6403 (MC: 1.8.6)). Please check for updates and consider to request support.
+[11:04:29] [Server thread/WARN]: [NoCheatPlus] Bukkit-API-only access: Some features will likely not function properly, performance might suffer.
+[11:04:29] [Server thread/INFO]: [NoCheatPlus] McAccess set to: 1.4.6|1.4.7|1.5.x|1.6.x|1.7.x / Bukkit-API
+[11:04:29] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.5 blocks.
+[11:04:29] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.6.1 blocks.
+[11:04:29] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.7.2 blocks.
+[11:04:29] [Server thread/INFO]: [NoCheatPlus] Inventory checks: FastConsume is available, disabled InstantEat.
+[11:04:29] [Server thread/INFO]: Adding packet level hooks for ProtocolLib (MC 1.8.6)...
+[11:04:29] [Server thread/INFO]: [NoCheatPlus] Available (and activated) packet level hooks: FlyingFrequency | SoundDistance
+[11:04:29] [Server thread/INFO]: [NoCheatPlus] Version 3.11.1-RC-sMD5NET-b743 is enabled.
+[11:04:29] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat vTeamCity
+[11:04:29] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.22.7-SNAPSHOT
+[11:04:29] [Server thread/INFO]: [PermissionsEx] Initializing file backend
+[11:04:29] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
+[11:04:29] [Server thread/INFO]: [Lockette] Enabled link to plugin PermissionsEx for Groups, version 1.22.7-SNAPSHOT
+[11:04:29] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[11:04:29] [Server thread/INFO]: [Vault][Permission] PermissionsEx hooked.
+[11:04:29] [Server thread/INFO]: [Vault][Chat] PermissionsEx_Chat hooked.
+[11:04:29] [Server thread/INFO]: Essentials: Using PermissionsEx based permissions.
+[11:04:29] [Server thread/INFO]: [PTweaks] Enabling PTweaks v6.0.15
+[11:04:29] [Server thread/INFO]: [PTweaks] AutoSaveStopper is enabled!
+[11:04:29] [Server thread/INFO]: [PTweaks] Packet Autosave set to 50000
+[11:04:29] [Server thread/INFO]: [PTweaks] ChunkPersistance is enabled!
+[11:04:29] [Server thread/INFO]: [PTweaks] Chunk Life Time: 100000ms
+[11:04:29] [Server thread/INFO]: [PTweaks] Chunk Prune Time: 3ms
+[11:04:29] [Server thread/INFO]: [PTweaks] MonsterLimiter is enabled!
+[11:04:29] [Server thread/INFO]: [SuperCrate] Enabling SuperCrate v1.0.13
+[11:04:29] [Server thread/INFO]: [SuperCrate] Initializing...
+[11:04:29] [Server thread/INFO]: [SuperCrate] Done! (Took 60ms)
+[11:04:29] [Server thread/INFO]: [GAListener] Enabling GAListener v1.3.1
+[11:04:29] [Server thread/INFO]: [GAListener] GAListener v1.3.1 Enabled
+[11:04:30] [Server thread/INFO]: [EnjinMinecraftPlugin] Enabling EnjinMinecraftPlugin v2.7.2
+[11:04:30] [Server thread/INFO]: [EnjinMinecraftPlugin] MC 1.3 or above found, enabling version 2 XP handling.
+[11:04:30] [Server thread/INFO]: [EnjinMinecraftPlugin] MC 1.7.2 or above found, enabling version 2 log handling.
+[11:04:30] [Server thread/INFO]: [EnjinMinecraftPlugin] MC 1.7.10 or above found, enabling version 2 player handling.
+[11:04:30] [Server thread/INFO]: [EnjinMinecraftPlugin] Couldn't find the TuxTwoLib plugin. Only able to give items to online players only.
+[11:04:30] [Server thread/INFO]: [Enjin Minecraft Plugin] Votifier plugin found, enabling Votifier support.
+[11:04:30] [Server thread/INFO]: [Lift] Enabling Lift v52
+[11:04:30] [Server thread/INFO]: Lift v52 is now enabled!
+[11:04:30] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1
+[11:04:31] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[11:04:31] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[11:04:31] [Server thread/INFO]: [WorldGuard] (world) Lava fire is blocked.
+[11:04:31] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[11:04:31] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[11:04:31] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[11:04:31] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[11:04:31] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is blocked.
+[11:04:31] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[11:04:31] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[11:04:31] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[11:04:31] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[11:04:31] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is blocked.
+[11:04:31] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[11:04:31] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[11:04:31] [Server thread/INFO]: [WorldGuard] (ASkyBlock) TNT ignition is PERMITTED.
+[11:04:31] [Server thread/INFO]: [WorldGuard] (ASkyBlock) Lighters are PERMITTED.
+[11:04:31] [Server thread/INFO]: [WorldGuard] (ASkyBlock) Lava fire is blocked.
+[11:04:31] [Server thread/INFO]: [WorldGuard] (ASkyBlock) Fire spread is UNRESTRICTED.
+[11:04:31] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'ASkyBlock'
+[11:04:31] [Server thread/INFO]: [WorldGuard] (ASkyBlock_nether) TNT ignition is PERMITTED.
+[11:04:31] [Server thread/INFO]: [WorldGuard] (ASkyBlock_nether) Lighters are PERMITTED.
+[11:04:31] [Server thread/INFO]: [WorldGuard] (ASkyBlock_nether) Lava fire is blocked.
+[11:04:31] [Server thread/INFO]: [WorldGuard] (ASkyBlock_nether) Fire spread is UNRESTRICTED.
+[11:04:31] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'ASkyBlock_nether'
+[11:04:31] [Server thread/INFO]: [WorldGuard] Loading region data...
+[11:04:32] [Server thread/INFO]: [Punishmental] Enabling Punishmental v5.1
+[11:04:32] [Server thread/INFO]: 5.1
+[11:04:32] [Server thread/WARN]: §a[Punishmental] Starting lag checker
+[11:04:32] [Server thread/WARN]: §a[Punishmental] Lag cheker running
+[11:04:32] [Server thread/INFO]: [Punishmental]: Connecting to WorldEdit
+[11:04:32] [Server thread/INFO]: [Punishmental]: WorldEdit found and loaded, loading punishable areas
+[11:04:32] [Server thread/INFO]: [Punishmental]: Commands READY
+[11:04:32] [Server thread/INFO]: [EssentialsXMPP] Enabling EssentialsXMPP vTeamCity
+[11:04:32] [Server thread/WARN]: config broken for xmpp
+[11:04:32] [Server thread/INFO]: [ChestCommands] Enabling ChestCommands v3.1.2
+[11:04:32] [Server thread/ERROR]: Error occurred while enabling ChestCommands v3.1.2 (Is it up to date?)
+java.lang.ExceptionInInitializerError
+	at com.gmail.filoghost.chestcommands.serializer.IconSerializer.loadIconFromSection(IconSerializer.java:100) ~[?:?]
+	at com.gmail.filoghost.chestcommands.serializer.MenuSerializer.loadMenu(MenuSerializer.java:45) ~[?:?]
+	at com.gmail.filoghost.chestcommands.ChestCommands.load(ChestCommands.java:199) ~[?:?]
+	at com.gmail.filoghost.chestcommands.ChestCommands.onEnable(ChestCommands.java:122) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:321) ~[spigot.jar:git-Spigot-044d928-e8c6403]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:340) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:405) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadPlugin(CraftServer.java:356) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.enablePlugins(CraftServer.java:316) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.s(MinecraftServer.java:418) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.k(MinecraftServer.java:382) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.a(MinecraftServer.java:337) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:256) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:528) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_92]
+Caused by: java.lang.NullPointerException
+	at com.gmail.filoghost.chestcommands.serializer.EnchantmentSerializer.formatLowercase(EnchantmentSerializer.java:49) ~[?:?]
+	at com.gmail.filoghost.chestcommands.serializer.EnchantmentSerializer.<clinit>(EnchantmentSerializer.java:43) ~[?:?]
+	... 15 more
+[11:04:32] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vTeamCity
+[11:04:33] [Server thread/INFO]: [EssentialsGeoIP] Enabling EssentialsGeoIP vTeamCity
+[11:04:33] [Server thread/INFO]: [EssentialsGeoIP] This product includes GeoLite data created by MaxMind, available from http://www.maxmind.com/.
+[11:04:33] [Server thread/INFO]: [ServerSigns] Enabling ServerSigns v4.2.1-DEV
+[11:04:33] [Server thread/ERROR]: Your version of NoCheatPlus is not supported by ServerSigns as it does not support UUIDs. Please use v3.12 or higher
+[11:04:33] [Server thread/INFO]: [ServerSigns] Successfully hooked into dependencies
+[11:04:33] [Server thread/INFO]: [ServerSigns] Version 4.2.1-DEV is now enabled.
+[11:04:33] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
+[11:04:33] [Server thread/INFO]: [PlayerHeads] Enabling PlayerHeads v3.10-SNAPSHOT-jenkins-PlayerHeads-1-61-g39b94b4
+[11:04:34] [Server thread/INFO]: [Greenhouses] Enabling Greenhouses v2.4.5
+[11:04:34] [Server thread/INFO]: Greenhouse worlds are: [world, creative, ASkyBlock, AcidIsland]
+[11:04:34] [Server thread/INFO]: Loading BEACH biome recipe:
+[11:04:34] [Server thread/INFO]:    Water > 50%
+[11:04:34] [Server thread/INFO]:    No Ice Allowed
+[11:04:34] [Server thread/INFO]:    Sand x 1
+[11:04:34] [Server thread/INFO]:    5% chance for Dead Bush to grow.
+[11:04:34] [Server thread/INFO]:    10% chance for Squid to spawn on Stationary Water.
+[11:04:34] [Server thread/INFO]: Loading COLD_BEACH biome recipe:
+[11:04:34] [Server thread/INFO]:    Water > 50%
+[11:04:34] [Server thread/INFO]:    Ice > 10%
+[11:04:34] [Server thread/INFO]:    Sand x 1
+[11:04:34] [Server thread/INFO]: Loading COLD_TAIGA biome recipe:
+[11:04:34] [Server thread/INFO]:    Ice > 10%
+[11:04:34] [Server thread/INFO]:    Oak Log x 3
+[11:04:34] [Server thread/INFO]:    Oak Leaves x 3
+[11:04:34] [Server thread/INFO]:    Grass x 3
+[11:04:34] [Server thread/INFO]:    10% chance for Tall Grass to grow.
+[11:04:34] [Server thread/INFO]:    10% chance for Wolf to spawn on Snow.
+[11:04:34] [Server thread/INFO]: Loading DESERT biome recipe:
+[11:04:34] [Server thread/INFO]:    No Water Allowed
+[11:04:34] [Server thread/INFO]:    No Ice Allowed
+[11:04:34] [Server thread/INFO]:    Sand x 1
+[11:04:34] [Server thread/INFO]:    10% chance for Dead Bush to grow.
+[11:04:34] [Server thread/INFO]:    10% chance for Cactus to grow.
+[11:04:34] [Server thread/INFO]: Loading FLOWER_FOREST biome recipe:
+[11:04:34] [Server thread/INFO]:    No Ice Allowed
+[11:04:34] [Server thread/INFO]:    Oak Log x 3
+[11:04:34] [Server thread/INFO]:    Oak Leaves x 4
+[11:04:34] [Server thread/INFO]:    Grass x 4
+[11:04:34] [Server thread/INFO]:    2% chance for Oxeye Daisy to grow.
+[11:04:34] [Server thread/INFO]:    4% chance for Peony to grow.
+[11:04:34] [Server thread/INFO]:    20% chance for Tall Grass to grow.
+[11:04:34] [Server thread/INFO]: Loading HELL biome recipe:
+[11:04:34] [Server thread/INFO]:    No Water Allowed
+[11:04:34] [Server thread/INFO]:    Lava > 21%
+[11:04:34] [Server thread/INFO]:    No Ice Allowed
+[11:04:34] [Server thread/INFO]:    Netherrack x 1
+[11:04:34] [Server thread/INFO]:    10% chance for Pig Zombie to spawn on Netherrack.
+[11:04:34] [Server thread/INFO]: Loading JUNGLE biome recipe:
+[11:04:34] [Server thread/INFO]:    No Ice Allowed
+[11:04:34] [Server thread/INFO]:    Grass x 4
+[11:04:34] [Server thread/INFO]:    Jungle Log x 3
+[11:04:34] [Server thread/INFO]:    Jungle Leaves x 4
+[11:04:34] [Server thread/INFO]:    20% chance for Dandelion to grow.
+[11:04:34] [Server thread/INFO]:    10% chance for Melon Block to grow.
+[11:04:34] [Server thread/INFO]:    20% chance for Poppy to grow.
+[11:04:34] [Server thread/INFO]:    20% chance for Large Fern to grow.
+[11:04:34] [Server thread/INFO]:    20% chance for Fern to grow.
+[11:04:34] [Server thread/INFO]: Loading MUSHROOM_ISLAND biome recipe:
+[11:04:34] [Server thread/INFO]:    Water > 30%
+[11:04:34] [Server thread/INFO]:    No Ice Allowed
+[11:04:34] [Server thread/INFO]:    Mycelium x 2
+[11:04:34] [Server thread/INFO]:    10% chance for Brown Mushroom to grow.
+[11:04:34] [Server thread/INFO]:    10% chance for Red Mushroom to grow.
+[11:04:34] [Server thread/INFO]:    10% chance for Mushroom Cow to spawn on Mycel.
+[11:04:34] [Server thread/INFO]: Loading OCEAN biome recipe:
+[11:04:34] [Server thread/INFO]:    Water > 95%
+[11:04:34] [Server thread/INFO]:    No Ice Allowed
+[11:04:34] [Server thread/INFO]:    10% chance for Squid to spawn on Stationary Water.
+[11:04:34] [Server thread/INFO]: Loading PLAINS biome recipe:
+[11:04:34] [Server thread/INFO]:    No Ice Allowed
+[11:04:34] [Server thread/INFO]:    Grass x 3
+[11:04:34] [Server thread/INFO]:    10% chance for Tall Grass to grow.
+[11:04:34] [Server thread/INFO]:    10% chance for Horse to spawn on Grass.
+[11:04:34] [Server thread/INFO]: Loading RIVER biome recipe:
+[11:04:34] [Server thread/INFO]:    Water > 50%
+[11:04:34] [Server thread/INFO]:    No Ice Allowed
+[11:04:34] [Server thread/INFO]:    Sand x 1
+[11:04:34] [Server thread/INFO]: Loading SAVANNA biome recipe:
+[11:04:34] [Server thread/INFO]:    No Ice Allowed
+[11:04:34] [Server thread/INFO]:    Acacia Log x 3
+[11:04:34] [Server thread/INFO]:    Acacia Leaves x 4
+[11:04:34] [Server thread/INFO]:    Grass x 4
+[11:04:34] [Server thread/INFO]:    10% chance for Double Tall Grass to grow.
+[11:04:34] [Server thread/INFO]: Loading SUNFLOWER_PLAINS biome recipe:
+[11:04:34] [Server thread/INFO]:    No Ice Allowed
+[11:04:34] [Server thread/INFO]:    Grass x 4
+[11:04:34] [Server thread/INFO]:    20% chance for Sunflower to grow.
+[11:04:34] [Server thread/INFO]:    20% chance for Tall Grass to grow.
+[11:04:34] [Server thread/INFO]: Loading SWAMPLAND biome recipe:
+[11:04:34] [Server thread/INFO]:    Water > 50%
+[11:04:34] [Server thread/INFO]:    No Ice Allowed
+[11:04:34] [Server thread/INFO]:    Grass x 4
+[11:04:34] [Server thread/INFO]:    Oak Log x 3
+[11:04:34] [Server thread/INFO]:    Oak Leaves x 4
+[11:04:34] [Server thread/INFO]:    20% chance for Red Mushroom to grow.
+[11:04:34] [Server thread/INFO]:    20% chance for Brown Mushroom to grow.
+[11:04:34] [Server thread/INFO]:    5% chance for Water Lily to grow.
+[11:04:34] [Server thread/INFO]:    5% chance for Slime to spawn on Stationary Water.
+[11:04:34] [Server thread/INFO]: Loaded 14 biome recipes.
+[11:04:34] [Server thread/INFO]: Loading offline messages...
+[11:04:34] [Server thread/INFO]: Kicking off flower growing scheduler every 1 minutes
+[11:04:34] [Server thread/INFO]: Kicking off block conversion scheduler every 2 minutes
+[11:04:34] [Server thread/INFO]: Kicking off greenhouse verify scheduler every 5 minutes
+[11:04:34] [Server thread/INFO]: Kicking off mob populator scheduler every 1 minutes
+[11:04:34] [Server thread/INFO]: [Mobile_Workbench] Enabling Mobile_Workbench v1.2
+[11:04:34] [Server thread/INFO]: [SilkSpawners] Enabling SilkSpawners v3.7.3
+[11:04:34] [Server thread/INFO]: [SilkSpawners] WorldGuard was found and support is enabled
+[11:04:34] [Server thread/INFO]: [SilkSpawners] Loading support for v1_8_R3
+[11:04:34] [Server thread/INFO]: [SilkSpawners] AutoUpdater is enabled.
+[11:04:35] [Server thread/INFO]: [SilkSpawners] Result from AutoUpdater is: NO_UPDATE
+[11:04:36] [Server thread/INFO]: [SilkSpawners] BarAPI was not found and remains disabled!
+[11:04:36] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5-b699
+[11:04:37] [Server thread/INFO]: -------- World Settings For [skyworld_nether] --------
+[11:04:37] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:04:37] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:04:37] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[11:04:37] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[11:04:37] [Server thread/INFO]: Clear tick list: false
+[11:04:37] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:04:37] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:04:37] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:04:37] [Server thread/INFO]: View Distance: 10
+[11:04:37] [Server thread/INFO]: Max Entity Collisions: 8
+[11:04:37] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[11:04:37] [Server thread/INFO]: Mob Spawn Range: 4
+[11:04:37] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:04:37] [Server thread/INFO]: Anti X-Ray: true
+[11:04:37] [Server thread/INFO]: 	Engine Mode: 1
+[11:04:37] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[11:04:37] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[11:04:37] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:04:37] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:04:37] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:04:37] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:04:37] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:04:37] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:04:37] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:04:37] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:04:37] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[11:04:37] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:04:37] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[11:04:37] [Server thread/INFO]: Random Lighting Updates: false
+[11:04:37] [Server thread/INFO]: Structure Info Saving: true
+[11:04:37] [Server thread/INFO]: Sending up to 10 chunks per packet
+[11:04:37] [Server thread/INFO]: Max TNT Explosions: 100
+[11:04:37] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:04:37] [Server thread/INFO]: World skyworld_nether is a duplicate of another world and has been prevented from loading. Please delete the uid.dat file from skyworld_nether's world directory if you want to be able to load the duplicate world.
+[11:04:37] [Server thread/ERROR]: Error occurred while enabling Multiverse-Core v2.5-b699 (Is it up to date?)
+java.lang.NullPointerException
+	at com.onarandombox.MultiverseCore.MVWorld.<init>(MVWorld.java:64) ~[?:?]
+	at com.onarandombox.MultiverseCore.MVWorld.<init>(MVWorld.java:56) ~[?:?]
+	at com.onarandombox.MultiverseCore.utils.WorldManager.doLoad(WorldManager.java:427) ~[?:?]
+	at com.onarandombox.MultiverseCore.utils.WorldManager.doLoad(WorldManager.java:402) ~[?:?]
+	at com.onarandombox.MultiverseCore.utils.WorldManager.doLoad(WorldManager.java:377) ~[?:?]
+	at com.onarandombox.MultiverseCore.utils.WorldManager.loadWorlds(WorldManager.java:676) ~[?:?]
+	at com.onarandombox.MultiverseCore.MultiverseCore.onEnable(MultiverseCore.java:310) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:321) ~[spigot.jar:git-Spigot-044d928-e8c6403]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:340) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:405) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadPlugin(CraftServer.java:356) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.enablePlugins(CraftServer.java:316) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.s(MinecraftServer.java:418) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.k(MinecraftServer.java:382) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.a(MinecraftServer.java:337) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:256) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:528) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_92]
+[11:04:37] [Server thread/INFO]: [CTSNC] Enabling CTSNC v8.9
+[11:04:37] [Server thread/INFO]: [m
+[11:04:37] [Server thread/INFO]: [0;31;1m=========>[[0;33;1mCTSNC Terms[0;31;1m]<=========[m
+[11:04:37] [Server thread/INFO]: [0;31;1m-> You are not permitted to claim this plugin as your own![m
+[11:04:37] [Server thread/INFO]: [0;31;1m-> You are not permitted to decompiling the plugin's sourcecode![m
+[11:04:37] [Server thread/INFO]: [0;31;1m-> You are not permitted to modify the code or the plugin and call it your own![m
+[11:04:37] [Server thread/INFO]: [0;31;1m-> You are not permitted to redistributing this plugin as your own![m
+[11:04:37] [Server thread/INFO]: [0;31;1m=======>[[0;32;1mTerms Accepted![0;31;1m]<=======[m
+[11:04:37] [Server thread/INFO]: [m
+[11:04:39] [Server thread/INFO]: [0;31;1m[[0;33;1mCTSNC[0;31;1m] [0;32;1m-=> Update is available! <=-[m
+[11:04:39] [Server thread/INFO]: [0;31;1m[[0;33;1mCTSNC[0;31;1m] [0;33;1mConfig Generation [0;32;1msuccessful![m
+[11:04:39] [Server thread/INFO]: [0;31;1m[[0;33;1mCTSNC[0;31;1m] [0;33;1mVault-Connection [0;32;1msuccessful![m
+[11:04:39] [Server thread/INFO]: [0;31;1m[[0;33;1mCTSNC[0;31;1m] [0;33;1mVault-Economy-Connection [0;32;1msuccessful![m
+[11:04:39] [Server thread/INFO]: [0;31;1m[[0;33;1mCTSNC[0;31;1m] [0;33;1mPlayerPoints-Connection [0;31;1mfailed![m
+[11:04:39] [Server thread/INFO]: [0;31;1m[[0;33;1mCTSNC[0;31;1m] [0;33;1mPointsAPI-Connection [0;31;1mfailed![m
+[11:04:39] [Server thread/INFO]: [0;31;1m[[0;33;1mCTSNC[0;31;1m] [0;33;1mPlaceholderAPI-Connection [0;31;1mfailed![m
+[11:04:39] [Server thread/INFO]: [0;31;1m[[0;33;1mCTSNC[0;31;1m] [0;33;1mMVdWPlaceholderAPI-Connection [0;31;1mfailed![m
+[11:04:39] [Server thread/INFO]: [0;31;1m[[0;33;1mCTSNC[0;31;1m] [0;33;1mPermissionEx-Connection [0;32;1msuccessful![m
+[11:04:39] [Server thread/INFO]: [0;31;1m[[0;33;1mCTSNC[0;31;1m] [0;33;1mTokenManager-Connection [0;31;1mfailed![m
+[11:04:39] [Server thread/INFO]: [0;31;1m[[0;33;1mCTSNC[0;31;1m] [0;33;1mGroupManager-Connection [0;31;1mfailed![m
+[11:04:39] [Server thread/INFO]: [0;31;1m[[0;33;1mCTSNC[0;31;1m] [0;33;1mRPGPlayerLeveling-Connection [0;31;1mfailed![m
+[11:04:39] [Server thread/INFO]: [0;31;1m[[0;33;1mCTSNC[0;31;1m] [0;33;1mRPGPlayerLeveling-Connection [0;31;1mworks only with [0;33;1m1.9[0;31;1m![m
+[11:04:39] [Server thread/INFO]: [0;31;1m[[0;33;1mCTSNC[0;31;1m] [0;32;1mStarted [0;33;1mMetrics [0;32;1msuccessful![m
+[11:04:39] [Server thread/INFO]: [0;31;1m[[0;33;1mCTSNC[0;31;1m] [0;33;1mMySQL-Service [0;31;1mdisabled![m
+[11:04:39] [Server thread/INFO]: [0;31;1m[[0;33;1mCTSNC[0;31;1m] [0;33;1mMinecraft 1.8.4-1.8.9 Support [0;32;1menabled![m
+[11:04:39] [Server thread/INFO]: [0;31;1m[[0;33;1mCTSNC[0;31;1m] [0;33;1mWorldSupport [0;32;1menabled![m
+[11:04:39] [Server thread/INFO]: [0;31;1m[[0;33;1mCTSNC[0;31;1m] [0;36;1mVersion: 8.9 [0;32;1mby [0;31;1m[Herbystar][0;32;1m enabled![m
+[11:04:39] [Server thread/INFO]: [Shopkeepers] Enabling Shopkeepers v1.68
+[11:04:39] [Server thread/INFO]: [EchoPet] Enabling EchoPet v2.8.0-b52
+[11:04:40] [Server thread/INFO]: [EchoPet] [INFO] [WorldGuard] Successfully hooked[m
+[11:04:42] [Server thread/INFO]: [FramePicture] Enabling FramePicture v1.7.7
+[11:04:42] [Server thread/ERROR]: [FramePicture] You use a not-supported bukkit version!
+[11:04:42] [Server thread/ERROR]: [FramePicture] This FramePicture version is for Spigot 1.8!
+[11:04:42] [Server thread/INFO]: [FramePicture] Disabling FramePicture v1.7.7
+[11:04:42] [Server thread/INFO]: [FramePicture] Plugin disabled!
+[11:04:42] [Server thread/INFO]: [CS-CoreLib] Enabling CS-CoreLib v1.5.5
+[11:04:42] [Server thread/INFO]: [CS-CoreLib - Protection] Loaded Protection Module "WorldGuard"
+[11:04:42] [Server thread/INFO]: [CS-CoreLib - Protection] Loaded Protection Module "ASkyBlock"
+[11:04:42] [Server thread/INFO]: [ChestShop] Enabling ChestShop v3.8.12
+[11:04:43] [Server thread/ERROR]: WARNING: you seem to not be using the Xerial SQLite driver.  See ORMLite docs on SQLite: http://ormlite.com/docs/sqlite
+[11:04:43] [Server thread/INFO]: creating table 'items'
+[11:04:43] [Server thread/INFO]: executed create table statement changed 0 rows: CREATE TABLE IF NOT EXISTS `items` (`id` INTEGER PRIMARY KEY AUTOINCREMENT , `code` VARCHAR NOT NULL ,  UNIQUE (`code`)) 
+[11:04:43] [Server thread/ERROR]: WARNING: you seem to not be using the Xerial SQLite driver.  See ORMLite docs on SQLite: http://ormlite.com/docs/sqlite
+[11:04:43] [Server thread/INFO]: creating table 'accounts'
+[11:04:43] [Server thread/INFO]: creating index 'accounts_shortName_idx' for table 'accounts
+[11:04:43] [Server thread/INFO]: executed create table statement changed 0 rows: CREATE TABLE IF NOT EXISTS `accounts` (`lastSeenName` VARCHAR NOT NULL , `name` VARCHAR NOT NULL , `shortName` VARCHAR NOT NULL , `uuid` VARCHAR NOT NULL , PRIMARY KEY (`name`) ) 
+[11:04:43] [Server thread/INFO]: executed create table statement changed 0 rows: CREATE INDEX IF NOT EXISTS `accounts_shortName_idx` ON `accounts` ( `shortName` )
+[11:04:43] [Server thread/INFO]: [ChestShop] Lockette version 1.8.20 loaded.
+[11:04:43] [Server thread/INFO]: [ChestShop] Vault loaded! Found an economy plugin!
+[11:04:44] [Server thread/INFO]: [HolographicDisplays] Enabling HolographicDisplays v2.1.10
+[11:04:44] [Server thread/INFO]: [HolographicDisplays] Found ProtocolLib, adding support for player relative variables.
+[11:04:44] [Server thread/INFO]: [Slimefun] Enabling Slimefun v4.0.7
+[11:04:44] [Server thread/WARN]: ### Slimefun failed to load!
+[11:04:44] [Server thread/WARN]: ###
+[11:04:44] [Server thread/WARN]: ### You are using the wrong Version of Minecraft!!!
+[11:04:44] [Server thread/WARN]: ###
+[11:04:44] [Server thread/WARN]: ### You are using Minecraft v1_8_R3
+[11:04:44] [Server thread/WARN]: ### but Slimefun v4.0.7 requires you to be using
+[11:04:44] [Server thread/WARN]: ### Minecraft 1.9.X
+[11:04:44] [Server thread/WARN]: ###
+[11:04:44] [Server thread/WARN]: ### Please use an older Version of Slimefun and disable auto-updating
+[11:04:44] [Server thread/WARN]: ### or consider updating your Server Software.
+[11:04:44] [Server thread/INFO]: [Slimefun] Disabling Slimefun v4.0.7
+[11:04:44] [Server thread/ERROR]: Error occurred while disabling Slimefun v4.0.7 (Is it up to date?)
+java.lang.NullPointerException
+	at me.mrCookieSlime.Slimefun.SlimefunStartup.onDisable(SlimefunStartup.java:410) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:323) ~[spigot.jar:git-Spigot-044d928-e8c6403]
+	at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:364) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:424) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at me.mrCookieSlime.Slimefun.SlimefunStartup.onEnable(SlimefunStartup.java:117) [Slimefun_v3.6.6.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:321) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:340) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:405) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadPlugin(CraftServer.java:356) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.enablePlugins(CraftServer.java:316) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.s(MinecraftServer.java:418) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.k(MinecraftServer.java:382) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.a(MinecraftServer.java:337) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:256) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:528) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_92]
+[11:04:44] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[11:04:44] [Server thread/INFO]: Done (25.456s)! For help, type "help" or "?"
+[11:04:44] [Server thread/INFO]: [ViaVersion] ViaVersion detected protocol version: 47
+[11:04:44] [Server thread/INFO]: [0;32;22m[[0;32;1mChestCommands[0;32;22m] [0;32;1mFound a new version: v3.1.4[0;37;1m (yours: v3.1.2)[m
+[11:04:44] [Server thread/INFO]: [0;32;22m[[0;32;1mChestCommands[0;32;22m] [0;32;1m[0;37;1mDownload it on Bukkit Dev:[m
+[11:04:44] [Server thread/INFO]: [0;32;22m[[0;32;1mChestCommands[0;32;22m] [0;32;1m[0;37;1mdev.bukkit.org/bukkit-plugins/chest-commands[m
+[11:04:44] [Server thread/INFO]: [ASkyBlock] Checking for new updates...
+[11:04:44] [Server thread/INFO]: Trying to use Vault for permissions...
+[11:04:44] [Server thread/INFO]: Success!
+[11:04:44] [Server thread/INFO]: Loaded 0 greenhouses.
+[11:04:44] [Server thread/INFO]: [PlugMan] Metrics started: http://mcstats.org/plugin/PlugMan
+[11:04:44] [Craft Scheduler Thread - 1/INFO]: [mcMMO] Cleaned backup files. Deleted 1 of 22 files.
+[11:04:45] [Server thread/WARN]: [NoCheatPlus] The block breaking data is incomplete, default to allow instant breaking:
+[11:04:45] [Server thread/WARN]: --- Missing entries -------------------------------
+[11:04:45] [Server thread/WARN]: * MISSING 165(SLIME_BLOCK / SOLID+GROUND) 
+[11:04:45] [Server thread/WARN]: * MISSING 166(BARRIER / SOLID+GROUND) 
+[11:04:45] [Server thread/WARN]: * MISSING 167(IRON_TRAPDOOR / SOLID+IGN_PASSABLE+GROUND+GROUND_HEIGHT) 
+[11:04:45] [Server thread/WARN]: * MISSING 168(PRISMARINE / SOLID+GROUND) 
+[11:04:45] [Server thread/WARN]: * MISSING 169(SEA_LANTERN / SOLID+IGN_PASSABLE+GROUND+GROUND_HEIGHT) 
+[11:04:45] [Server thread/WARN]: * MISSING 176(STANDING_BANNER / SOLID+IGN_PASSABLE+GROUND+GROUND_HEIGHT) 
+[11:04:45] [Server thread/WARN]: * MISSING 177(WALL_BANNER / SOLID+IGN_PASSABLE+GROUND+GROUND_HEIGHT) 
+[11:04:45] [Server thread/WARN]: * MISSING 178(DAYLIGHT_DETECTOR_INVERTED / SOLID+IGN_PASSABLE+GROUND+GROUND_HEIGHT) 
+[11:04:45] [Server thread/WARN]: * MISSING 179(RED_SANDSTONE / SOLID+GROUND) 
+[11:04:45] [Server thread/WARN]: * MISSING 180(RED_SANDSTONE_STAIRS / SOLID+IGN_PASSABLE+GROUND+GROUND_HEIGHT) 
+[11:04:45] [Server thread/WARN]: * MISSING 181(DOUBLE_STONE_SLAB2 / SOLID+GROUND) 
+[11:04:45] [Server thread/WARN]: * MISSING 182(STONE_SLAB2 / SOLID+IGN_PASSABLE+GROUND+GROUND_HEIGHT) 
+[11:04:45] [Server thread/WARN]: * MISSING 183(SPRUCE_FENCE_GATE / SOLID+IGN_PASSABLE+GROUND+GROUND_HEIGHT) 
+[11:04:45] [Server thread/WARN]: * MISSING 184(BIRCH_FENCE_GATE / SOLID+IGN_PASSABLE+GROUND+GROUND_HEIGHT) 
+[11:04:45] [Server thread/WARN]: * MISSING 185(JUNGLE_FENCE_GATE / SOLID+IGN_PASSABLE+GROUND+GROUND_HEIGHT) 
+[11:04:45] [Server thread/WARN]: * MISSING 186(DARK_OAK_FENCE_GATE / SOLID+IGN_PASSABLE+GROUND+GROUND_HEIGHT) 
+[11:04:45] [Server thread/WARN]: * MISSING 187(ACACIA_FENCE_GATE / SOLID+IGN_PASSABLE+GROUND+GROUND_HEIGHT) 
+[11:04:45] [Server thread/WARN]: * MISSING 188(SPRUCE_FENCE / SOLID+IGN_PASSABLE+GROUND+GROUND_HEIGHT) 
+[11:04:45] [Server thread/WARN]: * MISSING 189(BIRCH_FENCE / SOLID+IGN_PASSABLE+GROUND+GROUND_HEIGHT) 
+[11:04:45] [Server thread/WARN]: * MISSING 190(JUNGLE_FENCE / SOLID+IGN_PASSABLE+GROUND+GROUND_HEIGHT) 
+[11:04:45] [Server thread/WARN]: * MISSING 191(DARK_OAK_FENCE / SOLID+IGN_PASSABLE+GROUND+GROUND_HEIGHT) 
+[11:04:45] [Server thread/WARN]: * MISSING 192(ACACIA_FENCE / SOLID+IGN_PASSABLE+GROUND+GROUND_HEIGHT) 
+[11:04:45] [Server thread/WARN]: * MISSING 193(SPRUCE_DOOR / SOLID+IGN_PASSABLE+GROUND+GROUND_HEIGHT) 
+[11:04:45] [Server thread/WARN]: * MISSING 194(BIRCH_DOOR / SOLID+IGN_PASSABLE+GROUND+GROUND_HEIGHT) 
+[11:04:45] [Server thread/WARN]: * MISSING 195(JUNGLE_DOOR / SOLID+IGN_PASSABLE+GROUND+GROUND_HEIGHT) 
+[11:04:45] [Server thread/WARN]: * MISSING 196(ACACIA_DOOR / SOLID+IGN_PASSABLE+GROUND+GROUND_HEIGHT) 
+[11:04:45] [Server thread/WARN]: * MISSING 197(DARK_OAK_DOOR / SOLID+IGN_PASSABLE+GROUND+GROUND_HEIGHT) 
+[11:04:45] [Server thread/INFO]: [NoCheatPlus] Post-enable running...
+[11:04:45] [Craft Scheduler Thread - 15/INFO]: [PlugMan] No update was found.
+[11:04:45] [Thread-27/INFO]: [CS-CoreLib - Updater] CS-CoreLib is outdated!
+[11:04:45] [Thread-27/INFO]: [CS-CoreLib - Updater] Downloading CS-CoreLib v1.5.7
+[11:04:46] [Server thread/INFO]: [NoCheatPlus] Post-enable finished.
+[11:04:46] [Server thread/INFO]: [HolographicDisplays] Found a new version available: v2.2
+[11:04:46] [Server thread/INFO]: [HolographicDisplays] Download it on Bukkit Dev:
+[11:04:46] [Server thread/INFO]: [HolographicDisplays] dev.bukkit.org/bukkit-plugins/holographic-displays
+[11:04:46] [Server thread/INFO]: [0;32;22m[[0;32;1mHealthBar[0;32;22m] [0;32;1mFound an update: v1.8.3   [0;37;1m(Your version: v1.8.2)[m
+[11:04:46] [Craft Scheduler Thread - 14/WARN]: §c[Punishmental] Failsafe Activated to prevent server lock-up
+[11:04:46] [Craft Scheduler Thread - 14/WARN]: §c[Punishmental] If the server was running fine when this happened, please consider deactivating or raising the failsafe value in the Punishmental Config Settings
+[11:04:46] [Craft Scheduler Thread - 14/WARN]: §a[Punishmental] Starting lag checker
+[11:04:46] [Craft Scheduler Thread - 14/WARN]: §a[Punishmental] Lag cheker running
+[11:04:46] [Server thread/INFO]: [0;32;22m[[0;32;1mHealthBar[0;32;22m] [0;37;1mType "[0;32;1m/hbr update[0;37;1m" or download it from:[m
+[11:04:46] [Server thread/INFO]: [0;32;22m[[0;32;1mHealthBar[0;32;22m] [0;37;1mdev.bukkit.org/bukkit-plugins/health-bar[m
+[11:04:46] [Craft Scheduler Thread - 8/INFO]: [GAListener] Connection established!
+[11:04:46] [Server thread/INFO]: [ASkyBlock] Loading island grid...
+[11:04:46] [Server thread/INFO]: [ASkyBlock] Loading islands.yml
+[11:04:46] [Craft Scheduler Thread - 8/INFO]: [GAListener] Loading queued votes
+[11:04:46] [Craft Scheduler Thread - 8/INFO]: [GAListener] Loaded 0 queued votes
+[11:04:46] [Server thread/INFO]: [ASkyBlock] Loading warps...
+[11:04:46] [Server thread/ERROR]: Spawn eggs must be described by name. Try one of these (not all are possible):
+[11:04:46] [Server thread/ERROR]: CREEPER
+[11:04:46] [Server thread/ERROR]: SKELETON
+[11:04:46] [Server thread/ERROR]: SPIDER
+[11:04:46] [Server thread/ERROR]: GIANT
+[11:04:46] [Server thread/ERROR]: ZOMBIE
+[11:04:46] [Server thread/ERROR]: SLIME
+[11:04:46] [Server thread/ERROR]: GHAST
+[11:04:46] [Server thread/ERROR]: PIG_ZOMBIE
+[11:04:46] [Server thread/ERROR]: ENDERMAN
+[11:04:46] [Server thread/ERROR]: CAVE_SPIDER
+[11:04:46] [Server thread/ERROR]: SILVERFISH
+[11:04:46] [Server thread/ERROR]: BLAZE
+[11:04:46] [Server thread/ERROR]: MAGMA_CUBE
+[11:04:46] [Server thread/ERROR]: ENDER_DRAGON
+[11:04:46] [Server thread/ERROR]: WITHER
+[11:04:46] [Server thread/ERROR]: BAT
+[11:04:46] [Server thread/ERROR]: WITCH
+[11:04:46] [Server thread/ERROR]: ENDERMITE
+[11:04:46] [Server thread/ERROR]: GUARDIAN
+[11:04:46] [Server thread/ERROR]: PIG
+[11:04:46] [Server thread/ERROR]: SHEEP
+[11:04:46] [Server thread/ERROR]: COW
+[11:04:46] [Server thread/ERROR]: CHICKEN
+[11:04:46] [Server thread/ERROR]: SQUID
+[11:04:46] [Server thread/ERROR]: WOLF
+[11:04:46] [Server thread/ERROR]: MUSHROOM_COW
+[11:04:46] [Server thread/ERROR]: SNOWMAN
+[11:04:46] [Server thread/ERROR]: OCELOT
+[11:04:46] [Server thread/ERROR]: IRON_GOLEM
+[11:04:46] [Server thread/ERROR]: HORSE
+[11:04:46] [Server thread/ERROR]: RABBIT
+[11:04:46] [Server thread/ERROR]: VILLAGER
+[11:04:46] [Server thread/INFO]: [ASkyBlock] All files loaded. Ready to play...
+[11:04:46] [Server thread/WARN]: [ViaVersion] There is a newer version available: 0.9.4
+[11:04:46] [Craft Scheduler Thread - 6/INFO]: [Vault] Checking for Updates ... 
+[11:04:46] [Craft Scheduler Thread - 6/WARN]: [Vault] Stable Version: 1.5.6 is out! You are still running version: 1.5.5
+[11:04:46] [Craft Scheduler Thread - 6/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[11:04:47] [Server thread/WARN]:  
+[11:04:47] [Server thread/WARN]: #################### - UPDATE - ####################
+[11:04:47] [Server thread/WARN]: CS-CoreLib was successfully updated (1.5.5 -> 1.5.7)
+[11:04:47] [Server thread/WARN]: Please restart your Server in order to use the new Version
+[11:04:47] [Server thread/WARN]:  
+[11:04:47] [Server thread/INFO]: [ASkyBlock] ASkyblock V3.0.1.1 is available! You are running 3.0.0.4
+[11:04:47] [Server thread/INFO]: [ASkyBlock] Update at: http://dev.bukkit.org/bukkit-plugins/skyblock
+[11:05:46] [Craft Scheduler Thread - 17/WARN]: [EnjinMinecraftPlugin] Auth key invalid. Please regenerate on the enjin control panel.
+[11:09:46] [Craft Scheduler Thread - 26/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[11:13:07] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 5 seconds[m
+[11:13:08] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 4 seconds[m
+[11:13:09] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 3 seconds[m
+[11:13:10] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 2 seconds[m
+[11:13:11] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 1 seconds[m
+[11:13:12] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m Cleaning Items...[m
+[11:14:47] [Craft Scheduler Thread - 33/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[11:19:48] [Craft Scheduler Thread - 25/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[11:21:29] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 5 seconds[m
+[11:21:30] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 4 seconds[m
+[11:21:31] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 3 seconds[m
+[11:21:32] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 2 seconds[m
+[11:21:33] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 1 seconds[m
+[11:21:34] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m Cleaning Items...[m
+[11:24:48] [Craft Scheduler Thread - 57/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[11:29:49] [Craft Scheduler Thread - 66/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[11:29:49] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 5 seconds[m
+[11:29:50] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 4 seconds[m
+[11:29:51] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 3 seconds[m
+[11:29:52] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 2 seconds[m
+[11:29:53] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 1 seconds[m
+[11:29:54] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m Cleaning Items...[m
+[11:34:49] [Server thread/INFO]: [0;37;22m[Simple-AutoSave] [0;33;1mSaving Worlds & Player Data...[m
+[11:34:49] [Server thread/WARN]: A manual (plugin-induced) save has been detected while server is configured to auto-save. This may affect performance.
+[11:34:49] [Craft Scheduler Thread - 85/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[11:38:10] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 5 seconds[m
+[11:38:11] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 4 seconds[m
+[11:38:12] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 3 seconds[m
+[11:38:13] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 2 seconds[m
+[11:38:14] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 1 seconds[m
+[11:38:15] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m Cleaning Items...[m
+[11:39:50] [Craft Scheduler Thread - 86/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[11:44:50] [Craft Scheduler Thread - 100/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[11:46:31] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 5 seconds[m
+[11:46:32] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 4 seconds[m
+[11:46:33] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 3 seconds[m
+[11:46:34] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 2 seconds[m
+[11:46:35] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 1 seconds[m
+[11:46:36] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m Cleaning Items...[m
+[11:49:51] [Craft Scheduler Thread - 103/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[11:54:51] [Craft Scheduler Thread - 127/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[11:54:51] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 5 seconds[m
+[11:54:52] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 4 seconds[m
+[11:54:53] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 3 seconds[m
+[11:54:54] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 2 seconds[m
+[11:54:55] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 1 seconds[m
+[11:54:56] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m Cleaning Items...[m
+[11:59:51] [Craft Scheduler Thread - 125/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[12:03:12] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 5 seconds[m
+[12:03:13] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 4 seconds[m
+[12:03:14] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 3 seconds[m
+[12:03:15] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 2 seconds[m
+[12:03:16] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 1 seconds[m
+[12:03:17] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m Cleaning Items...[m
+[12:04:52] [Server thread/INFO]: [0;37;22m[Simple-AutoSave] [0;33;1mSaving Worlds & Player Data...[m
+[12:04:52] [Craft Scheduler Thread - 153/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[12:09:53] [Craft Scheduler Thread - 139/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[12:11:33] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 5 seconds[m
+[12:11:34] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 4 seconds[m
+[12:11:35] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 3 seconds[m
+[12:11:36] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 2 seconds[m
+[12:11:37] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 1 seconds[m
+[12:11:38] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m Cleaning Items...[m
+[12:14:53] [Craft Scheduler Thread - 177/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[12:19:53] [Craft Scheduler Thread - 199/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[12:19:54] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 5 seconds[m
+[12:19:55] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 4 seconds[m
+[12:19:56] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 3 seconds[m
+[12:19:57] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 2 seconds[m
+[12:19:58] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 1 seconds[m
+[12:19:59] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m Cleaning Items...[m
+[12:24:54] [Craft Scheduler Thread - 204/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[12:28:15] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 5 seconds[m
+[12:28:16] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 4 seconds[m
+[12:28:17] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 3 seconds[m
+[12:28:18] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 2 seconds[m
+[12:28:19] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 1 seconds[m
+[12:28:20] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m Cleaning Items...[m
+[12:29:54] [Craft Scheduler Thread - 213/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[12:34:54] [Server thread/INFO]: [0;37;22m[Simple-AutoSave] [0;33;1mSaving Worlds & Player Data...[m
+[12:34:55] [Craft Scheduler Thread - 241/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[12:36:35] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 5 seconds[m
+[12:36:36] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 4 seconds[m
+[12:36:37] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 3 seconds[m
+[12:36:38] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 2 seconds[m
+[12:36:39] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 1 seconds[m
+[12:36:40] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m Cleaning Items...[m
+[12:39:55] [Craft Scheduler Thread - 245/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[12:44:55] [Craft Scheduler Thread - 252/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[12:44:55] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 5 seconds[m
+[12:44:56] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 4 seconds[m
+[12:44:57] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 3 seconds[m
+[12:44:58] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 2 seconds[m
+[12:44:59] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 1 seconds[m
+[12:45:00] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m Cleaning Items...[m
+[12:49:55] [Craft Scheduler Thread - 271/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[12:53:15] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 5 seconds[m
+[12:53:16] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 4 seconds[m
+[12:53:17] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 3 seconds[m
+[12:53:18] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 2 seconds[m
+[12:53:19] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 1 seconds[m
+[12:53:20] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m Cleaning Items...[m
+[12:54:55] [Craft Scheduler Thread - 281/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[12:59:55] [Craft Scheduler Thread - 287/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[13:01:36] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 5 seconds[m
+[13:01:37] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 4 seconds[m
+[13:01:38] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 3 seconds[m
+[13:01:39] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 2 seconds[m
+[13:01:40] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 1 seconds[m
+[13:01:41] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m Cleaning Items...[m
+[13:04:55] [Server thread/INFO]: [0;37;22m[Simple-AutoSave] [0;33;1mSaving Worlds & Player Data...[m
+[13:04:55] [Craft Scheduler Thread - 314/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[13:09:55] [Craft Scheduler Thread - 317/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[13:09:56] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 5 seconds[m
+[13:09:57] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 4 seconds[m
+[13:09:58] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 3 seconds[m
+[13:09:59] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 2 seconds[m
+[13:10:00] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 1 seconds[m
+[13:10:01] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m Cleaning Items...[m
+[13:14:56] [Craft Scheduler Thread - 325/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[13:18:16] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 5 seconds[m
+[13:18:17] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 4 seconds[m
+[13:18:18] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 3 seconds[m
+[13:18:19] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 2 seconds[m
+[13:18:20] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 1 seconds[m
+[13:18:21] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m Cleaning Items...[m
+[13:19:56] [Craft Scheduler Thread - 340/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[13:24:56] [Craft Scheduler Thread - 355/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[13:26:36] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 5 seconds[m
+[13:26:37] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 4 seconds[m
+[13:26:38] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 3 seconds[m
+[13:26:39] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 2 seconds[m
+[13:26:40] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 1 seconds[m
+[13:26:41] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m Cleaning Items...[m
+[13:29:57] [Craft Scheduler Thread - 356/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[13:34:58] [Server thread/INFO]: [0;37;22m[Simple-AutoSave] [0;33;1mSaving Worlds & Player Data...[m
+[13:34:58] [Craft Scheduler Thread - 382/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[13:34:58] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 5 seconds[m
+[13:34:59] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 4 seconds[m
+[13:35:00] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 3 seconds[m
+[13:35:01] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 2 seconds[m
+[13:35:02] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 1 seconds[m
+[13:35:03] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m Cleaning Items...[m
+[13:37:19] [Craft Scheduler Thread - 381/INFO]: IO Error on AdvancedMetrics
+[13:37:19] [Craft Scheduler Thread - 381/WARN]: java.net.ConnectException: Connection timed out: connect
+[13:37:19] [Craft Scheduler Thread - 381/WARN]: 	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+[13:37:19] [Craft Scheduler Thread - 381/WARN]: 	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+[13:37:19] [Craft Scheduler Thread - 381/WARN]: 	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+[13:37:19] [Craft Scheduler Thread - 381/WARN]: 	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+[13:37:19] [Craft Scheduler Thread - 381/WARN]: 	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+[13:37:19] [Craft Scheduler Thread - 381/WARN]: 	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+[13:37:19] [Craft Scheduler Thread - 381/WARN]: 	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+[13:37:19] [Craft Scheduler Thread - 381/WARN]: 	at java.net.Socket.connect(Socket.java:589)
+[13:37:19] [Craft Scheduler Thread - 381/WARN]: 	at java.net.Socket.connect(Socket.java:538)
+[13:37:19] [Craft Scheduler Thread - 381/WARN]: 	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+[13:37:19] [Craft Scheduler Thread - 381/WARN]: 	at sun.net.www.http.HttpClient.openServer(HttpClient.java:432)
+[13:37:19] [Craft Scheduler Thread - 381/WARN]: 	at sun.net.www.http.HttpClient.openServer(HttpClient.java:527)
+[13:37:19] [Craft Scheduler Thread - 381/WARN]: 	at sun.net.www.http.HttpClient.<init>(HttpClient.java:211)
+[13:37:19] [Craft Scheduler Thread - 381/WARN]: 	at sun.net.www.http.HttpClient.New(HttpClient.java:308)
+[13:37:19] [Craft Scheduler Thread - 381/WARN]: 	at sun.net.www.http.HttpClient.New(HttpClient.java:326)
+[13:37:19] [Craft Scheduler Thread - 381/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1169)
+[13:37:19] [Craft Scheduler Thread - 381/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1105)
+[13:37:19] [Craft Scheduler Thread - 381/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:999)
+[13:37:19] [Craft Scheduler Thread - 381/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:933)
+[13:37:19] [Craft Scheduler Thread - 381/WARN]: 	at com.nunofacha.chestmaster.AdvancedMetrics.getURL(AdvancedMetrics.java:35)
+[13:37:19] [Craft Scheduler Thread - 381/WARN]: 	at com.nunofacha.chestmaster.AdvancedMetrics.sendPing(AdvancedMetrics.java:98)
+[13:37:19] [Craft Scheduler Thread - 381/WARN]: 	at com.nunofacha.chestmaster.AdvancedMetrics.access$000(AdvancedMetrics.java:26)
+[13:37:19] [Craft Scheduler Thread - 381/WARN]: 	at com.nunofacha.chestmaster.AdvancedMetrics$1.run(AdvancedMetrics.java:106)
+[13:37:19] [Craft Scheduler Thread - 381/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71)
+[13:37:19] [Craft Scheduler Thread - 381/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53)
+[13:37:19] [Craft Scheduler Thread - 381/WARN]: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+[13:37:19] [Craft Scheduler Thread - 381/WARN]: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+[13:37:19] [Craft Scheduler Thread - 381/WARN]: 	at java.lang.Thread.run(Thread.java:745)
+[13:39:58] [Craft Scheduler Thread - 388/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[13:43:19] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 5 seconds[m
+[13:43:20] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 4 seconds[m
+[13:43:21] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 3 seconds[m
+[13:43:22] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 2 seconds[m
+[13:43:23] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 1 seconds[m
+[13:43:24] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m Cleaning Items...[m
+[13:44:58] [Craft Scheduler Thread - 394/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[13:49:59] [Craft Scheduler Thread - 415/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[13:51:39] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 5 seconds[m
+[13:51:40] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 4 seconds[m
+[13:51:41] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 3 seconds[m
+[13:51:42] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 2 seconds[m
+[13:51:43] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 1 seconds[m
+[13:51:44] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m Cleaning Items...[m
+[13:54:59] [Craft Scheduler Thread - 424/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[13:59:59] [Craft Scheduler Thread - 428/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[13:59:59] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 5 seconds[m
+[14:00:00] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 4 seconds[m
+[14:00:01] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 3 seconds[m
+[14:00:02] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 2 seconds[m
+[14:00:03] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 1 seconds[m
+[14:00:04] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m Cleaning Items...[m
+[14:02:20] [Craft Scheduler Thread - 427/INFO]: IO Error on AdvancedMetrics
+[14:02:20] [Craft Scheduler Thread - 427/WARN]: java.net.ConnectException: Connection timed out: connect
+[14:02:20] [Craft Scheduler Thread - 427/WARN]: 	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+[14:02:20] [Craft Scheduler Thread - 427/WARN]: 	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+[14:02:20] [Craft Scheduler Thread - 427/WARN]: 	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+[14:02:20] [Craft Scheduler Thread - 427/WARN]: 	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+[14:02:20] [Craft Scheduler Thread - 427/WARN]: 	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+[14:02:20] [Craft Scheduler Thread - 427/WARN]: 	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+[14:02:20] [Craft Scheduler Thread - 427/WARN]: 	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+[14:02:20] [Craft Scheduler Thread - 427/WARN]: 	at java.net.Socket.connect(Socket.java:589)
+[14:02:20] [Craft Scheduler Thread - 427/WARN]: 	at java.net.Socket.connect(Socket.java:538)
+[14:02:20] [Craft Scheduler Thread - 427/WARN]: 	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+[14:02:20] [Craft Scheduler Thread - 427/WARN]: 	at sun.net.www.http.HttpClient.openServer(HttpClient.java:432)
+[14:02:20] [Craft Scheduler Thread - 427/WARN]: 	at sun.net.www.http.HttpClient.openServer(HttpClient.java:527)
+[14:02:20] [Craft Scheduler Thread - 427/WARN]: 	at sun.net.www.http.HttpClient.<init>(HttpClient.java:211)
+[14:02:20] [Craft Scheduler Thread - 427/WARN]: 	at sun.net.www.http.HttpClient.New(HttpClient.java:308)
+[14:02:20] [Craft Scheduler Thread - 427/WARN]: 	at sun.net.www.http.HttpClient.New(HttpClient.java:326)
+[14:02:20] [Craft Scheduler Thread - 427/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1169)
+[14:02:20] [Craft Scheduler Thread - 427/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1105)
+[14:02:20] [Craft Scheduler Thread - 427/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:999)
+[14:02:20] [Craft Scheduler Thread - 427/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:933)
+[14:02:20] [Craft Scheduler Thread - 427/WARN]: 	at com.nunofacha.chestmaster.AdvancedMetrics.getURL(AdvancedMetrics.java:35)
+[14:02:20] [Craft Scheduler Thread - 427/WARN]: 	at com.nunofacha.chestmaster.AdvancedMetrics.sendPing(AdvancedMetrics.java:98)
+[14:02:20] [Craft Scheduler Thread - 427/WARN]: 	at com.nunofacha.chestmaster.AdvancedMetrics.access$000(AdvancedMetrics.java:26)
+[14:02:20] [Craft Scheduler Thread - 427/WARN]: 	at com.nunofacha.chestmaster.AdvancedMetrics$1.run(AdvancedMetrics.java:106)
+[14:02:20] [Craft Scheduler Thread - 427/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71)
+[14:02:20] [Craft Scheduler Thread - 427/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53)
+[14:02:20] [Craft Scheduler Thread - 427/WARN]: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+[14:02:20] [Craft Scheduler Thread - 427/WARN]: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+[14:02:20] [Craft Scheduler Thread - 427/WARN]: 	at java.lang.Thread.run(Thread.java:745)
+[14:04:59] [Server thread/INFO]: [0;37;22m[Simple-AutoSave] [0;33;1mSaving Worlds & Player Data...[m
+[14:04:59] [Craft Scheduler Thread - 442/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[14:08:20] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 5 seconds[m
+[14:08:21] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 4 seconds[m
+[14:08:22] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 3 seconds[m
+[14:08:23] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 2 seconds[m
+[14:08:24] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 1 seconds[m
+[14:08:25] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m Cleaning Items...[m
+[14:09:59] [Craft Scheduler Thread - 461/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[14:15:00] [Craft Scheduler Thread - 467/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[14:16:40] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 5 seconds[m
+[14:16:41] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 4 seconds[m
+[14:16:42] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 3 seconds[m
+[14:16:43] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 2 seconds[m
+[14:16:44] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 1 seconds[m
+[14:16:45] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m Cleaning Items...[m
+[14:20:00] [Craft Scheduler Thread - 490/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[14:25:00] [Craft Scheduler Thread - 499/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[14:25:01] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 5 seconds[m
+[14:25:02] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 4 seconds[m
+[14:25:03] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 3 seconds[m
+[14:25:04] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 2 seconds[m
+[14:25:05] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 1 seconds[m
+[14:25:06] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m Cleaning Items...[m
+[14:30:01] [Craft Scheduler Thread - 500/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[14:33:21] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 5 seconds[m
+[14:33:22] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 4 seconds[m
+[14:33:23] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 3 seconds[m
+[14:33:24] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 2 seconds[m
+[14:33:25] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 1 seconds[m
+[14:33:26] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m Cleaning Items...[m
+[14:35:01] [Server thread/INFO]: [0;37;22m[Simple-AutoSave] [0;33;1mSaving Worlds & Player Data...[m
+[14:35:01] [Craft Scheduler Thread - 527/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[14:40:01] [Craft Scheduler Thread - 530/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[14:41:41] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 5 seconds[m
+[14:41:42] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 4 seconds[m
+[14:41:43] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 3 seconds[m
+[14:41:44] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 2 seconds[m
+[14:41:45] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 1 seconds[m
+[14:41:46] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m Cleaning Items...[m
+[14:45:01] [Craft Scheduler Thread - 536/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[14:50:01] [Craft Scheduler Thread - 560/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[14:50:01] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 5 seconds[m
+[14:50:02] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 4 seconds[m
+[14:50:03] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 3 seconds[m
+[14:50:04] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 2 seconds[m
+[14:50:05] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 1 seconds[m
+[14:50:06] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m Cleaning Items...[m
+[14:55:01] [Craft Scheduler Thread - 570/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[14:58:21] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 5 seconds[m
+[14:58:22] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 4 seconds[m
+[14:58:23] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 3 seconds[m
+[14:58:24] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 2 seconds[m
+[14:58:25] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 1 seconds[m
+[14:58:26] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m Cleaning Items...[m
+[15:00:01] [Craft Scheduler Thread - 574/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[15:05:01] [Server thread/INFO]: [0;37;22m[Simple-AutoSave] [0;33;1mSaving Worlds & Player Data...[m
+[15:05:01] [Craft Scheduler Thread - 581/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[15:06:41] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 5 seconds[m
+[15:06:42] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 4 seconds[m
+[15:06:43] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 3 seconds[m
+[15:06:44] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 2 seconds[m
+[15:06:45] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 1 seconds[m
+[15:06:46] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m Cleaning Items...[m
+[15:10:01] [Craft Scheduler Thread - 608/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[15:15:01] [Craft Scheduler Thread - 615/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[15:15:01] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 5 seconds[m
+[15:15:02] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 4 seconds[m
+[15:15:03] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 3 seconds[m
+[15:15:04] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 2 seconds[m
+[15:15:05] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 1 seconds[m
+[15:15:06] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m Cleaning Items...[m
+[15:20:01] [Craft Scheduler Thread - 638/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[15:23:22] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 5 seconds[m
+[15:23:23] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 4 seconds[m
+[15:23:24] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 3 seconds[m
+[15:23:25] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 2 seconds[m
+[15:23:26] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 1 seconds[m
+[15:23:27] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m Cleaning Items...[m
+[15:25:01] [Craft Scheduler Thread - 645/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[15:30:01] [Craft Scheduler Thread - 649/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[15:31:42] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 5 seconds[m
+[15:31:43] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 4 seconds[m
+[15:31:44] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 3 seconds[m
+[15:31:45] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 2 seconds[m
+[15:31:46] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 1 seconds[m
+[15:31:47] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m Cleaning Items...[m
+[15:35:01] [Server thread/INFO]: [0;37;22m[Simple-AutoSave] [0;33;1mSaving Worlds & Player Data...[m
+[15:35:01] [Craft Scheduler Thread - 654/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[15:40:01] [Craft Scheduler Thread - 680/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[15:40:02] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 5 seconds[m
+[15:40:03] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 4 seconds[m
+[15:40:04] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 3 seconds[m
+[15:40:05] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 2 seconds[m
+[15:40:06] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 1 seconds[m
+[15:40:07] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m Cleaning Items...[m
+[15:45:01] [Craft Scheduler Thread - 690/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[15:48:22] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 5 seconds[m
+[15:48:23] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 4 seconds[m
+[15:48:24] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 3 seconds[m
+[15:48:25] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 2 seconds[m
+[15:48:26] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 1 seconds[m
+[15:48:27] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m Cleaning Items...[m
+[15:50:01] [Craft Scheduler Thread - 709/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[15:55:02] [Craft Scheduler Thread - 723/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[15:56:42] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 5 seconds[m
+[15:56:43] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 4 seconds[m
+[15:56:44] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 3 seconds[m
+[15:56:45] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 2 seconds[m
+[15:56:46] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 1 seconds[m
+[15:56:47] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m Cleaning Items...[m
+[16:00:02] [Craft Scheduler Thread - 726/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[16:05:02] [Server thread/INFO]: [0;37;22m[Simple-AutoSave] [0;33;1mSaving Worlds & Player Data...[m
+[16:05:02] [Craft Scheduler Thread - 754/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[16:05:02] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 5 seconds[m
+[16:05:03] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 4 seconds[m
+[16:05:04] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 3 seconds[m
+[16:05:05] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 2 seconds[m
+[16:05:06] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 1 seconds[m
+[16:05:07] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m Cleaning Items...[m
+[16:10:02] [Craft Scheduler Thread - 748/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[16:13:22] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 5 seconds[m
+[16:13:23] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 4 seconds[m
+[16:13:24] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 3 seconds[m
+[16:13:25] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 2 seconds[m
+[16:13:26] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 1 seconds[m
+[16:13:27] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m Cleaning Items...[m
+[16:15:02] [Craft Scheduler Thread - 765/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[16:20:02] [Craft Scheduler Thread - 774/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[16:21:42] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 5 seconds[m
+[16:21:43] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 4 seconds[m
+[16:21:44] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 3 seconds[m
+[16:21:45] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 2 seconds[m
+[16:21:46] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 1 seconds[m
+[16:21:47] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m Cleaning Items...[m
+[16:25:02] [Craft Scheduler Thread - 794/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[16:30:02] [Craft Scheduler Thread - 795/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[16:30:02] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 5 seconds[m
+[16:30:03] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 4 seconds[m
+[16:30:04] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 3 seconds[m
+[16:30:05] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 2 seconds[m
+[16:30:06] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 1 seconds[m
+[16:30:07] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m Cleaning Items...[m
+[16:35:02] [Server thread/INFO]: [0;37;22m[Simple-AutoSave] [0;33;1mSaving Worlds & Player Data...[m
+[16:35:02] [Craft Scheduler Thread - 795/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[16:38:22] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 5 seconds[m
+[16:38:23] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 4 seconds[m
+[16:38:24] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 3 seconds[m
+[16:38:25] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 2 seconds[m
+[16:38:26] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 1 seconds[m
+[16:38:27] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m Cleaning Items...[m
+[16:40:02] [Craft Scheduler Thread - 825/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[16:45:02] [Craft Scheduler Thread - 833/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[16:46:42] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 5 seconds[m
+[16:46:43] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 4 seconds[m
+[16:46:44] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 3 seconds[m
+[16:46:45] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 2 seconds[m
+[16:46:46] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 1 seconds[m
+[16:46:47] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m Cleaning Items...[m
+[16:50:02] [Craft Scheduler Thread - 856/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[16:55:02] [Craft Scheduler Thread - 864/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[16:55:02] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 5 seconds[m
+[16:55:03] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 4 seconds[m
+[16:55:04] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 3 seconds[m
+[16:55:05] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 2 seconds[m
+[16:55:06] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 1 seconds[m
+[16:55:07] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m Cleaning Items...[m
+[17:00:02] [Craft Scheduler Thread - 866/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[17:03:23] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 5 seconds[m
+[17:03:24] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 4 seconds[m
+[17:03:25] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 3 seconds[m
+[17:03:26] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 2 seconds[m
+[17:03:27] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 1 seconds[m
+[17:03:28] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m Cleaning Items...[m
+[17:05:02] [Server thread/INFO]: [0;37;22m[Simple-AutoSave] [0;33;1mSaving Worlds & Player Data...[m
+[17:05:02] [Craft Scheduler Thread - 867/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[17:05:02] [Craft Scheduler Thread - 883/INFO]: [Vault] Checking for Updates ... 
+[17:05:03] [Craft Scheduler Thread - 883/WARN]: [Vault] Stable Version: 1.5.6 is out! You are still running version: 1.5.5
+[17:05:03] [Craft Scheduler Thread - 883/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[17:10:03] [Craft Scheduler Thread - 895/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[17:11:43] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 5 seconds[m
+[17:11:44] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 4 seconds[m
+[17:11:45] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 3 seconds[m
+[17:11:46] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 2 seconds[m
+[17:11:47] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 1 seconds[m
+[17:11:48] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m Cleaning Items...[m
+[17:15:03] [Craft Scheduler Thread - 903/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[17:20:04] [Craft Scheduler Thread - 920/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[17:20:04] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 5 seconds[m
+[17:20:05] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 4 seconds[m
+[17:20:06] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 3 seconds[m
+[17:20:07] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 2 seconds[m
+[17:20:08] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 1 seconds[m
+[17:20:09] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m Cleaning Items...[m
+[17:25:04] [Craft Scheduler Thread - 931/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[17:28:24] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 5 seconds[m
+[17:28:25] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 4 seconds[m
+[17:28:26] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 3 seconds[m
+[17:28:27] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 2 seconds[m
+[17:28:28] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 1 seconds[m
+[17:28:29] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m Cleaning Items...[m
+[17:30:04] [Craft Scheduler Thread - 936/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[17:35:04] [Server thread/INFO]: [0;37;22m[Simple-AutoSave] [0;33;1mSaving Worlds & Player Data...[m
+[17:35:04] [Craft Scheduler Thread - 948/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[17:36:45] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 5 seconds[m
+[17:36:46] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 4 seconds[m
+[17:36:47] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 3 seconds[m
+[17:36:48] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 2 seconds[m
+[17:36:49] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 1 seconds[m
+[17:36:50] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m Cleaning Items...[m
+[17:40:05] [Craft Scheduler Thread - 967/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[17:44:17] [Craft Scheduler Thread - 961/INFO]: IO Error on AdvancedMetrics
+[17:44:17] [Craft Scheduler Thread - 961/WARN]: java.net.UnknownHostException: dev.nunofacha.com
+[17:44:17] [Craft Scheduler Thread - 961/WARN]: 	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:184)
+[17:44:17] [Craft Scheduler Thread - 961/WARN]: 	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+[17:44:17] [Craft Scheduler Thread - 961/WARN]: 	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+[17:44:17] [Craft Scheduler Thread - 961/WARN]: 	at java.net.Socket.connect(Socket.java:589)
+[17:44:17] [Craft Scheduler Thread - 961/WARN]: 	at java.net.Socket.connect(Socket.java:538)
+[17:44:17] [Craft Scheduler Thread - 961/WARN]: 	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+[17:44:17] [Craft Scheduler Thread - 961/WARN]: 	at sun.net.www.http.HttpClient.openServer(HttpClient.java:432)
+[17:44:17] [Craft Scheduler Thread - 961/WARN]: 	at sun.net.www.http.HttpClient.openServer(HttpClient.java:527)
+[17:44:17] [Craft Scheduler Thread - 961/WARN]: 	at sun.net.www.http.HttpClient.<init>(HttpClient.java:211)
+[17:44:17] [Craft Scheduler Thread - 961/WARN]: 	at sun.net.www.http.HttpClient.New(HttpClient.java:308)
+[17:44:17] [Craft Scheduler Thread - 961/WARN]: 	at sun.net.www.http.HttpClient.New(HttpClient.java:326)
+[17:44:17] [Craft Scheduler Thread - 961/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1169)
+[17:44:17] [Craft Scheduler Thread - 961/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1105)
+[17:44:17] [Craft Scheduler Thread - 961/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:999)
+[17:44:17] [Craft Scheduler Thread - 961/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:933)
+[17:44:17] [Craft Scheduler Thread - 961/WARN]: 	at com.nunofacha.chestmaster.AdvancedMetrics.getURL(AdvancedMetrics.java:35)
+[17:44:17] [Craft Scheduler Thread - 961/WARN]: 	at com.nunofacha.chestmaster.AdvancedMetrics.sendPing(AdvancedMetrics.java:98)
+[17:44:17] [Craft Scheduler Thread - 961/WARN]: 	at com.nunofacha.chestmaster.AdvancedMetrics.access$000(AdvancedMetrics.java:26)
+[17:44:17] [Craft Scheduler Thread - 961/WARN]: 	at com.nunofacha.chestmaster.AdvancedMetrics$1.run(AdvancedMetrics.java:106)
+[17:44:17] [Craft Scheduler Thread - 961/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71)
+[17:44:17] [Craft Scheduler Thread - 961/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53)
+[17:44:17] [Craft Scheduler Thread - 961/WARN]: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+[17:44:17] [Craft Scheduler Thread - 961/WARN]: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+[17:44:17] [Craft Scheduler Thread - 961/WARN]: 	at java.lang.Thread.run(Thread.java:745)
+[17:45:05] [Craft Scheduler Thread - 972/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[17:45:05] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 5 seconds[m
+[17:45:06] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 4 seconds[m
+[17:45:07] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 3 seconds[m
+[17:45:08] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 2 seconds[m
+[17:45:09] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 1 seconds[m
+[17:45:10] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m Cleaning Items...[m
+[17:45:17] [Craft Scheduler Thread - 961/INFO]: IO Error on AdvancedMetrics
+[17:45:17] [Craft Scheduler Thread - 961/WARN]: java.net.UnknownHostException: dev.nunofacha.com
+[17:45:17] [Craft Scheduler Thread - 961/WARN]: 	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:184)
+[17:45:17] [Craft Scheduler Thread - 961/WARN]: 	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+[17:45:17] [Craft Scheduler Thread - 961/WARN]: 	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+[17:45:17] [Craft Scheduler Thread - 961/WARN]: 	at java.net.Socket.connect(Socket.java:589)
+[17:45:17] [Craft Scheduler Thread - 961/WARN]: 	at java.net.Socket.connect(Socket.java:538)
+[17:45:17] [Craft Scheduler Thread - 961/WARN]: 	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+[17:45:17] [Craft Scheduler Thread - 961/WARN]: 	at sun.net.www.http.HttpClient.openServer(HttpClient.java:432)
+[17:45:17] [Craft Scheduler Thread - 961/WARN]: 	at sun.net.www.http.HttpClient.openServer(HttpClient.java:527)
+[17:45:17] [Craft Scheduler Thread - 961/WARN]: 	at sun.net.www.http.HttpClient.<init>(HttpClient.java:211)
+[17:45:17] [Craft Scheduler Thread - 961/WARN]: 	at sun.net.www.http.HttpClient.New(HttpClient.java:308)
+[17:45:17] [Craft Scheduler Thread - 961/WARN]: 	at sun.net.www.http.HttpClient.New(HttpClient.java:326)
+[17:45:17] [Craft Scheduler Thread - 961/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1169)
+[17:45:17] [Craft Scheduler Thread - 961/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1105)
+[17:45:17] [Craft Scheduler Thread - 961/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:999)
+[17:45:17] [Craft Scheduler Thread - 961/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:933)
+[17:45:17] [Craft Scheduler Thread - 961/WARN]: 	at com.nunofacha.chestmaster.AdvancedMetrics.getURL(AdvancedMetrics.java:35)
+[17:45:17] [Craft Scheduler Thread - 961/WARN]: 	at com.nunofacha.chestmaster.AdvancedMetrics.sendPing(AdvancedMetrics.java:98)
+[17:45:17] [Craft Scheduler Thread - 961/WARN]: 	at com.nunofacha.chestmaster.AdvancedMetrics.access$000(AdvancedMetrics.java:26)
+[17:45:17] [Craft Scheduler Thread - 961/WARN]: 	at com.nunofacha.chestmaster.AdvancedMetrics$1.run(AdvancedMetrics.java:106)
+[17:45:17] [Craft Scheduler Thread - 961/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71)
+[17:45:17] [Craft Scheduler Thread - 961/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53)
+[17:45:17] [Craft Scheduler Thread - 961/WARN]: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+[17:45:17] [Craft Scheduler Thread - 961/WARN]: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+[17:45:17] [Craft Scheduler Thread - 961/WARN]: 	at java.lang.Thread.run(Thread.java:745)
+[17:45:19] [Craft Scheduler Thread - 954/INFO]: [Metrics] mcstats.org
+[17:46:05] [Craft Scheduler Thread - 969/INFO]: IO Error on AdvancedMetrics
+[17:46:05] [Craft Scheduler Thread - 969/WARN]: java.net.UnknownHostException: dev.nunofacha.com
+[17:46:05] [Craft Scheduler Thread - 969/WARN]: 	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:184)
+[17:46:05] [Craft Scheduler Thread - 969/WARN]: 	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+[17:46:05] [Craft Scheduler Thread - 969/WARN]: 	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+[17:46:05] [Craft Scheduler Thread - 969/WARN]: 	at java.net.Socket.connect(Socket.java:589)
+[17:46:05] [Craft Scheduler Thread - 969/WARN]: 	at java.net.Socket.connect(Socket.java:538)
+[17:46:05] [Craft Scheduler Thread - 969/WARN]: 	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+[17:46:05] [Craft Scheduler Thread - 969/WARN]: 	at sun.net.www.http.HttpClient.openServer(HttpClient.java:432)
+[17:46:05] [Craft Scheduler Thread - 969/WARN]: 	at sun.net.www.http.HttpClient.openServer(HttpClient.java:527)
+[17:46:05] [Craft Scheduler Thread - 969/WARN]: 	at sun.net.www.http.HttpClient.<init>(HttpClient.java:211)
+[17:46:05] [Craft Scheduler Thread - 969/WARN]: 	at sun.net.www.http.HttpClient.New(HttpClient.java:308)
+[17:46:05] [Craft Scheduler Thread - 969/WARN]: 	at sun.net.www.http.HttpClient.New(HttpClient.java:326)
+[17:46:05] [Craft Scheduler Thread - 969/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1169)
+[17:46:05] [Craft Scheduler Thread - 969/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1105)
+[17:46:05] [Craft Scheduler Thread - 969/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:999)
+[17:46:05] [Craft Scheduler Thread - 969/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:933)
+[17:46:05] [Craft Scheduler Thread - 969/WARN]: 	at com.nunofacha.chestmaster.AdvancedMetrics.getURL(AdvancedMetrics.java:35)
+[17:46:05] [Craft Scheduler Thread - 969/WARN]: 	at com.nunofacha.chestmaster.AdvancedMetrics.sendPing(AdvancedMetrics.java:98)
+[17:46:05] [Craft Scheduler Thread - 969/WARN]: 	at com.nunofacha.chestmaster.AdvancedMetrics.access$000(AdvancedMetrics.java:26)
+[17:46:05] [Craft Scheduler Thread - 969/WARN]: 	at com.nunofacha.chestmaster.AdvancedMetrics$1.run(AdvancedMetrics.java:106)
+[17:46:05] [Craft Scheduler Thread - 969/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71)
+[17:46:05] [Craft Scheduler Thread - 969/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53)
+[17:46:05] [Craft Scheduler Thread - 969/WARN]: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+[17:46:05] [Craft Scheduler Thread - 969/WARN]: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+[17:46:05] [Craft Scheduler Thread - 969/WARN]: 	at java.lang.Thread.run(Thread.java:745)
+[17:47:17] [Craft Scheduler Thread - 954/INFO]: IO Error on AdvancedMetrics
+[17:47:17] [Craft Scheduler Thread - 954/WARN]: java.net.UnknownHostException: dev.nunofacha.com
+[17:47:17] [Craft Scheduler Thread - 954/WARN]: 	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:184)
+[17:47:17] [Craft Scheduler Thread - 954/WARN]: 	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+[17:47:17] [Craft Scheduler Thread - 954/WARN]: 	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+[17:47:17] [Craft Scheduler Thread - 954/WARN]: 	at java.net.Socket.connect(Socket.java:589)
+[17:47:17] [Craft Scheduler Thread - 954/WARN]: 	at java.net.Socket.connect(Socket.java:538)
+[17:47:17] [Craft Scheduler Thread - 954/WARN]: 	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+[17:47:17] [Craft Scheduler Thread - 954/WARN]: 	at sun.net.www.http.HttpClient.openServer(HttpClient.java:432)
+[17:47:17] [Craft Scheduler Thread - 954/WARN]: 	at sun.net.www.http.HttpClient.openServer(HttpClient.java:527)
+[17:47:17] [Craft Scheduler Thread - 954/WARN]: 	at sun.net.www.http.HttpClient.<init>(HttpClient.java:211)
+[17:47:17] [Craft Scheduler Thread - 954/WARN]: 	at sun.net.www.http.HttpClient.New(HttpClient.java:308)
+[17:47:17] [Craft Scheduler Thread - 954/WARN]: 	at sun.net.www.http.HttpClient.New(HttpClient.java:326)
+[17:47:17] [Craft Scheduler Thread - 954/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1169)
+[17:47:17] [Craft Scheduler Thread - 954/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1105)
+[17:47:17] [Craft Scheduler Thread - 954/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:999)
+[17:47:17] [Craft Scheduler Thread - 954/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:933)
+[17:47:17] [Craft Scheduler Thread - 954/WARN]: 	at com.nunofacha.chestmaster.AdvancedMetrics.getURL(AdvancedMetrics.java:35)
+[17:47:17] [Craft Scheduler Thread - 954/WARN]: 	at com.nunofacha.chestmaster.AdvancedMetrics.sendPing(AdvancedMetrics.java:98)
+[17:47:17] [Craft Scheduler Thread - 954/WARN]: 	at com.nunofacha.chestmaster.AdvancedMetrics.access$000(AdvancedMetrics.java:26)
+[17:47:17] [Craft Scheduler Thread - 954/WARN]: 	at com.nunofacha.chestmaster.AdvancedMetrics$1.run(AdvancedMetrics.java:106)
+[17:47:17] [Craft Scheduler Thread - 954/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71)
+[17:47:17] [Craft Scheduler Thread - 954/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53)
+[17:47:17] [Craft Scheduler Thread - 954/WARN]: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+[17:47:17] [Craft Scheduler Thread - 954/WARN]: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+[17:47:17] [Craft Scheduler Thread - 954/WARN]: 	at java.lang.Thread.run(Thread.java:745)
+[17:48:26] [Craft Scheduler Thread - 954/INFO]: IO Error on AdvancedMetrics
+[17:48:26] [Craft Scheduler Thread - 954/WARN]: java.net.ConnectException: Connection timed out: connect
+[17:48:26] [Craft Scheduler Thread - 954/WARN]: 	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+[17:48:26] [Craft Scheduler Thread - 954/WARN]: 	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+[17:48:26] [Craft Scheduler Thread - 954/WARN]: 	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+[17:48:26] [Craft Scheduler Thread - 954/WARN]: 	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+[17:48:26] [Craft Scheduler Thread - 954/WARN]: 	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+[17:48:26] [Craft Scheduler Thread - 954/WARN]: 	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+[17:48:26] [Craft Scheduler Thread - 954/WARN]: 	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+[17:48:26] [Craft Scheduler Thread - 954/WARN]: 	at java.net.Socket.connect(Socket.java:589)
+[17:48:26] [Craft Scheduler Thread - 954/WARN]: 	at java.net.Socket.connect(Socket.java:538)
+[17:48:26] [Craft Scheduler Thread - 954/WARN]: 	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+[17:48:26] [Craft Scheduler Thread - 954/WARN]: 	at sun.net.www.http.HttpClient.openServer(HttpClient.java:432)
+[17:48:26] [Craft Scheduler Thread - 954/WARN]: 	at sun.net.www.http.HttpClient.openServer(HttpClient.java:527)
+[17:48:26] [Craft Scheduler Thread - 954/WARN]: 	at sun.net.www.http.HttpClient.<init>(HttpClient.java:211)
+[17:48:26] [Craft Scheduler Thread - 954/WARN]: 	at sun.net.www.http.HttpClient.New(HttpClient.java:308)
+[17:48:26] [Craft Scheduler Thread - 954/WARN]: 	at sun.net.www.http.HttpClient.New(HttpClient.java:326)
+[17:48:26] [Craft Scheduler Thread - 954/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1169)
+[17:48:26] [Craft Scheduler Thread - 954/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1105)
+[17:48:26] [Craft Scheduler Thread - 954/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:999)
+[17:48:26] [Craft Scheduler Thread - 954/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:933)
+[17:48:26] [Craft Scheduler Thread - 954/WARN]: 	at com.nunofacha.chestmaster.AdvancedMetrics.getURL(AdvancedMetrics.java:35)
+[17:48:26] [Craft Scheduler Thread - 954/WARN]: 	at com.nunofacha.chestmaster.AdvancedMetrics.sendPing(AdvancedMetrics.java:98)
+[17:48:26] [Craft Scheduler Thread - 954/WARN]: 	at com.nunofacha.chestmaster.AdvancedMetrics.access$000(AdvancedMetrics.java:26)
+[17:48:26] [Craft Scheduler Thread - 954/WARN]: 	at com.nunofacha.chestmaster.AdvancedMetrics$1.run(AdvancedMetrics.java:106)
+[17:48:26] [Craft Scheduler Thread - 954/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71)
+[17:48:26] [Craft Scheduler Thread - 954/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53)
+[17:48:26] [Craft Scheduler Thread - 954/WARN]: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+[17:48:26] [Craft Scheduler Thread - 954/WARN]: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+[17:48:26] [Craft Scheduler Thread - 954/WARN]: 	at java.lang.Thread.run(Thread.java:745)
+[17:49:26] [Craft Scheduler Thread - 971/INFO]: IO Error on AdvancedMetrics
+[17:49:26] [Craft Scheduler Thread - 971/WARN]: java.net.ConnectException: Connection timed out: connect
+[17:49:26] [Craft Scheduler Thread - 971/WARN]: 	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+[17:49:26] [Craft Scheduler Thread - 971/WARN]: 	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+[17:49:26] [Craft Scheduler Thread - 971/WARN]: 	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+[17:49:26] [Craft Scheduler Thread - 971/WARN]: 	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+[17:49:26] [Craft Scheduler Thread - 971/WARN]: 	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+[17:49:26] [Craft Scheduler Thread - 971/WARN]: 	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+[17:49:26] [Craft Scheduler Thread - 971/WARN]: 	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+[17:49:26] [Craft Scheduler Thread - 971/WARN]: 	at java.net.Socket.connect(Socket.java:589)
+[17:49:26] [Craft Scheduler Thread - 971/WARN]: 	at java.net.Socket.connect(Socket.java:538)
+[17:49:26] [Craft Scheduler Thread - 971/WARN]: 	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+[17:49:26] [Craft Scheduler Thread - 971/WARN]: 	at sun.net.www.http.HttpClient.openServer(HttpClient.java:432)
+[17:49:26] [Craft Scheduler Thread - 971/WARN]: 	at sun.net.www.http.HttpClient.openServer(HttpClient.java:527)
+[17:49:26] [Craft Scheduler Thread - 971/WARN]: 	at sun.net.www.http.HttpClient.<init>(HttpClient.java:211)
+[17:49:26] [Craft Scheduler Thread - 971/WARN]: 	at sun.net.www.http.HttpClient.New(HttpClient.java:308)
+[17:49:26] [Craft Scheduler Thread - 971/WARN]: 	at sun.net.www.http.HttpClient.New(HttpClient.java:326)
+[17:49:26] [Craft Scheduler Thread - 971/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1169)
+[17:49:26] [Craft Scheduler Thread - 971/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1105)
+[17:49:26] [Craft Scheduler Thread - 971/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:999)
+[17:49:26] [Craft Scheduler Thread - 971/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:933)
+[17:49:26] [Craft Scheduler Thread - 971/WARN]: 	at com.nunofacha.chestmaster.AdvancedMetrics.getURL(AdvancedMetrics.java:35)
+[17:49:26] [Craft Scheduler Thread - 971/WARN]: 	at com.nunofacha.chestmaster.AdvancedMetrics.sendPing(AdvancedMetrics.java:98)
+[17:49:26] [Craft Scheduler Thread - 971/WARN]: 	at com.nunofacha.chestmaster.AdvancedMetrics.access$000(AdvancedMetrics.java:26)
+[17:49:26] [Craft Scheduler Thread - 971/WARN]: 	at com.nunofacha.chestmaster.AdvancedMetrics$1.run(AdvancedMetrics.java:106)
+[17:49:26] [Craft Scheduler Thread - 971/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71)
+[17:49:26] [Craft Scheduler Thread - 971/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53)
+[17:49:26] [Craft Scheduler Thread - 971/WARN]: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+[17:49:26] [Craft Scheduler Thread - 971/WARN]: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+[17:49:26] [Craft Scheduler Thread - 971/WARN]: 	at java.lang.Thread.run(Thread.java:745)
+[17:50:05] [Craft Scheduler Thread - 991/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[17:50:26] [Craft Scheduler Thread - 975/INFO]: IO Error on AdvancedMetrics
+[17:50:26] [Craft Scheduler Thread - 975/WARN]: java.net.ConnectException: Connection timed out: connect
+[17:50:26] [Craft Scheduler Thread - 975/WARN]: 	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+[17:50:26] [Craft Scheduler Thread - 975/WARN]: 	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+[17:50:26] [Craft Scheduler Thread - 975/WARN]: 	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+[17:50:26] [Craft Scheduler Thread - 975/WARN]: 	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+[17:50:26] [Craft Scheduler Thread - 975/WARN]: 	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+[17:50:26] [Craft Scheduler Thread - 975/WARN]: 	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+[17:50:26] [Craft Scheduler Thread - 975/WARN]: 	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+[17:50:26] [Craft Scheduler Thread - 975/WARN]: 	at java.net.Socket.connect(Socket.java:589)
+[17:50:26] [Craft Scheduler Thread - 975/WARN]: 	at java.net.Socket.connect(Socket.java:538)
+[17:50:26] [Craft Scheduler Thread - 975/WARN]: 	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+[17:50:26] [Craft Scheduler Thread - 975/WARN]: 	at sun.net.www.http.HttpClient.openServer(HttpClient.java:432)
+[17:50:26] [Craft Scheduler Thread - 975/WARN]: 	at sun.net.www.http.HttpClient.openServer(HttpClient.java:527)
+[17:50:26] [Craft Scheduler Thread - 975/WARN]: 	at sun.net.www.http.HttpClient.<init>(HttpClient.java:211)
+[17:50:26] [Craft Scheduler Thread - 975/WARN]: 	at sun.net.www.http.HttpClient.New(HttpClient.java:308)
+[17:50:26] [Craft Scheduler Thread - 975/WARN]: 	at sun.net.www.http.HttpClient.New(HttpClient.java:326)
+[17:50:26] [Craft Scheduler Thread - 975/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1169)
+[17:50:26] [Craft Scheduler Thread - 975/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1105)
+[17:50:26] [Craft Scheduler Thread - 975/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:999)
+[17:50:26] [Craft Scheduler Thread - 975/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:933)
+[17:50:26] [Craft Scheduler Thread - 975/WARN]: 	at com.nunofacha.chestmaster.AdvancedMetrics.getURL(AdvancedMetrics.java:35)
+[17:50:26] [Craft Scheduler Thread - 975/WARN]: 	at com.nunofacha.chestmaster.AdvancedMetrics.sendPing(AdvancedMetrics.java:98)
+[17:50:26] [Craft Scheduler Thread - 975/WARN]: 	at com.nunofacha.chestmaster.AdvancedMetrics.access$000(AdvancedMetrics.java:26)
+[17:50:26] [Craft Scheduler Thread - 975/WARN]: 	at com.nunofacha.chestmaster.AdvancedMetrics$1.run(AdvancedMetrics.java:106)
+[17:50:26] [Craft Scheduler Thread - 975/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71)
+[17:50:26] [Craft Scheduler Thread - 975/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53)
+[17:50:26] [Craft Scheduler Thread - 975/WARN]: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+[17:50:26] [Craft Scheduler Thread - 975/WARN]: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+[17:50:26] [Craft Scheduler Thread - 975/WARN]: 	at java.lang.Thread.run(Thread.java:745)
+[17:51:26] [Craft Scheduler Thread - 987/INFO]: IO Error on AdvancedMetrics
+[17:51:26] [Craft Scheduler Thread - 987/WARN]: java.net.ConnectException: Connection timed out: connect
+[17:51:26] [Craft Scheduler Thread - 987/WARN]: 	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+[17:51:26] [Craft Scheduler Thread - 987/WARN]: 	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+[17:51:26] [Craft Scheduler Thread - 987/WARN]: 	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+[17:51:26] [Craft Scheduler Thread - 987/WARN]: 	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+[17:51:26] [Craft Scheduler Thread - 987/WARN]: 	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+[17:51:26] [Craft Scheduler Thread - 987/WARN]: 	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+[17:51:26] [Craft Scheduler Thread - 987/WARN]: 	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+[17:51:26] [Craft Scheduler Thread - 987/WARN]: 	at java.net.Socket.connect(Socket.java:589)
+[17:51:26] [Craft Scheduler Thread - 987/WARN]: 	at java.net.Socket.connect(Socket.java:538)
+[17:51:26] [Craft Scheduler Thread - 987/WARN]: 	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+[17:51:26] [Craft Scheduler Thread - 987/WARN]: 	at sun.net.www.http.HttpClient.openServer(HttpClient.java:432)
+[17:51:26] [Craft Scheduler Thread - 987/WARN]: 	at sun.net.www.http.HttpClient.openServer(HttpClient.java:527)
+[17:51:26] [Craft Scheduler Thread - 987/WARN]: 	at sun.net.www.http.HttpClient.<init>(HttpClient.java:211)
+[17:51:26] [Craft Scheduler Thread - 987/WARN]: 	at sun.net.www.http.HttpClient.New(HttpClient.java:308)
+[17:51:26] [Craft Scheduler Thread - 987/WARN]: 	at sun.net.www.http.HttpClient.New(HttpClient.java:326)
+[17:51:26] [Craft Scheduler Thread - 987/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1169)
+[17:51:26] [Craft Scheduler Thread - 987/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1105)
+[17:51:26] [Craft Scheduler Thread - 987/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:999)
+[17:51:26] [Craft Scheduler Thread - 987/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:933)
+[17:51:26] [Craft Scheduler Thread - 987/WARN]: 	at com.nunofacha.chestmaster.AdvancedMetrics.getURL(AdvancedMetrics.java:35)
+[17:51:26] [Craft Scheduler Thread - 987/WARN]: 	at com.nunofacha.chestmaster.AdvancedMetrics.sendPing(AdvancedMetrics.java:98)
+[17:51:26] [Craft Scheduler Thread - 987/WARN]: 	at com.nunofacha.chestmaster.AdvancedMetrics.access$000(AdvancedMetrics.java:26)
+[17:51:26] [Craft Scheduler Thread - 987/WARN]: 	at com.nunofacha.chestmaster.AdvancedMetrics$1.run(AdvancedMetrics.java:106)
+[17:51:26] [Craft Scheduler Thread - 987/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71)
+[17:51:26] [Craft Scheduler Thread - 987/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53)
+[17:51:26] [Craft Scheduler Thread - 987/WARN]: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+[17:51:26] [Craft Scheduler Thread - 987/WARN]: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+[17:51:26] [Craft Scheduler Thread - 987/WARN]: 	at java.lang.Thread.run(Thread.java:745)
+[17:52:27] [Craft Scheduler Thread - 987/INFO]: IO Error on AdvancedMetrics
+[17:52:27] [Craft Scheduler Thread - 987/WARN]: java.net.ConnectException: Connection timed out: connect
+[17:52:27] [Craft Scheduler Thread - 987/WARN]: 	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+[17:52:27] [Craft Scheduler Thread - 987/WARN]: 	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+[17:52:27] [Craft Scheduler Thread - 987/WARN]: 	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+[17:52:27] [Craft Scheduler Thread - 987/WARN]: 	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+[17:52:27] [Craft Scheduler Thread - 987/WARN]: 	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+[17:52:27] [Craft Scheduler Thread - 987/WARN]: 	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+[17:52:27] [Craft Scheduler Thread - 987/WARN]: 	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+[17:52:27] [Craft Scheduler Thread - 987/WARN]: 	at java.net.Socket.connect(Socket.java:589)
+[17:52:27] [Craft Scheduler Thread - 987/WARN]: 	at java.net.Socket.connect(Socket.java:538)
+[17:52:27] [Craft Scheduler Thread - 987/WARN]: 	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+[17:52:27] [Craft Scheduler Thread - 987/WARN]: 	at sun.net.www.http.HttpClient.openServer(HttpClient.java:432)
+[17:52:27] [Craft Scheduler Thread - 987/WARN]: 	at sun.net.www.http.HttpClient.openServer(HttpClient.java:527)
+[17:52:27] [Craft Scheduler Thread - 987/WARN]: 	at sun.net.www.http.HttpClient.<init>(HttpClient.java:211)
+[17:52:27] [Craft Scheduler Thread - 987/WARN]: 	at sun.net.www.http.HttpClient.New(HttpClient.java:308)
+[17:52:27] [Craft Scheduler Thread - 987/WARN]: 	at sun.net.www.http.HttpClient.New(HttpClient.java:326)
+[17:52:27] [Craft Scheduler Thread - 987/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1169)
+[17:52:27] [Craft Scheduler Thread - 987/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1105)
+[17:52:27] [Craft Scheduler Thread - 987/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:999)
+[17:52:27] [Craft Scheduler Thread - 987/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:933)
+[17:52:27] [Craft Scheduler Thread - 987/WARN]: 	at com.nunofacha.chestmaster.AdvancedMetrics.getURL(AdvancedMetrics.java:35)
+[17:52:27] [Craft Scheduler Thread - 987/WARN]: 	at com.nunofacha.chestmaster.AdvancedMetrics.sendPing(AdvancedMetrics.java:98)
+[17:52:27] [Craft Scheduler Thread - 987/WARN]: 	at com.nunofacha.chestmaster.AdvancedMetrics.access$000(AdvancedMetrics.java:26)
+[17:52:27] [Craft Scheduler Thread - 987/WARN]: 	at com.nunofacha.chestmaster.AdvancedMetrics$1.run(AdvancedMetrics.java:106)
+[17:52:27] [Craft Scheduler Thread - 987/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71)
+[17:52:27] [Craft Scheduler Thread - 987/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53)
+[17:52:27] [Craft Scheduler Thread - 987/WARN]: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+[17:52:27] [Craft Scheduler Thread - 987/WARN]: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+[17:52:27] [Craft Scheduler Thread - 987/WARN]: 	at java.lang.Thread.run(Thread.java:745)
+[17:53:25] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 5 seconds[m
+[17:53:26] [Craft Scheduler Thread - 991/INFO]: IO Error on AdvancedMetrics
+[17:53:26] [Craft Scheduler Thread - 991/WARN]: java.net.ConnectException: Connection timed out: connect
+[17:53:26] [Craft Scheduler Thread - 991/WARN]: 	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+[17:53:26] [Craft Scheduler Thread - 991/WARN]: 	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+[17:53:26] [Craft Scheduler Thread - 991/WARN]: 	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+[17:53:26] [Craft Scheduler Thread - 991/WARN]: 	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+[17:53:26] [Craft Scheduler Thread - 991/WARN]: 	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+[17:53:26] [Craft Scheduler Thread - 991/WARN]: 	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+[17:53:26] [Craft Scheduler Thread - 991/WARN]: 	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+[17:53:26] [Craft Scheduler Thread - 991/WARN]: 	at java.net.Socket.connect(Socket.java:589)
+[17:53:26] [Craft Scheduler Thread - 991/WARN]: 	at java.net.Socket.connect(Socket.java:538)
+[17:53:26] [Craft Scheduler Thread - 991/WARN]: 	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+[17:53:26] [Craft Scheduler Thread - 991/WARN]: 	at sun.net.www.http.HttpClient.openServer(HttpClient.java:432)
+[17:53:26] [Craft Scheduler Thread - 991/WARN]: 	at sun.net.www.http.HttpClient.openServer(HttpClient.java:527)
+[17:53:26] [Craft Scheduler Thread - 991/WARN]: 	at sun.net.www.http.HttpClient.<init>(HttpClient.java:211)
+[17:53:26] [Craft Scheduler Thread - 991/WARN]: 	at sun.net.www.http.HttpClient.New(HttpClient.java:308)
+[17:53:26] [Craft Scheduler Thread - 991/WARN]: 	at sun.net.www.http.HttpClient.New(HttpClient.java:326)
+[17:53:26] [Craft Scheduler Thread - 991/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1169)
+[17:53:26] [Craft Scheduler Thread - 991/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1105)
+[17:53:26] [Craft Scheduler Thread - 991/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:999)
+[17:53:26] [Craft Scheduler Thread - 991/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:933)
+[17:53:26] [Craft Scheduler Thread - 991/WARN]: 	at com.nunofacha.chestmaster.AdvancedMetrics.getURL(AdvancedMetrics.java:35)
+[17:53:26] [Craft Scheduler Thread - 991/WARN]: 	at com.nunofacha.chestmaster.AdvancedMetrics.sendPing(AdvancedMetrics.java:98)
+[17:53:26] [Craft Scheduler Thread - 991/WARN]: 	at com.nunofacha.chestmaster.AdvancedMetrics.access$000(AdvancedMetrics.java:26)
+[17:53:26] [Craft Scheduler Thread - 991/WARN]: 	at com.nunofacha.chestmaster.AdvancedMetrics$1.run(AdvancedMetrics.java:106)
+[17:53:26] [Craft Scheduler Thread - 991/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71)
+[17:53:26] [Craft Scheduler Thread - 991/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53)
+[17:53:26] [Craft Scheduler Thread - 991/WARN]: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+[17:53:26] [Craft Scheduler Thread - 991/WARN]: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+[17:53:26] [Craft Scheduler Thread - 991/WARN]: 	at java.lang.Thread.run(Thread.java:745)
+[17:53:26] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 4 seconds[m
+[17:53:27] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 3 seconds[m
+[17:53:28] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 2 seconds[m
+[17:53:29] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m All dropped items will be removed in 1 seconds[m
+[17:53:30] [Server thread/INFO]: [0;32;22m[[0;31;22mAntiLag[0;32;22m] [m>[0;35;22m Cleaning Items...[m
+[17:54:26] [Craft Scheduler Thread - 995/INFO]: IO Error on AdvancedMetrics
+[17:54:26] [Craft Scheduler Thread - 995/WARN]: java.net.ConnectException: Connection timed out: connect
+[17:54:26] [Craft Scheduler Thread - 995/WARN]: 	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+[17:54:26] [Craft Scheduler Thread - 995/WARN]: 	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+[17:54:26] [Craft Scheduler Thread - 995/WARN]: 	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+[17:54:26] [Craft Scheduler Thread - 995/WARN]: 	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+[17:54:26] [Craft Scheduler Thread - 995/WARN]: 	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+[17:54:26] [Craft Scheduler Thread - 995/WARN]: 	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+[17:54:26] [Craft Scheduler Thread - 995/WARN]: 	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+[17:54:26] [Craft Scheduler Thread - 995/WARN]: 	at java.net.Socket.connect(Socket.java:589)
+[17:54:26] [Craft Scheduler Thread - 995/WARN]: 	at java.net.Socket.connect(Socket.java:538)
+[17:54:26] [Craft Scheduler Thread - 995/WARN]: 	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+[17:54:26] [Craft Scheduler Thread - 995/WARN]: 	at sun.net.www.http.HttpClient.openServer(HttpClient.java:432)
+[17:54:26] [Craft Scheduler Thread - 995/WARN]: 	at sun.net.www.http.HttpClient.openServer(HttpClient.java:527)
+[17:54:26] [Craft Scheduler Thread - 995/WARN]: 	at sun.net.www.http.HttpClient.<init>(HttpClient.java:211)
+[17:54:26] [Craft Scheduler Thread - 995/WARN]: 	at sun.net.www.http.HttpClient.New(HttpClient.java:308)
+[17:54:26] [Craft Scheduler Thread - 995/WARN]: 	at sun.net.www.http.HttpClient.New(HttpClient.java:326)
+[17:54:26] [Craft Scheduler Thread - 995/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1169)
+[17:54:26] [Craft Scheduler Thread - 995/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1105)
+[17:54:26] [Craft Scheduler Thread - 995/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:999)
+[17:54:26] [Craft Scheduler Thread - 995/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:933)
+[17:54:26] [Craft Scheduler Thread - 995/WARN]: 	at com.nunofacha.chestmaster.AdvancedMetrics.getURL(AdvancedMetrics.java:35)
+[17:54:26] [Craft Scheduler Thread - 995/WARN]: 	at com.nunofacha.chestmaster.AdvancedMetrics.sendPing(AdvancedMetrics.java:98)
+[17:54:26] [Craft Scheduler Thread - 995/WARN]: 	at com.nunofacha.chestmaster.AdvancedMetrics.access$000(AdvancedMetrics.java:26)
+[17:54:26] [Craft Scheduler Thread - 995/WARN]: 	at com.nunofacha.chestmaster.AdvancedMetrics$1.run(AdvancedMetrics.java:106)
+[17:54:26] [Craft Scheduler Thread - 995/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71)
+[17:54:26] [Craft Scheduler Thread - 995/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53)
+[17:54:26] [Craft Scheduler Thread - 995/WARN]: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+[17:54:26] [Craft Scheduler Thread - 995/WARN]: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+[17:54:26] [Craft Scheduler Thread - 995/WARN]: 	at java.lang.Thread.run(Thread.java:745)
+[17:55:02] [Server thread/INFO]: Stopping the server
+[17:55:02] [Server thread/INFO]: Stopping server
+[17:55:02] [Server thread/INFO]: [HolographicDisplays] Disabling HolographicDisplays v2.1.10
+[17:55:02] [Server thread/INFO]: [ChestShop] Disabling ChestShop v3.8.12
+[17:55:02] [Server thread/INFO]: [CS-CoreLib] Disabling CS-CoreLib v1.5.5
+[17:55:02] [Server thread/INFO]: [EchoPet] Disabling EchoPet v2.8.0-b52
+[17:55:02] [Server thread/INFO]: [Shopkeepers] Disabling Shopkeepers v1.68
+[17:55:02] [Server thread/INFO]: [CTSNC] Disabling CTSNC v8.9
+[17:55:02] [Server thread/INFO]: [0;31;1m[[0;33;1mCTSNC[0;31;1m] [0;36;1mVersion: 8.9 [0;32;1mby [0;31;1m[Herbystar][0;31;1m disabled![m
+[17:55:02] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.5-b699
+[17:55:02] [Server thread/INFO]: [SilkSpawners] Disabling SilkSpawners v3.7.3
+[17:55:02] [Server thread/INFO]: [Mobile_Workbench] Disabling Mobile_Workbench v1.2
+[17:55:02] [Server thread/INFO]: [Greenhouses] Disabling Greenhouses v2.4.5
+[17:55:02] [Server thread/INFO]: Saving offline messages...
+[17:55:02] [Server thread/INFO]: [PlayerHeads] Disabling PlayerHeads v3.10-SNAPSHOT-jenkins-PlayerHeads-1-61-g39b94b4
+[17:55:02] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn vTeamCity
+[17:55:02] [Server thread/INFO]: [ServerSigns] Disabling ServerSigns v4.2.1-DEV
+[17:55:02] [ServerSignsQueue/WARN]: ServerSigns Queue thread [ServerSignsQueue] has been stopped
+[17:55:02] [Server thread/INFO]: [ServerSigns] ServerSigns is now disabled.
+[17:55:02] [Server thread/INFO]: [EssentialsGeoIP] Disabling EssentialsGeoIP vTeamCity
+[17:55:02] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect vTeamCity
+[17:55:02] [Server thread/INFO]: [ChestCommands] Disabling ChestCommands v3.1.2
+[17:55:02] [Server thread/INFO]: [EssentialsXMPP] Disabling EssentialsXMPP vTeamCity
+[17:55:02] [Server thread/INFO]: [ASkyBlock] Disabling ASkyBlock v3.0.0.4
+[17:55:02] [Server thread/INFO]: [ASkyBlock] Saving offline messages...
+[17:55:02] [Server thread/INFO]: [ASkyBlock] Saving top ten list
+[17:55:02] [Server thread/INFO]: [ASkyBlock] Saved top ten list
+[17:55:02] [Server thread/ERROR]: [ASkyBlock] Problem saving name database! Could not rename files!
+[17:55:02] [Server thread/INFO]: [Punishmental] Disabling Punishmental v5.1
+[17:55:02] [Server thread/INFO]: [Punishmental]: COMMANDS DISABLED
+[17:55:02] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.1
+[17:55:02] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[17:55:02] [Server thread/INFO]: [Lift] Disabling Lift v52
+[17:55:02] [Server thread/INFO]: Lift v52 is now disabled!
+[17:55:02] [Server thread/INFO]: [EnjinMinecraftPlugin] Disabling EnjinMinecraftPlugin v2.7.2
+[17:55:02] [Server thread/INFO]: [Vault] Disabling Vault v1.5.5-b47
+[17:55:02] [Server thread/INFO]: [GAListener] Disabling GAListener v1.3.1
+[17:55:02] [Server thread/INFO]: [GAListener] GAListener v1.3.1 Disabled
+[17:55:02] [Server thread/INFO]: [mcMMO] Disabling mcMMO v1.5.04-SNAPSHOT-b82
+[17:55:02] [Server thread/INFO]: [Lockette] Disabled link to plugin mcMMO, version 1.5.04-SNAPSHOT-b82
+[17:55:44] [Server thread/INFO]: [SuperCrate] Disabling SuperCrate v1.0.13
+[17:55:44] [Server thread/INFO]: [PTweaks] Disabling PTweaks v6.0.15
+[17:55:44] [Server thread/INFO]: [PTweaks] Packet Autosave reset!
+[17:55:44] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.22.7-SNAPSHOT
+[17:55:44] [Server thread/INFO]: [Lockette] Disabled link to plugin PermissionsEx, version 1.22.7-SNAPSHOT
+[17:55:44] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[17:55:44] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat vTeamCity
+[17:55:44] [Server thread/INFO]: Essentials: Using config file enhanced permissions.
+[17:55:44] [Server thread/INFO]: Permissions listed in as player-commands will be given to all users.
+[17:55:44] [Server thread/INFO]: [NoCheatPlus] Disabling NoCheatPlus v3.11.1-RC-sMD5NET-b743
+[17:55:44] [Server thread/INFO]: [NoCheatPlus] Version 3.11.1-RC-sMD5NET-b743 is disabled.
+[17:55:44] [Server thread/INFO]: [LibsDisguises] Disabling LibsDisguises v8.2.6-SNAPSHOT
+[17:55:44] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v3.6.4
+[17:55:44] [Server thread/INFO]: [Votifier] Disabling Votifier v1.9
+[17:55:44] [Server thread/INFO]: [Votifier] Votifier disabled.
+[17:55:44] [Server thread/INFO]: [CommandSigns] Disabling CommandSigns v1.7.9
+[17:55:44] [Server thread/INFO]: [Scoreboard] Disabling Scoreboard v1.0
+[17:55:44] [Server thread/INFO]: [0;34;1m[[0;31;22mScoreboard[0;34;1m] [0;31;1mDisabled![m
+[17:55:44] [Server thread/INFO]: [AutoBroadcaster] Disabling AutoBroadcaster v0.4
+[17:55:44] [Server thread/INFO]: [Essentials] Disabling Essentials vTeamCity
+[17:55:44] [Thread-16/WARN]: [Votifier] Protocol error. Ignoring packet - socket closed
+[17:55:44] [Server thread/INFO]: [OpenInv] Disabling OpenInv v2.3.3
+[17:55:44] [Server thread/INFO]: [HealthBar] Disabling HealthBar v1.8.2
+[17:55:44] [Server thread/INFO]: HealthBar disabled, all the health bars have been removed.
+[17:55:44] [Server thread/INFO]: [FirstJoinPlus] Disabling FirstJoinPlus v2.4
+[17:55:44] [Server thread/INFO]: [TimTheEnchanter] Disabling TimTheEnchanter v3.0
+[17:55:44] [Server thread/INFO]: [TimTheEnchanter] I *warned* you, but did you listen to me? Oh, no, you *knew*, didn't you? Oh, it's just a harmless little *bunny*, isn't it? 
+[17:55:44] [Server thread/INFO]: [AdminFun] Disabling AdminFun v2.4.6
+[17:55:44] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[17:55:44] [Server thread/INFO]: [TTA] Disabling TTA v2.3
+[17:55:44] [Server thread/INFO]: [0;31;1m[[0;33;22mTTA[0;31;1m] [0;36;22mVersion: 2.3 [0;32;22mby [0;31;22m[Herbystar][0;31;22m disabled![m
+[17:55:44] [Server thread/INFO]: [ChestMaster] Disabling ChestMaster v3.3
+[17:56:05] [Server thread/INFO]: IO Error on AdvancedMetrics
+[17:56:05] [Server thread/WARN]: java.net.ConnectException: Connection timed out: connect
+[17:56:05] [Server thread/WARN]: 	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+[17:56:05] [Server thread/WARN]: 	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+[17:56:05] [Server thread/WARN]: 	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+[17:56:05] [Server thread/WARN]: 	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+[17:56:05] [Server thread/WARN]: 	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+[17:56:05] [Server thread/WARN]: 	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+[17:56:05] [Server thread/WARN]: 	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+[17:56:05] [Server thread/WARN]: 	at java.net.Socket.connect(Socket.java:589)
+[17:56:05] [Server thread/WARN]: 	at java.net.Socket.connect(Socket.java:538)
+[17:56:05] [Server thread/WARN]: 	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+[17:56:05] [Server thread/WARN]: 	at sun.net.www.http.HttpClient.openServer(HttpClient.java:432)
+[17:56:05] [Server thread/WARN]: 	at sun.net.www.http.HttpClient.openServer(HttpClient.java:527)
+[17:56:05] [Server thread/WARN]: 	at sun.net.www.http.HttpClient.<init>(HttpClient.java:211)
+[17:56:05] [Server thread/WARN]: 	at sun.net.www.http.HttpClient.New(HttpClient.java:308)
+[17:56:05] [Server thread/WARN]: 	at sun.net.www.http.HttpClient.New(HttpClient.java:326)
+[17:56:05] [Server thread/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1169)
+[17:56:05] [Server thread/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1105)
+[17:56:05] [Server thread/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:999)
+[17:56:05] [Server thread/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:933)
+[17:56:05] [Server thread/WARN]: 	at com.nunofacha.chestmaster.AdvancedMetrics.getURL(AdvancedMetrics.java:35)
+[17:56:05] [Server thread/WARN]: 	at com.nunofacha.chestmaster.AdvancedMetrics.serverStop(AdvancedMetrics.java:83)
+[17:56:05] [Server thread/WARN]: 	at com.nunofacha.chestmaster.Main.onDisable(Main.java:168)
+[17:56:05] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:323)
+[17:56:05] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:364)
+[17:56:05] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:424)
+[17:56:05] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:417)
+[17:56:05] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.disablePlugins(CraftServer.java:335)
+[17:56:05] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.stop(MinecraftServer.java:464)
+[17:56:05] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:596)
+[17:56:05] [Server thread/WARN]: 	at java.lang.Thread.run(Thread.java:745)
+[17:56:05] [Server thread/INFO]: ChestMaster - Sending stop ping command to AdvancedMetrics!
+[17:56:05] [Server thread/INFO]: [ChatManager] Disabling ChatManager v4.0
+[17:56:05] [Server thread/INFO]: [ChatManager] [ChatManager] Plugin Disabling!
+[17:56:05] [Server thread/INFO]: [ChatColor] Disabling ChatColor v2.1
+[17:56:05] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v0.8.3
+[17:56:05] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload it may not work.
+[17:56:05] [Server thread/INFO]: [Simple-AutoSave] Disabling Simple-AutoSave v0.2.2
+[17:56:05] [Server thread/INFO]: [Simple-AutoSave] [Simple-AutoSave] 0.2.2 disabled.
+[17:56:05] [Server thread/INFO]: [Televator] Disabling Televator v1.4
+[17:56:05] [Server thread/INFO]: [Televator] Televator v1.4 is now disabled
+[17:56:05] [Server thread/INFO]: [ColoredChat] Disabling ColoredChat v0.3
+[17:56:05] [Server thread/INFO]: ColoredChat v0.3 disabled!
+[17:56:05] [Server thread/INFO]: [VoxelSniper] Disabling VoxelSniper v5.170.0-SNAPSHOT-jnks317-gitfcb8fe1
+[17:56:05] [Server thread/INFO]: [SuperTrails] Disabling SuperTrails v8.7.5
+[17:56:05] [Server thread/INFO]: [Pixelator] Disabling Pixelator v1.2.1
+[17:56:05] [Server thread/INFO]: [Pixelator] Plugin deactivated!
+[17:56:05] [Server thread/INFO]: [CustomRecipes] Disabling CustomRecipes v2.0.1
+[17:56:05] [Server thread/INFO]: [CustomRecipes] The plugin has been disabled successfully.
+[17:56:05] [Server thread/INFO]: [Lockette] Disabling Lockette v1.8.20
+[17:56:05] [Server thread/INFO]: Lockette is being disabled...  ;.;
+[17:56:05] [Server thread/INFO]: [Lockette] Closing all automatic doors.
+[17:56:05] [Server thread/INFO]: [Administration_Panel] Disabling Administration_Panel v1.1.0
+[17:56:05] [Server thread/INFO]: [0;37;22m[[0;36;1mAdministration[0;36;22mPanel[0;37;22m][0;37;1m: [0;31;1m[0;31;1mAdministration_Panel v1.1.0 has been disabled![m
+[17:56:05] [Server thread/INFO]: [PlugMan] Disabling PlugMan v2.1.1
+[17:56:05] [Server thread/INFO]: [AntiLag] Disabling AntiLag v2.0
+[17:56:05] [Server thread/INFO]: [OreGen2] Disabling OreGen2 v1.2
+[17:56:05] [Server thread/INFO]: [OreGen2] OreGen2 by Tster has been disabled!
+[17:56:05] [Server thread/INFO]: Saving players
+[17:56:05] [Server thread/INFO]: Saving worlds
+[17:56:05] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[17:56:05] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[17:56:06] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
+[17:56:06] [Server thread/INFO]: Saving chunks for level 'ASkyBlock'/Overworld
+[17:56:06] [Server thread/INFO]: Saving chunks for level 'ASkyBlock_nether'/Nether

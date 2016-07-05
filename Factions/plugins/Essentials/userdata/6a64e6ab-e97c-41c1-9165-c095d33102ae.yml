@@ -1,0 +1,34 @@
+geolocation: Norway
+lastAccountName: stimpayyyyyyyyy
+timestamps:
+  login: 1467309735231
+  logout: 1467310153135
+  lastteleport: 1467309931967
+  lastheal: 1467127671982
+  kits:
+    elite: 1466578592834
+    donor: 1466578576383
+    vip: 1467127688620
+ipAddress: 85.165.224.75
+lastlocation:
+  world: Factions
+  x: 10118.733911871006
+  y: 203.0
+  z: 10017.425000011921
+  yaw: 21.45581
+  pitch: 28.315075
+logoutlocation:
+  world: Factions
+  x: 10360.628238118581
+  y: 11.0
+  z: 10418.391352780733
+  yaw: 2.5938416
+  pitch: 24.78978
+homes:
+  home:
+    world: Factions
+    x: 1083.5
+    y: 251.0
+    z: 566.5
+    yaw: 181.5658
+    pitch: 0.17597629

@@ -1,0 +1,21 @@
+lastAccountName: nonocp
+timestamps:
+  login: 1465225221999
+  logout: 1465225239456
+  lastteleport: 1465225221960
+ipAddress: 188.120.148.184
+geolocation: Israel
+lastlocation:
+  world: world
+  x: -857.3000000119209
+  y: 141.78600782630252
+  z: 8.519507175850725
+  yaw: 259.13016
+  pitch: 13.714323
+logoutlocation:
+  world: world
+  x: -857.3000000119209
+  y: 141.3876784288193
+  z: 7.568366854412314
+  yaw: 220.67075
+  pitch: 10.483756

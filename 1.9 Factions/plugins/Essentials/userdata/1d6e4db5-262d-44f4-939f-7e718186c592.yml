@@ -1,0 +1,41 @@
+geolocation: United States
+lastAccountName: PiePigAnonymous
+timestamps:
+  login: 1461594179650
+  logout: 1461596437319
+  lastteleport: 1461596394589
+  kits:
+    youtube: 1461082342341
+    default: 1461013006939
+    mod: 1461012932309
+    color: 1461110287035
+    notch: 1460131453935
+    ultra: 1461594389712
+ipAddress: 50.148.119.91
+lastlocation:
+  world: world
+  x: -618.4205159701938
+  y: 174.0
+  z: 338.49130636940447
+  yaw: 89.74122
+  pitch: 1.6889309
+logoutlocation:
+  world: world
+  x: 316.71721441723315
+  y: 69.0
+  z: 3870.1430859530906
+  yaw: 38.20685
+  pitch: 23.849731
+afk: false
+powertools: {}
+godmode: false
+money: '1433.0'
+homes:
+  home:
+    world: world
+    x: -619.0696112748028
+    y: 175.0
+    z: 351.268932731958
+    yaw: 222.68817
+    pitch: 3.6001334
+nickname: PiePigAnonymous

@@ -1,0 +1,188 @@
+ShopName: Potions
+signs:
+  text: '[Potions]'
+  NeedPermissionToCreateSign: true
+shop:
+  Back:
+    RewardType: shop
+    PriceType: free
+    Reward: menu
+    MenuItem:
+    - type:REDSTONE
+    - amount:1
+    - name:&cBack
+    - lore:&8Back to Menu
+    Message: '&6Leaving The Shop...'
+    InventoryLocation: 18
+    ExtraPermission: ''
+  Price:
+    RewardType: shop
+    PriceType: free
+    Reward: menu
+    MenuItem:
+    - type:NAME_TAG
+    - amount:1
+    - lore:&bAll Potions - $400#&bHaste II - $5000
+    Message: '&6Leaving The Shop...'
+    InventoryLocation: 10
+    ExtraPermission: ''
+  HasteII:
+    ExtraPermission: ''
+    MenuItem:
+    - name:&3Potion of Haste II
+    - type:POTION
+    - amount:1
+    InventoryLocation: 14
+    PriceType: money
+    Reward:
+    - name:&3Potion of Haste II
+    - type:POTION
+    - potioneffect:FAST_DIGGING#1#450
+    - amount:1
+    Message: '&bYou bought %reward%! Money left: &c%left%'
+    RewardType: item
+    Price: 5000.0
+  InstaDrink:
+    ExtraPermission: ''
+    MenuItem:
+    - type:POTION
+    - durability:8229
+    - amount:1
+    - lore:&bPrice: $400
+    InventoryLocation: 1
+    PriceType: money
+    Reward:
+    - type:POTION
+    - durability:8229
+    - amount:1
+    Message: '&bYou bought %reward%! Money left: &c%left%'
+    RewardType: item
+    Price: 400.0
+  InstaSplash:
+    ExtraPermission: ''
+    MenuItem:
+    - type:POTION
+    - durability:16421
+    - amount:1
+    - lore:&bPrice: $400
+    InventoryLocation: 2
+    PriceType: money
+    Reward:
+    - type:POTION
+    - durability:16421
+    - amount:1
+    Message: '&bYou bought %reward%! Money left: &c%left%'
+    RewardType: item
+    Price: 400.0
+  StrengthDrink:
+    ExtraPermission: ''
+    MenuItem:
+    - type:POTION
+    - durability:8233
+    - amount:1
+    - lore:&bPrice: $400
+    InventoryLocation: 3
+    PriceType: money
+    Reward:
+    - type:POTION
+    - durability:8233
+    - amount:1
+    Message: '&bYou bought %reward%! Money left: &c%left%'
+    RewardType: item
+    Price: 400.0
+  StrengthSplash:
+    ExtraPermission: ''
+    MenuItem:
+    - type:POTION
+    - durability:16425
+    - amount:1
+    - lore:&bPrice: $400
+    InventoryLocation: 4
+    PriceType: money
+    Reward:
+    - type:POTION
+    - durability:16425
+    - amount:1
+    Message: '&bYou bought %reward%! Money left: &c%left%'
+    RewardType: item
+    Price: 400.0
+  SpeedDrink:
+    ExtraPermission: ''
+    MenuItem:
+    - type:POTION
+    - durability:8226
+    - amount:1
+    - lore:&bPrice: $400
+    InventoryLocation: 5
+    PriceType: money
+    Reward:
+    - type:POTION
+    - durability:8226
+    - amount:1
+    Message: '&bYou bought %reward%! Money left: &c%left%'
+    RewardType: item
+    Price: 400.0
+  SpeedSplash:
+    ExtraPermission: ''
+    MenuItem:
+    - type:POTION
+    - durability:16418
+    - amount:1
+    - lore:&bPrice: $400
+    InventoryLocation: 6
+    PriceType: money
+    Reward:
+    - type:POTION
+    - durability:16418
+    - amount:1
+    Message: '&bYou bought %reward%! Money left: &c%left%'
+    RewardType: item
+    Price: 400.0
+  RegenDrink:
+    ExtraPermission: ''
+    MenuItem:
+    - type:POTION
+    - durability:8257
+    - amount:1
+    - lore:&bPrice: $400
+    InventoryLocation: 7
+    PriceType: money
+    Reward:
+    - type:POTION
+    - durability:8257
+    - amount:1
+    Message: '&bYou bought %reward%! Money left: &c%left%'
+    RewardType: item
+    Price: 400.0
+  RegenSplash:
+    ExtraPermission: ''
+    MenuItem:
+    - type:POTION
+    - durability:16449
+    - amount:1
+    - lore:&bPrice: $400
+    InventoryLocation: 8
+    PriceType: money
+    Reward:
+    - type:POTION
+    - durability:16449
+    - amount:1
+    Message: '&bYou bought %reward%! Money left: &c%left%'
+    RewardType: item
+    Price: 400.0
+  FireResDrink:
+    ExtraPermission: ''
+    MenuItem:
+    - type:POTION
+    - durability:8259
+    - amount:1
+    - lore:&bPrice: $400
+    InventoryLocation: 9
+    PriceType: money
+    Reward:
+    - type:POTION
+    - durability:8259
+    - amount:1
+    Message: '&bYou bought %reward%! Money left: &c%left%'
+    RewardType: item
+    Price: 400.0

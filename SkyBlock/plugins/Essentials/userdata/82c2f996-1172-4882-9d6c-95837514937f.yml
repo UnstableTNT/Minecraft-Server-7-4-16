@@ -1,0 +1,23 @@
+lastAccountName: HypnoAnime
+timestamps:
+  login: 1453238667259
+  lastteleport: 1453238690462
+  logout: 1453239124017
+ipAddress: 98.180.75.160
+geolocation: United States
+lastlocation:
+  world: world
+  x: -83.46463860616174
+  y: 244.0
+  z: 281.74673046554545
+  yaw: 284.54706
+  pitch: 5.9864554
+powertools: {}
+godmode: false
+logoutlocation:
+  world: world
+  x: 14.102776276526575
+  y: 191.0
+  z: 369.1301576751572
+  yaw: -7.2702026
+  pitch: 40.445183

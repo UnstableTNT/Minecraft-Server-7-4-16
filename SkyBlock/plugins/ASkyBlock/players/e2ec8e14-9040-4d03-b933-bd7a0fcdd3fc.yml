@@ -1,0 +1,84 @@
+playerName: MooshroomFunXL
+hasIsland: true
+islandLocation: ASkyBlock:600:115:400:0:0
+hasTeam: false
+teamLeader: ''
+islandLevel: 116
+members: []
+resetsLeft: 1
+locale: ''
+useControlPanel: false
+teamIslandLocation: ''
+startIslandRating: 50
+homeLocations:
+  '1': ASkyBlock:600:125:400:0:0
+challenges:
+  status:
+    dj: false
+    craftsman: false
+    beaconator: false
+    stewmaker: false
+    enderpearls: false
+    pioneer: false
+    shepherd: false
+    culinaryartist: false
+    acidduke: false
+    ittakesavillage: false
+    homestead: false
+    mason: false
+    builder: false
+    dyemaker: false
+    itsamonsterparty: false
+    glassmaker: false
+    nether: false
+    alchemist: false
+    gemcollector: false
+    grinder: false
+    papermaker: false
+    cobblemaker: false
+    seedbank: false
+    cookiemaker: false
+    slimeballfarmer: false
+    itsaparty: false
+    baker: false
+    breadmaker: false
+    myprecious: false
+    snowplay: false
+    farmer: false
+    angler: false
+    treecutter: false
+  times:
+    dj: 0
+    craftsman: 0
+    beaconator: 0
+    stewmaker: 0
+    enderpearls: 0
+    pioneer: 0
+    shepherd: 0
+    culinaryartist: 0
+    acidduke: 0
+    ittakesavillage: 0
+    homestead: 0
+    mason: 0
+    builder: 0
+    dyemaker: 0
+    itsamonsterparty: 0
+    glassmaker: 0
+    nether: 0
+    alchemist: 0
+    gemcollector: 0
+    grinder: 0
+    papermaker: 0
+    cobblemaker: 0
+    seedbank: 0
+    cookiemaker: 0
+    slimeballfarmer: 0
+    itsaparty: 0
+    baker: 0
+    breadmaker: 0
+    myprecious: 0
+    snowplay: 0
+    farmer: 0
+    angler: 0
+    treecutter: 0
+islandInfo: 600:115:400:100:200:e2ec8e14-9040-4d03-b933-bd7a0fcdd3fc:false:false:10000000010010000000000110000:PLAINS

@@ -1,0 +1,241 @@
+ShopName: RedstoneShopBuy
+signs:
+  text: '[RedstoneShop]'
+  NeedPermissionToCreateSign: true
+shop:
+  Redstone:
+    RewardType: item
+    PriceType: money
+    Price: 200
+    Reward:
+    - type:REDSTONE
+    - amount:16
+    MenuItem:
+    - type:REDSTONE
+    - amount:16
+    - 'lore:&bPrice: $200'
+    Message: '&bYou bought %reward%! Money left: %left%'
+    InventoryLocation: 1
+    ExtraPermission: ''
+  RedstoneTorch:
+    RewardType: item
+    PriceType: money
+    Price: 220
+    Reward:
+    - id:76
+    - amount:16
+    MenuItem:
+    - id:76
+    - amount:16
+    - 'lore:&bPrice: $220'
+    Message: '&bYou bought %reward%! Money left: %left%'
+    InventoryLocation: 2
+    ExtraPermission: ''
+  Repeater:
+    RewardType: item
+    PriceType: money
+    Price: 250
+    Reward:
+    - id:356
+    - amount:16
+    MenuItem:
+    - id:356
+    - amount:16
+    - 'lore:&bPrice: $250'
+    Message: '&bYou bought %reward%! Money left: %left%'
+    InventoryLocation: 3
+    ExtraPermission: ''
+  Comparator:
+    RewardType: item
+    PriceType: money
+    Price: 250
+    Reward:
+    - id:404
+    - amount:4
+    MenuItem:
+    - id:404
+    - amount:4
+    - 'lore:&bPrice: $250'
+    Message: '&bYou bought %reward%! Money left: %left%'
+    InventoryLocation: 4
+    ExtraPermission: ''
+  Dispenser:
+    RewardType: item
+    PriceType: money
+    Price: 500
+    Reward:
+    - id:23
+    - amount:8
+    MenuItem:
+    - id:23
+    - amount:8
+    - 'lore:&bPrice: $500'
+    Message: '&bYou bought %reward%! Money left: %left%'
+    InventoryLocation: 5
+    ExtraPermission: ''
+  Piston:
+    RewardType: item
+    PriceType: money
+    Price: 500
+    Reward:
+    - id:33
+    - amount:4
+    MenuItem:
+    - id:33
+    - amount:4
+    - 'lore:&bPrice: $500'
+    Message: '&bYou bought %reward%! Money left: %left%'
+    InventoryLocation: 6
+    ExtraPermission: ''
+  StickyPiston:
+    RewardType: item
+    PriceType: money
+    Price: 500
+    Reward:
+    - id:29
+    - amount:2
+    MenuItem:
+    - id:29
+    - amount:2
+    - 'lore:&bPrice: $500'
+    Message: '&bYou bought %reward%! Money left: %left%'
+    InventoryLocation: 7
+    ExtraPermission: ''
+  Cobweb:
+    RewardType: item
+    PriceType: money
+    Price: 400
+    Reward:
+    - id:30
+    - amount:16
+    MenuItem:
+    - id:30
+    - amount:16
+    - 'lore:&bPrice: $400'
+    Message: '&bYou bought %reward%! Money left: %left%'
+    InventoryLocation: 8
+    ExtraPermission: ''
+  Sand:
+    RewardType: item
+    PriceType: money
+    Price: 75
+    Reward:
+    - id:12
+    - amount:32
+    MenuItem:
+    - id:12
+    - amount:32
+    - 'lore:&bPrice: $75'
+    Message: '&bYou bought %reward%! Money left: %left%'
+    InventoryLocation: 9
+    ExtraPermission: ''
+  Button:
+    RewardType: item
+    PriceType: money
+    Price: 100
+    Reward:
+    - id:77
+    - amount:2
+    MenuItem:
+    - id:77
+    - amount:2
+    - 'lore:&bPrice: $100'
+    Message: '&bYou bought %reward%! Money left: %left%'
+    InventoryLocation: 10
+    ExtraPermission: ''
+  FlintSteel:
+    RewardType: item
+    PriceType: money
+    Price: 150
+    Reward:
+    - id:259
+    - amount:1
+    MenuItem:
+    - id:259
+    - amount:1
+    - 'lore:&bPrice: $150'
+    Message: '&bYou bought %reward%! Money left: %left%'
+    InventoryLocation: 11
+    ExtraPermission: ''
+  Ice:
+    RewardType: item
+    PriceType: money
+    Price: 400
+    Reward:
+    - id:8
+    - amount:16
+    MenuItem:
+    - id:8
+    - amount:16
+    - 'lore:&bPrice: $400'
+    Message: '&bYou bought %reward%! Money left: %left%'
+    InventoryLocation: 12
+    ExtraPermission: ''
+  Lava:
+    RewardType: item
+    PriceType: money
+    Price: 25
+    Reward:
+    - id:10
+    - amount:1
+    MenuItem:
+    - id:10
+    - amount:1
+    - 'lore:&bPrice: $25'
+    Message: '&bYou bought %reward%! Money left: %left%'
+    InventoryLocation: 13
+    ExtraPermission: ''
+  Sponge:
+    RewardType: item
+    PriceType: money
+    Price: 500
+    Reward:
+    - id:19
+    - amount:16
+    MenuItem:
+    - id:19
+    - amount:16
+    - 'lore:&bPrice: $500'
+    Message: '&bYou bought %reward%! Money left: %left%'
+    InventoryLocation: 14
+    ExtraPermission: ''
+  Hopper:
+    RewardType: item
+    PriceType: money
+    Price: 15000
+    Reward:
+    - id:154
+    - amount:1
+    MenuItem:
+    - id:154
+    - amount:1
+    - 'lore:&bPrice: $15000'
+    Message: '&bYou bought %reward%! Money left: %left%'
+    InventoryLocation: 15
+    ExtraPermission: ''
+  PackedIce:
+    RewardType: item
+    PriceType: money
+    Price: 300
+    Reward:
+    - id:174
+    - amount:16
+    MenuItem:
+    - id:174
+    - amount:16
+    - 'lore:&bPrice: $300'
+    Message: '&bYou bought %reward%! Money left: %left%'
+    InventoryLocation: 16
+    ExtraPermission: ''
+  Back:
+    RewardType: shop
+    PriceType: free
+    Reward: menu
+    MenuItem:
+    - type:REDSTONE
+    - amount:1
+    - name:&cBack
+    - lore:&8Back to Menu
+    Message: '&6Leaving The Block Shop...'
+    InventoryLocation: 18
+    ExtraPermission: ''

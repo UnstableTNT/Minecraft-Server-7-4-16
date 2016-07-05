@@ -1,0 +1,38 @@
+# NOT USED #
+title: "&bFW Completion"
+
+buttons:
+
+  0:
+  
+    item: FIREWORK
+    
+    slot: 0
+    
+    title: "Give as Item..."
+    
+    type: ITEM
+    
+    permission: "fireworks.spawn.item"
+    
+    lore:
+    
+      1: "&fYou can choose a player to"
+      2: "&fgive him the firework."
+      
+  1:
+  
+    item: FIREWORK
+    
+    slot: 1
+    
+    title: "Spawn at player ..."
+    
+    type: PLAYER
+    
+    permission: "fireworks.spawn.player"
+    
+    lore:
+    
+      1: "&fYou can choose a player"
+      2: "&fto shoot the firework from."

@@ -1,0 +1,145 @@
+ShopName: CropShopSell
+signs:
+  text: '[CropShop]'
+  NeedPermissionToCreateSign: true
+shop:
+  Cactus:
+    RewardType: money
+    PriceType: item
+    Price:
+      - 'id:81'
+      - 'amount:16'
+    Reward: 50
+    MenuItem:
+      - 'id:81'
+      - 'amount:16'
+      - 'lore:&bReward: $45'
+    Message: '&bSold %price% for $%reward%!'
+    InventoryLocation: 1
+    ExtraPermission: ''
+  Sugarcane:
+    RewardType: money
+    PriceType: item
+    Price:
+      - 'id:338'
+      - 'amount:16'
+    Reward: 75
+    MenuItem:
+      - 'id:338'
+      - 'amount:16'
+      - 'lore:&bReward: $45'
+    Message: '&bSold %price% for $%reward%!'
+    InventoryLocation: 2
+    ExtraPermission: ''
+  Pumpkin:
+    RewardType: money
+    PriceType: item
+    Price:
+      - 'id:86'
+      - 'amount:16'
+    Reward: 120
+    MenuItem:
+      - 'id:86'
+      - 'amount:16'
+      - 'lore:&bReward: $120'
+    Message: '&bSold %price% for $%reward%!'
+    InventoryLocation: 3
+    ExtraPermission: ''
+  Melon:
+    RewardType: money
+    PriceType: item
+    Price:
+      - 'id:360'
+      - 'amount:16'
+    Reward: 120
+    MenuItem:
+      - 'id:360'
+      - 'amount:16'
+      - 'lore:&bReward: $120'
+    Message: '&bSold %price% for $%reward%!'
+    InventoryLocation: 4
+    ExtraPermission: ''
+  RawPork:
+    RewardType: money
+    PriceType: item
+    Price:
+      - 'id:319'
+      - 'amount:16'
+    Reward: 15
+    MenuItem:
+      - 'id:319'
+      - 'amount:16'
+      - 'lore:&bReward: $15'
+    Message: '&bSold %price% for $%reward%!'
+    InventoryLocation: 5
+    ExtraPermission: ''
+  CookedPork:
+    RewardType: money
+    PriceType: item
+    Price:
+      - 'id:320'
+      - 'amount:16'
+    Reward: 25
+    MenuItem:
+      - 'id:320'
+      - 'amount:16'
+      - 'lore:&bReward: $25'
+    Message: '&bSold %price% for $%reward%!'
+    InventoryLocation: 6
+    ExtraPermission: ''
+  RawBeef:
+    RewardType: money
+    PriceType: item
+    Price:
+      - 'id:363'
+      - 'amount:16'
+    Reward: 15
+    MenuItem:
+      - 'id:363'
+      - 'amount:16'
+      - 'lore:&bReward: $15'
+    Message: '&bSold %price% for $%reward%!'
+    InventoryLocation: 7
+    ExtraPermission: ''
+  CookedBeef:
+    RewardType: money
+    PriceType: item
+    Price:
+      - 'id:364'
+      - 'amount:16'
+    Reward: 35
+    MenuItem:
+      - 'id:364'
+      - 'amount:16'
+      - 'lore:&bReward: $35'
+    Message: '&bSold %price% for $%reward%!'
+    InventoryLocation: 8
+    ExtraPermission: ''
+  CocoaBean:
+    RewardType: money
+    PriceType: item
+    Price:
+      - 'id:351'
+      - 'durability:3'
+      - 'amount:16'
+    Reward: 45
+    MenuItem:
+      - 'id:351'
+      - 'durability:3'
+      - 'amount:16'
+      - 'lore:&bReward: $45'
+    Message: '&bSold %price% for $%reward%!'
+    InventoryLocation: 9
+    ExtraPermission: ''
+  Back:
+    RewardType: shop
+    PriceType: free
+    Reward: menu
+    MenuItem:
+      - 'type:REDSTONE'
+      - 'amount:1'
+      - 'name:&cBack'
+      - 'lore:&8Back to Menu'
+    Message: '&6Leaving The Block Shop...'
+    InventoryLocation: 18
+    ExtraPermission: ''

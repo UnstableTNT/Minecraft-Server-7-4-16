@@ -1,0 +1,40 @@
+# Generic variables. See online help for more info on how to use:
+
+Permissions:
+  UsePunishmentLevels: false
+Defaults:
+  RemoveCreative: true
+PunishZone:
+  Enabled: true
+Autopunish:
+  Enabled: false
+  LavaBucket: true
+  WaterBucket: true
+  FlintAndSteel: true
+  Explode: 46
+  Creeper: 0
+  Fall: 0
+  Anvil: 0
+Research:
+  Enabled: true
+RemoteDebug:
+  Enabled: true
+ErrorReporting:
+  Enabled: true
+Failsafe:
+  Enabled: true
+  Trigger: 40
+  LagMargin: 2000
+Fall:
+  BlockHeight: 250
+Teleport:
+  MaxDistance: 200
+  MinDistance: 100
+Paranoia:
+  Probability: 70
+Hole:
+  Depth: 25
+Surround:
+  FetchDistance: 100
+Hostile:
+  Range: 100

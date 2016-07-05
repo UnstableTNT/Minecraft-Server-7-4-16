@@ -1,0 +1,7 @@
+timerInterval: 5
+displayPowersInDescription: true
+displayAttributesInDescription: true
+displayCooldown: true
+itemsRequirePermission: false
+joinItems:
+- someItem

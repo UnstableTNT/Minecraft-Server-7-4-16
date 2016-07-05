@@ -1,0 +1,21 @@
+lastAccountName: LadySjako
+timestamps:
+  login: 1461859085105
+  logout: 1461861395155
+  lastteleport: 1461859317360
+ipAddress: 88.88.40.234
+geolocation: Norway
+lastlocation:
+  world: ASkyBlock
+  x: 603.1753216413728
+  y: 88.60700789046335
+  z: 649.7854679798403
+  yaw: -130.83417
+  pitch: 9.390476
+logoutlocation:
+  world: ASkyBlock
+  x: -0.9186561481921635
+  y: 118.0
+  z: 603.0438662851647
+  yaw: 46.609497
+  pitch: -77.847145

@@ -1,0 +1,21 @@
+geolocation: N/A
+lastAccountName: PrettyGirl12
+timestamps:
+  login: 1461248417092
+  logout: 1461248430261
+  lastteleport: 1461248417057
+ipAddress: 192.168.200.115
+lastlocation:
+  world: world
+  x: -912.5022720056832
+  y: 141.0
+  z: 62.48947078352445
+  yaw: 1.0911653
+  pitch: 2.4992173
+logoutlocation:
+  world: world
+  x: -857.3000000119209
+  y: 141.49983148052516
+  z: 22.792481421268494
+  yaw: 268.6907
+  pitch: 9.871996

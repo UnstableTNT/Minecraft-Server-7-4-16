@@ -1,0 +1,23 @@
+geolocation: Canada
+lastAccountName: carter678
+timestamps:
+  login: 1451593630149
+  logout: 1451593638538
+  kits:
+    donor: 1451516113172
+  lastteleport: 1451516141684
+ipAddress: 156.57.193.74
+lastlocation:
+  world: ASkyBlock
+  x: -209.13622630714306
+  y: 150.87805139041555
+  z: 83.21866221614276
+  yaw: 184.61137
+  pitch: 11.044753
+logoutlocation:
+  world: world
+  x: -80.67109330582224
+  y: 244.0
+  z: 283.0973929324451
+  yaw: -21.175484
+  pitch: 6.4737434

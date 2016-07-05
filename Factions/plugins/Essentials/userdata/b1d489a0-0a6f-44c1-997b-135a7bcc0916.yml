@@ -1,0 +1,66 @@
+lastAccountName: Preistest_Dragon
+timestamps:
+  login: 1467605426487
+  lastteleport: 1467588842887
+  logout: 1467606194759
+  kits:
+    youtube: 1467580652978
+    default: 1466986455894
+    elite: 1467580627631
+    donor: 1467580606813
+    mod: 1466986471994
+    helper: 1466986464395
+    dtools: 1460387070690
+    vip: 1467580636649
+    tools: 1460387058271
+    ultra: 1467580645918
+  lastheal: 1461008241683
+ipAddress: 73.68.210.208
+geolocation: United States
+lastlocation:
+  world: Factions
+  x: 10119.668021706842
+  y: 173.11391586470467
+  z: 10017.425000011921
+  yaw: 79.95468
+  pitch: 69.000015
+logoutlocation:
+  world: Factions
+  x: 11412.324843658163
+  y: 62.0
+  z: 8441.15253816936
+  yaw: -68.995636
+  pitch: 33.600025
+money: '178980.75'
+homes:
+  home:
+    world: Factions
+    x: 10121.82943945101
+    y: 160.0
+    z: 10023.49715543589
+    yaw: 44.704704
+    pitch: 46.800022
+  slime:
+    world: Factions
+    x: 11403.651259518218
+    y: 76.0
+    z: 8434.605490241524
+    yaw: 322.95715
+    pitch: 35.399994
+  theend:
+    world: Factions
+    x: 533.1566574992939
+    y: 21.0
+    z: 445.40331952283543
+    yaw: -5.702201
+    pitch: 30.150005
+  outside:
+    world: Factions
+    x: 10127.408892959087
+    y: 151.0
+    z: 9996.44761452665
+    yaw: 5.5547314
+    pitch: 61.95
+afk: false
+powertools: {}
+nickname: "\xa74Dragon"

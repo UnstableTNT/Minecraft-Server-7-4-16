@@ -1,0 +1,115 @@
+############################################################
+# +-------- Designed and Developed by JackProehl --------+ #
+# |--- Please consider donating to my PayPal account. ---| #
+# +----------------- JohnProehl@me.com ------------------+ #
+############################################################
+
+# **** WATCH VIDEO ON PLUGIN PAGE FOR CONFIG HELP! **** 
+# **** http://dev.bukkit.org/server-mods/combatlog **** 
+
+# Add me on Skype (John.Proehl) if you have any issues.
+
+# Please report all bugs and glitches on BukkitDev.
+
+# Do not backspace the Version number!
+Version: 1.7.11
+
+############################################################
+# +------------------------------------------------------+ #
+# |                     Miscellaneous                    | #
+# +------------------------------------------------------+ #
+############################################################
+
+# Set UpdateCheck-Enabled to true to check for available updates.
+UpdateCheck-Enabled: true
+
+# Set MOTD-Enabled to true to send players a message upon logging in.
+MOTD-Enabled: true
+
+# Set Broadcast-Enabled to true to broadcast when a player CombatLogs.
+Broadcast-Enabled: true
+  
+############################################################
+# +------------------------------------------------------+ #
+# |                        Combat                        | #
+# +------------------------------------------------------+ #
+############################################################
+
+# Set Tag-Duration to how long a player is in Combat in seconds.
+# Set PvP-Enabled to true to enable tagging from Player vs Player combat.
+# Set PvE-Enabled to true to enable tagging from Player vs Mob combat.
+Tag-Duration: 10
+PvP-Enabled: true
+PvE-Enabled: false
+
+# Add modes you want removed during Combat under Remove-Modes.
+# Available Modes: creative, fly, disguise.
+Remove-Modes:
+- fly
+- disguise
+
+# Set onLagout to true to remove CombatTags when players lag out.
+# Set onKick to true to remove CombatTags when players are kicked.
+Remove-Tag-On-Kick: true
+Remove-Tag-On-Lagout: false
+
+# Set Remove-Potions-Enabled to true to remove Potions.
+# List potion effects you want removed under Potions.
+Remove-Potions-Enabled: true
+Potions:
+- invisibility
+
+# Set Block-Commands-Enabled to true to block Commands during Combat.
+# Set Block-All-Commands to true to block all commands during Combat.
+# List commands you want blocked under Commands.
+Block-Commands-Enabled: true
+Block-All-Commands: false
+Commands:
+- home
+- spawn
+- tpa
+- tpaccept
+- tpahere
+- warp
+- back
+
+# Set Block-Teleportation-Enable to true to block all teleportation.
+# Set Block-Enderpearls-Enabled to true to block enderpearling.
+Block-Teleportation-Enabled: true
+Block-Enderpearls-Enabled: false
+
+# Set Disabled-Worlds-Enabled to true to disable CombatTag in worlds listed under Worlds.
+# List the worlds you want disabled under Worlds.
+Disabled-Worlds-Enabled: true
+Worlds:
+- world_custom
+
+############################################################
+# +------------------------------------------------------+ #
+# |                      Punishments                     | #
+# +------------------------------------------------------+ #
+############################################################
+
+# Set Enabled to true to fine players when they CombatLog.
+# Set Amount to the amount of money you want the fine to be.
+Fine:
+  Enabled: false
+  Amount: 100.00
+
+# Set Inventory to true to drop players' inventories when they CombatLog.
+# Set Armor to true to drop players' armor when they CombatLog.
+# Set Exp to true to drop players' experience points when they CombatLog.
+Drop:
+  Inventory: true
+  Armor: true
+  Exp: true
+
+# Set Enabled to true to kill players when they CombatLog.
+Kill:
+  Enabled: true
+
+# Set Enabled to true to temporarily ban players when they CombatLog.
+# Set Duration to how long you want them to be banned for in seconds.
+Ban:
+  Enabled: false
+  Duration: 60

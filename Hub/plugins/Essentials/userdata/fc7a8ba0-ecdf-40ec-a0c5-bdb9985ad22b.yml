@@ -1,0 +1,21 @@
+geolocation: United States
+lastAccountName: Swaven
+timestamps:
+  login: 1467308172278
+  logout: 1467308183527
+  lastteleport: 1467308172239
+ipAddress: 72.201.122.223
+lastlocation:
+  world: world
+  x: -898.5
+  y: 141.0
+  z: 22.5
+  yaw: 269.5908
+  pitch: -0.90002334
+logoutlocation:
+  world: world
+  x: -900.6298970460917
+  y: 141.0
+  z: 21.663471275251784
+  yaw: 101.59094
+  pitch: 26.699974

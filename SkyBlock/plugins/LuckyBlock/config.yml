@@ -1,0 +1,70 @@
+# Lucky Block Config
+AllowPlaceParticles: true
+AllowBreakParticles: true
+AllowTickParticles: false
+AllowPlaceSound: true
+PlaceSound: CREEPER_DEATH 100 0
+AllowBreakSound: true
+BreakSound: ANVIL_LAND 100 2
+LuckyBlock:
+  Block: SPONGE
+  UseBlockID: false
+  BlockID: 19
+  BlockData: none
+  Block1:
+    Type: GLASS
+    UseBlockID: false
+    BlockID: 20
+    BlockData: none
+WorksInCreative: true
+UseNormalSponge: false
+Allow:
+  ExplosionGrief: true
+  ExplosionFire: true
+  ExplosionDamage: true
+  SnowMoving: true
+  CraftingRecipes: true
+UsePermission:
+  placeluckyblock: false
+  breakluckyblock: false
+  craftluckyblock: false
+SpawnBosses: true
+SpawnRate: 10
+LuckyBlockCommand:
+  Command: lb
+Allow3dDrops: false
+CustomItems: false
+Recipe:
+  Normal:
+    Amount: 1
+    Shape:
+    - GGG
+    - GDG
+    - GGG
+    Ingredients:
+    - G GOLD_INGOT
+    - D DROPPER
+  Super:
+    Amount: 1
+    Shape:
+    - XIX
+    - IOI
+    - XIX
+    Ingredients:
+    - I DIAMOND
+    - X OBSIDIAN
+    - O %lb%
+Messages:
+  Commands:
+    LuckyBlock:
+      default: '&aGiving &6%player% &aa Lucky Block!'
+      sender: '&aGiving &6%target% &aa Lucky Block!'
+      target: '&d%sender% &aGave you a Lucky Block!'
+      more-sender: '&aGiving &6%target% &c%amount% &aLucky Blocks!'
+      more-target: '&d%sender% &aGave you &c%amount% &aLucky Blocks!'
+  NoPermission:
+    breakluckyblock: '&cYou don''t have permission to break lucky block!'
+    placeluckyblock: '&cYou don''t have permission to place lucky block!'
+    craftluckyblock: '&cYou don''t have permission to craft lucky block!'
+Worlds:
+- '*All*'

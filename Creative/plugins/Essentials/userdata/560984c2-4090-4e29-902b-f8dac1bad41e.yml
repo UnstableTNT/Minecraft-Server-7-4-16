@@ -1,0 +1,25 @@
+geolocation: United States
+lastAccountName: ibellaSlyman
+timestamps:
+  login: 1461873602464
+  logout: 1461873626103
+  lastteleport: 1461873602429
+  lastheal: 1459039842044
+ipAddress: 70.192.208.204
+logoutlocation:
+  world: world
+  x: -898.5
+  y: 140.0
+  z: 22.5
+  yaw: 270.0407
+  pitch: 2.0720031
+lastlocation:
+  world: world
+  x: -893.0581661937294
+  y: 141.0
+  z: 22.501539004246297
+  yaw: 270.0407
+  pitch: 2.0720031
+godmode: false
+mail:
+- "\xa76[\xa7rMooshroomFunXL\xa76] \xa7rHello"

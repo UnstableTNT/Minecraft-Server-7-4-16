@@ -1,0 +1,453 @@
+ShopName: BlockShopBuy
+signs:
+  text: '[BlockShop]'
+  NeedPermissionToCreateSign: true
+shop:
+  Grass:
+    RewardType: item
+    PriceType: money
+    Price: 185
+    Reward:
+    - type:GRASS
+    - amount:64
+    MenuItem:
+    - type:GRASS
+    - amount:64
+    - 'lore:&bPrice: $185'
+    Message: '&bYou bought %reward%! Money left: %left%'
+    InventoryLocation: 1
+    ExtraPermission: ''
+  Mycelium:
+    RewardType: item
+    PriceType: money
+    Price: 250
+    Reward:
+    - id:110
+    - amount:32
+    MenuItem:
+    - id:110
+    - amount:32
+    - 'lore:&bPrice: $250'
+    Message: '&bYou bought %reward%! Money left: %left%'
+    InventoryLocation: 2
+    ExtraPermission: ''
+  Dirt:
+    RewardType: item
+    PriceType: money
+    Price: 150
+    Reward:
+    - type:DIRT
+    - amount:64
+    MenuItem:
+    - type:DIRT
+    - amount:64
+    - 'lore:&bPrice: $150'
+    Message: '&bYou bought %reward%! Money left: %left%'
+    InventoryLocation: 3
+    ExtraPermission: ''
+  Stone:
+    RewardType: item
+    PriceType: money
+    Price: 275
+    Reward:
+    - type:STONE
+    - amount:64
+    MenuItem:
+    - type:STONE
+    - amount:64
+    - 'lore:&bPrice: $270'
+    Message: '&bYou bought %reward%! Money left: %left%'
+    InventoryLocation: 4
+    ExtraPermission: ''
+  Cobblestone:
+    RewardType: item
+    PriceType: money
+    Price: 200
+    Reward:
+    - type:COBBLESTONE
+    - amount:64
+    MenuItem:
+    - type:COBBLESTONE
+    - amount:64
+    - 'lore:&bPrice: $200'
+    Message: '&bYou bought %reward%! Money left: %left%'
+    InventoryLocation: 5
+    ExtraPermission: ''
+  Acadia Log:
+    RewardType: item
+    PriceType: money
+    Price: 200
+    Reward:
+    - id:162
+    - amount:32
+    MenuItem:
+    - id:162
+    - amount:32
+    - 'lore:&bPrice: $200'
+    Message: '&bYou bought %reward%! Money left: %left%'
+    InventoryLocation: 6
+    ExtraPermission: ''
+  Oak Log:
+    RewardType: item
+    PriceType: money
+    Price: 200
+    Reward:
+    - id:17
+    - amount:32
+    MenuItem:
+    - id:17
+    - amount:32
+    - 'lore:&bPrice: $200'
+    Message: '&bYou bought %reward%! Money left: %left%'
+    InventoryLocation: 7
+    ExtraPermission: ''
+  Spruce Log:
+    RewardType: item
+    PriceType: money
+    Price: 200
+    Reward:
+    - id:17
+    - durability:1
+    - amount:32
+    MenuItem:
+    - id:17
+    - durability:1
+    - amount:32
+    - 'lore:&bPrice: $200'
+    Message: '&bYou bought %reward%! Money left: %left%'
+    InventoryLocation: 8
+    ExtraPermission: ''
+  Birch Log:
+    RewardType: item
+    PriceType: money
+    Price: 200
+    Reward:
+    - id:17
+    - durability:2
+    - amount:32
+    MenuItem:
+    - id:17
+    - durability:2
+    - amount:32
+    - 'lore:&bPrice: $200'
+    Message: '&bYou bought %reward%! Money left: %left%'
+    InventoryLocation: 9
+    ExtraPermission: ''
+  Sand:
+    RewardType: item
+    PriceType: money
+    Price: 150
+    Reward:
+    - id:12
+    - amount:64
+    MenuItem:
+    - id:12
+    - amount:64
+    - 'lore:&bPrice: $150'
+    Message: '&bYou bought %reward%! Money left: %left%'
+    InventoryLocation: 10
+    ExtraPermission: ''
+  Red Sand:
+    RewardType: item
+    PriceType: money
+    Price: 200
+    Reward:
+    - id:12
+    - durability:1
+    - amount:64
+    MenuItem:
+    - id:12
+    - durability:1
+    - amount:64
+    - 'lore:&bPrice: $200'
+    Message: '&bYou bought %reward%! Money left: %left%'
+    InventoryLocation: 11
+    ExtraPermission: ''
+  Sandstone:
+    RewardType: item
+    PriceType: money
+    Price: 150
+    Reward:
+    - id:24
+    - amount:16
+    MenuItem:
+    - id:24
+    - amount:16
+    - 'lore:&bPrice: $150'
+    Message: '&bYou bought %reward%! Money left: %left%'
+    InventoryLocation: 12
+    ExtraPermission: ''
+  Chiseled Sandstone:
+    RewardType: item
+    PriceType: money
+    Price: 175
+    Reward:
+    - id:24
+    - durability:1
+    - amount:16
+    MenuItem:
+    - id:24
+    - durability:1
+    - amount:16
+    - 'lore:&bPrice: $175'
+    Message: '&bYou bought %reward%! Money left: %left%'
+    InventoryLocation: 13
+    ExtraPermission: ''
+  Smooth Sandstone:
+    RewardType: item
+    PriceType: money
+    Price: 175
+    Reward:
+    - id:24
+    - durability:2
+    - amount:16
+    MenuItem:
+    - id:24
+    - durability:2
+    - amount:16
+    - 'lore:&bPrice: $175'
+    Message: '&bYou bought %reward%! Money left: %left%'
+    InventoryLocation: 14
+    ExtraPermission: ''
+  Stonebrick:
+    RewardType: item
+    PriceType: money
+    Price: 350
+    Reward:
+    - id:98
+    - amount:64
+    MenuItem:
+    - id:98
+    - amount:64
+    - 'lore:&bPrice: $350'
+    Message: '&bYou bought %reward%! Money left: %left%'
+    InventoryLocation: 15
+    ExtraPermission: ''
+  Mossy Stonebrick:
+    RewardType: item
+    PriceType: money
+    Price: 350
+    Reward:
+    - id:98
+    - durability:1
+    - amount:64
+    MenuItem:
+    - id:98
+    - durability:1
+    - amount:64
+    - 'lore:&bPrice: $350'
+    Message: '&bYou bought %reward%! Money left: %left%'
+    InventoryLocation: 16
+    ExtraPermission: ''
+  Cracked Stonebrick:
+    RewardType: item
+    PriceType: money
+    Price: 350
+    Reward:
+    - id:98
+    - durability:2
+    - amount:64
+    MenuItem:
+    - id:98
+    - durability:2
+    - amount:64
+    - 'lore:&bPrice: $350'
+    Message: '&bYou bought %reward%! Money left: %left%'
+    InventoryLocation: 17
+    ExtraPermission: ''
+  Chiseled Stonebrick:
+    RewardType: item
+    PriceType: money
+    Price: 350
+    Reward:
+    - id:98
+    - durability:3
+    - amount:64
+    MenuItem:
+    - id:98
+    - durability:3
+    - amount:64
+    - 'lore:&bPrice: $350'
+    Message: '&bYou bought %reward%! Money left: %left%'
+    InventoryLocation: 18
+    ExtraPermission: ''
+  Glass:
+    RewardType: item
+    PriceType: money
+    Price: 200
+    Reward:
+    - id:20
+    - amount:64
+    MenuItem:
+    - id:20
+    - amount:64
+    - 'lore:&bPrice: $200'
+    Message: '&bYou bought %reward%! Money left: %left%'
+    InventoryLocation: 19
+    ExtraPermission: ''
+  Glass Pane:
+    RewardType: item
+    PriceType: money
+    Price: 70
+    Reward:
+    - id:102
+    - amount:64
+    MenuItem:
+    - id:102
+    - amount:64
+    - 'lore:&bPrice: $70'
+    Message: '&bYou bought %reward%! Money left: %left%'
+    InventoryLocation: 20
+    ExtraPermission: ''
+  Gravel:
+    RewardType: item
+    PriceType: money
+    Price: 175
+    Reward:
+    - id:13
+    - amount:64
+    MenuItem:
+    - id:13
+    - amount:64
+    - 'lore:&bPrice: $175'
+    Message: '&bYou bought %reward%! Money left: %left%'
+    InventoryLocation: 21
+    ExtraPermission: ''
+  Endstone:
+    RewardType: item
+    PriceType: money
+    Price: 250
+    Reward:
+    - id:121
+    - amount:32
+    MenuItem:
+    - id:121
+    - amount:32
+    - 'lore:&bPrice: $250'
+    Message: '&bYou bought %reward%! Money left: %left%'
+    InventoryLocation: 22
+    ExtraPermission: ''
+  Netherrack:
+    RewardType: item
+    PriceType: money
+    Price: 125
+    Reward:
+    - id:87
+    - amount:64
+    MenuItem:
+    - id:87
+    - amount:64
+    - 'lore:&bPrice: $125'
+    Message: '&bYou bought %reward%! Money left: %left%'
+    InventoryLocation: 23
+    ExtraPermission: ''
+  Soul Sand:
+    RewardType: item
+    PriceType: money
+    Price: 175
+    Reward:
+    - id:88
+    - amount:64
+    MenuItem:
+    - id:88
+    - amount:64
+    - 'lore:&bPrice: $175'
+    Message: '&bYou bought %reward%! Money left: %left%'
+    InventoryLocation: 24
+    ExtraPermission: ''
+  Netherfence:
+    RewardType: item
+    PriceType: money
+    Price: 200
+    Reward:
+    - id:113
+    - amount:64
+    MenuItem:
+    - id:113
+    - amount:64
+    - 'lore:&bPrice: $200'
+    Message: '&bYou bought %reward%! Money left: %left%'
+    InventoryLocation: 25
+    ExtraPermission: ''
+  Netherbrick Stairs:
+    RewardType: item
+    PriceType: money
+    Price: 200
+    Reward:
+    - id:114
+    - amount:64
+    MenuItem:
+    - id:114
+    - amount:64
+    - 'lore:&bPrice: $200'
+    Message: '&bYou bought %reward%! Money left: %left%'
+    InventoryLocation: 26
+    ExtraPermission: ''
+  Netherbrick:
+    RewardType: item
+    PriceType: money
+    Price: 275
+    Reward:
+    - id:112
+    - amount:64
+    MenuItem:
+    - id:112
+    - amount:64
+    - 'lore:&bPrice: $275'
+    Message: '&bYou bought %reward%! Money left: %left%'
+    InventoryLocation: 27
+    ExtraPermission: ''
+  Glowstone:
+    RewardType: item
+    PriceType: money
+    Price: 350
+    Reward:
+    - id:89
+    - amount:64
+    MenuItem:
+    - id:89
+    - amount:64
+    - 'lore:&bPrice: $350'
+    Message: '&bYou bought %reward%! Money left: %left%'
+    InventoryLocation: 28
+    ExtraPermission: ''
+  Obsidian:
+    RewardType: item
+    PriceType: money
+    Price: 750
+    Reward:
+    - id:49
+    - amount:64
+    MenuItem:
+    - id:49
+    - amount:64
+    - 'lore:&bPrice: $750'
+    Message: '&bYou bought %reward%! Money left: %left%'
+    InventoryLocation: 29
+    ExtraPermission: ''
+  Back:
+    RewardType: shop
+    PriceType: free
+    Reward: menu
+    MenuItem:
+    - type:REDSTONE
+    - amount:1
+    - name:&cBack
+    - lore:&8Back to Menu
+    Message: '&6Leaving The Block Shop...'
+    InventoryLocation: 36
+    ExtraPermission: ''
+  Bedrock:
+    RewardType: item
+    PriceType: money
+    Price: 20000
+    Reward:
+    - type:BEDROCK
+    - amount:16
+    MenuItem:
+    - type:BEDROCK
+    - amount:16
+    - 'lore:&bPrice: $20000'
+    Message: '&bYou bought %reward%! Money left: %left%'
+    InventoryLocation: 30
+    ExtraPermission: ''

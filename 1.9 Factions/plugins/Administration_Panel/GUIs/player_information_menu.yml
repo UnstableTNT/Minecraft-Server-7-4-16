@@ -1,0 +1,182 @@
+title: "&6Player Information Menu"
+
+slots: 18
+
+buttons:
+
+  0:
+  
+    type: HEALTH
+    
+    item: POTION
+    
+    slot: 0
+    
+    # <3 will be replaced with a little Heart. ;)
+    title: "&c%curHealth% / %maxHealth% <3"
+    
+    permission: "player-informations"
+    
+    lore:
+    
+      1: "&f%target%'s health."
+     
+  1:
+  
+    type: FOOD
+    
+    item: POTION
+    
+    slot: 1
+    
+    title: "&6%food% food"
+    
+    permission: "player-informations"
+    
+    lore:
+    
+      1: "&f%target%'s food."
+      
+  2:
+  
+    type: EXPERIENCE_LEVEL
+    
+    item: POTION
+    
+    slot: 2
+    
+    title: "&a%exp% XP (Lvl. %level%)"
+    
+    permission: "player-informations"
+    
+    lore:
+    
+      1: "&f%target%'s experience."
+      
+  3:
+  
+    type: GAMEMODE
+    
+    item: LEATHER_CHESTPLATE
+    
+    slot: 3
+    
+    title: "&5Gamemode: &d%gamemode%"
+    
+    permission: "player-informations"
+    
+    lore:
+    
+      1: "&f%target%'s gamemode."
+      
+  4:
+  
+    type: GHOSTMODE
+    
+    item: CHAINMAIL_CHESTPLATE
+    
+    slot: 4
+    
+    title: "&8Ghostmode: &7%ghostmode%"
+    
+    permission: "player-informations"
+    
+    lore:
+    
+      1: "&f%target%'s ghostmode."
+      
+  5:
+  
+    type: FLYMODE
+    
+    item: FEATHER
+    
+    slot: 5
+    
+    title: "&3Flying: &b%flymode%"
+    
+    permission: "player-informations"
+    
+    lore:
+    
+      1: "&f%target%'s flymode."
+      
+  6:
+  
+    type: IP
+    
+    item: REDSTONE
+    
+    slot: 6
+    
+    title: "&4IP: &c%ip%"
+    
+    permission: "player-informations"
+    
+    lore:
+    
+      1: "&f%target%'s IP Address."
+      
+  7:
+  
+    type: INVENTORY
+    
+    item: CHEST
+    
+    slot: 7
+    
+    title: "&2Open Inventory ..."
+    
+    permission: "player-informations"
+    
+    lore:
+    
+      1: "&fOpens %target%'s inventory."
+      
+  8:
+  
+    type: ENDER_CHEST
+    
+    item: ENDER_CHEST
+    
+    slot: 8
+    
+    title: "&2Open Enderchest ..."
+    
+    permission: "player-informations"
+    
+    lore:
+    
+      1: "&fOpens %target%'s enderchest."
+      
+  16:
+  
+    type: KICK_PLAYER
+    
+    item: LEATHER_BOOTS
+    
+    slot: 16
+    
+    title: "&cKick this player ..."
+    
+    permission: "player-informations.kick-player"
+    
+    lore:
+    
+      1: "&fKicks this player."
+      
+  17:
+  
+    type: BAN_PLAYER
+    
+    item: DIAMOND_BOOTS
+    
+    slot: 17
+    
+    title: "&4Ban this player ..."
+    
+    permission: "player-informations.ban-player"
+    
+    lore:
+    
+      1: "&fBans this player."

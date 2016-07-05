@@ -1,0 +1,39 @@
+lastAccountName: CHOOCOBO
+timestamps:
+  login: 1465392318370
+  lastteleport: 1465392132438
+  logout: 1465392383280
+  lastheal: 1461595766894
+  kits:
+    elite: 1461252807888
+    default: 1461869074405
+    mod: 1461250984072
+    color: 1461331110654
+    vip: 1461253562851
+ipAddress: 88.88.41.170
+geolocation: Norway
+lastlocation:
+  world: Factions
+  x: -1190.4999800366065
+  y: 68.78258209853665
+  z: -1514.1434986116383
+  yaw: 113.73982
+  pitch: 6.420734
+logoutlocation:
+  world: Factions
+  x: -1290.699999988079
+  y: 166.5540106024055
+  z: -1507.699999988079
+  yaw: -198.93825
+  pitch: 57.465294
+money: '9999799.0'
+homes:
+  home:
+    world: world
+    x: 3744.4929259919113
+    y: 2.0
+    z: 2856.3627038878226
+    yaw: 1.451416
+    pitch: -2.6397653
+godmode: false
+afk: false

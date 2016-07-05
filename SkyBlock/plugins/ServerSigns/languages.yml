@@ -1,0 +1,157 @@
+en:
+  rightclick_bind_command: Right-click the sign to bind the command to it.
+  set_command: The command was added successfully.
+  rightclick_list: Right-click any sign to list the commands on it.
+  rightclick_set_price: Right-click the sign to set the price.
+  set_price: The price was added successfully.
+  rightclick_bind_permission: Right-click the sign to set permissions.
+  set_permission: The permission was added successfully.
+  rightclick_set_cooldown: Right-click any sign to set a cooldown
+  set_cooldown: The cooldown was added successfully.
+  rightclick_copy: Select a sign by rightclicking it.
+  rightclick_paste: Now right-click another sign to paste.
+  rightclick_del_command: Right-click any sign to delete the command.
+  del_command: The command was deleted successfully.
+  rightclick_del_permission: Right-click the sign to remove permissions.
+  del_permission: The permission was deleted successfully.
+  commands_removed: All commands removed from this sign.
+  edit_command: The command was edited successfully.
+  rightclick_reset_cooldown: Right-click a sign to reset cooldown.
+  reset_cooldown: Cooldowns were reset.
+  no_number: This is not a number.
+  not_ready: The Sign is ready in <cooldown>.
+  line_not_found: The given line was not found.
+  not_enough_permissions: You don't have enough permissions.
+  not_enough_money: You don't have enough money.
+  cannot_destroy: You are not allowed to destroy this sign.
+  need_confirmation_cost: Sign costs <currency><price>. /svs yes or click again.
+  need_confirmation: Confirm the sign with /svs yes or click again.
+  all_cooldowns_reset: All cooldowns were reset.
+  reload_success: ServerSigns was reloaded.
+  invalid_itemid: Invalid itemid.
+  priceitem_success: The price item was added successfully.
+  priceitem_bind: Right-click any sign to set a price item.
+  not_enough_items: 'You require the following items to use this sign:'
+  priceitem_remove: Right-click any sign to remove price item.
+  priceitem_removed: Successfully removed price item from this sign.
+  xp_must_be_greater_than_zero: The EXP level cost must be greater than 0.
+  xpcost_bind: Right-click any sign to set an EXP level cost.
+  set_xp: EXP level cost successfully applied to sign.
+  itemcriteria_boolean: Your arguments must be either *true* or *false*
+  not_enough_xp: You do not have enough EXP to use this sign.
+  funds_withdrawn: <number> <currency> has been removed from your balance.
+  permissions_required: Unable to continue, Vault or config-defined permissions commands required for this feautre.
+  priceitemcriteria_bind: Right-click any sign to set set price item criteria.
+  priceitemcriteria_set: Successfully set price item criteria on this sign.
+  persistance_on: You have enabled copy persistance, disable this with '/svs copy persist'
+  persistance_off: You have disabled copy persistance.
+  must_sneak: You must be sneaking to destroy ServerSigns.
+  set_confirmation: Sign confirmation set to <boolean>
+  invalid_hand_item: You must be holding an item
+  invalid_index: No commands exist at the given index for this sign. Please try another sign
+  delay_greater_than_zero: The delay must be greater than zero
+  set_loops: Successfully set loop data for this sign.
+  rightclick_bind_loops: Right-click any sign to set the loop data
+  loop_must_finish: The currently scheduled loop must finish first!
+  need_confirmation_price_items: 'This sign will take the following items:'
+  need_confirmation_xp: This sign will take <integer> experience levels
+  levels_needed: You need <integer> more levels!
+  holding_bind: Right-click any sign to add a held item requirement option
+  holding_success: Successfully added held item requirement option
+  holding_remove: Right-click any sign to remove all held item requirement options
+  holding_removed: Successfully removed all held item requirement options
+  helditemcriteria_bind: Right-click any sign to set the held item criteria
+  helditemcriteria_set: Successfully set the held item criteria on this sign.
+  need_confirmation_held_items: 'This sign requires you to be holding any of the following:'
+  must_be_holding: 'You must be holding any of the following to use this sign:'
+  blocked_command: That command cannot be executed by ServerSigns!
+  player_not_found: No player found by the name <string> (case sensitive)
+  cooldowns_reset: Successfully reset all cooldowns for <string>
+  long_command_again: Use /svs long when you are ready to bind your command to a sign
+  long_type_to_chat: You can now type the command you want to bind in chat, over multiple lines
+  long_cancelled: You haven't entered any information! Cancelling.
+  uses_greater_zero: The number of uses argument must be 0 or greater!
+  rightclick_remove_uses: Right-click any sign to remove the use limit
+  rightclick_set_uses: Right-click any sign to set the use limit
+  uses_success: Successfully set the use limit for this ServerSign
+  set_cancel_mode: The Cancel event mode has been set to <mode> for this sign
+de:
+  rightclick_bind_command: Befehl mit Rechtsklick auf Schild hinzufuegen.
+  set_command: Der Befehl wurde erfolgreich hinzugefuegt.
+  rightclick_list: Rechtsklicke ein Schild, um Befehle anzuzeigen.
+  rightclick_set_price: Rechtsklicke ein Schild, um den Preis zu setzen.
+  set_price: Der Preis wurde erfolgreich gesetzt.
+  rightclick_bind_permission: Rechtsklicke ein Schild, um die Rechte zu setzen.
+  set_permission: Die Rechte wurden erfolgreich gesetzt.
+  rightclick_set_cooldown: Rechtsklicke ein Schild, um cooldown zu setzen.
+  set_cooldown: Der cooldown wurde erfolgreich gesetzt.
+  rightclick_copy: Kopieren mit rechtsklick auf ein Schild.
+  rightclick_paste: Rechtsklick auf ein Schild zum einfuegen.
+  rightclick_del_command: Befehl mit Rechtsklick auf ein Schild loeschen.
+  del_command: Der Befehl wurde erfolgreich geloecht.
+  rightclick_del_permission: Rechtsklicke ein Schild, um die Rechte zu loeschen.
+  del_permission: Die Rechte wurden erfolgreich geloescht.
+  commands_removed: Alle Befehle wurden vom Schild geloescht.
+  edit_command: Der Befehl wurde erfolgreich editiert.
+  rightclick_reset_cooldown: Rechtsklick zum cooldown resetten.
+  reset_cooldown: Cooldowns wurden resettet.
+  no_number: Das ist keine Zahl.
+  not_ready: Das Schild ist in <cooldown> wieder bereit.
+  line_not_found: Die angegebene Zeile wurde nicht gefunden.
+  not_enough_permissions: Du hast nicht genuegend Rechte.
+  not_enough_money: Du hast nicht genuegend Geld.
+  cannot_destroy: Du darfst keine ServerSigns zerstoeren.
+  need_confirmation_cost: Kostet <price>. /svs yes oder nochmal klicken.
+  need_confirmation: /svs yes oder nochmal klicken.
+  all_cooldowns_reset: Alle cooldowns wurden resettet.
+  reload_success: ServerSigns wurde neu geladen.
+  invalid_itemid: Ungueltige Item ID.
+  priceitem_success: Der Preis des Items wurde erfolgreich hinzugefuegt.
+  priceitem_bind: Rechtsklick irgendein Schild um ein Preis Item zu setzen.
+  not_enough_items: Du brauchst die folgenden Gegenstaende um dieses Schild zu benutzen...
+  priceitem_remove: Rechts klicke ein Schild um das Preis Item zu entfernen.
+  priceitem_removed: Das Preis Item wurde erfolgreich von dem Schild entfernt.
+  xp_must_be_greater_than_zero: Der XP Preis muss groesser sein als 0.
+  xpcost_bind: Rechts klicke ein Schild um XP Kosten festzusetzen.
+  set_xp: XP Kosten erfolgreich an das Schild angebracht.
+  not_enough_xp: Du hast nicht genug XP um dieses Schild zu benutzen.
+  funds_withdrawn: <number> <currency> wurde von deinem Konto entfernt.
+  permissions_required: Es ist nicht moeglich fortzufahren, Vault oder config-definierte Commands werden benoetigt um dieses Feature zu benutzen
+  priceitemcriteria_boolean: Deine Argumente muessen *true* oder *false* sein
+  priceitemcriteria_bind: Rechts-Klick ein Schild um Preis Kriterium zu setzen.
+  priceitemcriteria_set: Erfolgreich Preis Kriterium gesetzt!
+  persistance_on: Du hast den staendingen Kopiermodus aktiviert, deaktiviere ihn mit "/svs copy persist"
+  persistance_off: Du hast den staendingen Kopiermodus deaktiviert
+  must_sneak: Du musst Shift halten um ServerSigns zu zerstoeren.
+  set_event_cancellation: Der Ereignis Ausloeser fuer dieses Schild wurde auf <boolean> gesetzt-
+  set_confirmation: Schild Bestaetigung wurde auf <boolean> gesetzt
+  invalid_hand_item: Du musst einen Gegenstand halten
+  invalid_index: Es wurden bisher keine Befehle in dem index fuer dieses Schild erstellt. Bitte versuch ein anderes Schild
+  delay_greater_than_zero: Die Verzoegerung muss groesser als null sein.
+  set_loops: Schleifen Information erfolgreich festgelegt.
+  rightclick_bind_loops: Rechts-klick ein Schild um Schleifen Information zu setzen.
+  loop_must_finish: Die derzeit laufende Schleife muss zuerst beendet werden!
+  need_confirmation_price_items: 'Das Schild wird folgende Items nehmen:'
+  need_confirmation_xp: Das Schild wird <integer> Erfahrungs Level nehmen
+  levels_needed: Du brauchst <integer> mehr Level!
+  holding_bind: Rechts-klick ein Schild um eine Item Voraussetzung hinzuzufuegen
+  holding_success: Item Voraussetzung erfolgreich gesetzt
+  holding_remove: Rechts-klick ein Schild um alle Item Voraussetzungen zu entfernen
+  holding_removed: Alle Item Voraussetzungen wurden erfolgreich entfernt!
+  helditemcriteria_bind: Rechts-klick ein Schild um ein gehaltenes tem Kriterium zu setzen
+  helditemcriteria_set: Gehaltenes Item Kriterium erfolgreich gesetzt.
+  need_confirmation_held_items: 'Dieses Schild setzt voraus, dass du folgende Items
+    besitzt:'
+  must_be_holding: 'Du musst eines der folgenden Items halten um das Schild zu benutzen:'
+  blocked_command: Dieser Befehl kann nicht von ServerSigns ausgefuehrt werden!
+  player_not_found: Es wurde kein Spieler mit dem Namen <string> gefunden (gross kleinschreibung beachten)
+  cooldowns_reset: Erfolgreich alle Cooldowns gesetzt fuer <string>
+  itemcriteria_boolean: Die Argumente duerfen nur *true* oder *false* sein
+  long_command_again: Benutze /svs long wenn du bereit bist deinen Befehl zu einem Schild hinzuzufuegen
+  long_type_to_chat: Du kannst jetzt deinen Befehl ueber mehrere Zeilen in den Chat schreiben
+  long_cancelled: Du hast nichts eingegeben! Abbrechen
+  uses_greater_zero: ''
+  rightclick_remove_uses: ''
+  rightclick_set_uses: ''
+  uses_success: ''
+  set_cancel_mode: ''

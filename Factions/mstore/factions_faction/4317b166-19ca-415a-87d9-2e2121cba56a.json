@@ -1,0 +1,17 @@
+{
+  "name": "DragonsFaith",
+  "description": "We are guided by the holy dragons that forged this realm",
+  "createdAtMillis": 1466617298868,
+  "home": {
+    "w": "Factions",
+    "lx": 10119.89791697936,
+    "ly": 160.0,
+    "lz": 10026.728324917713,
+    "p": 24.60001,
+    "y": 186.66565
+  },
+  "relationWishes": {
+    "d2b5ee0a-5c6b-4f56-8f54-b4f3a95f75e9": "ALLY",
+    "d8414872-853f-4f19-af41-7d7174de7cb5": "ALLY"
+  }
+}

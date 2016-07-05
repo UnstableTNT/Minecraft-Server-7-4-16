@@ -1,0 +1,33 @@
+survivalgames:
+  location: world, -898.580, 143.000, -15.296
+  lines:
+  - '&4Survival Games'
+skyblock:
+  location: world, -937.474, 143.000, 22.484
+  lines:
+  - '&4SkyBlock'
+colorshuffle:
+  location: world, -898.548, 143.000, 60.497
+  lines:
+  - '&4ColorShuffle'
+exploreation:
+  location: world, -879.564, 144.200, 3.508
+  lines:
+  - '&cExplore the &2Forest'
+parkour:
+  location: world, -916.334, 145.200, 4.588
+  lines:
+  - '&cParkour'
+paintball:
+  location: world, -912.465, 143.000, 60.519
+  lines:
+  - '&4Paintball'
+factions19:
+  location: world, -859.476, 143.000, 8.528
+  lines:
+  - '&4Factions 1.9'
+  - '&2With 1.8 PVP!'
+prison:
+  location: world, -884.498, 143.000, -15.456
+  lines:
+  - '&4Prison'

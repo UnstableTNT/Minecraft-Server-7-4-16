@@ -1,0 +1,117 @@
+ShopName: OreShopSell
+signs:
+  text: '[OresShop]'
+  NeedPermissionToCreateSign: true
+shop:
+  Coal:
+    RewardType: money
+    PriceType: item
+    Price:
+      - 'id:263'
+      - 'amount:32'
+    Reward: 20
+    MenuItem:
+      - 'id:263'
+      - 'amount:32'
+      - 'lore:&bReward: $20'
+    Message: '&bSold %price% for $%reward%!'
+    InventoryLocation: 1
+    ExtraPermission: ''
+  Redstone:
+    RewardType: money
+    PriceType: item
+    Price:
+      - 'id:331'
+      - 'amount:16'
+    Reward: 50
+    MenuItem:
+      - 'id:331'
+      - 'amount:16'
+      - 'lore:&bReward: $50'
+    Message: '&bSold %price% for $%reward%!'
+    InventoryLocation: 2
+    ExtraPermission: ''
+  'Lapis Lazuli':
+    RewardType: money
+    PriceType: item
+    Price:
+      - 'id:351'
+      - 'durability:4'
+      - 'amount:16'
+    Reward: 50
+    MenuItem:
+      - 'id:351'
+      - 'durability:4'
+      - 'amount:16'
+      - 'lore:&bReward: $50'
+    Message: '&bSold %price% for $%reward%!'
+    InventoryLocation: 3
+    ExtraPermission: ''
+  'Iron Ingot':
+    RewardType: money
+    PriceType: item
+    Price:
+      - 'id:265'
+      - 'amount:1'
+    Reward: 30
+    MenuItem:
+      - 'id:265'
+      - 'amount:1'
+      - 'lore:&bReward: $30'
+    Message: '&bSold %price% for $%reward%!'
+    InventoryLocation: 4
+    ExtraPermission: ''
+  'Gold Ingot':
+    RewardType: money
+    PriceType: item
+    Price:
+      - 'id:266'
+      - 'amount:1'
+    Reward: 45
+    MenuItem:
+      - 'id:266'
+      - 'amount:1'
+      - 'lore:&bReward: $45'
+    Message: '&bSold %price% for $%reward%!'
+    InventoryLocation: 5
+    ExtraPermission: ''
+  Diamond:
+    RewardType: money
+    PriceType: item
+    Price:
+      - 'id:264'
+      - 'amount:1'
+    Reward: 75
+    MenuItem:
+      - 'id:264'
+      - 'amount:1'
+      - 'lore:&bReward: $75'
+    Message: '&bSold %price% for $%reward%!'
+    InventoryLocation: 6
+    ExtraPermission: ''
+  Emerald:
+    RewardType: money
+    PriceType: item
+    Price:
+      - 'id:388'
+      - 'amount:1'
+    Reward: 95
+    MenuItem:
+      - 'id:388'
+      - 'amount:1'
+      - 'lore:&bReward: $95'
+    Message: '&bSold %price% for $%reward%!'
+    InventoryLocation: 7
+    ExtraPermission: ''
+  Back:
+    RewardType: shop
+    PriceType: free
+    Reward: menu
+    MenuItem:
+      - 'type:REDSTONE'
+      - 'amount:1'
+      - 'name:&cBack'
+      - 'lore:&8Back to Menu'
+    Message: '&6Leaving The Mob Drop Shop...'
+    InventoryLocation: 9
+    ExtraPermission: ''

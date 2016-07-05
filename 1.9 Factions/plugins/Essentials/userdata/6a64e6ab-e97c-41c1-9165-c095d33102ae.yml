@@ -1,0 +1,24 @@
+geolocation: Norway
+lastAccountName: ONCOLOGIC
+timestamps:
+  login: 1465391195823
+  logout: 1465392067973
+  lastteleport: 1465391714063
+ipAddress: 88.88.41.170
+lastlocation:
+  world: Factions
+  x: -1312.2933385264992
+  y: 70.0
+  z: -1484.9097712879777
+  yaw: -188.31308
+  pitch: 37.720673
+logoutlocation:
+  world: Factions
+  x: -1301.0237135241484
+  y: 137.2431361294093
+  z: -1528.0724846147139
+  yaw: 92.82678
+  pitch: 50.886562
+afk: false
+money: '-100.0'
+powertools: {}

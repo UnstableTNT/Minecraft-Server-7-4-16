@@ -1,0 +1,20 @@
+geolocation: Norway
+lastAccountName: MushroomPig
+timestamps:
+  login: 1461757923230
+  logout: 1461758632832
+ipAddress: 88.88.41.170
+lastlocation:
+  world: world
+  x: 13.0
+  y: 191.0
+  z: 369.0
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: ASkyBlock
+  x: 604.1607907326136
+  y: 119.0
+  z: 3.8473066565757916
+  yaw: 93.02504
+  pitch: 8.524055

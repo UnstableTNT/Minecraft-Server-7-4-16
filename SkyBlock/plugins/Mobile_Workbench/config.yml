@@ -1,0 +1,7 @@
+messages:
+  notenoughmoney: You don't have enough Money!
+  nopermission: You don't have Permissions to do that!
+  success: Here is your Workbench!
+  payment: You have paid 50 to open your Workbench!
+price:
+  workbench: 50

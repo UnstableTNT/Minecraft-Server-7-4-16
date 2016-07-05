@@ -1,0 +1,34 @@
+# Bungee Admin Tools - Configuration file
+
+language: en
+prefix: '&6[&4BAT&6]&e '
+# Force players to give reason when /ban /unban /kick /mute /unmute etc.
+mustGiveReason: false
+# Enable /bat confirm, to confirm command such as action on unknown player.
+confirmCommand: true
+# Enable or disable simple aliases to bypass the /bat prefix for core commands
+simpleAliasesCommands:
+  confirm: false
+  help: false
+  lookup: false
+  backup: false
+  reload: false
+  import: false
+  migrateToMysql: false
+  stafflookup: false
+  modules: false
+# Make the date more readable.If the date correspond to today, tmw or yda, it will replace the date by the corresponding word
+litteralDate: true
+# Enable BETA (experimental) Redis support, requires RedisBungee
+redisSupport: false
+# The debug mode enables verbose logging. All the logged message will be in the debug.log file in BAT folder
+debugMode: false
+mysql:
+  # Set to true to use MySQL. Otherwise SQL Lite will be used
+  enabled: false
+  user: user
+  password: password
+  database: database
+  host: localhost
+  # If you don't know it, just leave it like this (3306 = default mysql port)
+  port: '3306'

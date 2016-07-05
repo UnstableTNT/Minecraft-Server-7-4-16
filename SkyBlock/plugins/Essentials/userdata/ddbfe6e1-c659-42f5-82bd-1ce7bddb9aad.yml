@@ -1,0 +1,22 @@
+lastAccountName: panster3
+timestamps:
+  login: 1451440361504
+  logout: 1451440961258
+  kits:
+    elite: 1451440527457
+ipAddress: 76.190.217.196
+geolocation: United States
+lastlocation:
+  world: world
+  x: -52.460589722707695
+  y: 246.0
+  z: 281.6105627987923
+  yaw: 93.75016
+  pitch: 13.799951
+logoutlocation:
+  world: world
+  x: -52.95619467226133
+  y: 246.0
+  z: 282.2489106755921
+  yaw: 68.85023
+  pitch: 14.699943

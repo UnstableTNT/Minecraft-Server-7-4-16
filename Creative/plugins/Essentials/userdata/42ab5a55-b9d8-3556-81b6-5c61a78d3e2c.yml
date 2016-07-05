@@ -1,0 +1,21 @@
+timestamps:
+  lastteleport: 1466358364426
+  login: 1466358329225
+  logout: 1466358555834
+lastlocation:
+  world: Plots
+  x: 55.07840415466219
+  y: 103.0
+  z: 29.83112680287227
+  yaw: -193.58275
+  pitch: 4.9215975
+geolocation: N/A
+lastAccountName: ONCOLOGIC
+ipAddress: 127.0.0.1
+logoutlocation:
+  world: Plots
+  x: -29.430845053511757
+  y: 110.52922857905786
+  z: -24.18073307746548
+  yaw: 303.61707
+  pitch: 23.954163

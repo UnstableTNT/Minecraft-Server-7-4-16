@@ -1,0 +1,25 @@
+storage: sqlite
+mysql:
+  hostname: localhost
+  username: root
+  password: bananas
+  database: chestmaster
+use_uuid: false
+chest_size: 45
+migrated: true
+sql_version: 3
+networking:
+  use_metrics: true
+  use_autoupdate: true
+  use_advanced_metrics: true
+  report_errors: true
+lang:
+  NO_PERMISSION_CHEST_NUMBER: "\xc2\xa7cYou cant have this many chests!"
+  NO_PERMISSION: "\xc2\xa7cAccess Denied"
+  INVALID_CHEST_NUMBER: "\xc2\xa76That chest number is invalid"
+  ADM_CHEST_USAGE: "\xc2\xa7cUse /admchest <player> <chest_number>"
+  CHEST_NAME: "\xc2\xa76ChestMaster"
+  NO_PERMISSION_CREATIVE: You cant use /chest while in creative gamemode
+disable_dupe_kick: false
+block_creative_access: false
+command_name: chest

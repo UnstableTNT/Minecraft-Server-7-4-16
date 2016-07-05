@@ -1,0 +1,136 @@
+#  __________________________________________
+# |        Backpacks Configuration           |
+# |              by drew6017                 |
+# |__________________________________________|
+# |              Information:                |
+# | - Change the values to that of your      |
+# | choosing to edit its properties. You can |
+# | find help information about a feature    |
+# | in the comment above it.                 |
+# |__________________________________________|
+version: 0.0.6
+
+# This is the language you want the plugin to be in. Supported languages: English(en), Spanish(sp)
+lang: en
+
+# Enabled this to "true" to send players the custom resource pack from your repository link. This is if you want backpacks to have a texture.
+resource-pack: false
+
+# Change this to the link you uploaded your custom resource pack to.
+resource-link: http://example.com/resource-pack.zip
+
+# Supported colors: BLACK, BLUE, YELLOW, RED, ORANGE, PURPLE, WHITE, AQUA, FUCHSIA, MAROON, GREEN, GRAY, SILVER, TEAL, LIME, OLIVE, and NAVY
+# This is the color of the large backpack.
+large-color: MAROON
+
+# This is the color of the small backpack.
+small-color: BLACK
+
+# This is the color of the crafting backpack.
+craft-color: ORANGE
+
+# This is the color of the ender backpack.
+ender-color: GREEN
+
+# This is the color of the linked backpack.
+linked-color: BLUE
+
+# The name of the "Large Backpack" item. This custom name can NOT contain numbers.
+large-name: Large Backpack
+
+# The name of the "Small Backpack" item. This custom name can NOT contain numbers.
+small-name: Small Backpack
+
+# The name of the "Crafting Backpack" item. This name can contain numbers, but if the name is changed, all crafting backpacks made before the change will no longer work.
+# Note: This may change in the future.
+craft-name: Crafting Backpack
+
+# The name of the "Ender Backpack" item. This name can contain numbers, but if the name is changed, all crafting backpacks made before the change will no longer work.
+# Note: This may change in the future.
+ender-name: Ender Backpack
+
+# The name of the "Crafting Backpack" item. This name can contain numbers, but if the name is changed, all crafting backpacks made before the change will no longer work.
+# Note: This may change in the future.
+linked-name: Linked Backpack
+
+# This is the size of the Large Backpack by number of slots. The slots must go by increments of 9 with a maximum integer being 54. (9, 18, 27, 36, 45, 54)
+large-size: 54
+
+# This is the size of the Small Backpack by number of slots. The slots must go by increments of 9 with a maximum integer being 54. (9, 18, 27, 36, 45, 54)
+small-size: 27
+
+# Set this value to "true" to allow players to craft the specified item.
+large-craft: true
+small-craft: true
+key-craft: true
+craft-craft: true
+ender-craft: true
+linked-craft: true
+
+# This is the crafting recipe of the large backpack. The recipe is layed out as you would see it in a crafting table. Each symbol represents an item. Use '$' to represent no item.
+# Replace the crafting table slot with the symbol that represents the item you would like to use. List of supported items:
+# Leather Chestplate = a : Leather = b : String = c : Chest = d : Wool = e
+large-1: bbb
+large-2: bdb
+large-3: bbb
+
+# This is the crafting recipe of the small backpack. The recipe is layed out as you would see it in a crafting table. Each symbol represents an item. Use '$' to represent no item.
+# Replace the crafting table slot with the symbol that represents the item you would like to use. List of supported items:
+# Leather Chestplate = a : Leather = b : String = c : Chest = d : Wool = e
+small-1: bbb
+small-2: b$b
+small-3: bbb
+
+# This is the crafting recipe for the backpack key. The recipe is layed out as you would see it in a crafting table. Each symbol represents an item. Use '$' to represent no item.
+# Replace the crafting table slot with the symbol that represents the item you would like to use. List of supported items:
+# Leather Chestplate = a : Leather = b : String = c : Chest = d : Wool = e : Iron = f : Feather = g
+key-1: f$f
+key-2: $g$
+key-3: f$f
+
+# This is the crafting recipe for the backpack key. The recipe is layed out as you would see it in a crafting table. Each symbol represents an item. Use '$' to represent no item.
+# Replace the crafting table slot with the symbol that represents the item you would like to use. List of supported items:
+# Leather Chestplate = a : Leather = b : String = c : Chest = d : Wool = e : Iron = f : Feather = g : Crafting Table = h
+craft-1: bbb
+craft-2: bhb
+craft-3: bbb
+
+# This is the crafting recipe for the backpack key. The recipe is layed out as you would see it in a crafting table. Each symbol represents an item. Use '$' to represent no item.
+# Replace the crafting table slot with the symbol that represents the item you would like to use. List of supported items:
+# Leather Chestplate = a : Leather = b : String = c : Chest = d : Wool = e : Iron = f : Feather = g : Ender Chest = h
+ender-1: bbb
+ender-2: bhb
+ender-3: bbb
+
+# This is the crafting recipe for the backpack key. The recipe is layed out as you would see it in a crafting table. Each symbol represents an item. Use '$' to represent no item.
+# Replace the crafting table slot with the symbol that represents the item you would like to use. List of supported items:
+# Leather Chestplate = a : Leather = b : Blaze Powder = c : Chest = d : Wool = e : Ender Pearl = f : Feather = g : Ender Chest = h
+linked-1: bcb
+linked-2: fdf
+linked-3: bcb
+
+# This is the lore of your backpack/key. It can be used to tell users a little about the item.
+large-lore:
+- $7Store all your stuff in the mother of all backpacks.
+small-lore:
+- $7Not the largest backpack out there, but it is more useful than you think.
+key-lore:
+- $7Open your backpacks with this key.
+craft-lore:
+- $7Craft on the go with this nifty backpack.
+ender-lore:
+- $7Access your enderchest from anywhere in the world
+- $7with the this backpack.
+linked-lore:
+- $7Link this backpack to a chest of your choice by left clicking,
+- $7and open it from anywhere in the world!
+
+# This is the auto-saving feature for backpacks. You can set all backpacks to be saved periodically so that if the server crashes, players will not loose everything. Time is in minutes.
+auto-save: true
+save-time: 10
+
+# This tells whether or not to you want backpacks to obtain damage when a player is hit while wearing one.
+allowDamage: false
+
+# Having this enabled allows the plugin to automatically update itself when the latest version is released. This is HIGHLY recommended.
+autoupdate: true

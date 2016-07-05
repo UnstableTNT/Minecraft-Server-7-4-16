@@ -1,0 +1,21 @@
+geolocation: Israel
+lastAccountName: LadyShaka
+timestamps:
+  login: 1461594434916
+  logout: 1461596131960
+ipAddress: 84.109.10.87
+lastlocation:
+  world: world
+  x: -614.5
+  y: 215.0
+  z: 331.5
+  yaw: 0.0
+  pitch: 0.0
+money: '200.0'
+logoutlocation:
+  world: world
+  x: 43830.201252769635
+  y: 63.0
+  z: 222999.29716413273
+  yaw: 144.48303
+  pitch: 25.585526

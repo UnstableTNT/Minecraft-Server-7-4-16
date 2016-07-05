@@ -1,0 +1,35 @@
+title: "&bFreeze Menu"
+
+buttons:
+
+  0:
+  
+    type: FREEZE
+  
+    item: SNOW_BALL
+    
+    slot: 0
+    
+    title: "&bFREEZE ..."
+    
+    permission: "freeze" # NOTE: The plugin adds automatically "AdministrationPanel.functions." infront of it.
+    
+    lore:
+    
+      1: "&fFreezes a player."
+    
+  1:
+  
+    type: UNFREEZE
+    
+    item: FIRE
+    
+    slot: 1
+    
+    title: "&cUnfreeze ..."
+    
+    permission: "freeze" # NOTE: The plugin adds automatically "AdministrationPanel.functions." infront of it.
+    
+    lore:
+    
+      1: "&fUnfreezes a player."

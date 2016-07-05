@@ -1,0 +1,40 @@
+geolocation: Norway
+lastAccountName: fantaboy15
+timestamps:
+  login: 1466696431625
+  lastteleport: 1466695643503
+  logout: 1466698337265
+  mute: 0
+  kits:
+    default: 1466529173267
+    elite: 1466541580698
+    donor: 1466541574645
+    helper: 1466677519423
+    color: 1466541584448
+    vip: 1466525752652
+  lastheal: 1466687145830
+ipAddress: 51.174.227.250
+lastlocation:
+  world: Factions
+  x: 105.5
+  y: 221.0
+  z: 981.5
+  yaw: 3.597351
+  pitch: 21.80119
+logoutlocation:
+  world: Factions
+  x: 2777.587568627115
+  y: 26.0
+  z: 4032.117908997557
+  yaw: 178.66547
+  pitch: 6.5217714
+muted: false
+money: '10300.0'
+homes:
+  home:
+    world: Factions
+    x: 1500.5421433957945
+    y: 219.0
+    z: 3969.5114632504433
+    yaw: 91.118416
+    pitch: -85.37929

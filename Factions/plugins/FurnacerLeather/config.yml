@@ -1,0 +1,5 @@
+# allow transform rotten flesh to leather
+allow_flesh_to_leather: true
+
+# allow transform leather back to rotten flesh
+allow_leather_to_flesh: true

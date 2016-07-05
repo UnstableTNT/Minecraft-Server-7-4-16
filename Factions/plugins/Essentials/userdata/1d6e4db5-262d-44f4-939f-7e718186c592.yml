@@ -1,0 +1,55 @@
+geolocation: United States
+lastAccountName: PiePigAnonymous
+timestamps:
+  login: 1467678397363
+  logout: 1467678412408
+  lastteleport: 1467385010811
+  kits:
+    youtube: 1461082342341
+    default: 1466785835036
+    mod: 1466787569621
+    color: 1467127123857
+    notch: 1460131453935
+    ultra: 1466895761962
+ipAddress: 50.148.119.91
+lastlocation:
+  world: Factions
+  x: 67.10449407348433
+  y: 57.0
+  z: 78.82760892397631
+  yaw: -91.46824
+  pitch: 2.099992
+logoutlocation:
+  world: Factions
+  x: 57.036312646126
+  y: 65.0
+  z: 132.0744250060156
+  yaw: -14.402388
+  pitch: 5.099994
+afk: false
+powertools: {}
+godmode: false
+money: '47937.75'
+homes:
+  base:
+    world: Factions
+    x: 2792.080082272848
+    y: 87.0
+    z: 2436.4914131068313
+    yaw: 91.07056
+    pitch: 1.0499862
+  grinder:
+    world: Factions
+    x: 2794.9294919015283
+    y: 101.0
+    z: 2436.15902503067
+    yaw: 82.22241
+    pitch: 9.4500265
+  lol:
+    world: Factions
+    x: 2676.0510164333
+    y: 70.0
+    z: 4412.623616098955
+    yaw: 269.85037
+    pitch: 19.800009
+nickname: "\xa71P\xa74i\xa70e"

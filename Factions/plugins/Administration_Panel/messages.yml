@@ -1,0 +1,127 @@
+administration-panel:
+
+  player-not-online:
+    
+    message: "&cPlayer %player% is not online!"
+
+kick-player:
+
+  target:
+  
+    message: "&4You have been kicked by an Administrator. Reason: %reason%."
+    
+  clicker:
+  
+    message: "&cYou have kicked %target%&c."
+    
+ban-player:
+
+  target:
+  
+    message: "&4You have been banned by an Administrator. Reason: %reason%."
+    
+  clicker:
+  
+    message: "&cYou have banned %target%&c."
+  
+teleport:
+
+  target-to-clicker:
+  
+    target:
+    
+      message: "&cYou have been teleported to %clicker%."
+      
+    clicker: 
+      
+      message: "&cYou have teleported %target% &cto yourself."
+      
+  clicker-to-target:
+  
+    clicker:
+    
+      message: "&cYou have teleported yourself to %target%."
+    
+mute-player:
+
+  target:
+  
+    message: "&cYou have been muted by an Administrator. Reason: %reason%."
+    
+  clicker:
+  
+    message: "&cYou have muted %target%&c."
+    
+unmute-player:
+
+  target:
+  
+    message: "&cYou have been unmuted by an Administrator."
+    
+  clicker:
+  
+    message: "&cYou have unmuted %target%&c."
+    
+freeze-player:
+
+  target:
+  
+    message: "&cYou have been frozen by an Administrator. Reason: %reason%."
+    
+  clicker:
+  
+    message: "&cYou have frozen %target%&c."
+    
+unfreeze-player:
+
+  target:
+  
+    message: "&cYou have been unfrozen by an Administrator."
+    
+  clicker:
+  
+    message: "&cYou have unfrozen %target%&c."
+    
+world-options:
+
+  change-time:
+  
+    clicker:
+    
+      message: "&cYou have changed the time in world %world% to %name% (%ticks% ticks)."
+      
+  change-player-time:
+  
+    clicker:
+    
+      message: "&cYou have changed %target%'s time in world %world% to %name% (%ticks% ticks)."
+      
+    target:
+    
+      message: "&cYour time in world %world% has been changed to %name% by an Administrator."
+      
+  change-weather:
+  
+    clicker:
+    
+      message: "&cYou have changed the weather in world %world% to %name%."
+      
+item-giver:
+
+  clicker:
+    
+    message: "&cYou have given %amount% of %item% to %player%."
+    
+  target:
+  
+    message: "&cYou have got %amount% of %item% by %clicker%!"
+    
+player-information:
+
+  kick-message: "&cYou have been kicked by an Administrator."
+  
+  ban-message: "&cYou have been banned by an Administrator."
+  
+info-tool:
+
+  useNoPermissions: "Don't steal tools from admins, you don't have permissions to use this tool!"

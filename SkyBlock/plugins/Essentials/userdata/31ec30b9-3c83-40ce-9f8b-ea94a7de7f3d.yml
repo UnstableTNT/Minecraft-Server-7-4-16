@@ -1,0 +1,27 @@
+lastAccountName: DaOfficialOwen
+timestamps:
+  login: 1466624838052
+  lastteleport: 1466616622795
+  logout: 1466625074478
+  lastheal: 1466616179110
+  kits:
+    helper: 1466350983957
+    vip: 1466356097508
+ipAddress: 87.112.208.192
+geolocation: United Kingdom
+lastlocation:
+  world: ASkyBlock
+  x: 201.54800377012518
+  y: 120.0
+  z: 402.42045136847406
+  yaw: -87.11365
+  pitch: 26.029722
+logoutlocation:
+  world: ASkyBlock
+  x: 204.53341862552242
+  y: 120.0
+  z: 399.21244072822964
+  yaw: -97.29529
+  pitch: 28.450613
+money: '130.0'
+godmode: false

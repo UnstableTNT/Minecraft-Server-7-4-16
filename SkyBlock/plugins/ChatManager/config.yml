@@ -1,0 +1,29 @@
+# Hello, This Is The ChatManager Confiuration File.
+# %displayname% = DisplayName
+# %player% = Username
+# %msg% = Every Argument After /Command
+
+
+# This message will be broadcasted after chat is cleared with /cc or /clearchat
+ClearChat: '&c[ChatManager] &7Chat Has Been Cleared By &c%displayname%!'
+
+# This message will be broadcasted after a GlobalMute is enabled with /globalmute
+GlobalMuteOn: '&1[ChatManager] &3A GlobalMute Has Been Enabled By &9%displayname%!'
+
+# This message will be broadcasted after a GlobalMute is disabled with /globalmute
+GlobalMuteOff: '&2[ChatManager] &aA GlobalMute Has Been Disabled By &2%displayname%!'
+
+# This will be the broadcast format for /bc and /broadcast
+BroadcastFormat: '&5[ChatManager] &d%msg%'
+
+# This will be the H Chat Channel Format
+HChat: '&4[HChat] &c%player%&4: &c%msg%'
+
+
+# This will be the M Chat Channel Format
+MChat: '&6[MChat] &e%player%&6: &e%msg%'
+
+
+# This will be the A Chat Channel Format
+AChat: '&8[AChat] &f%player%&4: &8%msg%'
+

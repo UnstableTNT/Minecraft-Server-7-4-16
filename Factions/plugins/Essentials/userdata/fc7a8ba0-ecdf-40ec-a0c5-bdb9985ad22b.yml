@@ -1,0 +1,50 @@
+lastAccountName: Swaven
+timestamps:
+  login: 1467308185675
+  logout: 1467308953218
+  kits:
+    helper: 1465180990021
+    color: 1466443658745
+    ultra: 1467306602774
+  lastteleport: 1467308316571
+  mute: 0
+ipAddress: 72.201.122.223
+geolocation: United States
+lastlocation:
+  world: Factions
+  x: 10119.655466484337
+  y: 49.549814315335745
+  z: 10034.93664440447
+  yaw: 179.77184
+  pitch: 88.200035
+logoutlocation:
+  world: Factions
+  x: 10119.392469900964
+  y: 38.20000004768371
+  z: 10035.463189730499
+  yaw: -66.22656
+  pitch: 82.20001
+money: '2816.0'
+powertools:
+  '369':
+  - butcher
+  '280':
+  - heal
+  '352':
+  - speed 1
+  '279':
+  - kill fantaboy15
+  '258':
+  - jump
+homes:
+  home:
+    world: Factions
+    x: 10119.89791697936
+    y: 160.0
+    z: 10026.728324917713
+    yaw: 186.66565
+    pitch: 24.60001
+afk: false
+nickname: "\xa74\xa7lSwa\xa70\xa7lven"
+muted: false
+godmode: false

@@ -1,0 +1,39 @@
+title: "&3Block &bInformation"
+
+slots: 9
+
+buttons:
+
+  1:
+  
+    type: BLOCK_INFO_INFO
+    
+    item: "%block%"
+    
+    slot: 0
+    
+    title: "&3Basic &cInfo"
+    
+    lore:
+    
+      1: "&3ID: &c%id%"
+      2: "&3Name: &c%name%"
+      3: "&3Light: &c%light%"
+      
+  2:
+  
+    type: BLOCK_INFO_INFO
+    
+    item: COMPASS
+    
+    slot: 1
+    
+    title: "&3World &cLocation"
+    
+    lore:
+    
+      1: "&3World: &c%world%"
+      2: "&3X: &c%posX%"
+      3: "&3Y: &c%posY%"
+      4: "&3Z: &c%posZ%"
+      5: "&3Biome: &c%biome%"

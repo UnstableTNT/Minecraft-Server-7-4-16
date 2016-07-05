@@ -1,0 +1,27 @@
+lastAccountName: ComedicCoder
+timestamps:
+  login: 1466967665146
+  logout: 1466967990333
+  lastteleport: 1466786456574
+  kits:
+    youtube: 1466785755190
+    default: 1466785724859
+    helper: 1466785787524
+ipAddress: 81.96.168.131
+lastlocation:
+  world: Factions
+  x: 1513.2479585281285
+  y: 56.0
+  z: 2759.563417705649
+  yaw: -265.2312
+  pitch: 22.36078
+geolocation: United Kingdom
+logoutlocation:
+  world: Factions
+  x: 42.53052397833336
+  y: 86.6236037658967
+  z: 98.30000001192093
+  yaw: -199.12537
+  pitch: 39.396164
+powertools: {}
+money: '2300.0'

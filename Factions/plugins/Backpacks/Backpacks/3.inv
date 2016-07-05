@@ -1,0 +1,72 @@
+Size: 54
+Name: Large Backpack
+ID: 3
+Items:
+- ==: org.bukkit.inventory.ItemStack
+  type: TNT
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  type: TNT
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  type: TNT
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  type: TNT
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  type: TNT
+  amount: 55
+- ==: org.bukkit.inventory.ItemStack
+  type: SLIME_BALL
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  type: SLIME_BALL
+  amount: 18
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null

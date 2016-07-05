@@ -1,0 +1,7 @@
+global:
+  char: '&'
+  use permissions: true
+Sign:
+  char: '&'
+messages:
+  permission message: '&cYou dont have permission to use this color!'

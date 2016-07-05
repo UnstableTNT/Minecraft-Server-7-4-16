@@ -1,0 +1,224 @@
+#Name of the main GUI
+shopMenuName: "&3&lShop menu"
+#Size of the main GUI, valid values are 9, 18, 27, 36, 45 and 54
+shopMenuSize: 9
+#Define whether selling all with middle mouse button is enabled
+enableSellAll: true
+#Define whether the buy GUI with option to select quantity is enabled
+enableBuyGUI: true
+#Define whether the sell GUI with option to select quantity is enabled
+enableSellGUI: true
+#Define whether sell all button in SellGUI is enabled (enableSellGUI has to be enabled too)
+enableSellGUISellAll: true
+#Define whether after closing/buying/selling the shop GUI should be opened again
+returnToShop: true
+#Define whether lines containing the %buy% placeholder should be hidden for unbuyable items
+hideBuyPriceForUnbuyable: true
+#Define whether lines containing the %sell% placeholder should be hidden for unsellable items
+hideSellPriceForUnsellable: true
+#Define whether buy and sell buttons should be inverted (false - LMB buy, RMB sell / true - LMB sell, RMB buy)
+invertBuySell: false
+#Format of item lores in shops, %buy% will be replaced with the buy price and %sell% with sell price
+shopItemLoreFormat:
+  #This lore will be applied to items
+  item:
+    - "&7Buy price: &c%buy%$"
+    - "&7Sell price: &a%sell%$"
+    - "&9Click with MMB to sell all"
+  #This lore will be applied to items in the buy GUI (when enableBuyGUI is set to true)
+  itemBuyGUI:
+    - "&7Buy price: &c%buy%$"  
+  #This lore will be applied to items in the sell GUI (when enableSellGUI is set to true)
+  itemSellGUI:
+    - "&7Sell price: &a%sell%$"
+  #This lore will be applied to the sell all button in the sell GUI (when enableSellGUI and enableSellGUISellAll are set to true)
+  itemSellGUISellAll:
+    - "&7Sell all for: &a%sell%$"
+  #This one to permissions
+  permission:
+    - "&7Buy price: &c%buy%$"
+  #And this one to enchantments
+  enchantment:
+    - "&7Buy price: &c%buy%$"
+  #And the last one to commands
+  command:
+    - "&7Buy price: &c%buy%$"
+
+#Logging settings
+log:
+  #Define whether transactions will be logged to the console/main server log
+  toConsole: true
+  #Define whether transactions will be logged to a separate log
+  toFile: false
+  #Date format of transactions (http://docs.oracle.com/javase/7/docs/api/java/text/SimpleDateFormat.html)
+  formatDate: "yyyy/MM/dd HH:mm:ss"
+  #Log message for bought items
+  formatBuy: "%player% bought %amount% x %item% for %price%$ from %shop% shop"
+  #Log message for sold items
+  formatSell: "%player% sold %amount% x %item% for %price%$ to %shop% shop"
+  #Log message for sold all items
+  formatSellAll: "%player% sold all %amount% x %item% for %price%$ to %shop% shop"
+    
+#Define whether go back button is enabled in shops
+goBackButton: 
+  enable: true
+  item:
+    #Material name, full list can be found here: http://wiki.brcdev.net/Materials
+    material: NETHER_STAR 
+    #Amount of the item
+    amount: 1 
+    #(optional) Data value, for example 1 for WOOD:1 means spruce wood planks
+    damage: 0 
+    #(optional) Custom name
+    name: "&cBack to categories" 
+    #(optional) Lore, can contain multiple lines
+    lore: 
+      - "&aClick here to return to the main menu"
+  #Slot in each shop's GUI
+  slot: 49 
+  
+buttons:
+  #"Previous page" button
+  previousPage:
+    item:
+      material: PAPER
+      quantity: 1
+      name: "&e&lPrevious page"
+    slot: 45
+  #"Next page" button
+  nextPage:
+    item:
+      material: PAPER
+      quantity: 1
+      name: "&e&lNext page"
+    slot: 53
+  
+#Elements of the buy/sell GUI
+amountSelectionGUIItems:
+  #"Remove 1" button
+  remove1:
+      material: STAINED_GLASS_PANE
+      quantity: 1
+      damage: 14
+      name: "&c&lRemove 1"
+  #"Remove 10" button
+  remove10:
+      material: STAINED_GLASS_PANE
+      quantity: 10
+      damage: 14
+      name: "&c&lRemove 10"
+  #"Add 1" button
+  add1:
+      material: STAINED_GLASS_PANE
+      quantity: 1
+      damage: 5
+      name: "&a&lAdd 1"
+  #"Add 10" button
+  add10:
+      material: STAINED_GLASS_PANE
+      quantity: 10
+      damage: 5
+      name: "&a&lAdd 10"
+  #"Confirm" button
+  confirm:
+      material: STAINED_GLASS
+      quantity: 1
+      damage: 5
+      name: "&a&lConfirm"   
+  #"Cancel" button      
+  cancel:
+      material: STAINED_GLASS
+      quantity: 1
+      damage: 14
+      name: "&c&lCancel"      
+  #"Sell all" button
+  sellAll:
+      material: STAINED_GLASS
+      quantity: 1
+      damage: 5
+      name: "&a&lSell all"      
+      
+shopMenuItems:
+  #Has to be unique, value doesn't matter
+  1: 
+    item:
+      #The same rules apply for material, amount, damage and lore as for goBackButton
+      material: CAKE 
+      quantity: 1 
+      damage: 0
+      name: "&aFood"
+      lore:
+        - "&7Get some yummy food here!"
+    #Shop ID from shops.yml
+    shop: "food" 
+    #Slot in shops menu, counting from 0 to 53
+    slot: 0 
+  2:
+    item:
+      material: DIAMOND_PICKAXE
+      quantity: 1
+      damage: 0
+      name: "&2Mining"
+      lore:
+        - "&7Get your mining gear here!"
+      enchantments:
+        - DIG_SPEED:1
+        - DURABILITY:2
+    shop: "mining"
+    slot: 1 
+  3:
+    item:
+      material: IRON_HOE
+      quantity: 1
+      damage: 0
+      name: "&eFarming"
+      lore:
+        - "&7Grow your crops easily with these seeds!"
+        - "&7Sale!"
+    shop: "farming"
+    slot: 2
+  4:
+    item:
+      material: WOOL
+      quantity: 64
+      damage: 4
+      name: "&bWool Shop"
+    shop: "wool"
+    slot: 3
+  5:
+    item:
+      material: REDSTONE
+      quantity: 1
+      name: "&3Permissions"
+    shop: "permissions"
+    slot: 4
+  6:
+    item:
+      material: DIAMOND_SWORD
+      enchantments:
+        - KNOCKBACK:1
+      quantity: 1
+      name: "&6Enchantments"
+    shop: "enchantments"
+    slot: 5
+  7:
+    item:
+      material: DIAMOND_BLOCK
+      quantity: 1
+      name: "&7Commands"
+    shop: "commands"
+    slot: 6
+  8:
+    item:
+      material: FIREWORK
+      quantity: 1
+      name: "&cFireworks"
+    shop: "fireworks"
+    slot: 7
+  9:
+    item:
+      material: MOB_SPAWNER
+      quantity: 1
+      name: "&eSpawners"
+    shop: "spawners"
+    slot: 8

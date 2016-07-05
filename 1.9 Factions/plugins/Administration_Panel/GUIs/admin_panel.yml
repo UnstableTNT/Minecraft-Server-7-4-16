@@ -1,0 +1,227 @@
+title: "&cAdministration CP" # This is the title of the panel / inventory GUI.
+
+slots: 18 # These are the slots the GUI will have. It MUST be divisible by 9.
+
+buttons: # Nothing here. ;)
+
+  0: # Can be whatever you want.
+    
+    type: KICK_PLAYER # This is the type of the button. At the plugin's bukkit dev page is a list of all types.
+    
+    item: LEATHER_BOOTS # This is the item which represents the button. ONLY names, NOT IDs.
+    
+    slot: 0 # This is the slot the button is in. Starting from 0, so the last slot is always 1 smaller then the total amount of slots the GUI has.
+    
+    title: "&cKick a player ..." # This is the name of the item, the title of the button. It should be short and descriptive.
+    
+    # Bellow is the custom permission. Choose wisely. ;) You can also have 2 buttons with the same permissions to use only that 1 permission for both buttons.
+    permission: "kick-player" # NOTE: The plugin adds automatically "AdministrationPanel.function." infront of it.
+    
+    lore: # Nothing here, but it tells that here the lores starts. (important!)
+    
+      1: "&fUse to kick a player." # This is the first line of the lore. that 1 isn't needed, you can also name it l1 or first, but I think numbers are pretty good if you have 10 lines.
+     
+  # Now it continues exactly the same like above. 
+  1: 
+  
+    type: BAN_PLAYER
+    
+    item: DIAMOND_BOOTS
+    
+    slot: 1
+    
+    title: "&4Ban a player ..."
+    
+    permission: "ban-player" # NOTE: The plugin adds automatically "AdministrationPanel.function." infront of it.
+    
+    lore:
+    
+      1: "&fUse to ban a player."
+      
+  2:
+  
+    type: TELEPORT
+    
+    item: ENDER_PEARL
+    
+    slot: 2
+    
+    title: "&dTeleport a player ..."
+    
+    permission: "teleport"
+    
+    lore:
+     
+      1: "&fUse to open the"
+      2: "&fteleport menu."
+      
+  3:
+  
+    type: MUTE_PLAYER
+    
+    item: GHAST_TEAR
+    
+    slot: 3
+    
+    title: "&7Mute a player ..."
+    
+    permission: "mute-player" # NOTE: The plugin adds automatically "AdministrationPanel.function." infront of it.
+    
+    lore:
+    
+      1: "&fUse to mute a player."
+      
+  4:
+  
+    type: FREEZE_PLAYER
+    
+    item: SNOW_BALL
+    
+    slot: 4
+    
+    title: "&bFreeze a player ..."
+    
+    permission: "freeze-player" # NOTE: The plugin adds automatically "AdministrationPanel.function." infront of it.
+    
+    lore:
+    
+      1: "&fUse to freeze a player."
+      
+  5:
+  
+    type: WORLD_OPTIONS
+    
+    item: SAPLING
+    
+    slot: 5
+    
+    title: "&2World Options ..."
+    
+    permission: "world-options" # NOTE: The plugin adds automatically "AdministrationPanel.function." infront of it.
+    
+    lore:
+      
+      1: "&fUse to open the"
+      2: "&fworld options menu."
+      
+  6:
+  
+    type: GAMEMODE
+    
+    item: LEATHER_CHESTPLATE
+    
+    slot: 6
+    
+    title: "&dChange gamemode ..."
+    
+    permission: "gamemode" # NOTE: The plugin adds automatically "AdministrationPanel.function." infront of it.
+    
+    lore:
+    
+      1: "&fCurrent: &5%gamemode%"
+      2: "&d- - - - - -"
+      3: "&fUse to change"
+      4: "&fyour gamemode."
+      
+  7:
+  
+    type: GHOSTMODE
+    
+    item: CHAINMAIL_CHESTPLATE
+    
+    slot: 7
+    
+    title: "&7Change ghostmode ..."
+    
+    permission: "ghostmode" # NOTE: The plugin adds automatically "AdministrationPanel.function." infront of it.
+    
+    lore:
+    
+      1: "&fCurrent: &8%ghostmode%"
+      2: "&7- - - - - -"
+      3: "&fUse to change"
+      4: "&fyour ghostmode."
+      
+  8:
+  
+    type: BROADCAST
+    
+    item: BOOK
+    
+    slot: 8
+    
+    title: "&4Broadcast menu"
+    
+    permission: "broadcast"
+    
+    lore:
+    
+      1: "&fOpens the broadcast"
+      2: "&fmenu."
+      
+  9:
+  
+    type: PLAYER_INFO
+    
+    item: PAPER
+    
+    slot: 9
+    
+    title: "&ePlayer Informations"
+    
+    permission: "player-informations"
+    
+    lore:
+    
+      1: "&fOpens the player"
+      2: "&finformation menu."
+      
+  10:
+  
+    type: CUSTOM
+    
+    item: PAPER
+    
+    slot: 10
+    
+    title: "&9Commander"
+    
+    permission: "commander"
+    
+    lore:
+    
+      1: "&fOpens the commander"
+      2: "&fmenu."
+      
+  11:
+  
+    type: ITEM_GIVER
+    
+    item: GRASS
+    
+    slot: 11
+    
+    title: "&2Item Sender"
+    
+    permission: "item-sender"
+    
+    lore:
+    
+      1: "&fOpens the item"
+      2: "&fsender menu."
+      
+  12:
+  
+    type: CRAFTING_TABLE
+    
+    item: WORKBENCH
+    
+    slot: 12
+    
+    title: "&6Crafting Table"
+    
+    permission: "crafting-table"
+    
+    lore:
+    
+      1: "&fOpens a crafting table."

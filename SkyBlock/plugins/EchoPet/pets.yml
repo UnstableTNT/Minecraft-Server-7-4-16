@@ -1,0 +1,51 @@
+autosave:
+  4fd4efa4-04fa-4426-bedd-617320fd7160:
+    pet:
+      type: SQUID
+      name: Squid Pet
+  42122fd8-8d3d-485a-aae7-35a2beb36119:
+    pet:
+      type: WITHER
+      name: Herobrine
+  baa15554-de74-44c4-8ae3-72a603afa4f6:
+    pet:
+      type: WOLF
+      name: Wolf Pet
+      data:
+        brown: true
+  ebddb6ee-72be-43e5-8b1c-f4f470f88b91:
+    pet:
+      type: IRONGOLEM
+      name: Iron Golem Pet
+  cb8522d4-a022-421c-ab56-5a39e0b6896c:
+    pet:
+      type: BAT
+      name: Bat Pet
+  9c6e7247-31ef-4d3b-bbdb-c5f61d07ef42:
+    pet:
+      type: IRONGOLEM
+      name: Iron Golem Pet
+  eea18531-2396-417b-a350-56e68d33faba:
+    pet:
+      type: SILVERFISH
+      name: <->Silkie<->
+  a3f33216-6e72-4db2-8910-abf1bae9308b:
+    pet:
+      type: SLIME
+      name: UnstableTNT
+  010c1522-cd50-4c94-b945-1fdf87b79c0a:
+    pet:
+      type: COW
+      name: COwFunXL
+  fd750f36-eef4-4661-9127-c35366f1fa19:
+    pet:
+      type: ZOMBIE
+      name: Dell Conagur
+  c2960ff8-92e0-4802-b61b-5ba87ae8e10b:
+    pet:
+      type: CHICKEN
+      name: Ming
+  542f10ed-4792-4c09-97fe-03a86b108efa:
+    pet:
+      type: IRONGOLEM
+      name: Iron Golem Pet

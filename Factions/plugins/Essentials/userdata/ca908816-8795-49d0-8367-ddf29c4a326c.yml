@@ -1,0 +1,20 @@
+geolocation: United Kingdom
+lastAccountName: JessandZack
+timestamps:
+  login: 1466618533283
+  logout: 1466619140265
+ipAddress: 82.34.63.66
+lastlocation:
+  world: world
+  x: -619.0
+  y: 176.0
+  z: 338.0
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: Factions
+  x: 56.56038124505174
+  y: 65.0
+  z: 142.36491438450747
+  yaw: 353.12274
+  pitch: 23.401226

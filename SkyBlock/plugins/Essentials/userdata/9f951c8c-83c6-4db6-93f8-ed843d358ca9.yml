@@ -1,0 +1,31 @@
+geolocation: United States
+lastAccountName: Ninjyx
+timestamps:
+  login: 1466614241885
+  kits:
+    elite: 1465062174473
+    default: 1465063089050
+    donor: 1465062189176
+    color: 1465416555120
+    vip: 1466614332127
+  lastteleport: 1466614507283
+  lastheal: 1465063986080
+  logout: 1466616559885
+ipAddress: 72.201.122.223
+lastlocation:
+  world: ASkyBlock_nether
+  x: 599.7927900101586
+  y: 116.0
+  z: -404.5178158891317
+  yaw: 344.40015
+  pitch: 38.100048
+godmode: false
+logoutlocation:
+  world: ASkyBlock_nether
+  x: 626.2328973881544
+  y: 166.4809775955837
+  z: -362.26772432082754
+  yaw: 205.98193
+  pitch: 57.300007
+nickname: Ninjyx
+money: '101410.0'

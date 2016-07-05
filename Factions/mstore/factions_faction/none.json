@@ -1,0 +1,145 @@
+{
+  "name": "§2Wilderness",
+  "description": "It's dangerous to go alone.",
+  "createdAtMillis": 1449778819726,
+  "flags": {
+    "open": false,
+    "permanent": true,
+    "peaceful": false,
+    "infpower": true,
+    "powerloss": true,
+    "pvp": true,
+    "friendlyfire": false,
+    "monsters": true,
+    "explosions": true,
+    "offlineexplosions": true,
+    "firespread": true,
+    "endergrief": true
+  },
+  "perms": {
+    "build": [
+      "LEADER",
+      "TRUCE",
+      "RECRUIT",
+      "NEUTRAL",
+      "OFFICER",
+      "ENEMY",
+      "MEMBER",
+      "ALLY"
+    ],
+    "painbuild": [],
+    "door": [
+      "LEADER",
+      "TRUCE",
+      "RECRUIT",
+      "NEUTRAL",
+      "OFFICER",
+      "ENEMY",
+      "MEMBER",
+      "ALLY"
+    ],
+    "button": [
+      "LEADER",
+      "TRUCE",
+      "RECRUIT",
+      "NEUTRAL",
+      "OFFICER",
+      "ENEMY",
+      "MEMBER",
+      "ALLY"
+    ],
+    "lever": [
+      "LEADER",
+      "TRUCE",
+      "RECRUIT",
+      "NEUTRAL",
+      "OFFICER",
+      "ENEMY",
+      "MEMBER",
+      "ALLY"
+    ],
+    "container": [
+      "LEADER",
+      "TRUCE",
+      "RECRUIT",
+      "NEUTRAL",
+      "OFFICER",
+      "ENEMY",
+      "MEMBER",
+      "ALLY"
+    ],
+    "name": [
+      "LEADER"
+    ],
+    "desc": [
+      "LEADER",
+      "OFFICER"
+    ],
+    "motd": [
+      "LEADER",
+      "OFFICER"
+    ],
+    "invite": [
+      "LEADER",
+      "OFFICER"
+    ],
+    "kick": [
+      "LEADER",
+      "OFFICER"
+    ],
+    "title": [
+      "LEADER",
+      "OFFICER"
+    ],
+    "home": [
+      "LEADER",
+      "OFFICER",
+      "MEMBER",
+      "RECRUIT",
+      "ALLY"
+    ],
+    "sethome": [
+      "LEADER",
+      "OFFICER"
+    ],
+    "deposit": [
+      "LEADER",
+      "OFFICER"
+    ],
+    "withdraw": [
+      "LEADER"
+    ],
+    "territory": [
+      "LEADER",
+      "OFFICER"
+    ],
+    "access": [
+      "LEADER",
+      "OFFICER"
+    ],
+    "claimnear": [
+      "LEADER",
+      "OFFICER",
+      "MEMBER",
+      "RECRUIT",
+      "ALLY"
+    ],
+    "rel": [
+      "LEADER",
+      "OFFICER"
+    ],
+    "disband": [
+      "LEADER"
+    ],
+    "flags": [
+      "LEADER"
+    ],
+    "perms": [
+      "LEADER"
+    ],
+    "status": [
+      "LEADER",
+      "OFFICER"
+    ]
+  }
+}

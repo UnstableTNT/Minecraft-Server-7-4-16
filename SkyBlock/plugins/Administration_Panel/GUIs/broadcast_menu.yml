@@ -1,0 +1,59 @@
+title: "&3Broadcast Menu"
+
+slots: 9
+
+buttons:
+
+  0:
+  
+    type: BROADCAST
+  
+    item: BOOK
+    
+    slot: 0
+    
+    title: "&4Server restart"
+    
+    message: "&cA server restart will be performed soon! Please rejoin!"
+    
+    lore:
+    
+      1: "&fBroadcasts a message"
+      2: "&fthat notifies everyone"
+      3: "&fabout a server-restart."
+      
+  1:
+  
+    type: BROADCAST
+    
+    item: BOOK
+    
+    slot: 1
+    
+    title: "&9Moderator Recruitment"
+    
+    message: "&cWe are recruiting moderators for our server! More informations at forum.our-website.com!"
+    
+    lore:
+    
+      1: "&fBroadcasts a message"
+      2: "&fthat notifies everyone"
+      3: "&fabout our recruitment."
+      
+  2:
+  
+    type: BROADCAST
+    
+    item: BOOK
+    
+    slot: 2
+    
+    title: "&9Plugin Announcement"
+    
+    message: "&cOur server is running the Administration Panel plugin by Skrypt (Lionhard98)!"
+    
+    lore:
+    
+      1: "&fBroadcasts a message"
+      2: "&fthat notifies everyone"
+      3: "&fabout administration panel."

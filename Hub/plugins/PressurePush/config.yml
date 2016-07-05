@@ -1,0 +1,26 @@
+Strength: 1.5
+Up: 1.1
+mobUse: true
+Sound: 1
+NoFallDamageTimeMob: 3
+UnlimitedPlates: false
+help:
+- '&b      << -- PressurePush -- >>'
+- '&c&oPressurePush Version: {version} by euro1988 // Edited by CullanP'
+- '&a/ppcreate on  - toggles the creation of PressurePush plates to true'
+- '&a/ppcreate off  - toggles the creation of PressurePush plates to false'
+- '&a/ppload  - reloads the PressurePush config'
+Plates:
+  location:
+  - -881-141-22-world
+  - -881-141-8-world
+  - -885-141-4-world
+  - -899-141-4-world
+  - -913-141-4-world
+  - -917-141-8-world
+  - -917-141-22-world
+  - -917-141-36-world
+  - -913-141-40-world
+  - -899-141-40-world
+  - -885-141-40-world
+  - -881-141-36-world

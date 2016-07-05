@@ -1,0 +1,872 @@
+[13:43:09] [Server thread/INFO]: Starting minecraft server version 1.8.6
+[13:43:09] [Server thread/INFO]: Loading properties
+[13:43:09] [Server thread/INFO]: Default game type: ADVENTURE
+[13:43:09] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-044d928-e8c6403 (MC: 1.8.6) (Implementing API version 1.8.6-R0.1-SNAPSHOT)
+[13:43:09] [Server thread/INFO]: Debug logging is disabled
+[13:43:09] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[13:43:09] [Server thread/INFO]: Using 4 threads for Netty based IO
+[13:43:09] [Server thread/INFO]: Generating keypair
+[13:43:09] [Server thread/INFO]: Starting Minecraft server on *:25589
+[13:43:09] [Server thread/INFO]: Using default channel type
+[13:43:10] [Server thread/ERROR]: Ambiguous plugin name `WorldGuard' for files `plugins\WorldGuard.jar' and `plugins\worldguard-6.1.jar' in `plugins'
+[13:43:10] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[13:43:10] [Server thread/INFO]: [NoCheatPlus] Loading NoCheatPlus v3.11.1-RC-sMD5NET-b743
+[13:43:10] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[13:43:10] [Server thread/INFO]: [TimTheEnchanter] Loading TimTheEnchanter v3.0
+[13:43:10] [Server thread/INFO]: [SuperTrails] Loading SuperTrails v8.7.5
+[13:43:10] [Server thread/INFO]: [Skript] Loading Skript v2.1.2
+[13:43:10] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[13:43:10] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vTeamCity
+[13:43:10] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat vTeamCity
+[13:43:10] [Server thread/INFO]: [EssentialsGeoIP] Loading EssentialsGeoIP vTeamCity
+[13:43:10] [Server thread/INFO]: [PressurePush] Loading PressurePush v1.0
+[13:43:10] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.22.7-SNAPSHOT
+[13:43:10] [Server thread/WARN]: [PermissionsEx] This server is in offline mode. Unless this server is configured to integrate with a supported proxy (see http://dft.ba/-8ous), UUIDs *may not be stable*!
+[13:43:10] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v0.8.3
+[13:43:10] [Server thread/INFO]: [ViaVersion] ViaVersion 0.8.3 is now loaded, injecting.
+[13:43:10] [Server thread/INFO]: [Vault] Loading Vault v1.5.6-b49
+[13:43:10] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
+[13:43:10] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1
+[13:43:10] [Server thread/INFO]: [BungeePortals] Loading BungeePortals v1.1
+[13:43:10] [Server thread/INFO]: [EssentialsXMPP] Loading EssentialsXMPP vTeamCity
+[13:43:10] [Server thread/INFO]: [CompassNavigation] Loading CompassNavigation v2.2
+[13:43:10] [Server thread/INFO]: [PlotSquared] Loading PlotSquared v3.2.26
+[13:43:10] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5-b711
+[13:43:10] [Server thread/INFO]: [HolographicDisplays] Loading HolographicDisplays v2.1.10
+[13:43:10] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v0.8.3
+[13:43:11] [Server thread/INFO]: [Vault] Enabling Vault v1.5.6-b49
+[13:43:11] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[13:43:11] [Server thread/INFO]: [Vault] [Permission] PermissionsEx found: Waiting
+[13:43:11] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[13:43:11] [Server thread/INFO]: [Vault] [Chat] PermissionsEx found: Waiting
+[13:43:11] [Server thread/INFO]: [Vault] Enabled Version 1.5.6-b49
+[13:43:11] [Server thread/INFO]: [PlotSquared] Enabling PlotSquared v3.2.26
+[13:43:11] [Server thread/INFO]: $1PlotSquared is now enabled[m
+[13:43:12] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;33;22mMetrics enabled.[m
+[13:43:12] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;33;22mMetrics enabled.[m
+[13:43:12] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m [0;33;22mPlotSquared is using online UUIDs[m
+[13:43:12] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:43:12] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:43:12] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:43:12] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:43:12] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[13:43:12] [Server thread/INFO]: Preparing level "world"
+[13:43:12] [Server thread/INFO]: -------- World Settings For [world] --------
+[13:43:12] [Server thread/INFO]: Item Despawn Rate: 6000
+[13:43:12] [Server thread/INFO]: Item Merge Radius: 2.5
+[13:43:12] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[13:43:12] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:43:12] [Server thread/INFO]: View Distance: 10
+[13:43:12] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[13:43:12] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[13:43:12] [Server thread/INFO]: Clear tick list: false
+[13:43:12] [Server thread/INFO]: Experience Merge Radius: 3.0
+[13:43:12] [Server thread/INFO]: Max Entity Collisions: 8
+[13:43:12] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[13:43:12] [Server thread/INFO]: Anti X-Ray: true
+[13:43:12] [Server thread/INFO]: 	Engine Mode: 1
+[13:43:12] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[13:43:12] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[13:43:12] [Server thread/INFO]: Mob Spawn Range: 4
+[13:43:12] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[13:43:12] [Server thread/INFO]: Cane Growth Modifier: 100%
+[13:43:12] [Server thread/INFO]: Melon Growth Modifier: 100%
+[13:43:12] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[13:43:12] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[13:43:12] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[13:43:12] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[13:43:12] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[13:43:12] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[13:43:12] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[13:43:12] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:43:12] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[13:43:12] [Server thread/INFO]: Random Lighting Updates: false
+[13:43:12] [Server thread/INFO]: Structure Info Saving: true
+[13:43:12] [Server thread/INFO]: Sending up to 10 chunks per packet
+[13:43:12] [Server thread/INFO]: Max TNT Explosions: 100
+[13:43:12] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:43:12] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[13:43:12] [Server thread/INFO]: Item Despawn Rate: 6000
+[13:43:12] [Server thread/INFO]: Item Merge Radius: 2.5
+[13:43:12] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[13:43:12] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:43:12] [Server thread/INFO]: View Distance: 10
+[13:43:12] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[13:43:12] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[13:43:12] [Server thread/INFO]: Clear tick list: false
+[13:43:12] [Server thread/INFO]: Experience Merge Radius: 3.0
+[13:43:12] [Server thread/INFO]: Max Entity Collisions: 8
+[13:43:12] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[13:43:12] [Server thread/INFO]: Anti X-Ray: true
+[13:43:12] [Server thread/INFO]: 	Engine Mode: 1
+[13:43:12] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[13:43:12] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[13:43:12] [Server thread/INFO]: Mob Spawn Range: 4
+[13:43:12] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[13:43:12] [Server thread/INFO]: Cane Growth Modifier: 100%
+[13:43:12] [Server thread/INFO]: Melon Growth Modifier: 100%
+[13:43:12] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[13:43:12] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[13:43:12] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[13:43:12] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[13:43:12] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[13:43:12] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[13:43:12] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[13:43:12] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:43:12] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[13:43:12] [Server thread/INFO]: Random Lighting Updates: false
+[13:43:12] [Server thread/INFO]: Structure Info Saving: true
+[13:43:12] [Server thread/INFO]: Sending up to 10 chunks per packet
+[13:43:12] [Server thread/INFO]: Max TNT Explosions: 100
+[13:43:12] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:43:12] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[13:43:12] [Server thread/INFO]: Item Despawn Rate: 6000
+[13:43:12] [Server thread/INFO]: Item Merge Radius: 2.5
+[13:43:12] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[13:43:12] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:43:12] [Server thread/INFO]: View Distance: 10
+[13:43:12] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[13:43:12] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[13:43:12] [Server thread/INFO]: Clear tick list: false
+[13:43:12] [Server thread/INFO]: Experience Merge Radius: 3.0
+[13:43:12] [Server thread/INFO]: Max Entity Collisions: 8
+[13:43:12] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[13:43:12] [Server thread/INFO]: Anti X-Ray: true
+[13:43:12] [Server thread/INFO]: 	Engine Mode: 1
+[13:43:12] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[13:43:12] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[13:43:12] [Server thread/INFO]: Mob Spawn Range: 4
+[13:43:12] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[13:43:12] [Server thread/INFO]: Cane Growth Modifier: 100%
+[13:43:12] [Server thread/INFO]: Melon Growth Modifier: 100%
+[13:43:12] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[13:43:12] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[13:43:12] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[13:43:12] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[13:43:12] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[13:43:12] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[13:43:12] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[13:43:12] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:43:12] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[13:43:12] [Server thread/INFO]: Random Lighting Updates: false
+[13:43:12] [Server thread/INFO]: Structure Info Saving: true
+[13:43:12] [Server thread/INFO]: Sending up to 10 chunks per packet
+[13:43:12] [Server thread/INFO]: Max TNT Explosions: 100
+[13:43:12] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:43:12] [Server thread/INFO]: Preparing start region for level 0 (Seed: -4063530559661300653)
+[13:43:13] [Server thread/INFO]: Preparing spawn area: 47%
+[13:43:14] [Server thread/INFO]: Preparing start region for level 1 (Seed: -8482022270428239749)
+[13:43:15] [Server thread/INFO]: Preparing start region for level 2 (Seed: -8482022270428239749)
+[13:43:15] [Server thread/INFO]: [NoCheatPlus] Enabling NoCheatPlus v3.11.1-RC-sMD5NET-b743
+[13:43:15] [Server thread/ERROR]: [NoCheatPlus] Could not load config.yml (see exception below).  Continue with default settings...
+[13:43:15] [Server thread/ERROR]: org.bukkit.configuration.InvalidConfigurationException: unacceptable character ' ' (0x0) special characters are not allowed
+in "'string'", position 0
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:57)
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:226)
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:169)
+	at fr.neatmonster.nocheatplus.config.ConfigManager.init(ConfigManager.java:195)
+	at fr.neatmonster.nocheatplus.NoCheatPlus.onEnable(NoCheatPlus.java:729)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:321)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:340)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:405)
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadPlugin(CraftServer.java:356)
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.enablePlugins(CraftServer.java:316)
+	at net.minecraft.server.v1_8_R3.MinecraftServer.s(MinecraftServer.java:418)
+	at net.minecraft.server.v1_8_R3.MinecraftServer.k(MinecraftServer.java:382)
+	at net.minecraft.server.v1_8_R3.MinecraftServer.a(MinecraftServer.java:337)
+	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:256)
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:528)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: unacceptable character ' ' (0x0) special characters are not allowed
+in "'string'", position 0
+	at org.yaml.snakeyaml.reader.StreamReader.checkPrintable(StreamReader.java:67)
+	at org.yaml.snakeyaml.reader.StreamReader.<init>(StreamReader.java:47)
+	at org.yaml.snakeyaml.Yaml.load(Yaml.java:369)
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:55)
+	... 15 more
+
+[13:43:15] [Server thread/WARN]: [NoCheatPlus]  Check for updates and support at BukkitDev: http://dev.bukkit.org/server-mods/nocheatplus/
+[13:43:15] [Server thread/WARN]: [NoCheatPlus]  Development builds (unsupported by the Bukkit Staff, at your own risk): http://ci.md-5.net/job/NoCheatPlus/changes
+[13:43:15] [Server thread/WARN]: [NoCheatPlus] Could not set up native access for the server-mod (git-Spigot-044d928-e8c6403 (MC: 1.8.6)). Please check for updates and consider to request support.
+[13:43:15] [Server thread/WARN]: [NoCheatPlus] Bukkit-API-only access: Some features will likely not function properly, performance might suffer.
+[13:43:15] [Server thread/INFO]: [NoCheatPlus] McAccess set to: 1.4.6|1.4.7|1.5.x|1.6.x|1.7.x / Bukkit-API
+[13:43:15] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.5 blocks.
+[13:43:15] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.6.1 blocks.
+[13:43:15] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.7.2 blocks.
+[13:43:15] [Server thread/INFO]: [NoCheatPlus] Inventory checks: FastConsume is available, disabled InstantEat.
+[13:43:15] [Server thread/INFO]: [NoCheatPlus] Packet level access: ProtocolLib is not available.
+[13:43:15] [Server thread/INFO]: [NoCheatPlus] Version 3.11.1-RC-sMD5NET-b743 is enabled.
+[13:43:15] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[13:43:16] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[13:43:16] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[13:43:16] [Server thread/INFO]: [TimTheEnchanter] Enabling TimTheEnchanter v3.0
+[13:43:16] [Server thread/INFO]: [0;33;1m[Tim] Unused enchantments: DEPTH_STRIDER(8) LUCK(61) LURE(62) [m
+[13:43:16] [Server thread/INFO]: [TimTheEnchanter] There are some who call me... Tim?
+[13:43:16] [Server thread/INFO]: [SuperTrails] Enabling SuperTrails v8.7.5
+[13:43:16] [Server thread/INFO]:  
+[13:43:16] [Server thread/INFO]: === Super Trails ===
+[13:43:16] [Server thread/INFO]: SuperTrails 8.7.5 for MC 1.8 enabled
+[13:43:16] [Server thread/INFO]: Thank you for using my plugin
+[13:43:16] [Server thread/INFO]: =====================
+[13:43:16] [Server thread/INFO]:  
+[13:43:16] [Server thread/INFO]: [Skript] Enabling Skript v2.1.2
+[13:43:17] [Server thread/INFO]: [Skript] Loaded a total of 11504 english aliases
+[13:43:17] [Server thread/WARN]: [Skript] There are no aliases defined for the following ids: 165, 166, 167, 168, 169, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 409, 410, 411, 412, 413, 414, 415, 416, 423, 424, 425, 427, 428, 429, 430, 431
+[13:43:17] [Server thread/INFO]: [Skript]  ~ created by & © Peter Güttinger aka Njol ~
+[13:43:17] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[13:43:17] [Server thread/INFO]: Bukkit version format changed. Version not checked.
+[13:43:17] [Server thread/INFO]: git-Spigot-044d928-e8c6403 (MC: 1.8.6)
+[13:43:17] [Server thread/INFO]: 1.8.6-R0.1-SNAPSHOT
+[13:43:17] [Server thread/INFO]: Using locale en_US
+[13:43:17] [Server thread/INFO]: Using locale en_US
+[13:43:17] [Server thread/INFO]: [Vault][Economy] Essentials Economy hooked.
+[13:43:17] [Server thread/INFO]: Essentials: Using config file enhanced permissions.
+[13:43:17] [Server thread/INFO]: Permissions listed in as player-commands will be given to all users.
+[13:43:17] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vTeamCity
+[13:43:17] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat vTeamCity
+[13:43:17] [Server thread/INFO]: [EssentialsGeoIP] Enabling EssentialsGeoIP vTeamCity
+[13:43:17] [Server thread/INFO]: [EssentialsGeoIP] This product includes GeoLite data created by MaxMind, available from http://www.maxmind.com/.
+[13:43:17] [Server thread/INFO]: [PressurePush] Enabling PressurePush v1.0
+[13:43:17] [Server thread/INFO]: [PressurePush] Enabled
+[13:43:17] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.22.7-SNAPSHOT
+[13:43:17] [Server thread/INFO]: [PermissionsEx] Initializing file backend
+[13:43:17] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
+[13:43:17] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[13:43:17] [Server thread/INFO]: [Vault][Permission] PermissionsEx hooked.
+[13:43:17] [Server thread/INFO]: [Vault][Chat] PermissionsEx_Chat hooked.
+[13:43:17] [Server thread/INFO]: Essentials: Using PermissionsEx based permissions.
+[13:43:17] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
+[13:43:17] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1
+[13:43:17] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[13:43:17] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[13:43:17] [Server thread/INFO]: [WorldGuard] (world) Lava fire is blocked.
+[13:43:17] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[13:43:17] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[13:43:17] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[13:43:17] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[13:43:17] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is blocked.
+[13:43:17] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[13:43:17] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[13:43:17] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[13:43:17] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[13:43:17] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is blocked.
+[13:43:17] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[13:43:17] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[13:43:17] [Server thread/INFO]: [WorldGuard] Loading region data...
+[13:43:17] [Server thread/INFO]: [BungeePortals] Enabling BungeePortals v1.1
+[13:43:17] [Server thread/INFO]: [BungeePortals] Metrics initiated!
+[13:43:17] [Server thread/INFO]: [BungeePortals] Commands registered!
+[13:43:17] [Server thread/INFO]: [BungeePortals] Events registered!
+[13:43:17] [Server thread/INFO]: [BungeePortals] Plugin channel registered!
+[13:43:17] [Server thread/INFO]: [BungeePortals] Configuration file config.yml loaded!
+[13:43:17] [Server thread/INFO]: [BungeePortals] Configuration file portals.yml loaded!
+[13:43:17] [Server thread/INFO]: [BungeePortals] Portal data loaded! (1ms)
+[13:43:17] [Server thread/INFO]: [BungeePortals] Save task started!
+[13:43:17] [Server thread/INFO]: [BungeePortals] Version 1.1 has been enabled. (19ms)
+[13:43:17] [Server thread/INFO]: [EssentialsXMPP] Enabling EssentialsXMPP vTeamCity
+[13:43:17] [Server thread/WARN]: config broken for xmpp
+[13:43:17] [Server thread/INFO]: [CompassNavigation] Enabling CompassNavigation v2.2
+[13:43:17] [Server thread/ERROR]: Error occurred while enabling CompassNavigation v2.2 (Is it up to date?)
+java.lang.NoSuchMethodError: com.sk89q.worldguard.protection.GlobalRegionManager.preload()V
+	at com.denialmc.compassnavigation.WorldGuardHandler$CompassFlag.addFlag(WorldGuardHandler.java:59) ~[?:?]
+	at com.denialmc.compassnavigation.WorldGuardHandler.<init>(WorldGuardHandler.java:70) ~[?:?]
+	at com.denialmc.compassnavigation.CompassNavigation.onEnable(CompassNavigation.java:61) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:321) ~[spigot.jar:git-Spigot-044d928-e8c6403]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:340) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:405) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadPlugin(CraftServer.java:356) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.enablePlugins(CraftServer.java:316) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.s(MinecraftServer.java:418) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.k(MinecraftServer.java:382) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.a(MinecraftServer.java:337) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:256) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:528) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_92]
+[13:43:17] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5-b711
+[13:43:18] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: Prison
+[13:43:18] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[13:43:18] [Server thread/INFO]: -------- World Settings For [test] --------
+[13:43:18] [Server thread/INFO]: Item Despawn Rate: 6000
+[13:43:18] [Server thread/INFO]: Item Merge Radius: 2.5
+[13:43:18] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[13:43:18] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:43:18] [Server thread/INFO]: View Distance: 10
+[13:43:18] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[13:43:18] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[13:43:18] [Server thread/INFO]: Clear tick list: false
+[13:43:18] [Server thread/INFO]: Experience Merge Radius: 3.0
+[13:43:18] [Server thread/INFO]: Max Entity Collisions: 8
+[13:43:18] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[13:43:18] [Server thread/INFO]: Anti X-Ray: true
+[13:43:18] [Server thread/INFO]: 	Engine Mode: 1
+[13:43:18] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[13:43:18] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[13:43:18] [Server thread/INFO]: Mob Spawn Range: 4
+[13:43:18] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[13:43:18] [Server thread/INFO]: Cane Growth Modifier: 100%
+[13:43:18] [Server thread/INFO]: Melon Growth Modifier: 100%
+[13:43:18] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[13:43:18] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[13:43:18] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[13:43:18] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[13:43:18] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[13:43:18] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[13:43:18] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[13:43:18] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:43:18] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[13:43:18] [Server thread/INFO]: Random Lighting Updates: false
+[13:43:18] [Server thread/INFO]: Structure Info Saving: true
+[13:43:18] [Server thread/INFO]: Sending up to 10 chunks per packet
+[13:43:18] [Server thread/INFO]: Max TNT Explosions: 100
+[13:43:18] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:43:18] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;32;1mDetected world load for 'test'[m
+[13:43:18] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;36;22m - generator: [0;37;22mcom.plotsquared.bukkit.generator.BukkitGeneratorWrapper[m
+[13:43:18] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;36;22m - plotworld: [0;37;22mcom.intellectualcrafters.plot.generator.HybridPlotWorld[m
+[13:43:18] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;36;22m - manager: [0;37;22mcom.intellectualcrafters.plot.generator.HybridPlotManager[m
+[13:43:18] [Server thread/INFO]: Preparing start region for level 3 (Seed: -9109901931295100690)
+[13:43:19] [Server thread/INFO]: [WorldGuard] (test) TNT ignition is PERMITTED.
+[13:43:19] [Server thread/INFO]: [WorldGuard] (test) Lighters are PERMITTED.
+[13:43:19] [Server thread/INFO]: [WorldGuard] (test) Lava fire is blocked.
+[13:43:19] [Server thread/INFO]: [WorldGuard] (test) Fire spread is UNRESTRICTED.
+[13:43:19] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'test'
+[13:43:19] [Server thread/INFO]: -------- World Settings For [PlotWorld] --------
+[13:43:19] [Server thread/INFO]: Item Despawn Rate: 6000
+[13:43:19] [Server thread/INFO]: Item Merge Radius: 2.5
+[13:43:19] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[13:43:19] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:43:19] [Server thread/INFO]: View Distance: 10
+[13:43:19] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[13:43:19] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[13:43:19] [Server thread/INFO]: Clear tick list: false
+[13:43:19] [Server thread/INFO]: Experience Merge Radius: 3.0
+[13:43:19] [Server thread/INFO]: Max Entity Collisions: 8
+[13:43:19] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[13:43:19] [Server thread/INFO]: Anti X-Ray: true
+[13:43:19] [Server thread/INFO]: 	Engine Mode: 1
+[13:43:19] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[13:43:19] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[13:43:19] [Server thread/INFO]: Mob Spawn Range: 4
+[13:43:19] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[13:43:19] [Server thread/INFO]: Cane Growth Modifier: 100%
+[13:43:19] [Server thread/INFO]: Melon Growth Modifier: 100%
+[13:43:19] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[13:43:19] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[13:43:19] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[13:43:19] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[13:43:19] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[13:43:19] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[13:43:19] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[13:43:19] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:43:19] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[13:43:19] [Server thread/INFO]: Random Lighting Updates: false
+[13:43:19] [Server thread/INFO]: Structure Info Saving: true
+[13:43:19] [Server thread/INFO]: Sending up to 10 chunks per packet
+[13:43:19] [Server thread/INFO]: Max TNT Explosions: 100
+[13:43:19] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:43:19] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;32;1mDetected world load for 'PlotWorld'[m
+[13:43:19] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;36;22m - generator: [0;37;22mcom.plotsquared.bukkit.generator.BukkitGeneratorWrapper[m
+[13:43:19] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;36;22m - plotworld: [0;37;22mcom.intellectualcrafters.plot.generator.HybridPlotWorld[m
+[13:43:19] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;36;22m - manager: [0;37;22mcom.intellectualcrafters.plot.generator.HybridPlotManager[m
+[13:43:19] [Server thread/INFO]: Preparing start region for level 4 (Seed: -9038443321414766446)
+[13:43:20] [Server thread/INFO]: [WorldGuard] (PlotWorld) TNT ignition is PERMITTED.
+[13:43:20] [Server thread/INFO]: [WorldGuard] (PlotWorld) Lighters are PERMITTED.
+[13:43:20] [Server thread/INFO]: [WorldGuard] (PlotWorld) Lava fire is blocked.
+[13:43:20] [Server thread/INFO]: [WorldGuard] (PlotWorld) Fire spread is UNRESTRICTED.
+[13:43:20] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'PlotWorld'
+[13:43:20] [Server thread/INFO]: -------- World Settings For [Plots] --------
+[13:43:20] [Server thread/INFO]: Item Despawn Rate: 6000
+[13:43:20] [Server thread/INFO]: Item Merge Radius: 2.5
+[13:43:20] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[13:43:20] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:43:20] [Server thread/INFO]: View Distance: 10
+[13:43:20] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[13:43:20] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[13:43:20] [Server thread/INFO]: Clear tick list: false
+[13:43:20] [Server thread/INFO]: Experience Merge Radius: 3.0
+[13:43:20] [Server thread/INFO]: Max Entity Collisions: 8
+[13:43:20] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[13:43:20] [Server thread/INFO]: Anti X-Ray: true
+[13:43:20] [Server thread/INFO]: 	Engine Mode: 1
+[13:43:20] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[13:43:20] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[13:43:20] [Server thread/INFO]: Mob Spawn Range: 4
+[13:43:20] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[13:43:20] [Server thread/INFO]: Cane Growth Modifier: 100%
+[13:43:20] [Server thread/INFO]: Melon Growth Modifier: 100%
+[13:43:20] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[13:43:20] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[13:43:20] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[13:43:20] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[13:43:20] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[13:43:20] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[13:43:20] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[13:43:20] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:43:20] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[13:43:20] [Server thread/INFO]: Random Lighting Updates: false
+[13:43:20] [Server thread/INFO]: Structure Info Saving: true
+[13:43:20] [Server thread/INFO]: Sending up to 10 chunks per packet
+[13:43:20] [Server thread/INFO]: Max TNT Explosions: 100
+[13:43:20] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:43:20] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;32;1mDetected world load for 'Plots'[m
+[13:43:20] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;36;22m - generator: [0;37;22mcom.plotsquared.bukkit.generator.BukkitGeneratorWrapper[m
+[13:43:20] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;36;22m - plotworld: [0;37;22mcom.intellectualcrafters.plot.generator.HybridPlotWorld[m
+[13:43:20] [Server thread/INFO]: [0;30;1m[[0;33;22mP2[0;30;1m] [0;37;22m[0;36;22m - manager: [0;37;22mcom.intellectualcrafters.plot.generator.HybridPlotManager[m
+[13:43:20] [Server thread/INFO]: Preparing start region for level 5 (Seed: -5701745193641764287)
+[13:43:21] [Server thread/INFO]: Preparing spawn area for Plots, 85%
+[13:43:21] [Server thread/INFO]: [WorldGuard] (Plots) TNT ignition is PERMITTED.
+[13:43:21] [Server thread/INFO]: [WorldGuard] (Plots) Lighters are PERMITTED.
+[13:43:21] [Server thread/INFO]: [WorldGuard] (Plots) Lava fire is blocked.
+[13:43:21] [Server thread/INFO]: [WorldGuard] (Plots) Fire spread is UNRESTRICTED.
+[13:43:21] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Plots'
+[13:43:21] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: Free_World
+[13:43:21] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[13:43:21] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: Prison_the_end
+[13:43:21] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[13:43:21] [Server thread/INFO]: [Multiverse-Core] 6 - World(s) loaded.
+[13:43:21] [Server thread/INFO]: [Multiverse-Core] Version 2.5-b711 (API v20) Enabled - By Rigby, fernferret, lithium3141 and main--
+[13:43:21] [Server thread/INFO]: [HolographicDisplays] Enabling HolographicDisplays v2.1.10
+[13:43:21] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[13:43:21] [Server thread/INFO]: Done (9.251s)! For help, type "help" or "?"
+[13:43:21] [Server thread/INFO]: [ViaVersion] ViaVersion detected protocol version: 47
+[13:43:21] [Server thread/INFO]: [NoCheatPlus] Post-enable running...
+[13:43:21] [Server thread/INFO]: [NoCheatPlus] Post-enable finished.
+[13:43:21] [Craft Scheduler Thread - 3/INFO]: [0;37;22m[[0;33;22mSkript[0;37;22m][m Checking for the latest version of Skript...[m
+[13:43:21] [Server thread/INFO]: [Skript] All scripts loaded without errors.
+[13:43:21] [Server thread/INFO]: [Skript] Loaded 1 script with a total of 1 trigger and 0 commands in 0.05 seconds
+[13:43:21] [Server thread/INFO]: [Skript] Finished loading.
+[13:43:21] [Server thread/INFO]: [HolographicDisplays] Found a new version available: v2.2
+[13:43:21] [Server thread/INFO]: [HolographicDisplays] Download it on Bukkit Dev:
+[13:43:21] [Server thread/INFO]: [HolographicDisplays] dev.bukkit.org/bukkit-plugins/holographic-displays
+[13:43:21] [Server thread/WARN]: [NoCheatPlus] The block breaking data is incomplete, default to allow instant breaking:
+[13:43:21] [Server thread/WARN]: --- Missing entries -------------------------------
+[13:43:21] [Server thread/WARN]: * MISSING 165(SLIME_BLOCK / SOLID+GROUND) 
+[13:43:21] [Server thread/WARN]: * MISSING 166(BARRIER / SOLID+GROUND) 
+[13:43:21] [Server thread/WARN]: * MISSING 167(IRON_TRAPDOOR / SOLID+IGN_PASSABLE+GROUND+GROUND_HEIGHT) 
+[13:43:21] [Server thread/WARN]: * MISSING 168(PRISMARINE / SOLID+GROUND) 
+[13:43:21] [Server thread/WARN]: * MISSING 169(SEA_LANTERN / SOLID+IGN_PASSABLE+GROUND+GROUND_HEIGHT) 
+[13:43:21] [Server thread/WARN]: * MISSING 176(STANDING_BANNER / SOLID+IGN_PASSABLE+GROUND+GROUND_HEIGHT) 
+[13:43:21] [Server thread/WARN]: * MISSING 177(WALL_BANNER / SOLID+IGN_PASSABLE+GROUND+GROUND_HEIGHT) 
+[13:43:21] [Server thread/WARN]: * MISSING 178(DAYLIGHT_DETECTOR_INVERTED / SOLID+IGN_PASSABLE+GROUND+GROUND_HEIGHT) 
+[13:43:21] [Server thread/WARN]: * MISSING 179(RED_SANDSTONE / SOLID+GROUND) 
+[13:43:21] [Server thread/WARN]: * MISSING 180(RED_SANDSTONE_STAIRS / SOLID+IGN_PASSABLE+GROUND+GROUND_HEIGHT) 
+[13:43:21] [Server thread/WARN]: * MISSING 181(DOUBLE_STONE_SLAB2 / SOLID+GROUND) 
+[13:43:21] [Server thread/WARN]: * MISSING 182(STONE_SLAB2 / SOLID+IGN_PASSABLE+GROUND+GROUND_HEIGHT) 
+[13:43:21] [Server thread/WARN]: * MISSING 183(SPRUCE_FENCE_GATE / SOLID+IGN_PASSABLE+GROUND+GROUND_HEIGHT) 
+[13:43:21] [Server thread/WARN]: * MISSING 184(BIRCH_FENCE_GATE / SOLID+IGN_PASSABLE+GROUND+GROUND_HEIGHT) 
+[13:43:21] [Server thread/WARN]: * MISSING 185(JUNGLE_FENCE_GATE / SOLID+IGN_PASSABLE+GROUND+GROUND_HEIGHT) 
+[13:43:21] [Server thread/WARN]: * MISSING 186(DARK_OAK_FENCE_GATE / SOLID+IGN_PASSABLE+GROUND+GROUND_HEIGHT) 
+[13:43:21] [Server thread/WARN]: * MISSING 187(ACACIA_FENCE_GATE / SOLID+IGN_PASSABLE+GROUND+GROUND_HEIGHT) 
+[13:43:21] [Server thread/WARN]: * MISSING 188(SPRUCE_FENCE / SOLID+IGN_PASSABLE+GROUND+GROUND_HEIGHT) 
+[13:43:21] [Server thread/WARN]: * MISSING 189(BIRCH_FENCE / SOLID+IGN_PASSABLE+GROUND+GROUND_HEIGHT) 
+[13:43:21] [Server thread/WARN]: * MISSING 190(JUNGLE_FENCE / SOLID+IGN_PASSABLE+GROUND+GROUND_HEIGHT) 
+[13:43:21] [Server thread/WARN]: * MISSING 191(DARK_OAK_FENCE / SOLID+IGN_PASSABLE+GROUND+GROUND_HEIGHT) 
+[13:43:21] [Server thread/WARN]: * MISSING 192(ACACIA_FENCE / SOLID+IGN_PASSABLE+GROUND+GROUND_HEIGHT) 
+[13:43:21] [Server thread/WARN]: * MISSING 193(SPRUCE_DOOR / SOLID+IGN_PASSABLE+GROUND+GROUND_HEIGHT) 
+[13:43:21] [Server thread/WARN]: * MISSING 194(BIRCH_DOOR / SOLID+IGN_PASSABLE+GROUND+GROUND_HEIGHT) 
+[13:43:21] [Server thread/WARN]: * MISSING 195(JUNGLE_DOOR / SOLID+IGN_PASSABLE+GROUND+GROUND_HEIGHT) 
+[13:43:21] [Server thread/WARN]: * MISSING 196(ACACIA_DOOR / SOLID+IGN_PASSABLE+GROUND+GROUND_HEIGHT) 
+[13:43:21] [Server thread/WARN]: * MISSING 197(DARK_OAK_DOOR / SOLID+IGN_PASSABLE+GROUND+GROUND_HEIGHT) 
+[13:43:21] [Craft Scheduler Thread - 8/INFO]: [Vault] Checking for Updates ... 
+[13:43:22] [Craft Scheduler Thread - 5/INFO]: [0;33;22mPlotSquared v3.4.4 is available:[m
+[13:43:22] [Craft Scheduler Thread - 5/INFO]: [0;30;1m - [0;36;22mUse: [0;37;22m/plot update[m
+[13:43:22] [Craft Scheduler Thread - 5/INFO]: [0;30;1m - [0;36;22mOr: [0;37;22mhttps://raw.githubusercontent.com/IntellectualSites/PlotSquared/master/target/PlotSquared-Bukkit.jar[m
+[13:43:22] [Craft Scheduler Thread - 8/INFO]: [Vault] No new version available
+[13:43:22] [Skript update thread/INFO]: [0;37;22m[[0;33;22mSkript[0;37;22m][m You're currently running the latest stable version of Skript.[m
+[13:43:22] [Server thread/WARN]: [ViaVersion] There is a newer version available: 0.9.4
+[13:45:35] [Thread-12/INFO]: UUID of player PiePigAnonymous is 896b9ac9-bec1-3255-a6dc-1df731a29c7e
+[13:45:35] [Server thread/INFO]: PiePigAnonymous[/127.0.0.1:49186] logged in with entity id 27 at ([Plots]54.5, 104.0, 53.5)
+[13:45:35] [Server thread/WARN]: [Essentials] Task #78 for Essentials vTeamCity generated an exception
+java.lang.NullPointerException
+	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:176) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:123) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPPPlayerListener$1.run(EssentialsXMPPPlayerListener.java:35) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-044d928-e8c6403]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:726) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:367) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:657) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:560) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_92]
+[13:45:39] [Server thread/INFO]: PiePigAnonymous issued server command: /p h
+[13:45:44] [Async Chat Thread - #0/INFO]: [m<[0;32;22m[[0;31;22mHead [0;34;22mDev[0;32;22m][0;36;1mPiePigAnonymous[0;36;1m[m> no perm[m
+[13:45:49] [Server thread/INFO]: PiePigAnonymous issued server command: /fly
+[13:45:50] [Server thread/INFO]: PiePigAnonymous issued server command: /gmc
+[13:45:53] [Server thread/INFO]: Opped PiePigAnonymous
+[13:45:55] [Server thread/INFO]: [Server] there xD
+[13:45:57] [Async Chat Thread - #0/INFO]: [m<[0;32;22m[[0;31;22mHead [0;34;22mDev[0;32;22m][0;36;1m[0;31;22mPiePigAnonymous[0;36;1m[m> ty[m
+[13:45:57] [Server thread/INFO]: [Server] dont abuse
+[13:46:07] [Server thread/INFO]: PiePigAnonymous issued server command: /p h
+[13:49:21] [Server thread/INFO]: PiePigAnonymous lost connection: Disconnected
+[13:49:21] [Server thread/INFO]: PiePigAnonymous left the game.
+[13:49:21] [Server thread/WARN]: [Essentials] Task #159 for Essentials vTeamCity generated an exception
+java.lang.NullPointerException
+	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:171) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:123) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPPPlayerListener$2.run(EssentialsXMPPPlayerListener.java:59) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-044d928-e8c6403]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:726) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:367) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:657) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:560) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_92]
+[19:05:02] [Thread-13/INFO]: UUID of player PiePigAnonymous is 896b9ac9-bec1-3255-a6dc-1df731a29c7e
+[19:05:02] [Server thread/INFO]: PiePigAnonymous[/127.0.0.1:53485] logged in with entity id 42 at ([Plots]54.5, 104.0, 53.5)
+[19:05:02] [Server thread/WARN]: [Essentials] Task #239 for Essentials vTeamCity generated an exception
+java.lang.NullPointerException
+	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:176) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:123) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPPPlayerListener$1.run(EssentialsXMPPPlayerListener.java:35) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-044d928-e8c6403]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:726) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:367) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:657) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:560) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_92]
+[19:05:07] [Server thread/INFO]: PiePigAnonymous issued server command: /p h
+[19:05:44] [Server thread/INFO]: PiePigAnonymous issued server command: /gmc
+[19:05:44] [Server thread/INFO]: PiePigAnonymous issued server command: /gmc
+[19:12:09] [Server thread/INFO]: PiePigAnonymous lost connection: Timed out
+[19:12:09] [Server thread/INFO]: PiePigAnonymous left the game.
+[19:12:09] [Server thread/WARN]: [Essentials] Task #462 for Essentials vTeamCity generated an exception
+java.lang.NullPointerException
+	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:171) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:123) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPPPlayerListener$2.run(EssentialsXMPPPlayerListener.java:59) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-044d928-e8c6403]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:726) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:367) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:657) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:560) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_92]
+[19:12:18] [Thread-14/INFO]: UUID of player PiePigAnonymous is 896b9ac9-bec1-3255-a6dc-1df731a29c7e
+[19:12:18] [Server thread/INFO]: PiePigAnonymous[/127.0.0.1:53545] logged in with entity id 43 at ([Plots]54.5, 104.0, 53.5)
+[19:12:18] [Server thread/WARN]: [Essentials] Task #473 for Essentials vTeamCity generated an exception
+java.lang.NullPointerException
+	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:176) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:123) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPPPlayerListener$1.run(EssentialsXMPPPlayerListener.java:35) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-044d928-e8c6403]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:726) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:367) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:657) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:560) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_92]
+[19:12:21] [Server thread/INFO]: PiePigAnonymous issued server command: /p h
+[19:12:26] [Server thread/INFO]: PiePigAnonymous issued server command: /gmc
+[19:25:22] [Async Chat Thread - #1/INFO]: [m<[0;32;22m[[0;31;22mHead [0;34;22mDev[0;32;22m][0;36;1m[0;31;22mPiePigAnonymous[0;36;1m[m> o hey![m
+[19:27:04] [Async Chat Thread - #2/INFO]: [m<[0;32;22m[[0;31;22mHead [0;34;22mDev[0;32;22m][0;36;1m[0;31;22mPiePigAnonymous[0;36;1m[m> yeah[m
+[19:33:12] [Server thread/INFO]: PiePigAnonymous issued server command: //wand
+[19:33:31] [Server thread/INFO]: PiePigAnonymous issued server command: //set brick
+[19:34:11] [Server thread/INFO]: PiePigAnonymous issued server command: //set brick
+[19:34:21] [Server thread/INFO]: PiePigAnonymous issued server command: //set brick
+[19:41:22] [Server thread/INFO]: PiePigAnonymous issued server command: //set birchwood
+[19:41:27] [Server thread/INFO]: PiePigAnonymous issued server command: //set birch_wood
+[19:41:49] [Server thread/INFO]: PiePigAnonymous issued server command: //set 5:2
+[19:41:59] [Server thread/INFO]: PiePigAnonymous issued server command: //set 5:2
+[19:42:11] [Server thread/INFO]: PiePigAnonymous issued server command: //set 5:2
+[19:42:25] [Server thread/INFO]: PiePigAnonymous issued server command: //set 5:2
+[19:42:35] [Server thread/INFO]: PiePigAnonymous issued server command: //set 5:2
+[19:42:42] [Server thread/INFO]: PiePigAnonymous issued server command: //set 5:2
+[19:42:53] [Server thread/INFO]: PiePigAnonymous issued server command: //set 5:2
+[19:43:08] [Server thread/INFO]: PiePigAnonymous issued server command: //set 5:2
+[19:43:23] [Server thread/INFO]: PiePigAnonymous issued server command: //set 5:2
+[19:43:40] [Craft Scheduler Thread - 256/INFO]: [Vault] Checking for Updates ... 
+[19:43:40] [Craft Scheduler Thread - 256/INFO]: [Vault] No new version available
+[19:44:14] [Server thread/INFO]: PiePigAnonymous issued server command: //set 5:2
+[19:44:20] [Server thread/INFO]: PiePigAnonymous issued server command: //set 5:2
+[19:44:31] [Server thread/INFO]: PiePigAnonymous issued server command: //set 5:2
+[19:44:40] [Server thread/INFO]: PiePigAnonymous issued server command: //set 5:2
+[19:44:54] [Server thread/INFO]: PiePigAnonymous issued server command: //set 5:2
+[19:45:02] [Server thread/INFO]: PiePigAnonymous issued server command: //set 5:2
+[19:45:14] [Server thread/INFO]: PiePigAnonymous issued server command: //set 5:2
+[19:45:24] [Server thread/INFO]: PiePigAnonymous issued server command: //set 5:2
+[20:07:34] [Server thread/INFO]: PiePigAnonymous issued server command: /flyspeed fly 4
+[20:08:13] [Server thread/INFO]: PiePigAnonymous issued server command: /flyspeed fly 2
+[20:21:03] [Server thread/INFO]: PiePigAnonymous lost connection: Disconnected
+[20:21:03] [Server thread/INFO]: PiePigAnonymous left the game.
+[20:21:03] [Server thread/WARN]: [Essentials] Task #3078 for Essentials vTeamCity generated an exception
+java.lang.NullPointerException
+	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:171) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:123) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPPPlayerListener$2.run(EssentialsXMPPPlayerListener.java:59) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-044d928-e8c6403]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:726) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:367) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:657) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:560) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_92]
+[20:21:34] [Thread-15/INFO]: UUID of player PiePigAnonymous is 896b9ac9-bec1-3255-a6dc-1df731a29c7e
+[20:21:34] [Server thread/INFO]: PiePigAnonymous[/127.0.0.1:54555] logged in with entity id 54 at ([Plots]54.5, 104.0, 53.5)
+[20:21:34] [Server thread/WARN]: [Essentials] Task #3089 for Essentials vTeamCity generated an exception
+java.lang.NullPointerException
+	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:176) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:123) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPPPlayerListener$1.run(EssentialsXMPPPlayerListener.java:35) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-044d928-e8c6403]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:726) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:367) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:657) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:560) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_92]
+[20:21:37] [Server thread/INFO]: PiePigAnonymous issued server command: /p h
+[20:21:43] [Server thread/INFO]: PiePigAnonymous issued server command: /gmc
+[20:23:57] [Server thread/INFO]: PiePigAnonymous lost connection: Timed out
+[20:23:57] [Server thread/INFO]: PiePigAnonymous left the game.
+[20:23:57] [Server thread/WARN]: [Essentials] Task #3147 for Essentials vTeamCity generated an exception
+java.lang.NullPointerException
+	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:171) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:123) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPPPlayerListener$2.run(EssentialsXMPPPlayerListener.java:59) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-044d928-e8c6403]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:726) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:367) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:657) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:560) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_92]
+[20:25:05] [Thread-16/INFO]: UUID of player PiePigAnonymous is 896b9ac9-bec1-3255-a6dc-1df731a29c7e
+[20:25:05] [Server thread/INFO]: PiePigAnonymous[/127.0.0.1:54677] logged in with entity id 55 at ([Plots]54.5, 104.0, 53.5)
+[20:25:05] [Server thread/WARN]: [Essentials] Task #3158 for Essentials vTeamCity generated an exception
+java.lang.NullPointerException
+	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:176) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:123) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPPPlayerListener$1.run(EssentialsXMPPPlayerListener.java:35) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-044d928-e8c6403]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:726) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:367) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:657) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:560) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_92]
+[20:25:08] [Server thread/INFO]: PiePigAnonymous issued server command: /gmc
+[20:25:12] [Server thread/INFO]: PiePigAnonymous issued server command: /p h
+[20:25:43] [Server thread/INFO]: PiePigAnonymous issued server command: //wand
+[20:25:43] [Server thread/INFO]: PiePigAnonymous issued server command: //wand
+[20:25:44] [Server thread/INFO]: PiePigAnonymous lost connection: Disconnected
+[20:25:44] [Server thread/INFO]: PiePigAnonymous left the game.
+[20:25:44] [Server thread/WARN]: [Essentials] Task #3168 for Essentials vTeamCity generated an exception
+java.lang.NullPointerException
+	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:171) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:123) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPPPlayerListener$2.run(EssentialsXMPPPlayerListener.java:59) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-044d928-e8c6403]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:726) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:367) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:657) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:560) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_92]
+[20:25:57] [Thread-17/INFO]: UUID of player PiePigAnonymous is 896b9ac9-bec1-3255-a6dc-1df731a29c7e
+[20:25:57] [Server thread/INFO]: PiePigAnonymous[/127.0.0.1:54716] logged in with entity id 56 at ([Plots]54.5, 104.0, 53.5)
+[20:25:57] [Server thread/WARN]: [Essentials] Task #3179 for Essentials vTeamCity generated an exception
+java.lang.NullPointerException
+	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:176) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:123) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPPPlayerListener$1.run(EssentialsXMPPPlayerListener.java:35) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-044d928-e8c6403]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:726) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:367) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:657) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:560) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_92]
+[20:25:59] [Server thread/INFO]: PiePigAnonymous issued server command: /gm
+[20:26:01] [Server thread/INFO]: PiePigAnonymous issued server command: /gmc
+[20:26:06] [Server thread/INFO]: PiePigAnonymous issued server command: /p h
+[20:26:25] [Server thread/INFO]: PiePigAnonymous issued server command: //copy
+[20:27:06] [Server thread/INFO]: PiePigAnonymous issued server command: //paste
+[20:27:13] [Server thread/INFO]: PiePigAnonymous issued server command: //paste
+[20:27:17] [Server thread/INFO]: PiePigAnonymous issued server command: /undo
+[20:27:17] [Server thread/INFO]: PiePigAnonymous issued server command: /undo
+[20:27:22] [Server thread/INFO]: PiePigAnonymous issued server command: /undo
+[20:27:29] [Server thread/INFO]: PiePigAnonymous issued server command: //redo
+[20:27:36] [Server thread/INFO]: PiePigAnonymous issued server command: //paste
+[20:27:39] [Server thread/INFO]: PiePigAnonymous issued server command: /undo
+[20:27:59] [Server thread/INFO]: PiePigAnonymous lost connection: Disconnected
+[20:27:59] [Server thread/INFO]: PiePigAnonymous left the game.
+[20:27:59] [Server thread/WARN]: [Essentials] Task #3235 for Essentials vTeamCity generated an exception
+java.lang.NullPointerException
+	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:171) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:123) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPPPlayerListener$2.run(EssentialsXMPPPlayerListener.java:59) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-044d928-e8c6403]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:726) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:367) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:657) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:560) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_92]
+[20:28:52] [Thread-18/INFO]: UUID of player PiePigAnonymous is 896b9ac9-bec1-3255-a6dc-1df731a29c7e
+[20:28:52] [Server thread/INFO]: PiePigAnonymous[/127.0.0.1:54746] logged in with entity id 63 at ([Plots]54.5, 104.0, 53.5)
+[20:28:52] [Server thread/WARN]: [Essentials] Task #3246 for Essentials vTeamCity generated an exception
+java.lang.NullPointerException
+	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:176) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:123) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPPPlayerListener$1.run(EssentialsXMPPPlayerListener.java:35) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-044d928-e8c6403]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:726) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:367) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:657) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:560) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_92]
+[20:28:55] [Server thread/INFO]: PiePigAnonymous issued server command: /gmc
+[20:29:01] [Server thread/INFO]: PiePigAnonymous issued server command: /p h
+[20:29:12] [Server thread/INFO]: PiePigAnonymous issued server command: //paste
+[20:29:21] [Server thread/INFO]: PiePigAnonymous issued server command: /undo
+[20:29:30] [Server thread/INFO]: PiePigAnonymous issued server command: //copy
+[20:31:31] [Server thread/INFO]: PiePigAnonymous lost connection: Disconnected
+[20:31:31] [Server thread/INFO]: PiePigAnonymous left the game.
+[20:31:31] [Server thread/WARN]: [Essentials] Task #3326 for Essentials vTeamCity generated an exception
+java.lang.NullPointerException
+	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:171) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:123) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPPPlayerListener$2.run(EssentialsXMPPPlayerListener.java:59) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-044d928-e8c6403]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:726) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:367) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:657) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:560) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_92]
+[20:31:54] [Thread-19/INFO]: UUID of player PiePigAnonymous is 896b9ac9-bec1-3255-a6dc-1df731a29c7e
+[20:31:54] [Server thread/INFO]: PiePigAnonymous[/127.0.0.1:54788] logged in with entity id 64 at ([Plots]54.5, 104.0, 53.5)
+[20:31:54] [Server thread/WARN]: [Essentials] Task #3337 for Essentials vTeamCity generated an exception
+java.lang.NullPointerException
+	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:176) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:123) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPPPlayerListener$1.run(EssentialsXMPPPlayerListener.java:35) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-044d928-e8c6403]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:726) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:367) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:657) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:560) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_92]
+[20:31:58] [Server thread/INFO]: PiePigAnonymous issued server command: /p h
+[20:32:02] [Server thread/INFO]: PiePigAnonymous issued server command: /gmc
+[20:35:11] [Server thread/INFO]: PiePigAnonymous lost connection: Timed out
+[20:35:11] [Server thread/INFO]: PiePigAnonymous left the game.
+[20:35:11] [Server thread/WARN]: [Essentials] Task #3397 for Essentials vTeamCity generated an exception
+java.lang.NullPointerException
+	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:171) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:123) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPPPlayerListener$2.run(EssentialsXMPPPlayerListener.java:59) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-044d928-e8c6403]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:726) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:367) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:657) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:560) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_92]
+[20:35:22] [Thread-20/INFO]: UUID of player PiePigAnonymous is 896b9ac9-bec1-3255-a6dc-1df731a29c7e
+[20:35:22] [Server thread/INFO]: PiePigAnonymous[/127.0.0.1:54829] logged in with entity id 65 at ([Plots]54.5, 104.0, 53.5)
+[20:35:22] [Server thread/WARN]: [Essentials] Task #3408 for Essentials vTeamCity generated an exception
+java.lang.NullPointerException
+	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:176) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:123) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPPPlayerListener$1.run(EssentialsXMPPPlayerListener.java:35) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-044d928-e8c6403]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:726) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:367) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:657) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:560) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_92]
+[20:35:26] [Server thread/INFO]: PiePigAnonymous issued server command: /gmc
+[20:35:28] [Server thread/INFO]: PiePigAnonymous issued server command: /p h
+[20:36:15] [Server thread/INFO]: PiePigAnonymous lost connection: Disconnected
+[20:36:15] [Server thread/INFO]: PiePigAnonymous left the game.
+[20:36:15] [Server thread/WARN]: [Essentials] Task #3415 for Essentials vTeamCity generated an exception
+java.lang.NullPointerException
+	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:171) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:123) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPPPlayerListener$2.run(EssentialsXMPPPlayerListener.java:59) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-044d928-e8c6403]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:726) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:367) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:657) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:560) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_92]
+[20:36:45] [Thread-21/INFO]: UUID of player PiePigAnonymous is 896b9ac9-bec1-3255-a6dc-1df731a29c7e
+[20:36:46] [Server thread/INFO]: PiePigAnonymous[/127.0.0.1:54850] logged in with entity id 66 at ([Plots]54.5, 104.0, 53.5)
+[20:36:46] [Server thread/WARN]: [Essentials] Task #3426 for Essentials vTeamCity generated an exception
+java.lang.NullPointerException
+	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:176) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:123) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPPPlayerListener$1.run(EssentialsXMPPPlayerListener.java:35) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-044d928-e8c6403]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:726) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:367) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:657) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:560) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_92]
+[20:37:01] [Server thread/INFO]: PiePigAnonymous issued server command: /p h
+[20:37:01] [Server thread/INFO]: PiePigAnonymous issued server command: /p h
+[20:37:17] [Server thread/INFO]: PiePigAnonymous issued server command: /gmc
+[20:37:18] [Server thread/INFO]: PiePigAnonymous issued server command: /gmc
+[20:37:18] [Server thread/WARN]: PiePigAnonymous moved too quickly! -11.390933034321336,-0.719187107354955,-63.53905393780984 (-11.390933034321336, -0.719187107354955, -63.53905393780984)
+[20:38:20] [Server thread/INFO]: PiePigAnonymous issued server command: /ci
+[20:39:50] [Server thread/INFO]: PiePigAnonymous lost connection: Disconnected
+[20:39:50] [Server thread/INFO]: PiePigAnonymous left the game.
+[20:39:50] [Server thread/WARN]: [Essentials] Task #3457 for Essentials vTeamCity generated an exception
+java.lang.NullPointerException
+	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:171) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:123) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPPPlayerListener$2.run(EssentialsXMPPPlayerListener.java:59) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-044d928-e8c6403]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:726) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:367) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:657) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:560) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_92]
+[22:03:23] [Server thread/INFO]: Stopping the server
+[22:03:23] [Server thread/INFO]: Stopping server
+[22:03:23] [Server thread/INFO]: [HolographicDisplays] Disabling HolographicDisplays v2.1.10
+[22:03:23] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.5-b711
+[22:03:23] [Server thread/INFO]: [PlotSquared] Disabling PlotSquared v3.2.26
+[22:03:23] [Server thread/INFO]: [CompassNavigation] Disabling CompassNavigation v2.2
+[22:03:23] [Server thread/INFO]: [EssentialsXMPP] Disabling EssentialsXMPP vTeamCity
+[22:03:23] [Server thread/INFO]: [BungeePortals] Disabling BungeePortals v1.1
+[22:03:23] [Server thread/INFO]: [BungeePortals] Portal data saved! (4ms)
+[22:03:23] [Server thread/INFO]: [BungeePortals] Version 1.1 has been disabled. (4ms)
+[22:03:23] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.1
+[22:03:23] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[22:03:23] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn vTeamCity
+[22:03:23] [Server thread/INFO]: [Vault] Disabling Vault v1.5.6-b49
+[22:03:23] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v0.8.3
+[22:03:23] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload it may not work.
+[22:03:23] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.22.7-SNAPSHOT
+[22:03:23] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[22:03:23] [Server thread/INFO]: [PressurePush] Disabling PressurePush v1.0
+[22:03:23] [Server thread/INFO]: Essentials: Using config file enhanced permissions.
+[22:03:23] [Server thread/INFO]: Permissions listed in as player-commands will be given to all users.
+[22:03:23] [Server thread/INFO]: [PressurePush] Disabled
+[22:03:23] [Server thread/INFO]: [EssentialsGeoIP] Disabling EssentialsGeoIP vTeamCity
+[22:03:23] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat vTeamCity
+[22:03:23] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect vTeamCity
+[22:03:23] [Server thread/INFO]: [Essentials] Disabling Essentials vTeamCity
+[22:03:23] [Server thread/INFO]: [Skript] Disabling Skript v2.1.2
+[22:03:23] [Server thread/INFO]: [SuperTrails] Disabling SuperTrails v8.7.5
+[22:03:23] [Server thread/INFO]: [TimTheEnchanter] Disabling TimTheEnchanter v3.0
+[22:03:23] [Server thread/INFO]: [TimTheEnchanter] I *warned* you, but did you listen to me? Oh, no, you *knew*, didn't you? Oh, it's just a harmless little *bunny*, isn't it? 
+[22:03:23] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[22:03:23] [Server thread/INFO]: [NoCheatPlus] Disabling NoCheatPlus v3.11.1-RC-sMD5NET-b743
+[22:03:23] [Server thread/INFO]: [NoCheatPlus] Version 3.11.1-RC-sMD5NET-b743 is disabled.
+[22:03:23] [Server thread/INFO]: Saving players
+[22:03:23] [Server thread/INFO]: Saving worlds
+[22:03:23] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[22:03:23] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[22:03:23] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
+[22:03:23] [Server thread/INFO]: Saving chunks for level 'test'/Overworld
+[22:03:23] [Server thread/INFO]: Saving chunks for level 'PlotWorld'/Overworld
+[22:03:23] [Server thread/INFO]: Saving chunks for level 'Plots'/Overworld

@@ -1,0 +1,37 @@
+geolocation: United States
+lastAccountName: Swaven
+timestamps:
+  login: 1466614426649
+  lastteleport: 1466616268173
+  logout: 1466616509816
+  lastheal: 1452285331229
+  kits:
+    youtube: 1466614785412
+    elite: 1452273344794
+    mod: 1465416145154
+    helper: 1465062381453
+    vip: 1465064565288
+    ultra: 1466616336976
+ipAddress: 72.201.122.223
+lastlocation:
+  world: ASkyBlock
+  x: 199.70131856415193
+  y: 120.0
+  z: 399.7737652326774
+  yaw: 255.84277
+  pitch: 18.299952
+logoutlocation:
+  world: ASkyBlock
+  x: 400.5
+  y: 125.0
+  z: -594.3716590228065
+  yaw: 0.0
+  pitch: 0.0
+powertools:
+  '311':
+  - butcher
+  '280':
+  - jump
+  '293':
+  - kill UnstableTNT
+money: '10000000000000'

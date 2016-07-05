@@ -1,0 +1,59 @@
+title: "&7Weather Selector"
+
+slots: 9
+
+buttons:
+
+  0:
+
+    item: WATCH
+
+    title: "Sunshine"
+
+    slot: 0
+
+    weather: SUN
+
+    permission: "change-weather"
+
+    lore:
+    
+      1: "&fSets the weather in"
+      2: "&fthe current world"
+      3: "&fto sunny."
+      
+  1:
+  
+    item: WATCH
+    
+    title: "Raining"
+    
+    slot: 1
+    
+    weather: THUNDER
+    
+    permission: "change-weather"
+    
+    lore:
+    
+      1: "&fSets the weather in"
+      2: "&fthe current world"
+      3: "&fto rainy."
+      
+  2:
+
+    item: WATCH
+
+    title: "Storm"
+
+    slot: 2
+
+    weather: STORM
+
+    permission: "change-weather"
+
+    lore:
+    
+      1: "&fSets the weather in"
+      2: "&fthe current world"
+      3: "&fto stormy."

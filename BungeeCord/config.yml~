@@ -1,0 +1,61 @@
+groups:
+  UnstableTNT:
+  - admin
+ip_forward: true
+player_limit: -1
+network_compression_threshold: 256
+stats: b9bd0bca-8629-446e-982d-500e8db265de
+online_mode: true
+servers:
+  Hub:
+    motd: "PMC167daa5f41adda456f0fa03ea054fb49"
+    address: localhost:25555
+    restricted: false
+  SkyWars:
+    motd: \u00A75\u00A7n\u00A7kTNT\u00A7r \u00A74Unstable\u00A7cT\u00A7fN\u00A7cT\u00A74s \u00A7bSky\u00A74Wars \u00A75\u00A7n\u00A7kTNT\u00A7r
+    address: localhost:25556
+    restricted: false
+  SkyBlock:
+    motd: \u00A75\u00A7n\u00A7kTNT\u00A7r \u00A74Unstable\u00A7cT\u00A7fN\u00A7cT\u00A74s \u00A7bSky\u00A72Block \u00A75\u00A7n\u00A7kTNT\u00A7r
+    address: localhost:25557
+    restricted: false
+  KitPVP:
+    address: localhost:25560
+    restricted: false
+    motd: '&5Kit&4PVP'
+  UHC:
+    address: localhost:25566
+    restricted: false
+    motd: '&4Ultra Hardcore'
+timeout: 30000
+admin: -UnstableTNT
+listeners:
+- query_port: 35555
+  motd: 'PMC167daa5f41adda456f0fa03ea054fb49'
+  tab_list: GLOBAL_PING
+  query_enabled: false
+  forced_hosts:
+    unstablenetwork.serveminecraft.net: Hub
+  ping_passthrough: false
+  default_server: Hub
+  bind_local_address: true
+  fallback_server: Hub
+  host: 192.168.0.3:25565
+  max_players: 1500
+  tab_size: 100
+  force_default_server: true
+permissions:
+  default:
+  - bungeecord.command.server
+  - bungeecord.command.list
+  admin:
+  - bukkit.command.op
+  - bungeecord.command.alert
+  - bungeecord.command.end
+  - bungeecord.command.ip
+  - bungeecord.command.reload
+  - bukkit.command.op
+disabled_commands:
+- disabledcommandhere
+log_commands: false
+connection_throttle: 4000

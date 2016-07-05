@@ -1,0 +1,21 @@
+timestamps:
+  lastteleport: 1466608340038
+  login: 1466608341739
+  logout: 1466608462499
+lastlocation:
+  world: world
+  x: 26.5
+  y: 70.0
+  z: 256.5
+  yaw: 0.0
+  pitch: 0.0
+geolocation: N/A
+lastAccountName: _71_
+ipAddress: 127.0.0.1
+logoutlocation:
+  world: Plots
+  x: -247.66495265649525
+  y: 101.0
+  z: -99.11210214312452
+  yaw: -61.57321
+  pitch: 47.606396

@@ -1,0 +1,39 @@
+title: "&9Commander"
+
+slots: 9
+
+buttons:
+
+  0:
+  
+    type: CUSTOM
+    
+    unique-id: SPAWN_STICK
+    
+    player-selector: true
+    
+    reason-selector: false
+    
+    custom-message: true
+    
+    message-target: "&cYou just became a stick by an Administrator!"
+    
+    message-clicker: "&cYou have given a stick to %player%!"
+    
+    command: "give %player% 280 1"
+    
+    item: STICK
+    
+    title: "&dGive stick ..."
+    
+    slot: 0
+    
+    permission: "custom.spawn-stick"
+    
+    lore:
+    
+      1: "&aThis will open a player"
+      2: "&bselector, where you can"
+      3: "&cchoose a player to give"
+      4: "&ehim a stick!"
+      

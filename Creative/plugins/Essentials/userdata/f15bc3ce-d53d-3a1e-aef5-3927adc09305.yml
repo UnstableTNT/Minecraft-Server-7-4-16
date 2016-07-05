@@ -1,0 +1,21 @@
+timestamps:
+  lastteleport: 1466618575593
+  login: 1466618575649
+  logout: 1466618596996
+lastlocation:
+  world: Plots
+  x: 54.583548944530776
+  y: 103.0
+  z: 42.53790510415477
+  yaw: -178.2636
+  pitch: 6.566345
+geolocation: N/A
+lastAccountName: CHOOCOBO
+ipAddress: 127.0.0.1
+logoutlocation:
+  world: Plots
+  x: 51.72543903189856
+  y: 101.0
+  z: 6.439752542501108
+  yaw: -183.64903
+  pitch: -3.1842563

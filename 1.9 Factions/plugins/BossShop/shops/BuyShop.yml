@@ -1,0 +1,77 @@
+ShopName: BuyShop
+signs:
+  text: '[BuyShop]'
+  NeedPermissionToCreateSign: true
+shop:
+  BlockShopBuy:
+    RewardType: shop
+    PriceType: free
+    Reward: BlockShopBuy
+    MenuItem:
+    - type:GRASS
+    - amount:1
+    - name:&bBlockShop
+    - lore:&8Here you can buy blocks!
+    Message: ''
+    InventoryLocation: 1
+    ExtraPermission: ''
+  OreShopBuy:
+    RewardType: shop
+    PriceType: free
+    Reward: OreShopBuy
+    MenuItem:
+    - type:DIAMOND_ORE
+    - amount:1
+    - name:&bOres Shop
+    - lore:&8Here you can buy Minerals/Ores!
+    Message: ''
+    InventoryLocation: 2
+    ExtraPermission: ''
+  CropShop:
+    RewardType: shop
+    PriceType: free
+    Reward: CropShopBuy
+    MenuItem:
+    - type:CACTUS
+    - amount:1
+    - name:&bCrops Shop
+    - lore:&8Here you can buy Crops and Food related items!
+    Message: ''
+    InventoryLocation: 3
+    ExtraPermission: ''
+  RedstoneItems:
+    RewardType: shop
+    PriceType: free
+    Reward: RedstoneShopBuy
+    MenuItem:
+    - type:REDSTONE_BLOCK
+    - amount:1
+    - name:&bRedstone Shop
+    - lore:&8Here you can buy Redstone and Misc items!
+    Message: ''
+    InventoryLocation: 4
+    ExtraPermission: ''
+  PotionIngShop:
+    RewardType: shop
+    PriceType: free
+    Reward: PotionIngreedientsShop
+    MenuItem:
+    - id:379
+    - amount:1
+    - name:&bPotion Ingreedients
+    - lore:&8Here you can buy Potion Ingreedients Shop!
+    Message: ''
+    InventoryLocation: 5
+    ExtraPermission: ''
+  MobDropShop:
+    RewardType: shop
+    PriceType: free
+    Reward: MobDropShopBuy
+    MenuItem:
+    - type:BONE
+    - amount:1
+    - name:&bMob Drops
+    - lore:&8Here you can buy Mob Drops!
+    Message: ''
+    InventoryLocation: 6
+    ExtraPermission: ''

@@ -1,0 +1,34 @@
+geolocation: United States
+lastAccountName: skyisasquid
+timestamps:
+  login: 1461705121620
+  lastteleport: 1461707090972
+  logout: 1461184856093
+  lastheal: 1460493895640
+  kits:
+    default: 1460411482557
+ipAddress: 65.27.235.106
+lastlocation:
+  world: world
+  x: 43736.64694429268
+  y: 63.0
+  z: 222998.0227972266
+  yaw: 41.17423
+  pitch: 65.83691
+logoutlocation:
+  world: world
+  x: 43727.27892421486
+  y: 160.0
+  z: 223012.2681302465
+  yaw: 238.12415
+  pitch: 29.836918
+homes:
+  home:
+    world: world
+    x: 43729.01782561083
+    y: 161.0
+    z: 223013.46967902203
+    yaw: 83.92418
+    pitch: 33.28691
+godmode: true
+money: '1.0'

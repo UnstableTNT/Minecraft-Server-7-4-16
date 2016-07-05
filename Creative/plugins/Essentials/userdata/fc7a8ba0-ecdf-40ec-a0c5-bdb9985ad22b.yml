@@ -1,0 +1,21 @@
+geolocation: United States
+lastAccountName: FaZe_Japun
+timestamps:
+  login: 1461348427246
+  logout: 1461348481482
+  lastteleport: 1461348427210
+ipAddress: 68.231.177.182
+lastlocation:
+  world: world
+  x: -918.9246458178571
+  y: 169.0
+  z: -14.381172863732127
+  yaw: -53.659832
+  pitch: 34.349987
+logoutlocation:
+  world: world
+  x: -939.6999999880791
+  y: 140.6071775940468
+  z: 22.999316447266764
+  yaw: 80.14054
+  pitch: 10.022014

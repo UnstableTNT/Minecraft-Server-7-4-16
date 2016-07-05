@@ -1,0 +1,33 @@
+lastAccountName: ChihuahuaLove01
+timestamps:
+  login: 1454724599930
+  lastheal: 1453602363258
+  logout: 1454726118262
+  lastteleport: 1454721048152
+  kits:
+    youtube: 1454715380604
+    elite: 1451438421674
+    donor: 1451528501954
+    color: 1454715500676
+    vip: 1453335151726
+    ultra: 1453602648032
+ipAddress: 99.164.57.232
+geolocation: United States
+lastlocation:
+  world: world
+  x: 13.527523059119103
+  y: 191.0
+  z: 369.51756671104783
+  yaw: -89.88559
+  pitch: 10.200021
+money: '2070.0'
+logoutlocation:
+  world: ASkyBlock
+  x: -428.8393799695066
+  y: 156.0
+  z: 224.46278411913553
+  yaw: -252.51517
+  pitch: 26.250002
+nickname: "\xa79K\xa75a\xa7dt\xa74e\xa79l\xa75y\xa7dn\xa74P\xa79O\xa75W"
+godmode: true
+afk: false

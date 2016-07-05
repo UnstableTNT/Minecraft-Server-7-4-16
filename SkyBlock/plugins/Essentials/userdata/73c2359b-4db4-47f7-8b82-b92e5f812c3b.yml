@@ -1,0 +1,20 @@
+geolocation: United States
+lastAccountName: Kezzari
+timestamps:
+  login: 1453660118630
+  logout: 1453660449676
+ipAddress: 98.100.13.154
+lastlocation:
+  world: world
+  x: 16.5
+  y: 218.0
+  z: 369.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: 13.046564037146988
+  y: 191.0
+  z: 368.83273425928866
+  yaw: -271.385
+  pitch: 25.049995

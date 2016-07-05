@@ -1,0 +1,23 @@
+title: "&2Item Sender"
+
+slots: 54
+
+buttons:
+
+  0:
+  
+    type: GIVE_ITEM
+    
+    title: "&7Give Cobblestone"
+    
+    slot: 0
+    
+    item: COBBLESTONE
+    
+    data: 0
+    
+    permission: "give-cobblestone"
+    
+    lore:
+    
+      1: "&fGive Cobblestone."

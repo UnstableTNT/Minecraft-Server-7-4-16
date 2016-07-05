@@ -1,0 +1,37 @@
+title: "&6Player Selector"
+
+buttons:
+
+  player:
+  
+    alive:
+      
+      item: SKULL_ITEM
+      
+      title: "&b%player%"
+      
+      lore:
+        
+        1: "&dClick me!"
+    
+    dead:
+    
+      item: SKULL_ITEM
+      
+      title: "&c%player% &7[&3DEAD&7]"
+      
+      lore:
+        
+        1: "&dClick me!"
+  
+  everyone:
+  
+    item: SKULL_ITEM
+    
+    title: "&beveryone"
+    
+    permission: "everyone" # NOTE: The plugin automatically adds "AdministrationPanel.player-selector." infront of it.
+    
+    lore:
+    
+      1: "&dClick me!"

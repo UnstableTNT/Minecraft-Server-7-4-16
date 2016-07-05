@@ -1,0 +1,149 @@
+ShopName: BlockShopSell
+signs:
+  text: '[BlockShop]'
+  NeedPermissionToCreateSign: true
+shop:
+  Dirt:
+    RewardType: money
+    PriceType: item
+    Price:
+      - 'id:3'
+      - 'amount:64'
+    Reward: 35
+    MenuItem:
+      - 'id:3'
+      - 'amount:64'
+      - 'lore:&bReward: $35'
+    Message: '&bSold %price% for $%reward%!'
+    InventoryLocation: 1
+    ExtraPermission: ''
+  Grass:
+    RewardType: money
+    PriceType: item
+    Price:
+      - 'id:2'
+      - 'amount:64'
+    Reward: 50
+    MenuItem:
+      - 'id:2'
+      - 'amount:64'
+      - 'lore:&bReward: $50'
+    Message: '&bSold %price% for $%reward%!'
+    InventoryLocation: 2
+    ExtraPermission: ''
+  Cobblestone:
+    RewardType: money
+    PriceType: item
+    Price:
+      - 'id:4'
+      - 'amount:64'
+    Reward: 50
+    MenuItem:
+      - 'id:4'
+      - 'amount:64'
+      - 'lore:&bReward: $50'
+    Message: '&bSold %price% for $%reward%!'
+    InventoryLocation: 3
+    ExtraPermission: ''
+  Stone:
+    RewardType: money
+    PriceType: item
+    Price:
+      - 'id:1'
+      - 'amount:64'
+    Reward: 75
+    MenuItem:
+      - 'id:1'
+      - 'amount:64'
+      - 'lore:&bReward: $75'
+    Message: '&bSold %price% for $%reward%!'
+    InventoryLocation: 4
+    ExtraPermission: ''
+  'Acacia Log':
+    RewardType: money
+    PriceType: item
+    Price:
+      - 'id:162'
+      - 'amount:32'
+    Reward: 125
+    MenuItem:
+      - 'id:162'
+      - 'amount:32'
+      - 'lore:&bReward: $125'
+    Message: '&bSold %price% for $%reward%!'
+    InventoryLocation: 5
+    ExtraPermission: ''
+  'Oak Log':
+    RewardType: money
+    PriceType: item
+    Price:
+      - 'id:17'
+      - 'amount:32'
+    Reward: 125
+    MenuItem:
+      - 'id:17'
+      - 'amount:32'
+      - 'lore:&bReward: $125'
+    Message: '&bSold %price% for $%reward%!'
+    InventoryLocation: 6
+    ExtraPermission: ''
+  'Spruce Log':
+    RewardType: money
+    PriceType: item
+    Price:
+      - 'id:17'
+      - 'durability:1'
+      - 'amount:32'
+    Reward: 125
+    MenuItem:
+      - 'id:162'
+      - 'durability:1'
+      - 'amount:32'
+      - 'lore:&bReward: $125'
+    Message: '&bSold %price% for $%reward%!'
+    InventoryLocation: 7
+    ExtraPermission: ''
+  'Birch Log':
+    RewardType: money
+    PriceType: item
+    Price:
+      - 'id:17'
+      - 'durability:2'
+      - 'amount:32'
+    Reward: 125
+    MenuItem:
+      - 'id:17'
+      - 'durability:2'
+      - 'amount:32'
+      - 'lore:&bReward: $125'
+    Message: '&bSold %price% for $%reward%!'
+    InventoryLocation: 8
+    ExtraPermission: ''
+  'Jungle Log':
+    RewardType: money
+    PriceType: item
+    Price:
+      - 'id:17'
+      - 'durability:3'
+      - 'amount:32'
+    Reward: 125
+    MenuItem:
+      - 'id:17'
+      - 'durability:3'
+      - 'amount:32'
+      - 'lore:&bReward: $125'
+    Message: '&bSold %price% for $%reward%!'
+    InventoryLocation: 9
+    ExtraPermission: ''
+  Back:
+    RewardType: shop
+    PriceType: free
+    Reward: menu
+    MenuItem:
+      - 'type:REDSTONE'
+      - 'amount:1'
+      - 'name:&cBack'
+      - 'lore:&8Back to Menu'
+    Message: '&6Leaving The Block Shop...'
+    InventoryLocation: 18
+    ExtraPermission: ''

@@ -1,0 +1,21 @@
+geolocation: Canada
+lastAccountName: carter678
+timestamps:
+  login: 1455042851563
+  logout: 1455042907426
+ipAddress: 156.57.193.74
+lastlocation:
+  world: world
+  x: -540.1463059435965
+  y: 54.89999946534649
+  z: 164.12534935187173
+  yaw: 42.39317
+  pitch: 64.00129
+logoutlocation:
+  world: world
+  x: -552.0186195846278
+  y: 48.0
+  z: 162.30000001192093
+  yaw: 268.59506
+  pitch: 30.446638
+godmode: false

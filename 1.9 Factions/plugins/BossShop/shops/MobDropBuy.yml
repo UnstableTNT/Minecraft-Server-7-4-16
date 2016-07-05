@@ -1,0 +1,199 @@
+ShopName: MobDropShopBuy
+signs:
+  text: '[MobDropShop]'
+  NeedPermissionToCreateSign: true
+shop:
+  Gunpowder:
+    RewardType: item
+    PriceType: money
+    Price: 75
+    Reward:
+    - id:289
+    - amount:8
+    MenuItem:
+    - id:289
+    - amount:8
+    - 'lore:&bPrice: $75'
+    Message: '&bYou bought %reward%! Money left: &c%left%'
+    InventoryLocation: 1
+    ExtraPermission: ''
+  Enderpearl:
+    RewardType: item
+    PriceType: money
+    Price: 150
+    Reward:
+    - id:368
+    - amount:4
+    MenuItem:
+    - id:368
+    - amount:4
+    - 'lore:&bPrice: $150'
+    Message: '&bYou bought %reward%! Money left: &c%left%'
+    InventoryLocation: 2
+    ExtraPermission: ''
+  Leather:
+    RewardType: item
+    PriceType: money
+    Price: 100
+    Reward:
+    - id:334
+    - amount:8
+    MenuItem:
+    - id:334
+    - amount:8
+    - 'lore:&bPrice: $100'
+    Message: '&bYou bought %reward%! Money left: &c%left%'
+    InventoryLocation: 3
+    ExtraPermission: ''
+  CookedBeef:
+    RewardType: item
+    PriceType: money
+    Price: 150
+    Reward:
+    - id:364
+    - amount:16
+    MenuItem:
+    - id:364
+    - amount:16
+    - 'lore:&bPrice: $150'
+    Message: '&bYou bought %reward%! Money left: %left%'
+    InventoryLocation: 4
+    ExtraPermission: ''
+  String:
+    RewardType: item
+    PriceType: money
+    Price: 100
+    Reward:
+    - id:287
+    - amount:16
+    MenuItem:
+    - id:287
+    - amount:16
+    - 'lore:&bPrice: $100'
+    Message: '&bYou bought %reward%! Money left: &c%left%'
+    InventoryLocation: 5
+    ExtraPermission: ''
+  Bow:
+    RewardType: item
+    PriceType: money
+    Price: 100
+    Reward:
+    - id:261
+    - amount:1
+    MenuItem:
+    - id:261
+    - amount:1
+    - 'lore:&bPrice: $100'
+    Message: '&bYou bought %reward%! Money left: &c%left%'
+    InventoryLocation: 6
+    ExtraPermission: ''
+  Arrow:
+    RewardType: item
+    PriceType: money
+    Price: 150
+    Reward:
+    - id:262
+    - amount:16
+    MenuItem:
+    - id:262
+    - amount:16
+    - 'lore:&bPrice: $150'
+    Message: '&bYou bought %reward%! Money left: &c%left%'
+    InventoryLocation: 7
+    ExtraPermission: ''
+  Feather:
+    RewardType: item
+    PriceType: money
+    Price: 100
+    Reward:
+    - id:288
+    - amount:16
+    MenuItem:
+    - id:288
+    - amount:16
+    - 'lore:&bPrice: $100'
+    Message: '&bYou bought %reward%! Money left: &c%left%'
+    InventoryLocation: 8
+    ExtraPermission: ''
+  Slimeball:
+    RewardType: item
+    PriceType: money
+    Price: 150
+    Reward:
+    - id:341
+    - amount:1
+    MenuItem:
+    - id:341
+    - amount:1
+    - 'lore:&bPrice: $150'
+    Message: '&bYou bought %reward%! Money left: &c%left%'
+    InventoryLocation: 9
+    ExtraPermission: ''
+  Spider Eye:
+    RewardType: item
+    PriceType: money
+    Price: 100
+    Reward:
+    - id:375
+    - amount:1
+    MenuItem:
+    - id:375
+    - amount:1
+    - 'lore:&bPrice: $100'
+    Message: '&bYou bought %reward%! Money left: &c%left%'
+    InventoryLocation: 10
+    ExtraPermission: ''
+  Ghast Tear:
+    RewardType: item
+    PriceType: money
+    Price: 300
+    Reward:
+    - id:370
+    - amount:1
+    MenuItem:
+    - id:370
+    - amount:1
+    - 'lore:&bPrice: $300'
+    Message: '&bYou bought %reward%! Money left: &c%left%'
+    InventoryLocation: 11
+    ExtraPermission: ''
+  Bone:
+    RewardType: item
+    PriceType: money
+    Price: 150
+    Reward:
+    - id:352
+    - amount:32
+    MenuItem:
+    - id:352
+    - amount:32
+    - 'lore:&bPrice: $150'
+    Message: '&bYou bought %reward%! Money left: &c%left%'
+    InventoryLocation: 12
+    ExtraPermission: ''
+  Blaze Rod:
+    RewardType: item
+    PriceType: money
+    Price: 175
+    Reward:
+    - id:369
+    - amount:4
+    MenuItem:
+    - id:369
+    - amount:4
+    - 'lore:&bPrice: $175'
+    Message: '&bYou bought %reward%! Money left: &c%left%'
+    InventoryLocation: 13
+    ExtraPermission: ''
+  Back:
+    RewardType: shop
+    PriceType: free
+    Reward: menu
+    MenuItem:
+    - type:REDSTONE
+    - amount:1
+    - name:&cBack
+    - lore:&8Back to Menu
+    Message: '&6Leaving The Mob Drop Shop...'
+    InventoryLocation: 18
+    ExtraPermission: ''

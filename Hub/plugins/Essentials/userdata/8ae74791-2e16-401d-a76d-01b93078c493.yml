@@ -1,0 +1,21 @@
+geolocation: Canada
+lastAccountName: _DogeTheDog_
+timestamps:
+  login: 1455754464282
+  logout: 1455754470388
+  lastteleport: 1455754464265
+ipAddress: 205.206.19.43
+lastlocation:
+  world: world
+  x: -556.5
+  y: 45.0
+  z: 163.5
+  yaw: 0.4958313
+  pitch: -16.799997
+logoutlocation:
+  world: world
+  x: -556.5
+  y: 45.0
+  z: 163.5
+  yaw: -0.5541687
+  pitch: 1.5000026

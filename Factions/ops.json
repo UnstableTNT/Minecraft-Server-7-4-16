@@ -1,0 +1,14 @@
+[
+  {
+    "uuid": "77dfc7d1-7e24-4371-9f9d-c89cf60bc59a",
+    "name": "UnstableTNT",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "fc7a8ba0-ecdf-40ec-a0c5-bdb9985ad22b",
+    "name": "Swaven",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

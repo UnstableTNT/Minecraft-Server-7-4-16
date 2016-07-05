@@ -1,0 +1,175 @@
+LuckyBlock:
+  SplitSymbol: '#'
+  DroppedItems:
+    Chances: 250
+    Items:
+    - Chance:1-10#type:iron_sword#data:0
+    - Chance:11-20#type:fling_and_steel
+    - Chance:21-30#type:iron_pickaxe
+    - Chance:31-40#type:iron_axe
+    - Chance:41-50#type:gold_chestplate
+    - Chance:51-60#type:arrow#amount:3-5
+    - Chance:61-70#type:emerald#amount:1-2
+    - Chance:71-80#type:cooked_chicken#amount:2-3
+    - Chance:81-90#type:cooked_beef#amount:2-3
+    - Chance:91-100#type:bone#amount:2-3
+    - Chance:101-110#type:rotten_flesh
+    - Chance:111-120#type:chest#data:0#hasItemMeta:true#DisplayName:&a&l&oRandom Chest#hasLore:true#Lore:&7Place It%%&7Random Chest
+    - Chance:121-130#type:golden_apple#amount:1-3
+    - Chance:131-140#type:gold_ingot#amount:2-6
+    - Chance:141-150#type:eye_of_ender#amount:5-11
+    - Chance:151-160#type:ender_pearl#amount:2-5
+    - Chance:161-170#type:beacon
+    - Chance:171-180#type:monster_egg#amount:2-5#data:90-93#tries:4-5
+    - Chance:181-190#type:gold_sword#tries:1-3
+    - Chance:191-200#typeid:298/299/300/301/302/303/304/305#tries:3-7
+    - Chance:201-210#typeid:331/152/76#amount:7-20#tries:2-4
+    - Chance:211-220#typeid:37#amount:3-9//typeid:38#amount:2-6//typeid:38#amount:2-6#data:1//typeid:38#amount:2-6#data:2//typeid:38#amount:2-6#data:3//typeid:38#amount:2-6#data:4//typeid:38#amount:2-6#data:5//typeid:38#amount:2-6#data:4//typeid:38#amount:2-6#data:6//typeid:38#amount:2-6#data:7//typeid:38#amount:2-6#data:8
+    - Chance:221-230#type:raw_fish#data:0#amount:2-5//type:raw_fish#data:1#amount:2-5//type:raw_fish#data:2#amount:2-5//type:raw_fish#data:3#amount:2-5//type:cooked_fish#data:0#amount:2-5//type:cooked_fish#data:1#amount:2-5
+    - Chance:231-240#typeid:325/326/327#tries:1-3
+    - Chance:241-250#type:iron_axe#DisplayName:&e&lLucky Axe#Enchants:16 1-2%%17 1-2
+Luck:
+  Values:
+  - Chance:1-50#Type:Chest#Title:&6Chest#Luck:Good
+  - Chance:51-89#Type:Mob#Title:&2Mobs#Luck:Try your luck
+  - Chance:90-99#Type:Falling Block#Title:&eFalling Block#Luck:Good
+  - Chance:100-101#Type:Lava#Title:&6Lava#Luck:Bad
+  - Chance:102-103#Type:Villager#Title:&9Villager#Luck:Bad
+  - Chance:104-114#Type:Splash Potion#Title:&1Splash Potion#Luck:Try your luck
+  - Chance:115-116#Type:Primed Tnt#Title:&4Primed Tnt#Luck:Bad
+  - Chance:117-120#Type:Lightning#Title:&bLightning#Luck:Bad
+  - Chance:121#Type:Fake Diamond#Title:&bFake Diamond#Luck:Bad
+  - Chance:122#Type:Dirt#Title:&6Dirt#Luck:Bad
+  - Chance:123#Type:Firework#Title:&3Firework#Luck:Try your luck
+  - Chance:124-125#Type:EBlock#Title:&cExploding Block#Luck:Good
+  - Chance:126-189#Type:Dropped Items#Title:&dDropped Items#Luck:Good
+  - Chance:190-191#Type:Stuck#Title:&7Stuck#Luck:Bad
+  - Chance:192-193#Type:Damage#Title:&cDamage#Luck:Bad
+  - Chance:194#Type:Tower#Title:&bDiamond Tower#Luck:Very Good
+  - Chance:195#Type:FPigs#Title:&dFlying Pigs#Luck:Good
+  - Chance:196#Type:Slimes#Title:&2Slimes#Luck:Bad
+  - Chance:197#Type:Meteors#Title:&8Meteors#Luck:Very Bad
+  - Chance:198-199#Type:FlyingLB#Title:&eFlying Lucky Block#Luck:Good
+  - Chance:200-202#Type:Soldier#Title:&1&lSoldier#Luck:Bad
+  - Chance:203-204#Type:LBItem#Title:&e&lLucky Block Item#Luck:Good
+  - Chance:205-207#Type:SnowMovement#Title:&f&lSnow Moving#Luck:Good
+  - Chance:208-212#Type:SIGN#Text:&cHello!,&dHow are you?#Title:&eSign#Luck:Good
+  - Chance:213-216#Type:Tree#TreeType:tree#Title:&aTree#Luck:Good
+  - Chance:217-230#Type:Feed#Title:&6Feed#Luck:Good
+  - Chance:231-235#Type:Heal#Title:&aHeal#Luck:Good
+  - Chance:236-240#Type:Fireworks#Title:&dFireworks#Luck:Good
+  - Chance:241-245#Type:Wolves or Ocelots#Title:&2Wolves or Ocelots#Luck:Good
+  - Chance:246-250#Type:Changeable Block#Title:&4Changeable Block#Luck:Good
+  Chances: 250
+FallingBlocks:
+  Chances: 110
+  Blocks:
+  - Chance:1-20#Type:quartz_block
+  - Chance:21-30#Type:gold_block
+  - Chance:31-45#Type:iron_block
+  - Chance:46-60#Type:lapis_block
+  - Chance:61-80#Type:glowstone
+  - Chance:81-100#Type:diamond_block
+  - Chance:101-110#Type:skull
+Entities:
+  Chances: 80
+  Mobs:
+  - Chance:1-5#Type:zombie#CustomName:&4&lLucky Zombie#CustomNameVisible:true#maxHealth:80.0#Health:80.0#Equipments:type:276,Enchants:16 5>>type:310,Enchants:0 4>>type:311,Enchants:0 4>>type:312,Enchants:0 4>>type:313,Enchants:0 4
+  - Chance:6-12#Type:creeper#CustomName:&a&lLucky Creeper#CustomNameVisible:true#maxHealth:40#Health:40#Powered:true
+  - Chance:13-20#Type:sheep#CustomName:&e&lLucky Sheep &4&l&k@@@#CustomNameVisible:true#maxHealth:200#Health:200#Color:0-15
+  - Chance:21-30#Type:boat#WorkOnLand:true
+  - Chance:31-40#Type:cow#CustomName:&6&lRideable Cow#CustomNameVisible:true#maxHealth:20#Health:20#Metadatas:rideable,true
+  - Chance:41-46#Type:wolf#Tamed:true#Owner:{playername}#CollarColor:0-15#ParticleEffects:name:heart,rx:0.3,ry:0.3,rz:0.3,speed:0,amount:10,range:64
+  - Chance:47-60#Tries:8-16#Type:squid#maxHealth:30-60#Health:%maxHealth%#CustomName:&eLucky Squid &c%health%&f/&c%maxhealth%
+  - Chance:61-70#Tries:3-5#Type:chicken#maxHealth:20#Health:20#CustomName:&e&lLucky Chicken#CustomNameVisible:true#ParticleEffects:name:heart,rx:0.2,ry:0.2,rz:0.2,speed:0,amount:30,range:30//Type:droppeditem#ItemStack:type:266,amount:15
+  - Chance:71-80#Type:Horse#HorseColor:creamy#Style:whitedots#Saddle:true#CarryingChest:true#Tamed:true#Owner:{playername}#CustomName:&1&l%playername%#maxHealth:80#Health:80#Metadatas:superhorse,true
+Chest:
+  Items:
+    Chest:
+    - Times:6-12
+    - Chances:320
+    - Chance:1-15#type:emerald#amount:3-8
+    - Chance:16-20#type:%lb%#DisplayName:&eLucky Block#Lore:&9{playername}#Luck:9-22
+    - Chance:21-28#type:torch#amount:5-11
+    - Chance:29-34#type:workbench
+    - Chance:35-38#type:ladder#amount:6-12
+    - Chance:39-47#type:tnt#amount:1-3
+    - Chance:48-54#type:diamond_hoe
+    - Chance:55-60#type:cactus#amount:6-10
+    - Chance:61-72#type:gold_ingot#amount:3-6
+    - Chance:73-78#type:coal_block#amount:1-2
+    - Chance:79-82#type:bow#Enchants:48-52 1-3
+    - Chance:83-89#type:arrow#amount:10-17
+    - Chance:90-91#type:diamond#amount:2-5
+    - Chance:92-94#type:iron_ingot#amount:4-9
+    - Chance:95-99#type:stone_sword
+    - Chance:100-102#type:golden_apple#amount:2-4
+    - Chance:103-113#type:water_bucket
+    - Chance:114-124#type:lava_bucket
+    - Chance:125-134#type:snow_ball#amount:10-16
+    - Chance:135-149#type:raw_fish#amount:3-6#data:0-2
+    - Chance:150-152#type:raw_fish#amount:3-6#data:0-2#DisplayName:&6&lFast Food!#Lore:&7Right Click to eat
+    - Chance:153-164#type:ender_pearl#amount:2-3
+    - Chance:165-170#type:bread#amount:2-6
+    - Chance:171-173#type:bread#amount:2-6#DisplayName:&6&lFast Food!#Lore:&7Right Click to eat
+    - Chance:174-180#type:carrot_item#amount:2-6
+    - Chance:181-183#type:carrot_item#amount:2-6#DisplayName:&6&lFast Food!#Lore:&7Right Click to eat
+    - Chance:184-188#type:exp_bottle#amount:3-7
+    - Chance:189-195#type:mushroom_soup
+    - Chance:196-199#type:mushroom_soup#DisplayName:&6&lFast Food!#Lore:&7Right Click to eat
+    - Chance:200-207#type:wood#amount:24-32
+    - Chance:208-212#type:glass_bottle#amount:2-5
+    - Chance:213-215#type:fishing_rod#Enchants:34 1-2
+    - Chance:216-222#type:melon#amount:2-8
+    - Chance:223-225#type:melon#amount:2-8#DisplayName:&6&lFast Food!#Lore:&7Right Click to eat
+    - Chance:226-230#type:iron_helmet
+    - Chance:231-235#type:iron_chestplate
+    - Chance:236-240#type:chainmail_leggings
+    - Chance:241-246#type:gold_boots
+    - Chance:247-250#type:diamond_boots
+    - Chance:251-256#type:leather_chestplate#LeatherArmor:0-200,0-200,0-200#Lore:&c{RED}&6,&a{GREEN}&6,&9{BLUE}
+    - Chance:257-260#type:potion#data:8193-8270#PotionEffects:1 30-60 0-2
+    - Chance:261-264#type:potion#data:8193-8270#PotionEffects:3 30-60 0-2
+    - Chance:265-268#type:potion#data:8193-8270#PotionEffects:5 30-60 0-2
+    - Chance:269-272#type:potion#data:8193-8270#PotionEffects:8 30-60 0-2
+    - Chance:273-276#type:potion#data:8193-8270#PotionEffects:10 10-25 0-1
+    - Chance:277-280#type:potion#data:8193-8270#PotionEffects:13 30-60 0
+    - Chance:281-284#type:potion#data:8193-8270#PotionEffects:16 30-60 0
+    - Chance:285-290#type:potion#data:8193-8270#PotionEffects:23 30-60 0-1
+    - Chance:291-294#type:potion#data:8193-8270#PotionEffects:14 20-50 0
+    - Chance:295-299#type:potion#data:16385-16462#PotionEffects:7 0 0-1
+    - Chance:295-299#type:potion#data:16385-16462#PotionEffects:2 10-20 0-1
+    - Chance:300-303#type:potion#data:16385-16462#PotionEffects:4 10-20 0-1
+    - Chance:304-306#type:potion#data:16385-16462#PotionEffects:17 10-20 0-1
+    - Chance:307-310#type:potion#data:16385-16462#PotionEffects:18 10-20 0-1
+    - Chance:311-313#type:potion#data:16385-16462#PotionEffects:19 10-20 0-1
+    - Chance:314-318#type:emerald#amount:1-3#DisplayName:&7Wolf Tool
+    - Chance:319-320#type:%LuckyBow%
+    Chest1:
+    - Times:6-8
+    - Chances:125
+    - Chance:1-10#typeid:306/307/308/309
+    - Chance:11-20#type:blaze_powder#amount:1-3#DisplayName:&cshoot#Lore:&7Right Click to shoot
+    - Chance:21-30#type:bow
+    - Chance:31-40#type:cookie#amount:1-5#DisplayName:&6Super Cookie#Lore:&eKick Them all%%&9{playername}
+    - Chance:41-50#type:lever#amount:2-3#DisplayName:&8C4 Item#Enchants:34 3#&c{playername}
+    - Chance:51-52#type:chest#DisplayName:&6(BackPack)#Lore:{randomcolor}{randomcolor}{randomnumber}{playername}%%&79
+    - Chance:53-56#type:enchanted_book#StoredEnchants:16-18 1-2
+    - Chance:57-60#type:enchanted_book#StoredEnchants:0-3 1-2
+    - Chance:61-65#type:enchanted_book#StoredEnchants:48 1-2
+    - Chance:66-72#type:enchanted_book#StoredEnchants:34 1-2
+    - Chance:73-80#type:enchanted_book#StoredEnchants:5 1-3
+    - Chance:81-88#type:enchanted_book#StoredEnchants:6 1
+    - Chance:89-95#type:enchanted_book#StoredEnchants:21 1-3
+    - Chance:96-101#type:slime_ball#amount:1-3#Enchants:34 10#DisplayName:&2Timed Bomb
+    - Chance:102-105#type:slime_ball#amount:1-3#Enchants:34 10#DisplayName:&2Timed Bomb#Lore:&7Range I
+    - Chance:106-108#type:slime_ball#amount:1-3#Enchants:34 10#DisplayName:&2Timed Bomb#Lore:&7Range II
+    - Chance:109-110#typeid:303
+    - Chance:111-113#type:chest#DisplayName:&6(BackPack)#Lore:{randomcolor}{randomcolor}{randomnumber}{playername}%%&718
+    - Chance:114-115#type:chest#DisplayName:&6(BackPack)#Lore:{randomcolor}{randomcolor}{randomnumber}{playername}%%&727
+    - Chance:116-117#type:chest#DisplayName:&6(BackPack)#Lore:{randomcolor}{randomcolor}{randomnumber}{playername}%%&736
+    - Chance:118#typeid:1-4#DisplayName:&2BombBlock#amount:3-9
+    - Chance:119#typeid:35#data:0-15#DisplayName:&2BombBlock#amount:3-9
+    - Chance:120#typeid:5#data:0-5#DisplayName:&2BombBlock#amount:3-9
+    - Chance:121-122#type:name_tag#DisplayName:&eLucky Block Tool#Lore:&8Made in China!
+    - Chance:123-125#type:ender_pearl#amount:1-2#Enchants:34 10#DisplayName:&9Random Teleport

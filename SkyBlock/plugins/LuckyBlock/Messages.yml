@@ -1,0 +1,181 @@
+# All Messages
+NoPermission: '&cYou don''y have permission for this command!'
+InvalidArgs: '&4Error: invalid arguments!'
+InvalidSender: '&cError: invalid sender!'
+InvalidCommand: '&cInvalid Command. Try &a/lb help &cfor list of commands.'
+InvalidCommand1: '&cInvalid Command. Try &a/lbw help &cfor list of commands.'
+InvalidCommand2: '&cInvalid Command. try &a/teams help &cfor list of commands.'
+InvalidPlayer: '&6%Target% &cdoes not exist!'
+InvalidNumber: '&cError: Invalid Number!'
+InvalidGame: '&cInvalid Game!'
+WIP: '&cWork In Progress!'
+SetLuck:
+  Success: '&aSetting Luck to &6%Luck%'
+  InvalidUsage: '&c/lb setluck &a(Luck)'
+  InvalidBlock: '&cError: Invalid Block!'
+SetChance:
+  Success: '&aSetting Chance to &6%Chance%'
+  InvalidUsage: '&c/lb setchance &a(Chance)'
+  InvalidBlock: '&cError: Invalid Block!'
+GetLuckyBlock:
+  Success: '&aFound Lucky Block!'
+  InvalidUsage: '&c/lb getlb &a[Number]'
+SetOwner:
+  Success: '&aSetting Lucky Block''s Owner to &6%Owner%'
+  InvalidUsage: '&c/lb setowner &a(UUID)'
+  NotLuckyBlock: '&cThe Targeted Block isn''t a Lucky Block!'
+  InvalidBlock: '&cCan''t Set Block''s Owner to &6%BlockType%'
+Gift:
+  Success: '&aOpened a Gift!'
+  NoGifts:
+    Sender: '&cYou don''t have any gift!'
+    Target: '&6%Target% &cdoes not have any gift!'
+SaveBackPack: '&aSaved Backpacks!'
+RemoveBackPack:
+  Success: '&aRemoved Backpack &6%BackPack%'
+  Invalid: '&6%BackPack% &cdoes not exist!'
+Reload: '&aReloaded Config!'
+RemoveLuckyBlocks:
+  Success: '&aRemoved all Lucky Blocks!'
+  NoLuckyBlock: '&cNo Lucky Block Found!'
+LeaveGame:
+  Success:
+    Player: '&aTeleporting to main lobby!'
+    Players:
+      '1': '&6%Player% &5Left the Game!'
+      '2': '&6%PlayersLeft% &ePlayers left!'
+  Fail: '&cYou are not in a game!'
+SetMainLobby: '&aSetting main lobby!'
+SetLobby:
+  Success: '&aSetting Lobby for &6ID:%ID%'
+  InvalidGame: '&cInvalid Game!'
+  InvalidUsage: '&c/lbw setlobby &a[ID]'
+SetMaxPlayers:
+  Success: '&aSetting maxplayers to &5%MaxPlayers% &aFor &6ID:%ID%'
+  InvalidGame: '&cInvalid Game!'
+  InvalidUsage: '&c/lbw setmaxplayers &a[ID] (Number)'
+Lobby:
+  Success:
+    '1': '&aTeleporting to main lobby!'
+    '2': '&aTeleporting &6%Target% &ato main lobby!'
+  InvalidLobby: '&cError: Invalid Location! you have to set new location.'
+RemoveGame:
+  Success: '&aRemoved &6ID:%ID%'
+  InvalidUsage: '&c/lbw removegame &a[ID]'
+  InvalidGame: '&cInvalid Game!'
+ClearGames:
+  Success: '&aRemoved &6%Count% Games!'
+  NoGame: '&cNo Game Found!'
+SetSpawn:
+  Success: '&aSetting Spawn &5%Number% &afor &6ID:%ID%'
+  InvalidUsage: '&c/lbw setspawn &a[ID] &a[Number]'
+  InvalidGame: '&cInvalid Game!'
+SetEnabled:
+  Success: '&aSetting &6ID:%ID% &ato &5%IsEnabled%'
+  InvalidUsage: '&c/lbw setenabled &a[ID] &a[true/false]'
+  InvalidGame: '&cInvalid Game!'
+ForceStart:
+  Success: '&aStarted &6ID:%ID%'
+  InvalidUsage: '&c/lbw forcestart &6[ID]'
+  InvalidGame: '&cInvalid Game!'
+EndGame:
+  Success: '&aEnded &6ID:%ID%'
+  InvalidUsage: '&c/lbw endgame &6[ID]'
+  InvalidGame: '&cInvalid Game!'
+  AlreadyEnded: '&cThis Game is already ended!'
+SetMoney:
+  Success: '&aSetting &5%Player%&a''s Money to &6%Money%'
+  InvalidUsage: '&c/lb setmoney [Player] (Money)'
+Fly:
+  Fly: '&aYou are flying now!'
+  UnFly: '&aDisabled flying!'
+  Error: '&cYou are not a spectator in a game!'
+Backpack:
+  'null': '&4null!'
+  open: '&aOpened Backpack!'
+BombBlock:
+  place: '&2a Bomb has been placed!'
+  break: '&7a Bomb has been destroyed!'
+TameItem:
+  Success: '&eTamed dog!'
+  AlreadyTamed: '&cThis dog is already tamed!'
+TakerItem:
+  use: '&bSpawned Lucky Block Item!'
+SuperCookie:
+  eat: '&eCookie has been eaten!'
+  hit: '&ePoisoned &6%Type%'
+C4:
+  Explode: '&e&lBoom!'
+  Place: '&ePlaced C4!'
+Trap:
+  Place: '&ePlaced Trapped Item!'
+  Pickup: '&2Picked up trapped item!!!'
+Cow:
+  Mount: '&aYou are riding  cow now!'
+  AlreadyRiding: '&cYou are already in a vehicle!'
+TeleportItem:
+  Teleport: '&aTeleported!'
+  NoEntity: '&cNo Entity found!'
+C4Block:
+  Explode: '&e&lBoom!!!'
+  Place: '&aPlaced C4 Block!'
+  Break: '&cDestroyed C4 Block!'
+CraftWrongItem: '&cWrong Item!'
+SetMinPlayers:
+  Success: '&aSetting Minimum Players for &6ID:%ID% &ato &5%Number%'
+  InvalidUsage: '&c/lbw setminplayers &6[ID] (Number)'
+ChangeName:
+  Success: '&aSetting Name to &r%Name%'
+  InvalidUsage: '&c/lbw changename &6[Name] [Player]'
+SetLevel:
+  Success: '&aSetting Level to &6%Level%'
+  InvalidUsage: '&c/lbw setlevel &6[Level] [Player]'
+GetPlayer:
+  Success: '&aOpened Player''s Gui!'
+  InvalidUsage: '&c/lbw getplayer &6[Player]'
+Save:
+  Success: '&aSaved!'
+  InvalidUsage: '&c/lbw save &6[ID]'
+SetBounds:
+  Success: '&aSetting Bound.'
+  InvalidUsage: '&c/lbw setbounds &6[ID] (Number)'
+  Error: '&cChoose between 1 and 2'
+SetGameName:
+  Success: '&aSetting Name to &6%Name%'
+  InvalidUsage: '&c/lbw setgamename &6[ID] (Name)'
+JoinTeam:
+  Success: '&aYou have joined a team!'
+  InvalidUsage: '&c/teams join &6[Name]'
+  SendRequest: '&aSending a request!'
+  SendRequest1: '&6%Player% &ahas sent a request!'
+Team:
+  Full: '&cThis team is full!'
+  Error: '&cYou are already in a team!'
+  Error1: '&cYou are not in a team!'
+  Error2: '&cYou are not the owner of this team!'
+  Error3: '&cThis team is already exist!'
+  InvalidTeam: '&cInvalid Team!'
+LeaveTeam:
+  Success: '&aYou have left the team!'
+Requests:
+  Error: '&cNo Request Found!'
+Accept:
+  Success: '&aAccepted Player!'
+  InvalidUsage: '&c/teams accept &6[Player]'
+SetTeamOwner:
+  Success: '&aSetting Team''s Owner to &6%Player%.'
+  InvalidUsage: '&c/teams setowner &6[Team] [Player]'
+CreateTeam:
+  Success: '&aCreated Team Successfully!'
+  InvalidUsage: '&c/teams create &6[TeamName]'
+RemoveTeam:
+  Success: '&aRemoved Team Successfully!'
+  InvalidUsage: '&c/teams remove &6[TeamName]'
+ClearTeams:
+  Success: '&aCleared &6%Number% &aTeam/s'
+  NoTeamFound: '&cNo Team Found!'
+TeamKick:
+  Success: '&aTrying to kick &6%Player%'
+SetCenter:
+  Success: '&aSetting Center.'
+  InvalidUsage: '&c/lbw setcenter &6[ID]'

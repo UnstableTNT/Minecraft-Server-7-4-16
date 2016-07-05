@@ -1,0 +1,52 @@
+geolocation: N/A
+lastAccountName: UnstableTNT
+timestamps:
+  login: 1466620805810
+  lastteleport: 1466621078934
+  logout: 1466621165108
+  kits:
+    youtube: 1455061074491
+    default: 1461691476830
+    elite: 1450810561450
+    mod: 1450809519337
+    donor: 1450810554824
+    color: 1461779956018
+    helper: 1450809502176
+    vip: 1465062376351
+    ultra: 1466356386496
+ipAddress: 192.168.200.189
+lastlocation:
+  world: world
+  x: 14.125109909982116
+  y: 191.0
+  z: 369.5174088802331
+  yaw: -90.03558
+  pitch: 10.05002
+logoutlocation:
+  world: ASkyBlock
+  x: 200.75634793154018
+  y: 120.0
+  z: 403.30034705217514
+  yaw: -196.02295
+  pitch: 15.599965
+godmode: false
+money: '50.00'
+powertools:
+  '367':
+  - thor ibellaSlyman
+afk: false
+homes:
+  home:
+    world: ASkyBlock
+    x: 283.02674146521696
+    y: 79.0
+    z: 373.4223271291484
+    yaw: -159.4494
+    pitch: 4.800046
+  enchant:
+    world: ASkyBlock
+    x: 205.0906522915345
+    y: 254.63588500535488
+    z: 404.066965484748
+    yaw: -180.88477
+    pitch: 26.54997

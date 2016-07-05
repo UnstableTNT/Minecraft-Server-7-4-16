@@ -1,0 +1,1195 @@
+# Citizens NPC Storage
+
+last-created-npc-id: 160
+npc:
+  '0':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE0Njc1NjYyOTIxODcsInByb2ZpbGVJZCI6Ijc3ZGZjN2QxN2UyNDQzNzE5ZjlkYzg5Y2Y2MGJjNTlhIiwicHJvZmlsZU5hbWUiOiJVbnN0YWJsZVROVCIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7Im1ldGFkYXRhIjp7Im1vZGVsIjoic2xpbSJ9LCJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzMzYWUxZmRjMTljMDk4ODhjM2M0YWExMWExZjQ0MTA0MTk3Y2VhMWM5ZmM3OTBhYzJhMzI5YzRhYmFjY2MzIn19fQ==
+      cached-skin-uuid-name: unstabletnt
+      cached-skin-uuid: 77dfc7d1-7e24-4371-9f9d-c89cf60bc59a
+      player-skin-signature: UXt1qkyW2gVvqdt824zpoI1A0zsZN0Z1YOJkh2cQNUQuUe4ajDTniH7Fo6KCRY14UA9jsd6/yD5/cbeSlc3fYsJOPIZ5UuandFODtfoegaGzk8aqupTAM3LbB3uyI24fA0/t85dc07GV3E1pGz986tJ5XhuI59YclgEY3Cgr7xicDaqLh47SgnJLqGTpwo+sIsyNNgi6vUWq8NUQSRhm6mf6llqAeSSIpWABPEPQD1SM3lNZR7K4Nx2x5h8C3AIw1/LyMkw1IqbPimxAX0UPFQjeYPs/7yG04SaCujRYEbwf/P6EUzYCcoV8rpUjZ/p/w0ka7vzvrtFqBSgTUUAKbf/6phNP3IqrNjO61rY+LnJcPodDB4Z3c3y1inYm3txklZ9MTVf/Ucx6XzF8mvJxGZiRi1hrxjcAQD8vNV+5iT3ig1TFm2qO5xLPpYXCQB6OKrn9XbYFbQDOET+rwVLO93pEGjmxTXn3EHRM+c69/53hGa9UbBc5iR4avGoYXI70eW1ctdSnaxaMyofDD11RsIzQb5lZ2ytD4iD+4PN8jhHKYxQKYOyWGjJIRy0oBH7Q6lU0+ZuLwdDJziPkAlQKCZu5vfseJvO0wuTUbt/WX8gD5g9cbSYetzEQUig9uRQVc8zwnVmMKZy/RMPDi3ZQnIdPU+AyH6P/nQlsuJrgaFo=
+    name: UnstableTNT
+    uuid: 8125fcb4-21a9-4ca2-8f67-c9a7a4b0b798
+    traits:
+      location:
+        world: world
+        x: '-623.4497566736977'
+        y: '176.0'
+        z: '315.6261839230511'
+        yaw: '-0.7237767577171326'
+        pitch: '11.036210060119629'
+      inventory: {}
+      spawned: true
+      owner:
+        owner: UnstableTNT
+        uuid: 77dfc7d1-7e24-4371-9f9d-c89cf60bc59a
+    traitnames: owner,spawned,location,type,inventory
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '4':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE0Njc1NjYyOTE0ODEsInByb2ZpbGVJZCI6ImUyZWM4ZTE0OTA0MDRkMDNiOTMzYmQ3YTBmY2RkM2ZjIiwicHJvZmlsZU5hbWUiOiJNb29zaHJvb21GdW5YTCIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWI2ZDlkZjdmMGNjMTFiMTljNGExM2ViZmJjMzZkNTVmNDFkZDdkZDk1ZDM1Nzg3YThhMWU4NzI5MDhlNzkzZSJ9fX0=
+      cached-skin-uuid-name: mooshroomfunxl
+      cached-skin-uuid: e2ec8e14-9040-4d03-b933-bd7a0fcdd3fc
+      player-skin-signature: ILvB3udKHGsV2MOsOnUqTmR1M/SruLAKGkXfKJNvJEEGVIHWJwCMY9lktE6+RbdH8A6Lb8F2qNG5ezaosuyejsGgPEzQpucncLaIBpy26bHfh+N0xXrnHsuX8OJoQFOH4XnqezVQ7lLcByZw4+udyQHZd3iUpTJ2BY87sxIzd9rX3Wssm/eqn/a+cBIie1QDuZ54/uOYPyBwZ9mVRmgrVXZCL83+Xuz5m3rQjyknWQAmyv8hAmg4M1ezIe3BNIiplPePMbWEAz9O6MnxL48hBL/ma0bfHzP5pI80UJiNnwqIqw0yU+ufIpGCBkU627MQX2hnxcTCzWTSp1N5ndAy9lM2a3GMa3QdXsB+UQ5xIunbz3CCQ7SuVpzCeXywibyikJ6WhqdDhNUc0d3YGQyRobzzo5u0eATyht5nZdItGXto+Rkq+hfkvTEAC6fE7jpvYWL6x3UygC2Btte7U83+bcWfUSLUlRzlyivsn4NB87jO49gU5wQV7S1kok0Q66XYr1LNkH8YtpyF8VymdbVtCKWx2OWu4HtxK/6ZG3kRDl5IXhe/FeEaW+cfd6yl/WYCcP5Q3ieqoUQSY2IDfGrNYr4+8m4lRZByKm8X3dtJC87PL+lmuSao/TmE91zVQ6Yley19+zSMe09a56CvNWIvMMNajr9WQw9u48SRQyA++Ls=
+    name: MooshroomFunXL
+    uuid: 706084c3-7516-425b-8257-8be5b4a3d0b3
+    traits:
+      location:
+        world: world
+        x: '-620.5231127327987'
+        y: '176.0'
+        z: '315.43238426115613'
+        yaw: '0.83636474609375'
+        pitch: '2.1162304878234863'
+      inventory: {}
+      spawned: true
+      owner:
+        owner: UnstableTNT
+        uuid: 77dfc7d1-7e24-4371-9f9d-c89cf60bc59a
+    traitnames: owner,location,spawned,type,inventory
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '2':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE0Njc1NjYyOTA1MTcsInByb2ZpbGVJZCI6IjFkNmU0ZGI1MjYyZDQ0ZjQ5MzlmN2U3MTgxODZjNTkyIiwicHJvZmlsZU5hbWUiOiJQaWVQaWdBbm9ueW1vdXMiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Q3NzczZjY4MzVkMjBlZTY3Y2NjNGI1MzcwZDkxNzVkMjQ3YTZmNTFlMDRjMTVjODliNTZhNDIzZTk0MjYifX19
+      cached-skin-uuid-name: piepiganonymous
+      cached-skin-uuid: 1d6e4db5-262d-44f4-939f-7e718186c592
+      player-skin-signature: VX8vq1sW3iwaGurLM8v24t81OCaWll2KsFyQZrElivC8HYD85yIojpQhA/RJuMd2yGBC7PsciNCMKnoOAjoHNYzwfdO2ZDzxNsY9w/T2f7P8jArEuIbOZz7Ovobv8eTxuoUjsKbhdiHg9rWjaiwHmc8DPPp2V4gwrAFCMFFag+z0sfVp0+A7SxQTe1IjvqggVOH7ba/RcufIrRTupjvvRSr5tSH9CQVtxoqB5QT5jpR/b4uu/zPBkXSD6uo+Z+Bhjn0xet3rwkDZyARm6RlDxA3PMjZvbMy5/i/1X8lvt4JoBiE3totIha3sO5htRR3vlOrLO+dGm8d1qqpSBal2fqDZKDyrlXuipOjJxocaGEUS2ZIElf4anZLRLRjjzj7FeML7cRZ6InVzMExHh9Gd1HgXBXjpZyxxbUWsjdcYz5dis90JuaueIguLLSbwI2ZBIqZBbw7eVvtnUDiRx3NOac6xaJPlLEZWqVafEHGRLkBsjprUzDwsM7RXd7WR9CFISVqvM65ni71Gn8lIK24uXDI9dpl2lCuK1UzcqWCCTYHBWYXcIop5s5n4ast0jUirF7aDkovyZOx1rQvyepotLRCSzZXeFUi+avYPzZZ4V6djdivmhgCTQSUsCaMytQqXGH8C8vvqK7kikDeeRDg/1vQYYgkNQrS+k7yvvxnBbp0=
+    name: PiePigAnonymous
+    uuid: ea8b426b-e51e-46d7-9b0b-133afad636c5
+    traits:
+      location:
+        world: world
+        x: '-621.4977583831426'
+        y: '176.0'
+        z: '315.30384196550585'
+        yaw: '0.23704110085964203'
+        pitch: '5.333259582519531'
+      inventory: {}
+      spawned: true
+      owner:
+        owner: UnstableTNT
+        uuid: 77dfc7d1-7e24-4371-9f9d-c89cf60bc59a
+    traitnames: owner,spawned,location,type,inventory
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '1':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE0Njc1NjYyOTI4MjIsInByb2ZpbGVJZCI6ImMyYmVhZWU5ZDY3MzRlNWQ5ZWM3ZjRkNzcwZTg2MzUxIiwicHJvZmlsZU5hbWUiOiJDb3VydG5leUNhdDE4NSIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2Y5NGNjODVkM2NiMmE5MmZjMzQ1ZjBmYjc2NmFhMmZiMjFlZTRlOTQ5MWZmYzU5ODc1YmM0NGMwNDQ0MDQxIn19fQ==
+      cached-skin-uuid-name: courtneycat185
+      cached-skin-uuid: c2beaee9-d673-4e5d-9ec7-f4d770e86351
+      player-skin-signature: dx3JTr5kTTCgAf85Uc6k5H31USlPL11I3jMTZzaOwKX+WrWyRZGuVU7Vp2LWK+ZylOuGsmzA3uo1mdS69jiADtwJ1OggN9QyvRWdmnEktodNL+yAIZ5tffK5OwqbBQ7RDT2tBdcF1g9uEmx/bxzuwqPGT96g3zpW1t6YTLnrPaXMCqKVz83Jot6I7LNqaQ6RvniORkXNO2jSQ+zjboyqaGUATGJaeQcnGnhxepoNarpg5ITRBWhGyN8HPa7TqArWIctVIIFA5QSxHQMmjsjASoOpbjXB0xsivxuBfgLBc/OCI9lCQnLyr9JPQMLYD8QIY3osNQjfT8rUu6qK3xz9HiZmotKxDvEe2l3osghwJIntgi18uoXHamCyCeMvGvkFUzA1Sr68v3HApCmTyCDZhCZxq6/tKqsDDMhIW/h5/RCop+wQ9ob8jQlXOiIuHqXEPKQF9MjY5h4zX4s5apjT19uZ8oAoidOKtUTFdHEg7M4NvrvidiJosVW8TDQBOJxad33k5R9R6oTRAwM+WuYiJ090QOC494gsjHiHB0OmK0lepDHtMjaW8yUS1SQnfG5aG1tKTFYnqMa/h2atPsuKISePODU3dkZ9JkXeSZF6Xmn9sRKSDTqSBTqy175h9snPuuIxw7PZPl3yvLVAU6btiJa/Bd6X4cgKYAfCO4/cDl0=
+    name: CourtneyCat185
+    uuid: 97091dfd-094b-4136-84c1-2624a306ff3d
+    traits:
+      location:
+        world: world
+        x: '-622.5553870015478'
+        y: '176.0'
+        z: '315.35404297189046'
+        yaw: '0.5295581221580505'
+        pitch: '4.748342037200928'
+      inventory: {}
+      spawned: true
+      owner:
+        owner: UnstableTNT
+        uuid: 77dfc7d1-7e24-4371-9f9d-c89cf60bc59a
+    traitnames: owner,spawned,location,type,inventory
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '6':
+    name: Secret_Staff
+    uuid: 8a04e02e-2599-433f-80bf-f7ef00f62947
+    traits:
+      location:
+        world: world
+        x: '-613.4680669883974'
+        y: '176.0'
+        z: '315.4956453519688'
+        yaw: '-358.1570739746094'
+        pitch: '16.44670295715332'
+      inventory: {}
+      spawned: true
+      owner:
+        owner: UnstableTNT
+        uuid: 77dfc7d1-7e24-4371-9f9d-c89cf60bc59a
+    traitnames: owner,location,spawned,type,inventory
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '7':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE0NjEzMzk0MTAzODQsInByb2ZpbGVJZCI6ImViMzhmYTA5MmQ4YzQxZThiMjFhMTVmZTUxMzQzNzUwIiwicHJvZmlsZU5hbWUiOiJQYW5kYTQ1NyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGFlYzlhZWZkMzk4M2I5OTdhZjY4MjU1NDQ5MzUwYmI2ZTIxZGJkOTUyZmU4ZmM1MGJkYjFlM2RjMzQ2NmYifX19
+      cached-skin-uuid-name: panda457
+      cached-skin-uuid: eb38fa09-2d8c-41e8-b21a-15fe51343750
+      player-skin-signature: gAtRSKdsRJp7Zd10MNC3p4yoJSbLY29AsOWsK/yUsyMV9IEHUPidfKKA34b19mjjO9d/NuqC5ILpMhu8henADpJeUR9n75zcFgBaHIE0L4O9sHKuQz13gnYcdB7p1KP+bWvzEdu9MtlL7DV4QqgIDADfg8Ixd+VFRMeYHyVqzBwmIHeyIAzqSLkerDpz7fgiKENhhy/GNjp5lm4IKnR9B8jguoNUzWlaNPhKjI1wyr5IP5JhUlDQrr2EZpu/zkvGYcIWLumLvwjofWV7JsUtvq0hOyrjKJQ21A3ztxxYGKdMRl1CBUKcnCv8Sb6HEjJNdGnUl31iE/KfY60LZIrgc7XaWQKV0pTzQmtwS0D/kWchPrJNVEaOCExzF+44351HhmOwOBAKh7x1SN4aZxwiBjg2ilDNSpK2cIm5cyzkvfHJKs8bPJ4I3dgYXB4OvRD8WSzDrxtFqeUDEvLGTW769tmnhmAvqE2eNV0rWGbIDL8hItwY04d+GzSHu/IPyGwWa5myluwql88M39QfMjB03XiN2LzKJwHBDgP7PWQOPlZtamfpkbv3R3XvRZJFcu4eDsIUhV+9+85u3H9LRMSq9xQaKBEIjEQGdsj3VFPwdoI4r57IXFi79VLv653IfUiJaMLrqu4JTyPdJ5/fD6HMqsEZ+B/xU9Pv5AtjZeG/5lE=
+    name: Panda457
+    uuid: 72bbfa1e-0b13-4958-b7b8-a831c478939b
+    traits:
+      location:
+        world: world
+        x: '-619.449691731883'
+        y: '69.0'
+        z: '315.3593946292857'
+        yaw: '-359.38543701171875'
+        pitch: '7.81911563873291'
+      inventory: {}
+      spawned: true
+      owner:
+        owner: UnstableTNT
+        uuid: 77dfc7d1-7e24-4371-9f9d-c89cf60bc59a
+    traitnames: owner,location,spawned,type,inventory
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '8':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE0Njc1NjYyOTA2NDEsInByb2ZpbGVJZCI6IjRlYWRlNzE2NzY0YzQyODliMTMyN2ViNDJlNWUyODRmIiwicHJvZmlsZU5hbWUiOiJEZWV6Q29vbERvbnV0cyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWIzNGE2NjVjYzFlODAzNWI5N2ZlMjJiODUyMTIzMjI4ZGY2MmEyZWE2OWI1MTJiOTczNTkyYmRjYjgxOSJ9fX0=
+      cached-skin-uuid-name: deezcooldonuts
+      cached-skin-uuid: 4eade716-764c-4289-b132-7eb42e5e284f
+      player-skin-signature: qLvXeVngRSVzDDd2Dxs3wnbc2kCW/D1L4U44y42yOQv6C0ZkR5dTxp4s4ozzBiizD2bw9t6AJMYrTnFpFTsHRxpnK1wcGhH8DaVCjmAsmCPSes2mVNb/u0riZzCr7WrOfPRXhDNqGRJaFM2Tslj+yh1bV7A5+DXpQz/cR6fhq0vDckDAZuMq6RIS32Co/rebYNWKyGpW0TgmK0TFYkznWLkX0btSURAwjjmg1Pv03O2jgknakkgOEVrVTt0ubxS+ouGb5nxkPH0Oe3UmobKDQF+RYESmgQuHFlPBAPJZCegJzp5uUZxLU5L7ii2l2SiFDS+0ZqvGkVOFqbdLl3UZNe4231WudQiwBy+wnMXnNQvjzMbSAx+r7s7YgdzNwV4aHeVY+Z55N1lX/S8hYuFgG7pFM1x+zMPi8/OYXoKx4Kx9T5NIhC8H0EVaSIoVKrPXqdjiNCZ69FQTb1rAEvCNTWVuRXM1P8Aw/wpUWA/uDprspOyyRmGiOWud3+2fzTTToTYlgYpr1SNfn4HvPJtEagQea4FpIUCjlLI1UA6H9Ly4eJtXAn5WjwD/tnT5SoJX+iLXiP8Dp85XPzSJMqzrdBGBSJMFkxDj3UMgy7gZXteth+Ncdra3S8DwBPfMqvDKEvmkDlUPetNseatHqQcFlsXqNfN6xfGRjhSsrz2zhuU=
+    name: DeezCoolDonuts
+    uuid: f39d4241-96dc-4816-81db-8280eaf77302
+    traits:
+      location:
+        world: world
+        x: '-618.5273993205878'
+        y: '176.0'
+        z: '315.4943217320009'
+        yaw: '0.463409423828125'
+        pitch: '11.255683898925781'
+      inventory: {}
+      spawned: true
+      owner:
+        owner: UnstableTNT
+        uuid: 77dfc7d1-7e24-4371-9f9d-c89cf60bc59a
+    traitnames: owner,spawned,location,type,inventory
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '9':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE0Njc1NjYyOTA5NTMsInByb2ZpbGVJZCI6ImIxZDQ4OWEwMGE2ZjQ0YzE5OTdiMTM1YTdiY2MwOTE2IiwicHJvZmlsZU5hbWUiOiJQcmVpc3Rlc3RfRHJhZ29uIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mMDQwMjlhOGViYjYxYzhmODg3OTQxYzIzOTUzM2Y4YWUxNWEzZTE2MmYxNzAxZDA4Y2JmYTI4YjliZTQ1YSJ9fX0=
+      cached-skin-uuid-name: preistest_dragon
+      cached-skin-uuid: b1d489a0-0a6f-44c1-997b-135a7bcc0916
+      player-skin-signature: mvju8jfnzMvrqr0XEajaGY3uWGjK2IfTAwEmPFyUCCNJD7ixyuQ3ZLnDoFQpNwQ6wpNMa6hZdnDwdze//9jYH5PlJ9l+IMu4rzhVGLjmjhZBHWHlyGyWsIjjs52iJfrQVw0mgOlSYRt1tgznMUIr6hjXry7VnNSjSRaoKM2baHM5wcazbx+iDjJO7NWolNAiRp+u7znNcA0RLwSVpeDQ43g0BtgGFQ87FqnHiWzbZNU+9luVryvEjq6N0TL7e2L6tDjUgdIUXAwnVCybs6vb2hpW/mL35D3F034yvXEYH4Oxdi8QzMvhEF0QwAXA6+/8M3ME+1IaxUHdmBOTy607L+TbDxdZlHhiKCXb9/rXJHnMjL7Fkxxha5JY6qwd86xHvAqdcrgT7URd1vvvn357BAC3twUDGm3lcc/E4n9sV2kEUJh9C4lAPAN8LJ5yNlEdzJvXAHxHGGpQCyv/KuyHuZ7VoAI0djKEfx6aK+SKi+xs4LyTKvjomGLWv8WQJkvm70D+X7YPOhbHhzmD6KuczdMc2Nk8b0QHR25YSPp2F7E4JMZUgImdh6vhCoOoS8bxWd/GJkDMJZtuyDzq+d1ueL12aJMaQUUFn/S135OKA3mgwnBZxXgcQs14q8VdE7PYy0wC4mjpYbvkSz5cNT/tyICIo80WFKYClWs4I6TlP0k=
+    name: Preistest_Dragon
+    uuid: b64c0b73-37a1-424c-ad5a-16e2237dfb76
+    traits:
+      inventory: {}
+      spawned: true
+      location:
+        world: world
+        x: '-617.5311564247535'
+        y: '176.0'
+        z: '315.37774879086254'
+        yaw: '-359.86676025390625'
+        pitch: '6.210639476776123'
+      owner:
+        owner: UnstableTNT
+        uuid: 77dfc7d1-7e24-4371-9f9d-c89cf60bc59a
+    traitnames: owner,location,spawned,type,inventory
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '10':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE0Njc1NjYyOTMxMDQsInByb2ZpbGVJZCI6ImNiNWM4ZTE4Yzc0MTRiNmRhNWIzMzk3NTVhMTJmYTZmIiwicHJvZmlsZU5hbWUiOiJDaGlodWFodWFMb3ZlMDEiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2FjN2FjODE5N2ZlOTQ1OTI4YzZkM2ZhNTNhYTEyNDNiMzc3OGQ3ODkzZDkzNTJlYTg1NzhkNmMzZGU4ODkyIn19fQ==
+      cached-skin-uuid-name: chihuahualove01
+      cached-skin-uuid: cb5c8e18-c741-4b6d-a5b3-39755a12fa6f
+      player-skin-signature: CyXT683g7koSe3UkQTdDmSDnAwnSnlgSOXbN3ow1zVaHtY4SO1tl42cn1yecf88c60XQQiiF23CSkl2PbcIQYBtaIdMG6oMBFGIBoGNxzvIuejZ9RrSn4Rp9NU4EaBn7w5Cb+HhrMkNCyoIf2ZS2PxhdqpXP+qbXmq6s2WhyifPzJ0wWeCu4fHes70/FzE82ru+dPKFOnM1vUMoXIzJBiZtkG+2epvHM3gsEWwggm1oiC5I1ODOMIWmUP2Xb24aGG42QoI6qI5XG3iPlAvg2ZXXWG4abQPvvTSJfPYN5pFXfmHZsCzzupfvkl7ZYqZLnY/x4ssquPEEpFtZWr1xHpJgBJvyEBtXI7JuWmfYVlgESkxevJ6dAsSigJpuG+uOA92wlMdFf7aF1dUwhhWXoVDsadtXNTAJDCjd8kTW1APH51CnQMkqD4rp32WWHtUBJGQRluXgl1EclG9EBbncy0jrHULpfhKiErCGS3Q4XV9btvVExJEfJLriiTTYGya6M8o7qk7jHH7qh1iJMta5RaHskC3mR8zqL6K1vs+oo+pEN034sdQu8LbxS+fdb+VGMJqErsIm+5Yw8HBqdeGLafhQZQh+k2uqc5KHSxbYwPn8oxUC/fDoZntnOdyQAz/huNzD1eZGYuAJ9gydtFpPCxNUf49qPJRSbWExkbwCOaV0=
+    name: ChihuahuaLove01
+    uuid: 68d4d55d-8c28-41a8-91bf-11701c5c8d62
+    traits:
+      inventory: {}
+      location:
+        world: world
+        x: '-616.5507993581091'
+        y: '176.0'
+        z: '315.4937754901543'
+        yaw: '-359.2767333984375'
+        pitch: '18.786348342895508'
+      spawned: true
+      owner:
+        owner: UnstableTNT
+        uuid: 77dfc7d1-7e24-4371-9f9d-c89cf60bc59a
+    traitnames: owner,location,spawned,type,inventory
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '11':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE0Njc1NjYyOTI3NDEsInByb2ZpbGVJZCI6ImU1NjEzNTBmZmMzZDQ0ZGViNGY2ZTc3ZTQyMTQwYTA4IiwicHJvZmlsZU5hbWUiOiJQaXhlbE1pbmVyWEQxMjMiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzk4ZDU3MmUzZWQ1OWE4NzNlODRlNTEwYjM0ZGY2NmI5MzZlMjJiMjQyYmE1ZGMzMjI1ZDExMzM3OTc0NzJjZiJ9fX0=
+      cached-skin-uuid-name: pixelminerxd123
+      cached-skin-uuid: e561350f-fc3d-44de-b4f6-e77e42140a08
+      player-skin-signature: jA0SD8K0gpHMWIlAC/lzMkiKg5sP0dIkMnhRkvGs6EI57o50z9qh6bdlsDPQtzu+aNn4syFy04QuBLTGJaf7Bn4rnSjXjObsZ2n65g4pTJQ4MdN4wrf91J15rKxPDa26x8Eqt+4z4XoF57+nBRCNjx3SRTyeq0jHE/QORrqjwkwz2lkumdmJzmr5+UyEpggrhFqvMIKfo+eqfhoWdch4svyBvGDoBmSBrkxsH/NVFNNxtSRFEmaVUtIAMiZJHvYQ+IS5cbmPUuAvIcAljx2ioSbW+Pz1YYnGi/MJUmwOOuA/2HxkvRx92UVHrHjbfyARTOSz1Xst4LKSGWCNgKM1+SNqAI2AJFwQAI7DQnE+NRfNvkXbUY8P9R/TWYUnNZkPR4GsbNrRyW5eBPWkk6at8iFdGS8DSJQaMektVekNFIz7HebonW7u/k4dnLDumXiPzDjC7dIDltDtl/LISuTushoOoi4w3gJoAcYvaBrQgorAgowghcuZhbdJ8nj2n/6YQ1QPcL+LGr5EhFwjGyWRU5N1cErQDSi6RZ/urFeIQKfWQEcv89J38bqQlE/RgjqjpXbAL3pxmi417vn+5wvrjhwJ4YKAPRb3MCaFdHsKhaPLzNZT4TOQgh99fSWDpr20Bf+/xk8goLGzn0HJpvH41m8oVUgtM4hNoDcJ/6XM6iE=
+    name: PixelMinerXD123
+    uuid: 7ed9fb36-90b1-4dca-b798-881b46df5fee
+    traits:
+      inventory: {}
+      location:
+        world: world
+        x: '-615.5247804031357'
+        y: '176.0'
+        z: '315.5143943407088'
+        yaw: '-0.1541748046875'
+        pitch: '11.69449234008789'
+      spawned: true
+      owner:
+        owner: UnstableTNT
+        uuid: 77dfc7d1-7e24-4371-9f9d-c89cf60bc59a
+    traitnames: owner,spawned,location,type,inventory
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '13':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE0NjU3NTU3Mjc4NDksInByb2ZpbGVJZCI6ImViMzhmYTA5MmQ4YzQxZThiMjFhMTVmZTUxMzQzNzUwIiwicHJvZmlsZU5hbWUiOiJUaGVPbHltcGljUGFuZGEiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzRhZWM5YWVmZDM5ODNiOTk3YWY2ODI1NTQ0OTM1MGJiNmUyMWRiZDk1MmZlOGZjNTBiZGIxZTNkYzM0NjZmIn19fQ==
+      cached-skin-uuid-name: theolympicpanda
+      cached-skin-uuid: eb38fa09-2d8c-41e8-b21a-15fe51343750
+      player-skin-signature: tiaZ9oeM4l43ZqSIzct0bxR3MBmPuFpCLbT8UKlnuNZpzc6EB+IiGpjTe8sNWr/FWxpPLnthDHUr4T5bBQ17f92D68IQR9Lv3jiPW5AyX4/GcThqBSHjMXrK1qmOS2VhUH3vcaMf+lcjIOcDmUanprKYhtZTHPRUJzUYY1mU/W7TPZP5e05zcncQfXvAp5wsbC3AfcLBzgu5Debh/8WQ83lFxRaXJxIhIvKQIeiVsW8iMKbJxc+Vq5wZdK0zmCeU+7ACOJeXSVuTjHDn6R/1T//+tISKmDoQLYMdxyGV7GuM4Sd8YvCoT4p3ktMXTboaX51xlqT79Yu5vvUoHIUonj3akJE3WjaqUr+kdS82d4KbWCHWytT0dwFkWdMhLf/0SZfrlvYWRFYYTlcNZ8l9jvhOi3Tqv/ZKQZP2EFY+CyRpXzPAEAWYJzEULg1hrKaCGMsXNd4DJG+N+zz2JuI5Up/P53TE8LbZ/QY8r5492fKRKfwLITsHuOxrYFMWI2AT1DrlSRrDmO8emwsD9MAm0bVlxS5Xmt+cXrkVB1MFYjI/P3tKTycY3UFRyYLSQLDFBW3Uu7pXkH+/keyoGQ4jGiUYHWjVm3CQEaNV7+5lu2v8Ugd4yu1Infyb+liYxR8aOvZ5i0Sa1Opw1FVhJYgE4Op+NIfwEXONeD70ODKQJlg=
+    name: TheOlympicPanda
+    uuid: b0eb00cd-cbf3-4aa4-99b2-c3fff7ff7985
+    traits:
+      location:
+        world: world
+        x: '-619.5403719814084'
+        y: '176.0'
+        z: '315.5411602611861'
+        yaw: '-0.108551025390625'
+        pitch: '4.499993801116943'
+      inventory: {}
+      spawned: true
+      owner:
+        owner: UnstableTNT
+        uuid: 77dfc7d1-7e24-4371-9f9d-c89cf60bc59a
+    traitnames: owner,spawned,location,type,inventory
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '18':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE0NjcyMjc4Njk2NjcsInByb2ZpbGVJZCI6IjRlY2M5MDdmZDBkYzRjMThiYjJhZjllMWY3MWY1YWIzIiwicHJvZmlsZU5hbWUiOiJDSE9PQ09CTyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODdkOGQ1Y2UxMGEzOWRkMWIwZGMxNWQzNzgxMjJlNzJhOGY1MThmNTkxMTNhYjEyYTk1Yzk5YjlmN2Q4MiJ9fX0=
+      cached-skin-uuid-name: choocobo
+      cached-skin-uuid: 4ecc907f-d0dc-4c18-bb2a-f9e1f71f5ab3
+      player-skin-signature: rSqzMDkw7kCs0VtkLP+sAGI68EPG3jVviFk+gndXk4UsqmFF4gkkqan2hUnWld9LRsVf9h2FdD34S0rS7BnXlIBX1b8FlMCBORBjmVogwCYBir9YWFPvIsR/8QB62G5f0fg18erFKOTgojaSr9Wc8HPzHMHPUhtbWEe5StLu5b37PDwSmFOHIOr6NKMlMNgf2FjIKWiRM/CLAbk8q00AQ5Cba9192QXy5H2JZ8YV/E4sZbZo/5DHes2nNpJWCY9i37aAJpbMrSr25bB6Vov9Z47qmVkXvDZBmfatylrpiNwWu2iX/mwSnDv5JZkZDlXaWccYKe8U/VUXXAmLWq5o/qQNLF4d4VofKcMG9HsXkirbLcVBLdD1R6u5PFwMixK4+i5JAkNLbtArdUkWSWC8ZI/JFkYacMdQ+aNTQ57cDyT+kBnZQIBfL7DWMNSqL3rMe3X8Fhqz6Ugp6p4nuOnQm+ZpHCsw3o3Q4/EaWqMExH0yBBI2sggZy2coThEqv+UtQ954+fDpuIRju/yi/NcmQzAHUWeeEejZg+Z+RfpBR+Ql4qXcI+Jj9WuztS5GQeCjDQc449Rd+7L1L9wyevPmG3YwvW/PmCq7dE8u2xGNeLfUposZINCku+iydbboXTsMPiK5ErO5y8YKr8J8CN4bvbl0zwbSLy7c8iaYfusu2Vg=
+    name: CHOOCOBO
+    uuid: 356db5d9-5633-468c-a757-0ebd4309a66b
+    traits:
+      location:
+        world: world
+        x: '-614.5548073024377'
+        y: '176.0'
+        z: '315.30000001192093'
+        yaw: '1.81842041015625'
+        pitch: '9.51130485534668'
+      inventory: {}
+      spawned: true
+      owner:
+        owner: CHOOCOBO
+        uuid: 4ecc907f-d0dc-4c18-bb2a-f9e1f71f5ab3
+    traitnames: owner,location,spawned,type,inventory
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '16':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE0Njc1NjYyOTIxODcsInByb2ZpbGVJZCI6Ijc3ZGZjN2QxN2UyNDQzNzE5ZjlkYzg5Y2Y2MGJjNTlhIiwicHJvZmlsZU5hbWUiOiJVbnN0YWJsZVROVCIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7Im1ldGFkYXRhIjp7Im1vZGVsIjoic2xpbSJ9LCJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzMzYWUxZmRjMTljMDk4ODhjM2M0YWExMWExZjQ0MTA0MTk3Y2VhMWM5ZmM3OTBhYzJhMzI5YzRhYmFjY2MzIn19fQ==
+      cached-skin-uuid-name: unstabletnt
+      cached-skin-uuid: 77dfc7d1-7e24-4371-9f9d-c89cf60bc59a
+      player-skin-signature: UXt1qkyW2gVvqdt824zpoI1A0zsZN0Z1YOJkh2cQNUQuUe4ajDTniH7Fo6KCRY14UA9jsd6/yD5/cbeSlc3fYsJOPIZ5UuandFODtfoegaGzk8aqupTAM3LbB3uyI24fA0/t85dc07GV3E1pGz986tJ5XhuI59YclgEY3Cgr7xicDaqLh47SgnJLqGTpwo+sIsyNNgi6vUWq8NUQSRhm6mf6llqAeSSIpWABPEPQD1SM3lNZR7K4Nx2x5h8C3AIw1/LyMkw1IqbPimxAX0UPFQjeYPs/7yG04SaCujRYEbwf/P6EUzYCcoV8rpUjZ/p/w0ka7vzvrtFqBSgTUUAKbf/6phNP3IqrNjO61rY+LnJcPodDB4Z3c3y1inYm3txklZ9MTVf/Ucx6XzF8mvJxGZiRi1hrxjcAQD8vNV+5iT3ig1TFm2qO5xLPpYXCQB6OKrn9XbYFbQDOET+rwVLO93pEGjmxTXn3EHRM+c69/53hGa9UbBc5iR4avGoYXI70eW1ctdSnaxaMyofDD11RsIzQb5lZ2ytD4iD+4PN8jhHKYxQKYOyWGjJIRy0oBH7Q6lU0+ZuLwdDJziPkAlQKCZu5vfseJvO0wuTUbt/WX8gD5g9cbSYetzEQUig9uRQVc8zwnVmMKZy/RMPDi3ZQnIdPU+AyH6P/nQlsuJrgaFo=
+    name: UnstableTNT
+    uuid: e821d118-b205-43cd-87c2-2e1391ba959a
+    traits:
+      location:
+        world: MobArena
+        x: '19.48954173781658'
+        y: '124.0'
+        z: '22.48174715501853'
+        yaw: '-269.509521484375'
+        pitch: '0.5166933536529541'
+      inventory: {}
+      spawned: true
+      owner:
+        owner: CHOOCOBO
+        uuid: 4ecc907f-d0dc-4c18-bb2a-f9e1f71f5ab3
+    traitnames: owner,location,spawned,type,inventory
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '15':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE0NjcyMjc4Njk2NjcsInByb2ZpbGVJZCI6IjRlY2M5MDdmZDBkYzRjMThiYjJhZjllMWY3MWY1YWIzIiwicHJvZmlsZU5hbWUiOiJDSE9PQ09CTyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODdkOGQ1Y2UxMGEzOWRkMWIwZGMxNWQzNzgxMjJlNzJhOGY1MThmNTkxMTNhYjEyYTk1Yzk5YjlmN2Q4MiJ9fX0=
+      cached-skin-uuid-name: choocobo
+      cached-skin-uuid: 4ecc907f-d0dc-4c18-bb2a-f9e1f71f5ab3
+      player-skin-signature: rSqzMDkw7kCs0VtkLP+sAGI68EPG3jVviFk+gndXk4UsqmFF4gkkqan2hUnWld9LRsVf9h2FdD34S0rS7BnXlIBX1b8FlMCBORBjmVogwCYBir9YWFPvIsR/8QB62G5f0fg18erFKOTgojaSr9Wc8HPzHMHPUhtbWEe5StLu5b37PDwSmFOHIOr6NKMlMNgf2FjIKWiRM/CLAbk8q00AQ5Cba9192QXy5H2JZ8YV/E4sZbZo/5DHes2nNpJWCY9i37aAJpbMrSr25bB6Vov9Z47qmVkXvDZBmfatylrpiNwWu2iX/mwSnDv5JZkZDlXaWccYKe8U/VUXXAmLWq5o/qQNLF4d4VofKcMG9HsXkirbLcVBLdD1R6u5PFwMixK4+i5JAkNLbtArdUkWSWC8ZI/JFkYacMdQ+aNTQ57cDyT+kBnZQIBfL7DWMNSqL3rMe3X8Fhqz6Ugp6p4nuOnQm+ZpHCsw3o3Q4/EaWqMExH0yBBI2sggZy2coThEqv+UtQ954+fDpuIRju/yi/NcmQzAHUWeeEejZg+Z+RfpBR+Ql4qXcI+Jj9WuztS5GQeCjDQc449Rd+7L1L9wyevPmG3YwvW/PmCq7dE8u2xGNeLfUposZINCku+iydbboXTsMPiK5ErO5y8YKr8J8CN4bvbl0zwbSLy7c8iaYfusu2Vg=
+    name: CHOOCOBO
+    uuid: 4e0cd836-2d95-4ffa-9bd5-1119ae406ebc
+    traits:
+      location:
+        world: MobArena
+        x: '-17.30133606784474'
+        y: '124.0'
+        z: '21.523826373408415'
+        yaw: '-89.94281005859375'
+        pitch: '11.831568717956543'
+      inventory: {}
+      spawned: true
+      owner:
+        owner: CHOOCOBO
+        uuid: 4ecc907f-d0dc-4c18-bb2a-f9e1f71f5ab3
+    traitnames: owner,location,spawned,type,inventory
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '21':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE0Njc1NjYyOTI0NTEsInByb2ZpbGVJZCI6ImZjN2E4YmEwZWNkZjQwZWNhMGM1YmRiOTk4NWFkMjJiIiwicHJvZmlsZU5hbWUiOiJTd2F2ZW4iLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2IzZGFmOGYyODg0ZDUwNmY1ODcxOGI5ZjYwZGQzZGMxZDI0YzcwNTYzZjFhZTA4ZTY5ODE5NWI0Mzk0ZTAyNyJ9fX0=
+      cached-skin-uuid-name: swaven
+      cached-skin-uuid: fc7a8ba0-ecdf-40ec-a0c5-bdb9985ad22b
+      player-skin-signature: RFv+rmbziqe7dTLnf/cigOM3BOMqN26IZlQMyixPm8eSE0d/Jp0Xk2XHt6Jr8SfMbPt710MDorARlhJGn2LtHlUV7N1+jSbECy521LXktoGn27Tv5SncSIcNBAZPmYPRkU0TO67fgnOcRVDmcKK7RYJzs3MeI2EUf0TIcQVzdSqoH46CoN4ZWNccTsbYsH6M9uO1hdigcaa52gCxx2Xeb2hbE4GhHkPHNOTAve5egBcLdemEfEkAnmkYYj4XDG9AmOI9nNFCkdS12Aa+NTPjY/eHUB9Vc9j2kYv1Ng56pW3NH9K+OZspGwWhxqXeiyLb86tYtb+OVW5y6zw1W+bdcBAFrx2fF3FYtdzN0QdzKvWSLkVm+1T42X6AXHdzIA/MEGxEXlKLnDkxxaXxYw2/ZBvoVfKqZvzHULyPV8f/4MMqF/dAQRbr68j8s4bBUatvV0TRvaJBiyd6diNVM/PuHGy8q/SWo2NZkz3CuDxlXRv1PBUISQL7e3es+cpjhRwDMRK6jhZSrCEjLaNlTL7VTA6hs8B4erLBnxJP3e1UPAD91T9f9R2tY8FhN5+yriDW26X1SIQx3gxC1FiXHqWQk9QofZiwDxx5b6nybIABJhSb9/vc6ZRqPIMv6R83zoJIJPUERl8ZwsWilQglFYq4KrEFwRGOXUIRZVNiXrcJL0s=
+    name: Swaven
+    uuid: 40369141-146d-456d-a49b-ccadd187b98e
+    traits:
+      location:
+        world: world
+        x: '-612.5618738859112'
+        y: '176.0'
+        z: '315.42180170755586'
+        yaw: '-0.19842529296875'
+        pitch: '6.49408483505249'
+      inventory: {}
+      spawned: true
+      owner:
+        owner: CHOOCOBO
+        uuid: 4ecc907f-d0dc-4c18-bb2a-f9e1f71f5ab3
+    traitnames: owner,location,spawned,type,inventory
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '55':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE0NjY1MzQ4NDMzMjQsInByb2ZpbGVJZCI6IjYzM2U5NDkyZTI0YjRlY2E4NTMxYTgzYWUzNmY1OGQ3IiwicHJvZmlsZU5hbWUiOiJMYXZhTW9nXyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjc5YWY3NTA5YzJmNDA0ZDljODFjYTJjNWI5YzUzNDNiNzJiZTc2YWJkYjk2N2ExZmE5YzExN2RiMWFhMDU4In19fQ==
+      cached-skin-uuid-name: lavamog_
+      cached-skin-uuid: 633e9492-e24b-4eca-8531-a83ae36f58d7
+      player-skin-signature: SXlMdDt0Nf2tkeB/mOcXX68ocbQq2Nh+oahG1TYkCOZK6ZLxPjn9ZNDUoERRRjfs/LfqfclBHB7c/G93guFpJ26cjAjX1N7TAxex5VLWb64lUi+r7x3+3+Thh6XZ1zQYeqDuHZLuZda4ylSzN6Su1RFQuZ4TqqTcrC0ChQP8sSEQu8lREKpzPTrHngY/oNPelBtSe/xDZJZzKsSo0uEjLI23a007CaXNaHWYWm8BkFM3Uj437Jv4pA4Oj98ts+1neWt76dg9PgmUWmIn8CygeVLERyMFIkVrW2nKxdqQ5P2NoLTIfMi/0wpw/05r/Lusw3HPMqbkOjK2cT+KWk+j8PuixsnPM2L//kIIiWJsG1xnlLjw20HwJALHCavYHHC0NVMwWNKdlMoyY0YtRmqiQWhuYET9MEwAbnKGkBuRKpYAaS04QelJT3iS+skGCwmtGIk31UkXTnxvOX9CPFy2sW8jh0SViD9wlOBmegr1Cl8So9M9Lo9Oq48ADib40jsixenw2fHClJQ9/E8xd4z67PgvRkqgmv+KKMZs+HCPtxklJzLg2vrgBY7JBJTAJYjZZWKfEl2wFG9Rw8z8tyoBglBZRJ3eygszpcRRU11UsQX3lIIoFeea4CNrGymv5NHmoW+DhrXOZvPilI8QoH+5oORAnYBnwz/r+gMG/q1JjPM=
+    name: LavaMog_
+    uuid: fbf60d12-f8bd-4383-b261-251513429681
+    traits:
+      inventory: {}
+      spawned: true
+      location:
+        world: world
+        x: '-611.4835628694253'
+        y: '176.0'
+        z: '315.300225375162'
+        yaw: '-0.08825913071632385'
+        pitch: '7.838976860046387'
+      owner:
+        owner: CHOOCOBO
+        uuid: 4ecc907f-d0dc-4c18-bb2a-f9e1f71f5ab3
+    traitnames: owner,spawned,location,type,inventory
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '56':
+    name: Choco's Manager
+    uuid: 24c01e83-f8c2-405b-95c1-b450241dde0e
+    traits:
+      inventory: {}
+      spawned: true
+      location:
+        world: MobArena
+        x: '17.30248958640732'
+        y: '118.0'
+        z: '21.996067989402988'
+        yaw: '-89.30497741699219'
+        pitch: '3.761906862258911'
+      owner:
+        owner: CHOOCOBO
+        uuid: 4ecc907f-d0dc-4c18-bb2a-f9e1f71f5ab3
+    traitnames: owner,location,spawned,type,inventory
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '60':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE0Njc1NjYyOTEyMTgsInByb2ZpbGVJZCI6ImY3Yzc3ZDk5OWYxNTRhNjZhODdkYzRhNTFlZjMwZDE5IiwicHJvZmlsZU5hbWUiOiJoeXBpeGVsIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zZmFhYmU5ZjViNTZhZmNmZjQ3MTcwYTA5OTcwODdmMTQ2YTkxYjJmNDcxYTI3OGQxZWEzYmM4NzRkZTUxNTYifSwiQ0FQRSI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQzYTUxZDM0YjA3NmY5YWRhNTU1ZGNhNTYyMjA2YmQ5NDJlNDZhM2M0ZDVmODNjMmMyOWU1YjljM2Q3ZGJjYiJ9fX0=
+      cached-skin-uuid-name: hypixel
+      cached-skin-uuid: f7c77d99-9f15-4a66-a87d-c4a51ef30d19
+      player-skin-signature: NEJxLLxsyLaIEKdn/x9nNdd5kvkfzEwCHQh8587za3FQHtKJMW4Uz65oiK5ePRHC+tGbRXx7Hqnqlb7Ob8r2A9MtH1MmZyg6aEdiPev/l1qhqdVWIX01mrmhkRRiorlPRDv0eapJ6w8uYhYp9LIiB56Wp8mVXPJ4kZAXosHO5ddM+FAdZkqq9fYexVFVIaNeRuBYIhcA8V4583rQCtGSe11Lnadwv6ox6+yguiOj4wFEvgB3W7yxkemMds4dHodozVqUFJ3vhNZm7z/egEU/wgGv85xuLRnBW9r9ekNBkIm25n8LEId3eoDpe4tiy3HwFHHsYbppn+T9Sn5jUiGc039kv6IR3nrtmcwS3PY+vVXh08imvvsO8QOdX1ME4Fb10mX5TgOvsFP0zq4+NeKIFFeB+0QwDJF3zulGffX1ZPrA5GKVxFif9S1S9FjV42S4vu9pkDaVg7meZv4ZbS2Iq/PDzdZVYiVK4ePvafsXdh5LOk8OFoeUKI7rJdZ0WleNuMPEIQFDho931q/yHtn4/5zxiH+SOUMIE6Rld6OHonKWE3S/e6QZo58MqZ0oyeeaCUe6jBOFmJt3gLkGvWShEyE909vLjbFoL/Mfrp7eeiAFqP1cW46uvybFgi0BcIzV+w8Sy71BTnhhQ8mHuZ+kEIOWt1miomtUYXnwcgh8Nqw=
+    name: hypixel
+    uuid: 4eccf044-c810-4deb-b8eb-32d5f34cee3e
+    traits:
+      inventory: {}
+      spawned: true
+      location:
+        world: MobArena
+        x: '19.818681784596826'
+        y: '118.0'
+        z: '19.492960082883773'
+        yaw: '32.9822998046875'
+        pitch: '1.7302708625793457'
+      owner:
+        owner: CHOOCOBO
+        uuid: 4ecc907f-d0dc-4c18-bb2a-f9e1f71f5ab3
+    traitnames: owner,location,spawned,type,inventory
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '59':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE0Njc1NjYyOTIxODcsInByb2ZpbGVJZCI6Ijc3ZGZjN2QxN2UyNDQzNzE5ZjlkYzg5Y2Y2MGJjNTlhIiwicHJvZmlsZU5hbWUiOiJVbnN0YWJsZVROVCIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7Im1ldGFkYXRhIjp7Im1vZGVsIjoic2xpbSJ9LCJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzMzYWUxZmRjMTljMDk4ODhjM2M0YWExMWExZjQ0MTA0MTk3Y2VhMWM5ZmM3OTBhYzJhMzI5YzRhYmFjY2MzIn19fQ==
+      cached-skin-uuid-name: unstabletnt
+      cached-skin-uuid: 77dfc7d1-7e24-4371-9f9d-c89cf60bc59a
+      player-skin-signature: UXt1qkyW2gVvqdt824zpoI1A0zsZN0Z1YOJkh2cQNUQuUe4ajDTniH7Fo6KCRY14UA9jsd6/yD5/cbeSlc3fYsJOPIZ5UuandFODtfoegaGzk8aqupTAM3LbB3uyI24fA0/t85dc07GV3E1pGz986tJ5XhuI59YclgEY3Cgr7xicDaqLh47SgnJLqGTpwo+sIsyNNgi6vUWq8NUQSRhm6mf6llqAeSSIpWABPEPQD1SM3lNZR7K4Nx2x5h8C3AIw1/LyMkw1IqbPimxAX0UPFQjeYPs/7yG04SaCujRYEbwf/P6EUzYCcoV8rpUjZ/p/w0ka7vzvrtFqBSgTUUAKbf/6phNP3IqrNjO61rY+LnJcPodDB4Z3c3y1inYm3txklZ9MTVf/Ucx6XzF8mvJxGZiRi1hrxjcAQD8vNV+5iT3ig1TFm2qO5xLPpYXCQB6OKrn9XbYFbQDOET+rwVLO93pEGjmxTXn3EHRM+c69/53hGa9UbBc5iR4avGoYXI70eW1ctdSnaxaMyofDD11RsIzQb5lZ2ytD4iD+4PN8jhHKYxQKYOyWGjJIRy0oBH7Q6lU0+ZuLwdDJziPkAlQKCZu5vfseJvO0wuTUbt/WX8gD5g9cbSYetzEQUig9uRQVc8zwnVmMKZy/RMPDi3ZQnIdPU+AyH6P/nQlsuJrgaFo=
+    name: UnstableTNT
+    uuid: 18b1335a-704b-428f-8b2f-42a424aefa52
+    traits:
+      inventory: {}
+      spawned: true
+      location:
+        world: MobArena
+        x: '21.298479748914044'
+        y: '118.0'
+        z: '23.34410553965509'
+        yaw: '131.3770751953125'
+        pitch: '-2.5286171436309814'
+      owner:
+        owner: CHOOCOBO
+        uuid: 4ecc907f-d0dc-4c18-bb2a-f9e1f71f5ab3
+    traitnames: owner,location,spawned,type,inventory
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '62':
+    name: Spawners
+    uuid: 51657a21-ba59-474d-8d70-a71b383b11d1
+    traits:
+      age:
+        age: 0
+        locked: true
+      location:
+        world: Factions
+        x: '25.52046755340527'
+        y: '66.0'
+        z: '139.53190450709528'
+        yaw: '-182.35614013671875'
+        pitch: '0.0'
+      type: Villager
+      spawned: true
+      owner:
+        owner: UnstableTNT
+        uuid: 77dfc7d1-7e24-4371-9f9d-c89cf60bc59a
+    traitnames: owner,spawned,location,type,age
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '78':
+    name: ItemShop
+    uuid: 55384ca7-18b7-4b74-aa4d-f9375ac3e605
+    traits:
+      spawned: true
+      location:
+        world: Factions
+        x: '18.48363928285717'
+        y: '66.0'
+        z: '136.49692536052316'
+        yaw: '-89.69991302490234'
+        pitch: '0.0'
+      type: Villager
+      age:
+        age: 0
+        locked: true
+      owner:
+        owner: UnstableTNT
+        uuid: 77dfc7d1-7e24-4371-9f9d-c89cf60bc59a
+    traitnames: owner,location,spawned,type,age
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '95':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE0Njc1NjYyOTI0NTEsInByb2ZpbGVJZCI6ImZjN2E4YmEwZWNkZjQwZWNhMGM1YmRiOTk4NWFkMjJiIiwicHJvZmlsZU5hbWUiOiJTd2F2ZW4iLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2IzZGFmOGYyODg0ZDUwNmY1ODcxOGI5ZjYwZGQzZGMxZDI0YzcwNTYzZjFhZTA4ZTY5ODE5NWI0Mzk0ZTAyNyJ9fX0=
+      cached-skin-uuid-name: swaven
+      cached-skin-uuid: fc7a8ba0-ecdf-40ec-a0c5-bdb9985ad22b
+      player-skin-signature: RFv+rmbziqe7dTLnf/cigOM3BOMqN26IZlQMyixPm8eSE0d/Jp0Xk2XHt6Jr8SfMbPt710MDorARlhJGn2LtHlUV7N1+jSbECy521LXktoGn27Tv5SncSIcNBAZPmYPRkU0TO67fgnOcRVDmcKK7RYJzs3MeI2EUf0TIcQVzdSqoH46CoN4ZWNccTsbYsH6M9uO1hdigcaa52gCxx2Xeb2hbE4GhHkPHNOTAve5egBcLdemEfEkAnmkYYj4XDG9AmOI9nNFCkdS12Aa+NTPjY/eHUB9Vc9j2kYv1Ng56pW3NH9K+OZspGwWhxqXeiyLb86tYtb+OVW5y6zw1W+bdcBAFrx2fF3FYtdzN0QdzKvWSLkVm+1T42X6AXHdzIA/MEGxEXlKLnDkxxaXxYw2/ZBvoVfKqZvzHULyPV8f/4MMqF/dAQRbr68j8s4bBUatvV0TRvaJBiyd6diNVM/PuHGy8q/SWo2NZkz3CuDxlXRv1PBUISQL7e3es+cpjhRwDMRK6jhZSrCEjLaNlTL7VTA6hs8B4erLBnxJP3e1UPAD91T9f9R2tY8FhN5+yriDW26X1SIQx3gxC1FiXHqWQk9QofZiwDxx5b6nybIABJhSb9/vc6ZRqPIMv6R83zoJIJPUERl8ZwsWilQglFYq4KrEFwRGOXUIRZVNiXrcJL0s=
+    name: Swaven
+    uuid: 775d29ad-0c7f-4763-817f-f309e8cf9c26
+    traits:
+      spawned: true
+      inventory: {}
+      location:
+        world: Factions
+        x: '54.48834408874656'
+        y: '66.0'
+        z: '127.30000001192086'
+        yaw: '359.5567626953125'
+        pitch: '12.173006057739258'
+      owner:
+        owner: DaOfficialOwen
+        uuid: 31ec30b9-3c83-40ce-9f8b-ea94a7de7f3d
+    traitnames: owner,spawned,location,type,inventory
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '97':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE0Njc1NjYyOTA4NTksInByb2ZpbGVJZCI6IjMxZWMzMGI5M2M4MzQwY2U5ZjhiZWE5NGE3ZGU3ZjNkIiwicHJvZmlsZU5hbWUiOiJEYU9mZmljaWFsT3dlbiIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzM4N2FiNDViOTg5NDJkMmNiZTU4ZGQ5YjZlNTg1OWU1M2MyMTJmZDA0NDY3MWNhY2NjZjNjOTU2MWFmMWRjIn19fQ==
+      cached-skin-uuid-name: daofficialowen
+      cached-skin-uuid: 31ec30b9-3c83-40ce-9f8b-ea94a7de7f3d
+      player-skin-signature: I6c1M7lqwhzqJ9hIH6JKZExD5344rjHZugO4MfMjM9qMNbJs50xxRO9/haNE12zbTuN90HVPMS4zfC9QXP3h14E8B51d1W6cn73kqUnrJafxXHjD2r5l8EEpkfVSN7DT5osjQeQStG1eSEbWrdNm0HZc1SSDWbhwUM21qwkPjuNIJEQtnnlORzyqTos1bUGzSljMgvMyAX5tW/lC7RfhwulTUvqjONeBVvEvkvPshT5n4Hxrys4GcwRFx2+6BPZSdZXVeKJIp4sFqqmv2x8VXtdTnIpI0fftTuU3EjQzqIS0EuHmhTxpZg5k5wYTcp69+K8yanLN/ZeTgVheT1VpRjvL+ISKbaD2Y/x0318dfw2cE/8tRqIFIui8ElYH4RdrXgUFWPmifnusTR/Hy/NBY/Vl7g5XmqaF12qifOgRyMni5wHFpzgPyX+6vl10ohANYar6yAaJjSszPSNx5c6cG18UbT5o6UFFFtWnIM3nvVIC/LYo0mVcmq+IGi8vCudb0STgy8RVg6OfrZ5VC1WBciPohEC6IPCenc5sBrL6riPpOi3erS2ogDP8PVuOc0lmgdBMF89anZIBNSeVdN4liFyl53ZSYCURIE/qvpSl5w2ZlMALNwTvwj6Hczg7dSkuzMs7RrPHobC9jG6J5Lgf3/JARuJG7mRLN2i+NeJ/8T8=
+    name: DaOfficialOwen
+    uuid: 12009bd0-d07a-45e2-9d37-d59e5c0b6295
+    traits:
+      spawned: true
+      inventory: {}
+      location:
+        world: Factions
+        x: '53.36439929084666'
+        y: '66.0'
+        z: '127.30257411883204'
+        yaw: '0.30792236328125'
+        pitch: '15.457104682922363'
+      owner:
+        owner: DaOfficialOwen
+        uuid: 31ec30b9-3c83-40ce-9f8b-ea94a7de7f3d
+    traitnames: owner,location,spawned,type,inventory
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '98':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE0Njc1NjYyOTA5NTMsInByb2ZpbGVJZCI6ImIxZDQ4OWEwMGE2ZjQ0YzE5OTdiMTM1YTdiY2MwOTE2IiwicHJvZmlsZU5hbWUiOiJQcmVpc3Rlc3RfRHJhZ29uIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mMDQwMjlhOGViYjYxYzhmODg3OTQxYzIzOTUzM2Y4YWUxNWEzZTE2MmYxNzAxZDA4Y2JmYTI4YjliZTQ1YSJ9fX0=
+      cached-skin-uuid-name: preistest_dragon
+      cached-skin-uuid: b1d489a0-0a6f-44c1-997b-135a7bcc0916
+      player-skin-signature: mvju8jfnzMvrqr0XEajaGY3uWGjK2IfTAwEmPFyUCCNJD7ixyuQ3ZLnDoFQpNwQ6wpNMa6hZdnDwdze//9jYH5PlJ9l+IMu4rzhVGLjmjhZBHWHlyGyWsIjjs52iJfrQVw0mgOlSYRt1tgznMUIr6hjXry7VnNSjSRaoKM2baHM5wcazbx+iDjJO7NWolNAiRp+u7znNcA0RLwSVpeDQ43g0BtgGFQ87FqnHiWzbZNU+9luVryvEjq6N0TL7e2L6tDjUgdIUXAwnVCybs6vb2hpW/mL35D3F034yvXEYH4Oxdi8QzMvhEF0QwAXA6+/8M3ME+1IaxUHdmBOTy607L+TbDxdZlHhiKCXb9/rXJHnMjL7Fkxxha5JY6qwd86xHvAqdcrgT7URd1vvvn357BAC3twUDGm3lcc/E4n9sV2kEUJh9C4lAPAN8LJ5yNlEdzJvXAHxHGGpQCyv/KuyHuZ7VoAI0djKEfx6aK+SKi+xs4LyTKvjomGLWv8WQJkvm70D+X7YPOhbHhzmD6KuczdMc2Nk8b0QHR25YSPp2F7E4JMZUgImdh6vhCoOoS8bxWd/GJkDMJZtuyDzq+d1ueL12aJMaQUUFn/S135OKA3mgwnBZxXgcQs14q8VdE7PYy0wC4mjpYbvkSz5cNT/tyICIo80WFKYClWs4I6TlP0k=
+    name: Preistest_Dragon
+    uuid: e3539d5b-eacc-484a-ba74-dc143ce55001
+    traits:
+      spawned: true
+      inventory: {}
+      location:
+        world: Factions
+        x: '52.40297754477112'
+        y: '66.0'
+        z: '127.30051676923176'
+        yaw: '1.9500732421875'
+        pitch: '-1.0499716997146606'
+      owner:
+        owner: Swaven
+        uuid: fc7a8ba0-ecdf-40ec-a0c5-bdb9985ad22b
+    traitnames: owner,spawned,location,type,inventory
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '100':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE0NjY1MzQ4NDMzMjQsInByb2ZpbGVJZCI6IjYzM2U5NDkyZTI0YjRlY2E4NTMxYTgzYWUzNmY1OGQ3IiwicHJvZmlsZU5hbWUiOiJMYXZhTW9nXyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjc5YWY3NTA5YzJmNDA0ZDljODFjYTJjNWI5YzUzNDNiNzJiZTc2YWJkYjk2N2ExZmE5YzExN2RiMWFhMDU4In19fQ==
+      cached-skin-uuid-name: lavamog_
+      cached-skin-uuid: 633e9492-e24b-4eca-8531-a83ae36f58d7
+      player-skin-signature: SXlMdDt0Nf2tkeB/mOcXX68ocbQq2Nh+oahG1TYkCOZK6ZLxPjn9ZNDUoERRRjfs/LfqfclBHB7c/G93guFpJ26cjAjX1N7TAxex5VLWb64lUi+r7x3+3+Thh6XZ1zQYeqDuHZLuZda4ylSzN6Su1RFQuZ4TqqTcrC0ChQP8sSEQu8lREKpzPTrHngY/oNPelBtSe/xDZJZzKsSo0uEjLI23a007CaXNaHWYWm8BkFM3Uj437Jv4pA4Oj98ts+1neWt76dg9PgmUWmIn8CygeVLERyMFIkVrW2nKxdqQ5P2NoLTIfMi/0wpw/05r/Lusw3HPMqbkOjK2cT+KWk+j8PuixsnPM2L//kIIiWJsG1xnlLjw20HwJALHCavYHHC0NVMwWNKdlMoyY0YtRmqiQWhuYET9MEwAbnKGkBuRKpYAaS04QelJT3iS+skGCwmtGIk31UkXTnxvOX9CPFy2sW8jh0SViD9wlOBmegr1Cl8So9M9Lo9Oq48ADib40jsixenw2fHClJQ9/E8xd4z67PgvRkqgmv+KKMZs+HCPtxklJzLg2vrgBY7JBJTAJYjZZWKfEl2wFG9Rw8z8tyoBglBZRJ3eygszpcRRU11UsQX3lIIoFeea4CNrGymv5NHmoW+DhrXOZvPilI8QoH+5oORAnYBnwz/r+gMG/q1JjPM=
+    name: LavaMog_
+    uuid: d01116cf-a4ad-4481-8052-9a4681e57dc9
+    traits:
+      spawned: true
+      inventory: {}
+      location:
+        world: Factions
+        x: '50.627781336326755'
+        y: '66.0'
+        z: '127.30000001192093'
+        yaw: '359.5499267578125'
+        pitch: '0.7500177025794983'
+      owner:
+        owner: Swaven
+        uuid: fc7a8ba0-ecdf-40ec-a0c5-bdb9985ad22b
+    traitnames: owner,location,spawned,type,inventory
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '94':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE0Njc1NjYyOTIxODcsInByb2ZpbGVJZCI6Ijc3ZGZjN2QxN2UyNDQzNzE5ZjlkYzg5Y2Y2MGJjNTlhIiwicHJvZmlsZU5hbWUiOiJVbnN0YWJsZVROVCIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7Im1ldGFkYXRhIjp7Im1vZGVsIjoic2xpbSJ9LCJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzMzYWUxZmRjMTljMDk4ODhjM2M0YWExMWExZjQ0MTA0MTk3Y2VhMWM5ZmM3OTBhYzJhMzI5YzRhYmFjY2MzIn19fQ==
+      cached-skin-uuid-name: unstabletnt
+      cached-skin-uuid: 77dfc7d1-7e24-4371-9f9d-c89cf60bc59a
+      player-skin-signature: UXt1qkyW2gVvqdt824zpoI1A0zsZN0Z1YOJkh2cQNUQuUe4ajDTniH7Fo6KCRY14UA9jsd6/yD5/cbeSlc3fYsJOPIZ5UuandFODtfoegaGzk8aqupTAM3LbB3uyI24fA0/t85dc07GV3E1pGz986tJ5XhuI59YclgEY3Cgr7xicDaqLh47SgnJLqGTpwo+sIsyNNgi6vUWq8NUQSRhm6mf6llqAeSSIpWABPEPQD1SM3lNZR7K4Nx2x5h8C3AIw1/LyMkw1IqbPimxAX0UPFQjeYPs/7yG04SaCujRYEbwf/P6EUzYCcoV8rpUjZ/p/w0ka7vzvrtFqBSgTUUAKbf/6phNP3IqrNjO61rY+LnJcPodDB4Z3c3y1inYm3txklZ9MTVf/Ucx6XzF8mvJxGZiRi1hrxjcAQD8vNV+5iT3ig1TFm2qO5xLPpYXCQB6OKrn9XbYFbQDOET+rwVLO93pEGjmxTXn3EHRM+c69/53hGa9UbBc5iR4avGoYXI70eW1ctdSnaxaMyofDD11RsIzQb5lZ2ytD4iD+4PN8jhHKYxQKYOyWGjJIRy0oBH7Q6lU0+ZuLwdDJziPkAlQKCZu5vfseJvO0wuTUbt/WX8gD5g9cbSYetzEQUig9uRQVc8zwnVmMKZy/RMPDi3ZQnIdPU+AyH6P/nQlsuJrgaFo=
+    name: UnstableTNT
+    uuid: 0fa910d1-9f44-4fb3-9bb8-82436aae3f54
+    traits:
+      spawned: true
+      inventory: {}
+      location:
+        world: Factions
+        x: '55.54757539291812'
+        y: '66.0'
+        z: '127.48359332909475'
+        yaw: '0.64178466796875'
+        pitch: '12.173042297363281'
+      owner:
+        owner: DaOfficialOwen
+        uuid: 31ec30b9-3c83-40ce-9f8b-ea94a7de7f3d
+    traitnames: owner,location,spawned,type,inventory
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '101':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE0Njc1NjYyOTE3NjAsInByb2ZpbGVJZCI6IjVjNDM5MmQ1YzEwZDRkNDFhZjU2YWZlMDBlYmM0N2IwIiwicHJvZmlsZU5hbWUiOiJmYW50YWJveTE1Iiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yOTkxOTdjN2JmMjgzM2RiZDY4Yjc1YjQ5ZTE1ZDIzMjY5MjI4YThmN2U5ODVjOGViYjE5OTMzYTVlMGM0In19fQ==
+      cached-skin-uuid-name: fantaboy15
+      cached-skin-uuid: 5c4392d5-c10d-4d41-af56-afe00ebc47b0
+      player-skin-signature: XoQP8YP52yFuFZPBxHTkT+4Q7CIqVab3LmxcHnOFkQeCueqVGpeG9ZugCGLfRRTF8RpNm3ZqbHJLzv2yMQVQ9Aipnu+f76KB4+yebcR2NBpEwcXAHVKq3nUCqIGuU+DLJd1HSVqNwQ3Zy+746+cXtq+FoCt9XD76NRSnSQ5bLVQm9hD8SR/6JruVKoF29X5AipqH/EtIlPEiCDNGmzvY3V6N+WBBZbaJk0TbgidNVeYI/pwjErog2AOnp9NdTui7rA0WkFxk/RC01+OofqhMG86I3oRf3SYhD8TZSOq66QT/yo/vpb2kKz+ImApNU/FGk4caeMHc6g6QbEQQWawKgX1saIypus3LQqbU896wiV0NxhmlSID45BXgvfsYe6bjOVgEckgA+lNJ+xs6peEvkEh/5F7rWDWD8sfb2QlMQ2ALNjcTDN5yycP/ksma+Opwo9uYsK7ZKbmqqhRS03pEIfHHTEvVqboDPSDzskVMzHW9MVqUIgpbYykoysYkHvnExHOzV91OH9zzFK1kWzB6pIgbbiG+Gfujuvrs/dHUSyHJW4Fh5nrF52YdGFD8vEhDeynDhxaXPHJFf5ZUy/DktIbN9PAHS6aOV4yJ60yAq2FZxsUEkotWdmdz5cGmnl0jRMxHZSuqvNMCyhlabdAGNrvskbJ1DcIXYqF/zlAI6Eo=
+    name: fantaboy15
+    uuid: dfaf4573-2944-49ca-b1b9-2234e8b8661e
+    traits:
+      inventory: {}
+      spawned: true
+      location:
+        world: Factions
+        x: '49.52747448800267'
+        y: '66.0'
+        z: '127.30000001192093'
+        yaw: '-358.09991455078125'
+        pitch: '17.44718360900879'
+      owner:
+        owner: DaOfficialOwen
+        uuid: 31ec30b9-3c83-40ce-9f8b-ea94a7de7f3d
+    traitnames: owner,spawned,location,type,inventory
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '144':
+    name: "\xa76\xa7lWelcome to \xa7c\xa7lBuildingTeam"
+    uuid: eff6cde1-334e-4ee8-b14f-979df96c7dd6
+    traits:
+      spawned: true
+      age:
+        age: 0
+        locked: true
+      type: Villager
+      location:
+        world: Factions
+        x: '-4.5779966498609905'
+        y: '183.0'
+        z: '1002.1838173329782'
+        yaw: '-33.22979736328125'
+        pitch: '0.0'
+      owner:
+        owner: DaOfficialOwen
+        uuid: 31ec30b9-3c83-40ce-9f8b-ea94a7de7f3d
+    traitnames: owner,location,spawned,type,age
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '140':
+    name: "\xa7c\xa7lTo Get Back Out"
+    uuid: 5cfbebee-9f1e-4336-84ff-52afe02c5035
+    traits:
+      spawned: true
+      type: Skeleton
+      location:
+        world: Factions
+        x: '6.699999988079072'
+        y: '186.0'
+        z: '999.4536995263828'
+        yaw: '-268.2113037109375'
+        pitch: '0.0'
+      owner:
+        owner: DaOfficialOwen
+        uuid: 31ec30b9-3c83-40ce-9f8b-ea94a7de7f3d
+    traitnames: owner,spawned,location,type
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '138':
+    name: "\xa74\xa7lEMPTY!"
+    uuid: 975aa2cb-e1a3-421a-beb3-4e3d4e758d28
+    traits:
+      spawned: true
+      type: Skeleton
+      location:
+        world: Factions
+        x: '5.510155094279421'
+        y: '186.0'
+        z: '996.3000000119209'
+        yaw: '-358.5045471191406'
+        pitch: '0.0'
+      owner:
+        owner: DaOfficialOwen
+        uuid: 31ec30b9-3c83-40ce-9f8b-ea94a7de7f3d
+    traitnames: owner,location,spawned,type
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '133':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE0Njc1NjYyOTA5NTMsInByb2ZpbGVJZCI6ImIxZDQ4OWEwMGE2ZjQ0YzE5OTdiMTM1YTdiY2MwOTE2IiwicHJvZmlsZU5hbWUiOiJQcmVpc3Rlc3RfRHJhZ29uIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mMDQwMjlhOGViYjYxYzhmODg3OTQxYzIzOTUzM2Y4YWUxNWEzZTE2MmYxNzAxZDA4Y2JmYTI4YjliZTQ1YSJ9fX0=
+      cached-skin-uuid-name: preistest_dragon
+      cached-skin-uuid: b1d489a0-0a6f-44c1-997b-135a7bcc0916
+      player-skin-signature: mvju8jfnzMvrqr0XEajaGY3uWGjK2IfTAwEmPFyUCCNJD7ixyuQ3ZLnDoFQpNwQ6wpNMa6hZdnDwdze//9jYH5PlJ9l+IMu4rzhVGLjmjhZBHWHlyGyWsIjjs52iJfrQVw0mgOlSYRt1tgznMUIr6hjXry7VnNSjSRaoKM2baHM5wcazbx+iDjJO7NWolNAiRp+u7znNcA0RLwSVpeDQ43g0BtgGFQ87FqnHiWzbZNU+9luVryvEjq6N0TL7e2L6tDjUgdIUXAwnVCybs6vb2hpW/mL35D3F034yvXEYH4Oxdi8QzMvhEF0QwAXA6+/8M3ME+1IaxUHdmBOTy607L+TbDxdZlHhiKCXb9/rXJHnMjL7Fkxxha5JY6qwd86xHvAqdcrgT7URd1vvvn357BAC3twUDGm3lcc/E4n9sV2kEUJh9C4lAPAN8LJ5yNlEdzJvXAHxHGGpQCyv/KuyHuZ7VoAI0djKEfx6aK+SKi+xs4LyTKvjomGLWv8WQJkvm70D+X7YPOhbHhzmD6KuczdMc2Nk8b0QHR25YSPp2F7E4JMZUgImdh6vhCoOoS8bxWd/GJkDMJZtuyDzq+d1ueL12aJMaQUUFn/S135OKA3mgwnBZxXgcQs14q8VdE7PYy0wC4mjpYbvkSz5cNT/tyICIo80WFKYClWs4I6TlP0k=
+    name: Preistest_Dragon
+    uuid: e875ee75-6c1a-480e-bfc8-c28d74b65aa4
+    traits:
+      inventory: {}
+      spawned: true
+      location:
+        world: Factions
+        x: '1.5802453868299193'
+        y: '186.0'
+        z: '996.3000000119209'
+        yaw: '0.6970658898353577'
+        pitch: '1.1914719343185425'
+      owner:
+        owner: Swaven
+        uuid: fc7a8ba0-ecdf-40ec-a0c5-bdb9985ad22b
+    traitnames: owner,spawned,location,type,inventory
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '132':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE0NjY1MzQ4NDMzMjQsInByb2ZpbGVJZCI6IjYzM2U5NDkyZTI0YjRlY2E4NTMxYTgzYWUzNmY1OGQ3IiwicHJvZmlsZU5hbWUiOiJMYXZhTW9nXyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjc5YWY3NTA5YzJmNDA0ZDljODFjYTJjNWI5YzUzNDNiNzJiZTc2YWJkYjk2N2ExZmE5YzExN2RiMWFhMDU4In19fQ==
+      cached-skin-uuid-name: lavamog_
+      cached-skin-uuid: 633e9492-e24b-4eca-8531-a83ae36f58d7
+      player-skin-signature: SXlMdDt0Nf2tkeB/mOcXX68ocbQq2Nh+oahG1TYkCOZK6ZLxPjn9ZNDUoERRRjfs/LfqfclBHB7c/G93guFpJ26cjAjX1N7TAxex5VLWb64lUi+r7x3+3+Thh6XZ1zQYeqDuHZLuZda4ylSzN6Su1RFQuZ4TqqTcrC0ChQP8sSEQu8lREKpzPTrHngY/oNPelBtSe/xDZJZzKsSo0uEjLI23a007CaXNaHWYWm8BkFM3Uj437Jv4pA4Oj98ts+1neWt76dg9PgmUWmIn8CygeVLERyMFIkVrW2nKxdqQ5P2NoLTIfMi/0wpw/05r/Lusw3HPMqbkOjK2cT+KWk+j8PuixsnPM2L//kIIiWJsG1xnlLjw20HwJALHCavYHHC0NVMwWNKdlMoyY0YtRmqiQWhuYET9MEwAbnKGkBuRKpYAaS04QelJT3iS+skGCwmtGIk31UkXTnxvOX9CPFy2sW8jh0SViD9wlOBmegr1Cl8So9M9Lo9Oq48ADib40jsixenw2fHClJQ9/E8xd4z67PgvRkqgmv+KKMZs+HCPtxklJzLg2vrgBY7JBJTAJYjZZWKfEl2wFG9Rw8z8tyoBglBZRJ3eygszpcRRU11UsQX3lIIoFeea4CNrGymv5NHmoW+DhrXOZvPilI8QoH+5oORAnYBnwz/r+gMG/q1JjPM=
+    name: LavaMog_
+    uuid: 6e74c752-ec9c-4af9-b0a2-27412c11aa3d
+    traits:
+      inventory: {}
+      spawned: true
+      location:
+        world: Factions
+        x: '-0.5275518594743062'
+        y: '186.0'
+        z: '996.3000000119209'
+        yaw: '-1.0333707332611084'
+        pitch: '4.02143669128418'
+      owner:
+        owner: Swaven
+        uuid: fc7a8ba0-ecdf-40ec-a0c5-bdb9985ad22b
+    traitnames: owner,location,spawned,type,inventory
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '131':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE0NjcyMjc4Njk2NjcsInByb2ZpbGVJZCI6IjRlY2M5MDdmZDBkYzRjMThiYjJhZjllMWY3MWY1YWIzIiwicHJvZmlsZU5hbWUiOiJDSE9PQ09CTyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODdkOGQ1Y2UxMGEzOWRkMWIwZGMxNWQzNzgxMjJlNzJhOGY1MThmNTkxMTNhYjEyYTk1Yzk5YjlmN2Q4MiJ9fX0=
+      cached-skin-uuid-name: choocobo
+      cached-skin-uuid: 4ecc907f-d0dc-4c18-bb2a-f9e1f71f5ab3
+      player-skin-signature: rSqzMDkw7kCs0VtkLP+sAGI68EPG3jVviFk+gndXk4UsqmFF4gkkqan2hUnWld9LRsVf9h2FdD34S0rS7BnXlIBX1b8FlMCBORBjmVogwCYBir9YWFPvIsR/8QB62G5f0fg18erFKOTgojaSr9Wc8HPzHMHPUhtbWEe5StLu5b37PDwSmFOHIOr6NKMlMNgf2FjIKWiRM/CLAbk8q00AQ5Cba9192QXy5H2JZ8YV/E4sZbZo/5DHes2nNpJWCY9i37aAJpbMrSr25bB6Vov9Z47qmVkXvDZBmfatylrpiNwWu2iX/mwSnDv5JZkZDlXaWccYKe8U/VUXXAmLWq5o/qQNLF4d4VofKcMG9HsXkirbLcVBLdD1R6u5PFwMixK4+i5JAkNLbtArdUkWSWC8ZI/JFkYacMdQ+aNTQ57cDyT+kBnZQIBfL7DWMNSqL3rMe3X8Fhqz6Ugp6p4nuOnQm+ZpHCsw3o3Q4/EaWqMExH0yBBI2sggZy2coThEqv+UtQ954+fDpuIRju/yi/NcmQzAHUWeeEejZg+Z+RfpBR+Ql4qXcI+Jj9WuztS5GQeCjDQc449Rd+7L1L9wyevPmG3YwvW/PmCq7dE8u2xGNeLfUposZINCku+iydbboXTsMPiK5ErO5y8YKr8J8CN4bvbl0zwbSLy7c8iaYfusu2Vg=
+    name: CHOOCOBO
+    uuid: 7eafaa3d-322c-419d-bf82-51373e26f943
+    traits:
+      inventory: {}
+      spawned: true
+      location:
+        world: Factions
+        x: '-4.418089715445618'
+        y: '186.0'
+        z: '996.3000000119209'
+        yaw: '1.271547794342041'
+        pitch: '26.308813095092773'
+      owner:
+        owner: DaOfficialOwen
+        uuid: 31ec30b9-3c83-40ce-9f8b-ea94a7de7f3d
+    traitnames: owner,spawned,location,type,inventory
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '122':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE0Njc1NjYyOTIxODcsInByb2ZpbGVJZCI6Ijc3ZGZjN2QxN2UyNDQzNzE5ZjlkYzg5Y2Y2MGJjNTlhIiwicHJvZmlsZU5hbWUiOiJVbnN0YWJsZVROVCIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7Im1ldGFkYXRhIjp7Im1vZGVsIjoic2xpbSJ9LCJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzMzYWUxZmRjMTljMDk4ODhjM2M0YWExMWExZjQ0MTA0MTk3Y2VhMWM5ZmM3OTBhYzJhMzI5YzRhYmFjY2MzIn19fQ==
+      cached-skin-uuid-name: unstabletnt
+      cached-skin-uuid: 77dfc7d1-7e24-4371-9f9d-c89cf60bc59a
+      player-skin-signature: UXt1qkyW2gVvqdt824zpoI1A0zsZN0Z1YOJkh2cQNUQuUe4ajDTniH7Fo6KCRY14UA9jsd6/yD5/cbeSlc3fYsJOPIZ5UuandFODtfoegaGzk8aqupTAM3LbB3uyI24fA0/t85dc07GV3E1pGz986tJ5XhuI59YclgEY3Cgr7xicDaqLh47SgnJLqGTpwo+sIsyNNgi6vUWq8NUQSRhm6mf6llqAeSSIpWABPEPQD1SM3lNZR7K4Nx2x5h8C3AIw1/LyMkw1IqbPimxAX0UPFQjeYPs/7yG04SaCujRYEbwf/P6EUzYCcoV8rpUjZ/p/w0ka7vzvrtFqBSgTUUAKbf/6phNP3IqrNjO61rY+LnJcPodDB4Z3c3y1inYm3txklZ9MTVf/Ucx6XzF8mvJxGZiRi1hrxjcAQD8vNV+5iT3ig1TFm2qO5xLPpYXCQB6OKrn9XbYFbQDOET+rwVLO93pEGjmxTXn3EHRM+c69/53hGa9UbBc5iR4avGoYXI70eW1ctdSnaxaMyofDD11RsIzQb5lZ2ytD4iD+4PN8jhHKYxQKYOyWGjJIRy0oBH7Q6lU0+ZuLwdDJziPkAlQKCZu5vfseJvO0wuTUbt/WX8gD5g9cbSYetzEQUig9uRQVc8zwnVmMKZy/RMPDi3ZQnIdPU+AyH6P/nQlsuJrgaFo=
+    name: UnstableTNT
+    uuid: 261929e7-3c8b-4e7f-8263-a8feb1151083
+    traits:
+      inventory: {}
+      spawned: true
+      location:
+        world: Factions
+        x: '-2.4833104815336267'
+        y: '186.0'
+        z: '996.3004312559788'
+        yaw: '1.828771710395813'
+        pitch: '16.375322341918945'
+      owner:
+        owner: DaOfficialOwen
+        uuid: 31ec30b9-3c83-40ce-9f8b-ea94a7de7f3d
+    traitnames: owner,spawned,location,type,inventory
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '120':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE0Njc1NjYyOTI0NTEsInByb2ZpbGVJZCI6ImZjN2E4YmEwZWNkZjQwZWNhMGM1YmRiOTk4NWFkMjJiIiwicHJvZmlsZU5hbWUiOiJTd2F2ZW4iLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2IzZGFmOGYyODg0ZDUwNmY1ODcxOGI5ZjYwZGQzZGMxZDI0YzcwNTYzZjFhZTA4ZTY5ODE5NWI0Mzk0ZTAyNyJ9fX0=
+      cached-skin-uuid-name: swaven
+      cached-skin-uuid: fc7a8ba0-ecdf-40ec-a0c5-bdb9985ad22b
+      player-skin-signature: RFv+rmbziqe7dTLnf/cigOM3BOMqN26IZlQMyixPm8eSE0d/Jp0Xk2XHt6Jr8SfMbPt710MDorARlhJGn2LtHlUV7N1+jSbECy521LXktoGn27Tv5SncSIcNBAZPmYPRkU0TO67fgnOcRVDmcKK7RYJzs3MeI2EUf0TIcQVzdSqoH46CoN4ZWNccTsbYsH6M9uO1hdigcaa52gCxx2Xeb2hbE4GhHkPHNOTAve5egBcLdemEfEkAnmkYYj4XDG9AmOI9nNFCkdS12Aa+NTPjY/eHUB9Vc9j2kYv1Ng56pW3NH9K+OZspGwWhxqXeiyLb86tYtb+OVW5y6zw1W+bdcBAFrx2fF3FYtdzN0QdzKvWSLkVm+1T42X6AXHdzIA/MEGxEXlKLnDkxxaXxYw2/ZBvoVfKqZvzHULyPV8f/4MMqF/dAQRbr68j8s4bBUatvV0TRvaJBiyd6diNVM/PuHGy8q/SWo2NZkz3CuDxlXRv1PBUISQL7e3es+cpjhRwDMRK6jhZSrCEjLaNlTL7VTA6hs8B4erLBnxJP3e1UPAD91T9f9R2tY8FhN5+yriDW26X1SIQx3gxC1FiXHqWQk9QofZiwDxx5b6nybIABJhSb9/vc6ZRqPIMv6R83zoJIJPUERl8ZwsWilQglFYq4KrEFwRGOXUIRZVNiXrcJL0s=
+    name: Swaven
+    uuid: a464a3d9-0417-4375-8614-a3b0c6bdcd75
+    traits:
+      inventory: {}
+      spawned: true
+      location:
+        world: Factions
+        x: '-6.474496110592652'
+        y: '186.0'
+        z: '996.4836457887785'
+        yaw: '-1.0093319416046143'
+        pitch: '21.13338851928711'
+      owner:
+        owner: DaOfficialOwen
+        uuid: 31ec30b9-3c83-40ce-9f8b-ea94a7de7f3d
+    traitnames: owner,location,spawned,type,inventory
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '119':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE0Njc1NjYyOTA4NTksInByb2ZpbGVJZCI6IjMxZWMzMGI5M2M4MzQwY2U5ZjhiZWE5NGE3ZGU3ZjNkIiwicHJvZmlsZU5hbWUiOiJEYU9mZmljaWFsT3dlbiIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzM4N2FiNDViOTg5NDJkMmNiZTU4ZGQ5YjZlNTg1OWU1M2MyMTJmZDA0NDY3MWNhY2NjZjNjOTU2MWFmMWRjIn19fQ==
+      cached-skin-uuid-name: daofficialowen
+      cached-skin-uuid: 31ec30b9-3c83-40ce-9f8b-ea94a7de7f3d
+      player-skin-signature: I6c1M7lqwhzqJ9hIH6JKZExD5344rjHZugO4MfMjM9qMNbJs50xxRO9/haNE12zbTuN90HVPMS4zfC9QXP3h14E8B51d1W6cn73kqUnrJafxXHjD2r5l8EEpkfVSN7DT5osjQeQStG1eSEbWrdNm0HZc1SSDWbhwUM21qwkPjuNIJEQtnnlORzyqTos1bUGzSljMgvMyAX5tW/lC7RfhwulTUvqjONeBVvEvkvPshT5n4Hxrys4GcwRFx2+6BPZSdZXVeKJIp4sFqqmv2x8VXtdTnIpI0fftTuU3EjQzqIS0EuHmhTxpZg5k5wYTcp69+K8yanLN/ZeTgVheT1VpRjvL+ISKbaD2Y/x0318dfw2cE/8tRqIFIui8ElYH4RdrXgUFWPmifnusTR/Hy/NBY/Vl7g5XmqaF12qifOgRyMni5wHFpzgPyX+6vl10ohANYar6yAaJjSszPSNx5c6cG18UbT5o6UFFFtWnIM3nvVIC/LYo0mVcmq+IGi8vCudb0STgy8RVg6OfrZ5VC1WBciPohEC6IPCenc5sBrL6riPpOi3erS2ogDP8PVuOc0lmgdBMF89anZIBNSeVdN4liFyl53ZSYCURIE/qvpSl5w2ZlMALNwTvwj6Hczg7dSkuzMs7RrPHobC9jG6J5Lgf3/JARuJG7mRLN2i+NeJ/8T8=
+    name: DaOfficialOwen
+    uuid: 4823057d-1bc7-469a-970e-36487b752dcf
+    traits:
+      inventory: {}
+      spawned: true
+      location:
+        world: Factions
+        x: '-8.458344534882372'
+        y: '186.0'
+        z: '996.3000000119209'
+        yaw: '1.3279939889907837'
+        pitch: '19.380428314208984'
+      owner:
+        owner: DaOfficialOwen
+        uuid: 31ec30b9-3c83-40ce-9f8b-ea94a7de7f3d
+    traitnames: owner,location,spawned,type,inventory
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '146':
+    name: "\xa76\xa7lWelcome to \xa7c\xa7lBuildingTeam"
+    uuid: 9ce92d80-4373-44c2-9182-386b9c0a5d80
+    traits:
+      spawned: true
+      type: Villager
+      age:
+        age: 0
+        locked: true
+      location:
+        world: Factions
+        x: '0.4906864262247379'
+        y: '183.0'
+        z: '1002.4143201316997'
+        yaw: '-318.2650146484375'
+        pitch: '0.0'
+      owner:
+        owner: DaOfficialOwen
+        uuid: 31ec30b9-3c83-40ce-9f8b-ea94a7de7f3d
+    traitnames: owner,spawned,location,type,age
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '150':
+    name: "\xa71\xa7lBlock Shop"
+    uuid: 1c13a5da-5741-4515-946e-d8f87f661a00
+    traits:
+      spawned: true
+      location:
+        world: Factions
+        x: '18.579547412360526'
+        y: '66.0'
+        z: '128.50629926100373'
+        yaw: '-89.16910552978516'
+        pitch: '0.0'
+      type: Villager
+      age:
+        age: 0
+        locked: true
+      owner:
+        owner: DaOfficialOwen
+        uuid: 31ec30b9-3c83-40ce-9f8b-ea94a7de7f3d
+    traitnames: owner,spawned,location,type,age
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '149':
+    name: "\xa71\xa7lRecources Shop"
+    uuid: ff497211-58ce-4cab-8642-4f6e964f4a8d
+    traits:
+      spawned: true
+      location:
+        world: Factions
+        x: '21.524148181267538'
+        y: '66.0'
+        z: '139.44614030947957'
+        yaw: '-179.73912048339844'
+        pitch: '0.0'
+      type: Villager
+      age:
+        age: 0
+        locked: true
+      owner:
+        owner: DaOfficialOwen
+        uuid: 31ec30b9-3c83-40ce-9f8b-ea94a7de7f3d
+    traitnames: owner,spawned,location,type,age
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '148':
+    name: "\xa71\xa7lFood Shop"
+    uuid: b8400909-c210-4242-bd45-716b298746bb
+    traits:
+      spawned: true
+      location:
+        world: Factions
+        x: '18.538066598918636'
+        y: '66.0'
+        z: '132.5053666779751'
+        yaw: '-90.17094421386719'
+        pitch: '0.0'
+      type: Villager
+      age:
+        age: 0
+        locked: true
+      owner:
+        owner: DaOfficialOwen
+        uuid: 31ec30b9-3c83-40ce-9f8b-ea94a7de7f3d
+    traitnames: owner,spawned,location,type,age
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '147':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE0Njc1NjYyOTIwNTAsInByb2ZpbGVJZCI6IjJiODQ1NjdkZjY2ZTRiYWRiOGZkYzA0NDRjNTdiZWQ4IiwicHJvZmlsZU5hbWUiOiJDb21lZGljQ29kZXIiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2YzODU1MDVlZDUzOWRhMGM1NjVjZGI3ZjA4MDYzMjA2YjcwYzhlNWQzN2FiZGZlNzhhZmNjZjE4NjI5NTRiOCJ9fX0=
+      cached-skin-uuid-name: comediccoder
+      cached-skin-uuid: 2b84567d-f66e-4bad-b8fd-c0444c57bed8
+      player-skin-signature: o2Lf9QZDUxXeD6ypUPY41J0iV+EWu/+SsOspR+kZKWTkthWC1xQEubJKGYldk2CkKW+rE0IBQWld5p/XhC5dmIYG8owmtvCA2RFTBnO1VI9uUboa0kqYcpr5SxotbKbMTAB1g7gCT6kIyLaZW1+RIYMCdEGZ6LAu+JFE+XFBN2uaXKMjxA57U/eu7BIwKhKM76+CpfU4anTgkGPu91EiHrdKF9+QyNublQDtWW/li4uRDt8+FwkcHQXS+zzT8F+rqiVohEKC3Z3a9knUCcuaJ8g4+MdMs1e+NAqB/xViz0BdTUzr9zWX7P8niPre5qk4yR4l1XDogzRQDmBNubV4Lz1CvahZlG6gIkRX/DrXAObH14/wQfgAHkpq4wLR0bm6wLbp/fgi3OLXpH1VFPYDjwpE/vzeBRmYdiELGva4P1E4k3aLOl4KYjOiLkrIrtt4cOn0t+pMadxdOkkjIOmIEYfUPnJu096zaTtJShJjUPIAdxZRwaSVNhf/i8J9TJeS2CRtKL/L9eUX0Aifs09RMMbHxlPi+6o8gVjzCFZW+EzwczQ15b+Mi73d/WnbYb+msMdyyynW7Itg3cAmM/nJZrgU5ykMYP1iZVZ1CSdTO3W9PQavigUU/R407kExSw1SvGMAxuEUOwRgjvM0rf4tRu91ciKVYaRTld92SUF4OLQ=
+    name: ComedicCoder
+    uuid: 9c86d8ff-7c8e-41fa-ae0a-fb9c3fe98cbb
+    traits:
+      spawned: true
+      location:
+        world: Factions
+        x: '48.45997283569856'
+        y: '66.0'
+        z: '127.38458740356913'
+        yaw: '-0.633270263671875'
+        pitch: '24.609779357910156'
+      inventory: {}
+      owner:
+        owner: DaOfficialOwen
+        uuid: 31ec30b9-3c83-40ce-9f8b-ea94a7de7f3d
+    traitnames: owner,spawned,location,type,inventory
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '155':
+    name: "\xa76\xa7lRight Click To be \xa75\xa7lSmited"
+    uuid: 641c5846-9d65-4c52-8d58-3a0ccb106a08
+    traits:
+      spawned: true
+      location:
+        world: Factions
+        x: '-7.428913180229898'
+        y: '183.0'
+        z: '1011.6401300214329'
+        yaw: '-144.5540771484375'
+        pitch: '0.0'
+      type: Enderman
+      owner:
+        owner: DaOfficialOwen
+        uuid: 31ec30b9-3c83-40ce-9f8b-ea94a7de7f3d
+    traitnames: owner,location,spawned,type
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '151':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE0Njc1NjYyOTIwNTAsInByb2ZpbGVJZCI6IjJiODQ1NjdkZjY2ZTRiYWRiOGZkYzA0NDRjNTdiZWQ4IiwicHJvZmlsZU5hbWUiOiJDb21lZGljQ29kZXIiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2YzODU1MDVlZDUzOWRhMGM1NjVjZGI3ZjA4MDYzMjA2YjcwYzhlNWQzN2FiZGZlNzhhZmNjZjE4NjI5NTRiOCJ9fX0=
+      cached-skin-uuid-name: comediccoder
+      cached-skin-uuid: 2b84567d-f66e-4bad-b8fd-c0444c57bed8
+      player-skin-signature: o2Lf9QZDUxXeD6ypUPY41J0iV+EWu/+SsOspR+kZKWTkthWC1xQEubJKGYldk2CkKW+rE0IBQWld5p/XhC5dmIYG8owmtvCA2RFTBnO1VI9uUboa0kqYcpr5SxotbKbMTAB1g7gCT6kIyLaZW1+RIYMCdEGZ6LAu+JFE+XFBN2uaXKMjxA57U/eu7BIwKhKM76+CpfU4anTgkGPu91EiHrdKF9+QyNublQDtWW/li4uRDt8+FwkcHQXS+zzT8F+rqiVohEKC3Z3a9knUCcuaJ8g4+MdMs1e+NAqB/xViz0BdTUzr9zWX7P8niPre5qk4yR4l1XDogzRQDmBNubV4Lz1CvahZlG6gIkRX/DrXAObH14/wQfgAHkpq4wLR0bm6wLbp/fgi3OLXpH1VFPYDjwpE/vzeBRmYdiELGva4P1E4k3aLOl4KYjOiLkrIrtt4cOn0t+pMadxdOkkjIOmIEYfUPnJu096zaTtJShJjUPIAdxZRwaSVNhf/i8J9TJeS2CRtKL/L9eUX0Aifs09RMMbHxlPi+6o8gVjzCFZW+EzwczQ15b+Mi73d/WnbYb+msMdyyynW7Itg3cAmM/nJZrgU5ykMYP1iZVZ1CSdTO3W9PQavigUU/R407kExSw1SvGMAxuEUOwRgjvM0rf4tRu91ciKVYaRTld92SUF4OLQ=
+    name: ComedicCoder
+    uuid: 29c87477-b00c-4007-b101-76265cca6778
+    traits:
+      spawned: true
+      location:
+        world: Factions
+        x: '3.527377198876902'
+        y: '186.0'
+        z: '996.3000000119209'
+        yaw: '-358.5879211425781'
+        pitch: '8.5286865234375'
+      inventory: {}
+      owner:
+        owner: DaOfficialOwen
+        uuid: 31ec30b9-3c83-40ce-9f8b-ea94a7de7f3d
+    traitnames: owner,spawned,location,type,inventory
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '159':
+    name: "\xa74\xa7l-=[+]=-\xa71\xa7lCommand Shop\xa74\xa7l-=[+]=-"
+    uuid: f00888e5-b801-4d32-9281-1275b2e324d7
+    traits:
+      location:
+        world: Factions
+        x: '22.49496588855982'
+        y: '66.0'
+        z: '126.69999998807907'
+        yaw: '0.5191390514373779'
+        pitch: '0.0'
+      spawned: true
+      age:
+        age: 0
+        locked: true
+      type: Villager
+      owner:
+        owner: DaOfficialOwen
+        uuid: 31ec30b9-3c83-40ce-9f8b-ea94a7de7f3d
+    traitnames: owner,location,spawned,type,age
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true

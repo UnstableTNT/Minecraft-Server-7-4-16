@@ -1,0 +1,25 @@
+warps:
+  location: world, -42.563, 246.200, 281.549
+  lines:
+  - '&5Warps'
+islandhelp:
+  location: world, -53.651, 247.831, 281.726
+  lines:
+  - '&4To get started do /is'
+  - '&5For help do /is help'
+spawnis1:
+  location: world, 13.505, 192.529, 374.602
+  lines:
+  - '&dTo get started, &cType /is'
+spawnis2:
+  location: world, 8.412, 192.780, 369.475
+  lines:
+  - '&dTo get started, &cType /is'
+spawnis3:
+  location: world, 13.592, 192.780, 364.448
+  lines:
+  - '&dTo get started, &cType /is'
+spawnis4:
+  location: world, 18.552, 192.780, 369.442
+  lines:
+  - '&dTo get started, &cType /is'

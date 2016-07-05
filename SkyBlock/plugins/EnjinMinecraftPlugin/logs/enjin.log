@@ -1,0 +1,1370 @@
+Started logging the Enjin Plugin on 2016/02/25 14:21:23 EST
+2016/02/25 14:21:23 EST [FINE] Logger initialized.
+2016/02/25 14:21:23 EST [FINE] Begin init
+2016/02/25 14:21:23 EST [FINE] Init vars done.
+2016/02/25 14:21:23 EST [FINE] Minecraft version: git-Spigot-044d928-e8c6403 (MC: 1.8.6)
+2016/02/25 14:21:23 EST [FINE] MC Version string: 1.8.6
+2016/02/25 14:21:23 EST [FINE] Get the ban list
+2016/02/25 14:21:23 EST [FINE] Ban list loaded
+2016/02/25 14:21:23 EST [FINE] Init files done.
+2016/02/25 14:21:23 EST [INFO] Couldn't find the TuxTwoLib plugin. Only able to give items to online players only.
+2016/02/25 14:21:23 EST [FINE] Initializing permissions.
+2016/02/25 14:21:23 EST [FINE] Init plugins done.
+2016/02/25 14:21:23 EST [FINE] PermissionsEx found, hooking custom events.
+2016/02/25 14:21:23 EST [FINE] Setup permissions integration
+2016/02/25 14:21:23 EST [INFO] Votifier plugin found, enabling Votifier support.
+2016/02/25 14:21:23 EST [FINE] Setup Votifier integration
+2016/02/25 14:21:23 EST [FINE] mcMMO found, hooking custom stats.
+2016/02/25 14:21:23 EST [FINE] Registering events.
+2016/02/25 14:21:23 EST [FINE] Starting periodic tasks.
+2016/02/25 14:21:23 EST [FINE] Starting tasks.
+2016/02/25 14:21:23 EST [FINE] Starting votifier task.
+2016/02/25 14:21:23 EST [FINE] Connecting to Enjin to send config...
+2016/02/25 14:21:23 EST [FINE] Sending content: 
+authkey=e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f&statscollected_player_deaths=1&statscollected_player_creeperexplosions=0&debug=0&listenforbans=1&statscollected_player_blocksbroken=1&statscollected_player_kills=1&statscollected_player_travel=1&statscollected_player_playerkicks=0&autoupdate=1&sendstatsinterval=5&collectplayerstats=1&statscollected_player_xp=1&statscollected_player_blocksplaced=1&https=1&usebuygui=1&buycommand=buy
+2016/02/25 14:22:30 EST [FINE] Connecting to Enjin...
+2016/02/25 14:22:30 EST [FINE] Sending content: 
+authkey=e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f&maxplayers=20&mc_version=1.8.6&players=0&hasranks=TRUE&pluginversion=2.7.2&plugins=OreGen2%2CAntiLag%2CPlugMan%2CAdministration_Panel%2CLockette%2CCustomRecipes%2CPixelator%2CSuperTrails%2CVoxelSniper%2CColoredChat%2CTelevator%2CSimple-AutoSave%2CChatColor%2CChatManager%2CChestMaster%2CLeakParkour%2CWorldEdit%2CAdminFun%2CTimTheEnchanter%2CFirstJoinPlus%2CHealthBar%2COpenInv%2CEssentials%2CAutoBroadcaster%2CScoreboard%2CCommandSigns%2CVotifier%2CProtocolLib%2CLibsDisguises%2CNoCheatPlus%2CShopkeepers%2CEssentialsChat%2CPermissionsEx%2CPTweaks%2CmcMMO%2CGAListener%2CVault%2CMassiveCore%2CEnjinMinecraftPlugin%2CLift%2CHolographicDisplays%2CWorldGuard%2CPunishmental%2CASkyBlock%2CEssentialsXMPP%2CEssentialsProtect%2CEssentialsGeoIP%2CServerSigns%2CEssentialsSpawn%2CPlayerHeads%2CGreenhouses%2CMobile_Workbench%2CSilkSpawners%2CEchoPet%2CFramePicture%2CCS-CoreLib%2CChestShop&playerlist=&worlds=world%2Cworld_nether%2Cworld_the_end%2CASkyBlock%2CASkyBlock_nether&tps=19.93538589477539&time=world%3A16116%2C7%2C0%3BASkyBlock%3A13757%2C2%2C0&groups=Default%2CDonor%2CElite%2CVIP%2CUltra%2CYouTube%2CHelper%2CModerator%2CUniversal-Moderator%2CHead-Moderator%2CAdmin%2CHead-Admin%2CBuilder%2COwner%2Cmember%2CChihuahuaLove01%2CModerater%2CHead-Moderatpr
+2016/02/25 14:22:30 EST [FINE] Packet [0x19](Enjin Status) received.
+2016/02/25 14:22:30 EST [FINE] No more packets. End of stream. Update ended.
+2016/02/25 14:22:30 EST [FINE] Raw data received:
+auth_error
+2016/02/25 14:22:30 EST [WARNING] [Enjin Minecraft Plugin] Auth key invalid. Please regenerate on the enjin control panel.
+2016/02/25 14:22:30 EST [FINE] Stopping tasks.
+2016/02/25 14:22:30 EST [FINE] Synch unsuccessful.
+2016/02/25 14:22:30 EST [FINE] Stats saved to enjin-stats.json.
+2016/02/26 15:19:20 EST [FINE] Plecostemous just got a rank change... processing...
+2016/02/26 18:42:44 EST [FINE] Stopping tasks.
+2016/02/26 18:42:45 EST [FINE] Stats saved to enjin-stats.json.
+Started logging the Enjin Plugin on 2016/02/27 12:12:36 EST
+2016/02/27 12:12:36 EST [FINE] Logger initialized.
+2016/02/27 12:12:36 EST [FINE] Begin init
+2016/02/27 12:12:36 EST [FINE] Init vars done.
+2016/02/27 12:12:36 EST [FINE] Minecraft version: git-Spigot-044d928-e8c6403 (MC: 1.8.6)
+2016/02/27 12:12:36 EST [FINE] MC Version string: 1.8.6
+2016/02/27 12:12:36 EST [FINE] Get the ban list
+2016/02/27 12:12:36 EST [FINE] Ban list loaded
+2016/02/27 12:12:37 EST [FINE] Init files done.
+2016/02/27 12:12:37 EST [INFO] Couldn't find the TuxTwoLib plugin. Only able to give items to online players only.
+2016/02/27 12:12:37 EST [FINE] Initializing permissions.
+2016/02/27 12:12:37 EST [FINE] Init plugins done.
+2016/02/27 12:12:37 EST [FINE] PermissionsEx found, hooking custom events.
+2016/02/27 12:12:37 EST [FINE] Setup permissions integration
+2016/02/27 12:12:37 EST [INFO] Votifier plugin found, enabling Votifier support.
+2016/02/27 12:12:37 EST [FINE] Setup Votifier integration
+2016/02/27 12:12:37 EST [FINE] mcMMO found, hooking custom stats.
+2016/02/27 12:12:37 EST [FINE] Registering events.
+2016/02/27 12:12:37 EST [FINE] Starting periodic tasks.
+2016/02/27 12:12:37 EST [FINE] Starting tasks.
+2016/02/27 12:12:37 EST [FINE] Starting votifier task.
+2016/02/27 12:12:37 EST [FINE] Connecting to Enjin to send config...
+2016/02/27 12:12:37 EST [FINE] Sending content: 
+authkey=e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f&statscollected_player_deaths=1&statscollected_player_creeperexplosions=0&debug=0&listenforbans=1&statscollected_player_blocksbroken=1&statscollected_player_kills=1&statscollected_player_travel=1&statscollected_player_playerkicks=0&autoupdate=1&sendstatsinterval=5&collectplayerstats=1&statscollected_player_xp=1&statscollected_player_blocksplaced=1&https=1&usebuygui=1&buycommand=buy
+2016/02/27 12:13:56 EST [FINE] Connecting to Enjin...
+2016/02/27 12:13:56 EST [FINE] Sending content: 
+authkey=e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f&maxplayers=20&mc_version=1.8.6&players=0&hasranks=TRUE&pluginversion=2.7.2&plugins=OreGen2%2CAntiLag%2CPlugMan%2CAdministration_Panel%2CLockette%2CCustomRecipes%2CPixelator%2CSuperTrails%2CVoxelSniper%2CColoredChat%2CTelevator%2CSimple-AutoSave%2CChatColor%2CChatManager%2CChestMaster%2CLeakParkour%2CWorldEdit%2CAdminFun%2CTimTheEnchanter%2CFirstJoinPlus%2CHealthBar%2COpenInv%2CEssentials%2CAutoBroadcaster%2CScoreboard%2CCommandSigns%2CVotifier%2CProtocolLib%2CLibsDisguises%2CNoCheatPlus%2CShopkeepers%2CEssentialsChat%2CPermissionsEx%2CPTweaks%2CmcMMO%2CGAListener%2CVault%2CMassiveCore%2CEnjinMinecraftPlugin%2CLift%2CHolographicDisplays%2CWorldGuard%2CPunishmental%2CASkyBlock%2CEssentialsXMPP%2CEssentialsProtect%2CEssentialsGeoIP%2CServerSigns%2CEssentialsSpawn%2CPlayerHeads%2CGreenhouses%2CMobile_Workbench%2CSilkSpawners%2CEchoPet%2CFramePicture%2CCS-CoreLib%2CChestShop&playerlist=&worlds=world%2Cworld_nether%2Cworld_the_end%2CASkyBlock%2CASkyBlock_nether&tps=19.56385154724121&time=world%3A11523%2C4%2C1%3BASkyBlock%3A9163%2C7%2C0&groups=Default%2CDonor%2CElite%2CVIP%2CUltra%2CYouTube%2CHelper%2CModerator%2CUniversal-Moderator%2CHead-Moderator%2CAdmin%2CHead-Admin%2CBuilder%2COwner%2Cmember%2CChihuahuaLove01%2CModerater%2CHead-Moderatpr
+2016/02/27 12:13:56 EST [FINE] Packet [0x19](Enjin Status) received.
+2016/02/27 12:13:56 EST [FINE] No more packets. End of stream. Update ended.
+2016/02/27 12:13:56 EST [FINE] Raw data received:
+auth_error
+2016/02/27 12:13:56 EST [WARNING] [Enjin Minecraft Plugin] Auth key invalid. Please regenerate on the enjin control panel.
+2016/02/27 12:13:56 EST [FINE] Stopping tasks.
+2016/02/27 12:13:56 EST [FINE] Synch unsuccessful.
+2016/02/27 12:14:03 EST [FINE] Stats saved to enjin-stats.json.
+2016/02/29 10:35:04 EST [FINE] Stopping tasks.
+2016/02/29 10:35:04 EST [FINE] Stats saved to enjin-stats.json.
+Started logging the Enjin Plugin on 2016/03/10 20:51:00 EST
+2016/03/10 20:51:00 EST [FINE] Logger initialized.
+2016/03/10 20:51:00 EST [FINE] Begin init
+2016/03/10 20:51:00 EST [FINE] Init vars done.
+2016/03/10 20:51:00 EST [FINE] Minecraft version: git-Spigot-044d928-e8c6403 (MC: 1.8.6)
+2016/03/10 20:51:00 EST [FINE] MC Version string: 1.8.6
+2016/03/10 20:51:00 EST [FINE] Get the ban list
+2016/03/10 20:51:00 EST [FINE] Ban list loaded
+2016/03/10 20:51:00 EST [FINE] Init files done.
+2016/03/10 20:51:00 EST [INFO] Couldn't find the TuxTwoLib plugin. Only able to give items to online players only.
+2016/03/10 20:51:00 EST [FINE] Initializing permissions.
+2016/03/10 20:51:00 EST [FINE] Init plugins done.
+2016/03/10 20:51:00 EST [FINE] PermissionsEx found, hooking custom events.
+2016/03/10 20:51:00 EST [FINE] Setup permissions integration
+2016/03/10 20:51:00 EST [INFO] Votifier plugin found, enabling Votifier support.
+2016/03/10 20:51:00 EST [FINE] Setup Votifier integration
+2016/03/10 20:51:00 EST [FINE] mcMMO found, hooking custom stats.
+2016/03/10 20:51:00 EST [FINE] Registering events.
+2016/03/10 20:51:00 EST [FINE] Starting periodic tasks.
+2016/03/10 20:51:00 EST [FINE] Starting tasks.
+2016/03/10 20:51:00 EST [FINE] Starting votifier task.
+2016/03/10 20:51:00 EST [FINE] Connecting to Enjin to send config...
+2016/03/10 20:51:00 EST [FINE] Sending content: 
+authkey=e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f&statscollected_player_deaths=1&statscollected_player_creeperexplosions=0&debug=0&listenforbans=1&statscollected_player_blocksbroken=1&statscollected_player_kills=1&statscollected_player_travel=1&statscollected_player_playerkicks=0&autoupdate=1&sendstatsinterval=5&collectplayerstats=1&statscollected_player_xp=1&statscollected_player_blocksplaced=1&https=1&usebuygui=1&buycommand=buy
+2016/03/10 20:52:17 EST [FINE] Connecting to Enjin...
+2016/03/10 20:52:17 EST [FINE] Sending content: 
+authkey=e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f&maxplayers=20&mc_version=1.8.6&players=1&hasranks=TRUE&pluginversion=2.7.2&plugins=OreGen2%2CAntiLag%2CPlugMan%2CAdministration_Panel%2CLockette%2CCustomRecipes%2CPixelator%2CSuperTrails%2CVoxelSniper%2CColoredChat%2CTelevator%2CSimple-AutoSave%2CChatColor%2CChatManager%2CChestMaster%2CLeakParkour%2CWorldEdit%2CAdminFun%2CTimTheEnchanter%2CFirstJoinPlus%2CHealthBar%2COpenInv%2CEssentials%2CAutoBroadcaster%2CScoreboard%2CCommandSigns%2CVotifier%2CProtocolLib%2CLibsDisguises%2CNoCheatPlus%2CShopkeepers%2CEssentialsChat%2CPermissionsEx%2CPTweaks%2CmcMMO%2CGAListener%2CVault%2CMassiveCore%2CEnjinMinecraftPlugin%2CLift%2CHolographicDisplays%2CWorldGuard%2CPunishmental%2CASkyBlock%2CEssentialsXMPP%2CEssentialsProtect%2CEssentialsGeoIP%2CServerSigns%2CEssentialsSpawn%2CPlayerHeads%2CGreenhouses%2CMobile_Workbench%2CSilkSpawners%2CEchoPet%2CFramePicture%2CCS-CoreLib%2CChestShop&playerlist=b1d489a0-0a6f-44c1-997b-135a7bcc0916%3APreistest_Dragon%3Afalse&worlds=world%2Cworld_nether%2Cworld_the_end%2CASkyBlock%2CASkyBlock_nether&tps=19.161132431030275&time=world%3A5515%2C7%2C0%3BASkyBlock%3A3156%2C2%2C0&groups=Default%2CDonor%2CElite%2CVIP%2CUltra%2CYouTube%2CHelper%2CModerator%2CUniversal-Moderator%2CHead-Moderator%2CAdmin%2CHead-Admin%2CBuilder%2COwner%2Cmember%2CChihuahuaLove01%2CModerater%2CHead-Moderatpr&playergroups=Preistest_Dragon%7Cb1d489a0-0a6f-44c1-997b-135a7bcc0916%3B*%3AHelper
+2016/03/10 20:52:17 EST [FINE] Packet [0x19](Enjin Status) received.
+2016/03/10 20:52:17 EST [FINE] No more packets. End of stream. Update ended.
+2016/03/10 20:52:17 EST [FINE] Raw data received:
+auth_error
+2016/03/10 20:52:17 EST [WARNING] [Enjin Minecraft Plugin] Auth key invalid. Please regenerate on the enjin control panel.
+2016/03/10 20:52:17 EST [FINE] Stopping tasks.
+2016/03/10 20:52:17 EST [FINE] Synch unsuccessful.
+2016/03/10 20:52:18 EST [FINE] Stats saved to enjin-stats.json.
+Started logging the Enjin Plugin on 2016/03/21 09:29:55 EDT
+2016/03/21 09:29:55 EDT [FINE] Logger initialized.
+2016/03/21 09:29:55 EDT [FINE] Begin init
+2016/03/21 09:29:55 EDT [FINE] Init vars done.
+2016/03/21 09:29:55 EDT [FINE] Minecraft version: git-Spigot-044d928-e8c6403 (MC: 1.8.6)
+2016/03/21 09:29:55 EDT [FINE] MC Version string: 1.8.6
+2016/03/21 09:29:55 EDT [FINE] Get the ban list
+2016/03/21 09:29:55 EDT [FINE] Ban list loaded
+2016/03/21 09:29:55 EDT [FINE] Init files done.
+2016/03/21 09:29:55 EDT [INFO] Couldn't find the TuxTwoLib plugin. Only able to give items to online players only.
+2016/03/21 09:29:55 EDT [FINE] Initializing permissions.
+2016/03/21 09:29:55 EDT [FINE] Init plugins done.
+2016/03/21 09:29:55 EDT [FINE] PermissionsEx found, hooking custom events.
+2016/03/21 09:29:55 EDT [FINE] Setup permissions integration
+2016/03/21 09:29:55 EDT [INFO] Votifier plugin found, enabling Votifier support.
+2016/03/21 09:29:55 EDT [FINE] Setup Votifier integration
+2016/03/21 09:29:55 EDT [FINE] mcMMO found, hooking custom stats.
+2016/03/21 09:29:55 EDT [FINE] Registering events.
+2016/03/21 09:29:55 EDT [FINE] Starting periodic tasks.
+2016/03/21 09:29:55 EDT [FINE] Starting tasks.
+2016/03/21 09:29:55 EDT [FINE] Starting votifier task.
+2016/03/21 09:29:55 EDT [FINE] Connecting to Enjin to send config...
+2016/03/21 09:29:55 EDT [FINE] Sending content: 
+authkey=e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f&statscollected_player_deaths=1&statscollected_player_creeperexplosions=0&debug=0&listenforbans=1&statscollected_player_blocksbroken=1&statscollected_player_kills=1&statscollected_player_travel=1&statscollected_player_playerkicks=0&autoupdate=1&sendstatsinterval=5&collectplayerstats=1&statscollected_player_xp=1&statscollected_player_blocksplaced=1&https=1&usebuygui=1&buycommand=buy
+2016/03/21 09:31:18 EDT [FINE] Connecting to Enjin...
+2016/03/21 09:31:18 EDT [FINE] Sending content: 
+authkey=e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f&maxplayers=20&mc_version=1.8.6&players=2&hasranks=TRUE&pluginversion=2.7.2&plugins=OreGen2%2CAntiLag%2CPlugMan%2CAdministration_Panel%2CLockette%2CCustomRecipes%2CPixelator%2CSuperTrails%2CVoxelSniper%2CColoredChat%2CTelevator%2CSimple-AutoSave%2CChatColor%2CChatManager%2CChestMaster%2CLeakParkour%2CWorldEdit%2CAdminFun%2CTimTheEnchanter%2CFirstJoinPlus%2CHealthBar%2COpenInv%2CEssentials%2CAutoBroadcaster%2CScoreboard%2CCommandSigns%2CVotifier%2CProtocolLib%2CLibsDisguises%2CNoCheatPlus%2CShopkeepers%2CEssentialsChat%2CPermissionsEx%2CPTweaks%2CmcMMO%2CGAListener%2CVault%2CMassiveCore%2CEnjinMinecraftPlugin%2CLift%2CHolographicDisplays%2CWorldGuard%2CPunishmental%2CASkyBlock%2CEssentialsXMPP%2CEssentialsProtect%2CEssentialsGeoIP%2CServerSigns%2CEssentialsSpawn%2CPlayerHeads%2CGreenhouses%2CMobile_Workbench%2CSilkSpawners%2CEchoPet%2CFramePicture%2CCS-CoreLib%2CChestShop&playerlist=4eade716-764c-4289-b132-7eb42e5e284f%3ADeezCoolDonuts%3Afalse%2C77dfc7d1-7e24-4371-9f9d-c89cf60bc59a%3AUnstableTNT%3Afalse&worlds=world%2Cworld_nether%2Cworld_the_end%2CASkyBlock%2CASkyBlock_nether&tps=19.22191370010376&time=world%3A17512%2C1%2C0%3BASkyBlock%3A228%2C5%2C0&groups=Default%2CDonor%2CElite%2CVIP%2CUltra%2CYouTube%2CHelper%2CModerator%2CUniversal-Moderator%2CHead-Moderator%2CAdmin%2CHead-Admin%2CBuilder%2COwner%2Cmember%2CChihuahuaLove01%2CModerater%2CHead-Moderatpr&playergroups=DeezCoolDonuts%7C4eade716-764c-4289-b132-7eb42e5e284f%3B%0AUnstableTNT%7C77dfc7d1-7e24-4371-9f9d-c89cf60bc59a%3B*%3AOwner
+2016/03/21 09:31:18 EDT [FINE] Packet [0x19](Enjin Status) received.
+2016/03/21 09:31:18 EDT [FINE] No more packets. End of stream. Update ended.
+2016/03/21 09:31:18 EDT [FINE] Raw data received:
+auth_error
+2016/03/21 09:31:18 EDT [WARNING] [Enjin Minecraft Plugin] Auth key invalid. Please regenerate on the enjin control panel.
+2016/03/21 09:31:18 EDT [FINE] Stopping tasks.
+2016/03/21 09:31:18 EDT [FINE] Synch unsuccessful.
+2016/03/21 09:31:20 EDT [FINE] Stats saved to enjin-stats.json.
+2016/03/21 09:50:42 EDT [FINE] DeezCoolDonuts just got a rank change... processing...
+2016/03/21 09:50:52 EDT [FINE] DeezCoolDonuts just got a rank change... processing...
+2016/03/21 09:51:09 EDT [FINE] DeezCoolDonuts just got a rank change... processing...
+2016/03/21 16:32:24 EDT [FINE] Stopping tasks.
+2016/03/21 16:32:24 EDT [FINE] Stats saved to enjin-stats.json.
+Started logging the Enjin Plugin on 2016/03/27 19:49:15 EDT
+2016/03/27 19:49:15 EDT [FINE] Logger initialized.
+2016/03/27 19:49:15 EDT [FINE] Begin init
+2016/03/27 19:49:15 EDT [FINE] Init vars done.
+2016/03/27 19:49:15 EDT [FINE] Minecraft version: git-Spigot-044d928-e8c6403 (MC: 1.8.6)
+2016/03/27 19:49:15 EDT [FINE] MC Version string: 1.8.6
+2016/03/27 19:49:15 EDT [FINE] Get the ban list
+2016/03/27 19:49:15 EDT [FINE] Ban list loaded
+2016/03/27 19:49:15 EDT [FINE] Init files done.
+2016/03/27 19:49:15 EDT [INFO] Couldn't find the TuxTwoLib plugin. Only able to give items to online players only.
+2016/03/27 19:49:15 EDT [FINE] Initializing permissions.
+2016/03/27 19:49:15 EDT [FINE] Init plugins done.
+2016/03/27 19:49:15 EDT [FINE] PermissionsEx found, hooking custom events.
+2016/03/27 19:49:15 EDT [FINE] Setup permissions integration
+2016/03/27 19:49:15 EDT [INFO] Votifier plugin found, enabling Votifier support.
+2016/03/27 19:49:15 EDT [FINE] Setup Votifier integration
+2016/03/27 19:49:15 EDT [FINE] mcMMO found, hooking custom stats.
+2016/03/27 19:49:15 EDT [FINE] Registering events.
+2016/03/27 19:49:15 EDT [FINE] Starting periodic tasks.
+2016/03/27 19:49:15 EDT [FINE] Starting tasks.
+2016/03/27 19:49:15 EDT [FINE] Starting votifier task.
+2016/03/27 19:49:15 EDT [FINE] Connecting to Enjin to send config...
+2016/03/27 19:49:15 EDT [FINE] Sending content: 
+authkey=e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f&statscollected_player_deaths=1&statscollected_player_creeperexplosions=0&debug=0&listenforbans=1&statscollected_player_blocksbroken=1&statscollected_player_kills=1&statscollected_player_travel=1&statscollected_player_playerkicks=0&autoupdate=1&sendstatsinterval=5&collectplayerstats=1&statscollected_player_xp=1&statscollected_player_blocksplaced=1&https=1&usebuygui=1&buycommand=buy
+2016/03/27 19:50:40 EDT [FINE] Connecting to Enjin...
+2016/03/27 19:50:40 EDT [FINE] Sending content: 
+authkey=e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f&maxplayers=20&mc_version=1.8.6&players=3&hasranks=TRUE&pluginversion=2.7.2&plugins=OreGen2%2CAntiLag%2CPlugMan%2CAdministration_Panel%2CLockette%2CCustomRecipes%2CPixelator%2CSuperTrails%2CVoxelSniper%2CColoredChat%2CTelevator%2CSimple-AutoSave%2CChatColor%2CChatManager%2CChestMaster%2CLeakParkour%2CWorldEdit%2CAdminFun%2CTimTheEnchanter%2CFirstJoinPlus%2CHealthBar%2COpenInv%2CEssentials%2CAutoBroadcaster%2CScoreboard%2CCommandSigns%2CVotifier%2CProtocolLib%2CLibsDisguises%2CNoCheatPlus%2CShopkeepers%2CEssentialsChat%2CPermissionsEx%2CPTweaks%2CmcMMO%2CGAListener%2CVault%2CMassiveCore%2CEnjinMinecraftPlugin%2CLift%2CHolographicDisplays%2CWorldGuard%2CPunishmental%2CASkyBlock%2CEssentialsXMPP%2CEssentialsProtect%2CEssentialsGeoIP%2CServerSigns%2CEssentialsSpawn%2CPlayerHeads%2CGreenhouses%2CMobile_Workbench%2CSilkSpawners%2CEchoPet%2CFramePicture%2CCS-CoreLib%2CChestShop&playerlist=77dfc7d1-7e24-4371-9f9d-c89cf60bc59a%3AUnstableTNT%3Afalse%2C4eade716-764c-4289-b132-7eb42e5e284f%3ADeezCoolDonuts%3Afalse%2C8f8ccbeb-e3d3-42f2-be35-e2208cce8e87%3AJaysOnMyFeet554%3Afalse&worlds=world%2Cworld_nether%2Cworld_the_end%2CASkyBlock%2CASkyBlock_nether&tps=20.184465141296386&time=world%3A18115%2C6%2C0%3BASkyBlock%3A831%2C2%2C0&groups=Default%2CDonor%2CElite%2CVIP%2CUltra%2CYouTube%2CHelper%2CModerator%2CUniversal-Moderator%2CHead-Moderator%2CAdmin%2CHead-Admin%2CBuilder%2COwner%2Cmember%2CChihuahuaLove01%2CModerater%2CHead-Moderatpr%2Cuser&playergroups=DeezCoolDonuts%7C4eade716-764c-4289-b132-7eb42e5e284f%3B*%3AUltra%2Cmember%0AJaysOnMyFeet554%7C8f8ccbeb-e3d3-42f2-be35-e2208cce8e87%3B*%3AUniversal-Moderator%2CUniversal-Moderater%2CUniversalModerater%2CUniversalMod%2CUniverisalMod%2CDonor%2CModerator%0AUnstableTNT%7C77dfc7d1-7e24-4371-9f9d-c89cf60bc59a%3B*%3AOwner
+2016/03/27 19:50:41 EDT [FINE] Packet [0x19](Enjin Status) received.
+2016/03/27 19:50:41 EDT [FINE] No more packets. End of stream. Update ended.
+2016/03/27 19:50:41 EDT [FINE] Raw data received:
+auth_error
+2016/03/27 19:50:41 EDT [WARNING] [Enjin Minecraft Plugin] Auth key invalid. Please regenerate on the enjin control panel.
+2016/03/27 19:50:41 EDT [FINE] Stopping tasks.
+2016/03/27 19:50:41 EDT [FINE] Synch unsuccessful.
+2016/03/27 19:50:42 EDT [FINE] Stats saved to enjin-stats.json.
+Started logging the Enjin Plugin on 2016/03/28 15:30:52 EDT
+2016/03/28 15:30:52 EDT [FINE] Logger initialized.
+2016/03/28 15:30:52 EDT [FINE] Begin init
+2016/03/28 15:30:52 EDT [FINE] Init vars done.
+2016/03/28 15:30:52 EDT [FINE] Minecraft version: git-Spigot-044d928-e8c6403 (MC: 1.8.6)
+2016/03/28 15:30:52 EDT [FINE] MC Version string: 1.8.6
+2016/03/28 15:30:52 EDT [FINE] Get the ban list
+2016/03/28 15:30:52 EDT [FINE] Ban list loaded
+2016/03/28 15:30:52 EDT [FINE] Init files done.
+2016/03/28 15:30:52 EDT [INFO] Couldn't find the TuxTwoLib plugin. Only able to give items to online players only.
+2016/03/28 15:30:52 EDT [FINE] Initializing permissions.
+2016/03/28 15:30:52 EDT [FINE] Init plugins done.
+2016/03/28 15:30:52 EDT [FINE] PermissionsEx found, hooking custom events.
+2016/03/28 15:30:52 EDT [FINE] Setup permissions integration
+2016/03/28 15:30:52 EDT [INFO] Votifier plugin found, enabling Votifier support.
+2016/03/28 15:30:52 EDT [FINE] Setup Votifier integration
+2016/03/28 15:30:52 EDT [FINE] mcMMO found, hooking custom stats.
+2016/03/28 15:30:53 EDT [FINE] Registering events.
+2016/03/28 15:30:53 EDT [FINE] Starting periodic tasks.
+2016/03/28 15:30:53 EDT [FINE] Starting tasks.
+2016/03/28 15:30:53 EDT [FINE] Starting votifier task.
+2016/03/28 15:30:53 EDT [FINE] Connecting to Enjin to send config...
+2016/03/28 15:30:53 EDT [FINE] Sending content: 
+authkey=e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f&statscollected_player_deaths=1&statscollected_player_creeperexplosions=0&debug=0&listenforbans=1&statscollected_player_blocksbroken=1&statscollected_player_kills=1&statscollected_player_travel=1&statscollected_player_playerkicks=0&autoupdate=1&sendstatsinterval=5&collectplayerstats=1&statscollected_player_xp=1&statscollected_player_blocksplaced=1&https=1&usebuygui=1&buycommand=buy
+2016/03/28 15:32:23 EDT [FINE] Connecting to Enjin...
+2016/03/28 15:32:23 EDT [FINE] Sending content: 
+authkey=e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f&maxplayers=20&mc_version=1.8.6&players=4&hasranks=TRUE&pluginversion=2.7.2&plugins=OreGen2%2CAntiLag%2CPlugMan%2CAdministration_Panel%2CLockette%2CCustomRecipes%2CPixelator%2CSuperTrails%2CVoxelSniper%2CColoredChat%2CTelevator%2CSimple-AutoSave%2CChatColor%2CChatManager%2CChestMaster%2CLeakParkour%2CWorldEdit%2CAdminFun%2CTimTheEnchanter%2CFirstJoinPlus%2CHealthBar%2COpenInv%2CEssentials%2CAutoBroadcaster%2CScoreboard%2CCommandSigns%2CVotifier%2CProtocolLib%2CLibsDisguises%2CNoCheatPlus%2CShopkeepers%2CEssentialsChat%2CPermissionsEx%2CPTweaks%2CmcMMO%2CGAListener%2CVault%2CMassiveCore%2CEnjinMinecraftPlugin%2CLift%2CHolographicDisplays%2CWorldGuard%2CPunishmental%2CASkyBlock%2CEssentialsXMPP%2CEssentialsProtect%2CEssentialsGeoIP%2CServerSigns%2CEssentialsSpawn%2CPlayerHeads%2CGreenhouses%2CMobile_Workbench%2CSilkSpawners%2CEchoPet%2CFramePicture%2CCS-CoreLib%2CChestShop&playerlist=8f8ccbeb-e3d3-42f2-be35-e2208cce8e87%3AJaysOnMyFeet554%3Afalse%2C91658022-8a47-4f3d-9c4e-2ed2d7cc61c6%3Askyisasquid%3Afalse%2C77dfc7d1-7e24-4371-9f9d-c89cf60bc59a%3AUnstableTNT%3Afalse%2C560984c2-4090-4e29-902b-f8dac1bad41e%3AibellaSlyman%3Afalse&worlds=world%2Cworld_nether%2Cworld_the_end%2CASkyBlock%2CASkyBlock_nether&tps=20.306346244812012&time=world%3A18114%2C6%2C0%3BASkyBlock%3A830%2C2%2C0&groups=Default%2CDonor%2CElite%2CVIP%2CUltra%2CYouTube%2CHelper%2CModerator%2CUniversal-Moderator%2CHead-Moderator%2CAdmin%2CHead-Admin%2CBuilder%2COwner%2Cmember%2CChihuahuaLove01%2CModerater%2CHead-Moderatpr%2Cuser&playergroups=skyisasquid%7C91658022-8a47-4f3d-9c4e-2ed2d7cc61c6%3B*%3AHead-Admin%2CAdmin%0AJaysOnMyFeet554%7C8f8ccbeb-e3d3-42f2-be35-e2208cce8e87%3B*%3AUniversal-Moderator%2CUniversal-Moderater%2CUniversalModerater%2CUniversalMod%2CUniverisalMod%2CDonor%2CModerator%0AibellaSlyman%7C560984c2-4090-4e29-902b-f8dac1bad41e%3B*%3AModerator%2Cmember%0AUnstableTNT%7C77dfc7d1-7e24-4371-9f9d-c89cf60bc59a%3B*%3AOwner
+2016/03/28 15:32:24 EDT [FINE] Packet [0x19](Enjin Status) received.
+2016/03/28 15:32:24 EDT [FINE] No more packets. End of stream. Update ended.
+2016/03/28 15:32:24 EDT [FINE] Raw data received:
+auth_error
+2016/03/28 15:32:24 EDT [WARNING] [Enjin Minecraft Plugin] Auth key invalid. Please regenerate on the enjin control panel.
+2016/03/28 15:32:24 EDT [FINE] Stopping tasks.
+2016/03/28 15:32:24 EDT [FINE] Synch unsuccessful.
+2016/03/28 15:32:24 EDT [FINE] Stats saved to enjin-stats.json.
+2016/03/29 10:29:02 EDT [FINE] Stopping tasks.
+2016/03/29 10:29:02 EDT [FINE] Stats saved to enjin-stats.json.
+Started logging the Enjin Plugin on 2016/04/07 11:30:05 EDT
+2016/04/07 11:30:05 EDT [FINE] Logger initialized.
+2016/04/07 11:30:05 EDT [FINE] Begin init
+2016/04/07 11:30:05 EDT [FINE] Init vars done.
+2016/04/07 11:30:05 EDT [FINE] Minecraft version: git-Spigot-044d928-e8c6403 (MC: 1.8.6)
+2016/04/07 11:30:05 EDT [FINE] MC Version string: 1.8.6
+2016/04/07 11:30:05 EDT [FINE] Get the ban list
+2016/04/07 11:30:05 EDT [FINE] Ban list loaded
+2016/04/07 11:30:05 EDT [FINE] Init files done.
+2016/04/07 11:30:05 EDT [INFO] Couldn't find the TuxTwoLib plugin. Only able to give items to online players only.
+2016/04/07 11:30:05 EDT [FINE] Initializing permissions.
+2016/04/07 11:30:05 EDT [FINE] Init plugins done.
+2016/04/07 11:30:05 EDT [FINE] PermissionsEx found, hooking custom events.
+2016/04/07 11:30:05 EDT [FINE] Setup permissions integration
+2016/04/07 11:30:05 EDT [INFO] Votifier plugin found, enabling Votifier support.
+2016/04/07 11:30:05 EDT [FINE] Setup Votifier integration
+2016/04/07 11:30:05 EDT [FINE] mcMMO found, hooking custom stats.
+2016/04/07 11:30:05 EDT [FINE] Registering events.
+2016/04/07 11:30:05 EDT [FINE] Starting periodic tasks.
+2016/04/07 11:30:05 EDT [FINE] Starting tasks.
+2016/04/07 11:30:05 EDT [FINE] Starting votifier task.
+2016/04/07 11:30:05 EDT [FINE] Connecting to Enjin to send config...
+2016/04/07 11:30:05 EDT [FINE] Sending content: 
+authkey=e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f&statscollected_player_deaths=1&statscollected_player_creeperexplosions=0&debug=0&listenforbans=1&statscollected_player_blocksbroken=1&statscollected_player_kills=1&statscollected_player_travel=1&statscollected_player_playerkicks=0&autoupdate=1&sendstatsinterval=5&collectplayerstats=1&statscollected_player_xp=1&statscollected_player_blocksplaced=1&https=1&usebuygui=1&buycommand=buy
+2016/04/07 11:31:11 EDT [FINE] Connecting to Enjin...
+2016/04/07 11:31:11 EDT [FINE] Sending content: 
+authkey=e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f&maxplayers=20&mc_version=1.8.6&players=1&hasranks=TRUE&pluginversion=2.7.2&plugins=OreGen2%2CAntiLag%2CPlugMan%2CAdministration_Panel%2CLockette%2CCustomRecipes%2CPixelator%2CSuperTrails%2CVoxelSniper%2CColoredChat%2CTelevator%2CSimple-AutoSave%2CChatColor%2CChatManager%2CChestMaster%2CLeakParkour%2CWorldEdit%2CAdminFun%2CTimTheEnchanter%2CFirstJoinPlus%2CHealthBar%2COpenInv%2CEssentials%2CAutoBroadcaster%2CScoreboard%2CCommandSigns%2CVotifier%2CProtocolLib%2CLibsDisguises%2CNoCheatPlus%2CShopkeepers%2CEssentialsChat%2CPermissionsEx%2CPTweaks%2CmcMMO%2CGAListener%2CVault%2CMassiveCore%2CEnjinMinecraftPlugin%2CLift%2CHolographicDisplays%2CWorldGuard%2CPunishmental%2CASkyBlock%2CEssentialsXMPP%2CEssentialsProtect%2CEssentialsGeoIP%2CServerSigns%2CEssentialsSpawn%2CPlayerHeads%2CGreenhouses%2CMobile_Workbench%2CSilkSpawners%2CEchoPet%2CFramePicture%2CCS-CoreLib%2CChestShop&playerlist=1d6e4db5-262d-44f4-939f-7e718186c592%3APiePigAnonymous%3Afalse&worlds=world%2Cworld_nether%2Cworld_the_end%2CASkyBlock%2CASkyBlock_nether&tps=19.96501075744629&time=world%3A8614%2C7%2C0%3BASkyBlock%3A18136%2C4%2C0&groups=Default%2CDonor%2CElite%2CVIP%2CUltra%2CYouTube%2CHelper%2CModerator%2CUniversal-Moderator%2CHead-Moderator%2CAdmin%2CHead-Admin%2CBuilder%2COwner%2Cmember%2CChihuahuaLove01%2CModerater%2CHead-Moderatpr%2Cuser&playergroups=PiePigAnonymous%7C1d6e4db5-262d-44f4-939f-7e718186c592%3B
+2016/04/07 11:31:12 EDT [FINE] Packet [0x19](Enjin Status) received.
+2016/04/07 11:31:12 EDT [FINE] No more packets. End of stream. Update ended.
+2016/04/07 11:31:12 EDT [FINE] Raw data received:
+auth_error
+2016/04/07 11:31:12 EDT [WARNING] [Enjin Minecraft Plugin] Auth key invalid. Please regenerate on the enjin control panel.
+2016/04/07 11:31:12 EDT [FINE] Stopping tasks.
+2016/04/07 11:31:12 EDT [FINE] Synch unsuccessful.
+2016/04/07 11:31:12 EDT [FINE] Stats saved to enjin-stats.json.
+2016/04/07 11:31:50 EDT [FINE] PiePigAnonymous just got a rank change... processing...
+2016/04/07 11:31:55 EDT [FINE] Connecting to Enjin for shop data for player...
+2016/04/07 11:31:55 EDT [FINE] Sending content: 
+authkey=e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f&player=PiePigAnonymous
+2016/04/07 11:31:55 EDT [FINE] Shop output:
+{"status":"error","error":"Server not found"}
+2016/04/07 11:31:55 EDT [FINE] Shop couldn't get json:
+java.lang.ClassCastException: org.json.simple.JSONObject cannot be cast to org.json.simple.JSONArray
+com.enjin.officialplugin.shop.ShopUtils.parseShopsJSON(ShopUtils.java:157)
+com.enjin.officialplugin.shop.PlayerShopGetter.run(PlayerShopGetter.java:61)
+java.lang.Thread.run(Unknown Source)
+
+2016/04/08 11:59:17 EDT [FINE] Connecting to Enjin for shop data for player...
+2016/04/08 11:59:17 EDT [FINE] Sending content: 
+authkey=e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f&player=PiePigAnonymous
+2016/04/08 11:59:17 EDT [FINE] Shop output:
+{"status":"error","error":"Server not found"}
+2016/04/08 11:59:17 EDT [FINE] Shop couldn't get json:
+java.lang.ClassCastException: org.json.simple.JSONObject cannot be cast to org.json.simple.JSONArray
+com.enjin.officialplugin.shop.ShopUtils.parseShopsJSON(ShopUtils.java:157)
+com.enjin.officialplugin.shop.PlayerShopGetter.run(PlayerShopGetter.java:61)
+java.lang.Thread.run(Unknown Source)
+
+2016/04/15 08:43:08 EDT [FINE] Stopping tasks.
+2016/04/15 08:43:09 EDT [FINE] Stats saved to enjin-stats.json.
+2016/04/15 08:43:17 EDT [FINE] Key value retrieved: e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f
+2016/04/15 08:43:17 EDT [FINE] Initializing internal logger
+2016/04/15 08:43:17 EDT [FINE] Logger initialized.
+2016/04/15 08:43:17 EDT [FINE] Begin init
+2016/04/15 08:43:17 EDT [FINE] Init vars done.
+2016/04/15 08:43:17 EDT [FINE] Minecraft version: git-Spigot-044d928-e8c6403 (MC: 1.8.6)
+2016/04/15 08:43:17 EDT [FINE] MC Version string: 1.8.6
+2016/04/15 08:43:17 EDT [FINE] Get the ban list
+2016/04/15 08:43:17 EDT [FINE] Ban list loaded
+2016/04/15 08:43:17 EDT [FINE] Init files done.
+2016/04/15 08:43:17 EDT [INFO] Couldn't find the TuxTwoLib plugin. Only able to give items to online players only.
+2016/04/15 08:43:17 EDT [FINE] Initializing permissions.
+2016/04/15 08:43:17 EDT [FINE] Init plugins done.
+2016/04/15 08:43:17 EDT [FINE] PermissionsEx found, hooking custom events.
+2016/04/15 08:43:17 EDT [FINE] Setup permissions integration
+2016/04/15 08:43:17 EDT [INFO] Votifier plugin found, enabling Votifier support.
+2016/04/15 08:43:17 EDT [FINE] Setup Votifier integration
+2016/04/15 08:43:17 EDT [FINE] mcMMO found, hooking custom stats.
+2016/04/15 08:43:17 EDT [FINE] Registering events.
+2016/04/15 08:43:17 EDT [FINE] Starting periodic tasks.
+2016/04/15 08:43:17 EDT [FINE] Starting tasks.
+2016/04/15 08:43:17 EDT [FINE] Starting votifier task.
+2016/04/15 08:43:17 EDT [FINE] Connecting to Enjin to send config...
+2016/04/15 08:43:17 EDT [FINE] Sending content: 
+authkey=e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f&statscollected_player_deaths=1&statscollected_player_creeperexplosions=0&debug=0&listenforbans=1&statscollected_player_blocksbroken=1&statscollected_player_kills=1&statscollected_player_travel=1&statscollected_player_playerkicks=0&autoupdate=1&sendstatsinterval=5&collectplayerstats=1&statscollected_player_xp=1&statscollected_player_blocksplaced=1&https=1&usebuygui=1&buycommand=buy
+2016/04/15 08:44:04 EDT [FINE] Stopping tasks.
+2016/04/15 08:44:05 EDT [FINE] Stats saved to enjin-stats.json.
+Started logging the Enjin Plugin on 2016/04/15 09:32:58 EDT
+2016/04/15 09:32:58 EDT [FINE] Logger initialized.
+2016/04/15 09:32:58 EDT [FINE] Begin init
+2016/04/15 09:32:58 EDT [FINE] Init vars done.
+2016/04/15 09:32:58 EDT [FINE] Minecraft version: git-Spigot-044d928-e8c6403 (MC: 1.8.6)
+2016/04/15 09:32:58 EDT [FINE] MC Version string: 1.8.6
+2016/04/15 09:32:58 EDT [FINE] Get the ban list
+2016/04/15 09:32:58 EDT [FINE] Ban list loaded
+2016/04/15 09:32:58 EDT [FINE] Init files done.
+2016/04/15 09:32:58 EDT [INFO] Couldn't find the TuxTwoLib plugin. Only able to give items to online players only.
+2016/04/15 09:32:58 EDT [FINE] Initializing permissions.
+2016/04/15 09:32:58 EDT [FINE] Init plugins done.
+2016/04/15 09:32:58 EDT [FINE] PermissionsEx found, hooking custom events.
+2016/04/15 09:32:58 EDT [FINE] Setup permissions integration
+2016/04/15 09:32:58 EDT [INFO] Votifier plugin found, enabling Votifier support.
+2016/04/15 09:32:58 EDT [FINE] Setup Votifier integration
+2016/04/15 09:32:58 EDT [FINE] mcMMO found, hooking custom stats.
+2016/04/15 09:32:58 EDT [FINE] Registering events.
+2016/04/15 09:32:58 EDT [FINE] Starting periodic tasks.
+2016/04/15 09:32:58 EDT [FINE] Starting tasks.
+2016/04/15 09:32:58 EDT [FINE] Starting votifier task.
+2016/04/15 09:32:58 EDT [FINE] Connecting to Enjin to send config...
+2016/04/15 09:32:58 EDT [FINE] Sending content: 
+authkey=e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f&statscollected_player_deaths=1&statscollected_player_creeperexplosions=0&debug=0&listenforbans=1&statscollected_player_blocksbroken=1&statscollected_player_kills=1&statscollected_player_travel=1&statscollected_player_playerkicks=0&autoupdate=1&sendstatsinterval=5&collectplayerstats=1&statscollected_player_xp=1&statscollected_player_blocksplaced=1&https=1&usebuygui=1&buycommand=buy
+2016/04/15 09:34:07 EDT [FINE] Connecting to Enjin...
+2016/04/15 09:34:07 EDT [FINE] Sending content: 
+authkey=e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f&maxplayers=20&mc_version=1.8.6&players=0&hasranks=TRUE&pluginversion=2.7.2&plugins=OreGen2%2CAntiLag%2CPlugMan%2CAdministration_Panel%2CLockette%2CCustomRecipes%2CPixelator%2CSuperTrails%2CVoxelSniper%2CColoredChat%2CTelevator%2CSimple-AutoSave%2CChatColor%2CChatManager%2CChestMaster%2CLeakParkour%2CWorldEdit%2CAdminFun%2CTimTheEnchanter%2CFirstJoinPlus%2CHealthBar%2COpenInv%2CEssentials%2CAutoBroadcaster%2CScoreboard%2CCommandSigns%2CVotifier%2CProtocolLib%2CLibsDisguises%2CNoCheatPlus%2CShopkeepers%2CEssentialsChat%2CPermissionsEx%2CPTweaks%2CSuperCrate%2CmcMMO%2CGAListener%2CVault%2CMassiveCore%2CEnjinMinecraftPlugin%2CLift%2CHolographicDisplays%2CWorldGuard%2CPunishmental%2CASkyBlock%2CEssentialsXMPP%2CEssentialsProtect%2CEssentialsGeoIP%2CServerSigns%2CEssentialsSpawn%2CPlayerHeads%2CGreenhouses%2CMobile_Workbench%2CSilkSpawners%2CEchoPet%2CFramePicture%2CCS-CoreLib%2CChestShop&playerlist=&worlds=world%2Cworld_nether%2Cworld_the_end%2CASkyBlock%2CASkyBlock_nether&tps=19.78880920410156&time=world%3A2484%2C6%2C0%3BASkyBlock%3A12006%2C3%2C0&groups=Default%2CDonor%2CElite%2CVIP%2CUltra%2CYouTube%2CHelper%2CModerator%2CUniversal-Moderator%2CHead-Moderator%2CAdmin%2CHead-Admin%2CBuilder%2COwner%2Cmember%2CChihuahuaLove01%2CModerater%2CHead-Moderatpr%2Cuser
+2016/04/15 09:34:07 EDT [FINE] Packet [0x19](Enjin Status) received.
+2016/04/15 09:34:07 EDT [FINE] No more packets. End of stream. Update ended.
+2016/04/15 09:34:07 EDT [FINE] Raw data received:
+auth_error
+2016/04/15 09:34:07 EDT [WARNING] [Enjin Minecraft Plugin] Auth key invalid. Please regenerate on the enjin control panel.
+2016/04/15 09:34:07 EDT [FINE] Stopping tasks.
+2016/04/15 09:34:07 EDT [FINE] Synch unsuccessful.
+2016/04/15 09:34:08 EDT [FINE] Stats saved to enjin-stats.json.
+Started logging the Enjin Plugin on 2016/04/21 15:35:28 EDT
+2016/04/21 15:35:28 EDT [FINE] Logger initialized.
+2016/04/21 15:35:28 EDT [FINE] Begin init
+2016/04/21 15:35:28 EDT [FINE] Init vars done.
+2016/04/21 15:35:28 EDT [FINE] Minecraft version: git-Spigot-044d928-e8c6403 (MC: 1.8.6)
+2016/04/21 15:35:28 EDT [FINE] MC Version string: 1.8.6
+2016/04/21 15:35:28 EDT [FINE] Get the ban list
+2016/04/21 15:35:28 EDT [FINE] Ban list loaded
+2016/04/21 15:35:28 EDT [FINE] Init files done.
+2016/04/21 15:35:28 EDT [INFO] Couldn't find the TuxTwoLib plugin. Only able to give items to online players only.
+2016/04/21 15:35:28 EDT [FINE] Initializing permissions.
+2016/04/21 15:35:28 EDT [FINE] Init plugins done.
+2016/04/21 15:35:28 EDT [FINE] PermissionsEx found, hooking custom events.
+2016/04/21 15:35:28 EDT [FINE] Setup permissions integration
+2016/04/21 15:35:28 EDT [INFO] Votifier plugin found, enabling Votifier support.
+2016/04/21 15:35:28 EDT [FINE] Setup Votifier integration
+2016/04/21 15:35:28 EDT [FINE] mcMMO found, hooking custom stats.
+2016/04/21 15:35:28 EDT [FINE] Registering events.
+2016/04/21 15:35:28 EDT [FINE] Starting periodic tasks.
+2016/04/21 15:35:28 EDT [FINE] Starting tasks.
+2016/04/21 15:35:28 EDT [FINE] Starting votifier task.
+2016/04/21 15:35:28 EDT [FINE] Connecting to Enjin to send config...
+2016/04/21 15:35:28 EDT [FINE] Sending content: 
+authkey=e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f&statscollected_player_deaths=1&statscollected_player_creeperexplosions=0&debug=0&listenforbans=1&statscollected_player_blocksbroken=1&statscollected_player_kills=1&statscollected_player_travel=1&statscollected_player_playerkicks=0&autoupdate=1&sendstatsinterval=5&collectplayerstats=1&statscollected_player_xp=1&statscollected_player_blocksplaced=1&https=1&usebuygui=1&buycommand=buy
+2016/04/21 15:36:38 EDT [FINE] Connecting to Enjin...
+2016/04/21 15:36:38 EDT [FINE] Sending content: 
+authkey=e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f&maxplayers=20&mc_version=1.8.6&players=0&hasranks=TRUE&pluginversion=2.7.2&plugins=OreGen2%2CAntiLag%2CPlugMan%2CAdministration_Panel%2CLockette%2CCustomRecipes%2CPixelator%2CSuperTrails%2CVoxelSniper%2CColoredChat%2CTelevator%2CSimple-AutoSave%2CChatColor%2CChatManager%2CChestMaster%2CLeakParkour%2CWorldEdit%2CAdminFun%2CTimTheEnchanter%2CFirstJoinPlus%2CHealthBar%2COpenInv%2CEssentials%2CAutoBroadcaster%2CScoreboard%2CCommandSigns%2CVotifier%2CProtocolLib%2CLibsDisguises%2CNoCheatPlus%2CShopkeepers%2CEssentialsChat%2CPermissionsEx%2CPTweaks%2CSuperCrate%2CmcMMO%2CGAListener%2CVault%2CMassiveCore%2CEnjinMinecraftPlugin%2CLift%2CHolographicDisplays%2CWorldGuard%2CPunishmental%2CASkyBlock%2CEssentialsXMPP%2CEssentialsProtect%2CEssentialsGeoIP%2CServerSigns%2CEssentialsSpawn%2CPlayerHeads%2CGreenhouses%2CMobile_Workbench%2CSilkSpawners%2CEchoPet%2CFramePicture%2CCS-CoreLib%2CChestShop&playerlist=&worlds=world%2Cworld_nether%2Cworld_the_end%2CASkyBlock%2CASkyBlock_nether&tps=19.761878509521484&time=world%3A484%2C5%2C0%3BASkyBlock%3A10006%2C2%2C0&groups=Default%2CVIP%2CDonor%2CElite%2CUltra%2CYouTube%2CHelper%2CModerator%2CUniversal-Moderator%2CHead-Moderator%2CAdmin%2CHead-Dev%2CBuilder%2CHead-Admin%2COwner%2CMember%2CUvip
+2016/04/21 15:36:38 EDT [FINE] Packet [0x19](Enjin Status) received.
+2016/04/21 15:36:38 EDT [FINE] No more packets. End of stream. Update ended.
+2016/04/21 15:36:38 EDT [FINE] Raw data received:
+auth_error
+2016/04/21 15:36:38 EDT [WARNING] [Enjin Minecraft Plugin] Auth key invalid. Please regenerate on the enjin control panel.
+2016/04/21 15:36:38 EDT [FINE] Stopping tasks.
+2016/04/21 15:36:38 EDT [FINE] Synch unsuccessful.
+2016/04/21 15:36:39 EDT [FINE] Stats saved to enjin-stats.json.
+2016/04/23 13:32:39 EDT [FINE] Stopping tasks.
+2016/04/23 13:32:39 EDT [FINE] Stats saved to enjin-stats.json.
+Started logging the Enjin Plugin on 2016/04/24 19:05:45 EDT
+2016/04/24 19:05:45 EDT [FINE] Logger initialized.
+2016/04/24 19:05:45 EDT [FINE] Begin init
+2016/04/24 19:05:45 EDT [FINE] Init vars done.
+2016/04/24 19:05:45 EDT [FINE] Minecraft version: git-Spigot-044d928-e8c6403 (MC: 1.8.6)
+2016/04/24 19:05:45 EDT [FINE] MC Version string: 1.8.6
+2016/04/24 19:05:45 EDT [FINE] Get the ban list
+2016/04/24 19:05:45 EDT [FINE] Ban list loaded
+2016/04/24 19:05:45 EDT [FINE] Init files done.
+2016/04/24 19:05:45 EDT [INFO] Couldn't find the TuxTwoLib plugin. Only able to give items to online players only.
+2016/04/24 19:05:45 EDT [FINE] Initializing permissions.
+2016/04/24 19:05:45 EDT [FINE] Init plugins done.
+2016/04/24 19:05:45 EDT [FINE] PermissionsEx found, hooking custom events.
+2016/04/24 19:05:45 EDT [FINE] Setup permissions integration
+2016/04/24 19:05:45 EDT [INFO] Votifier plugin found, enabling Votifier support.
+2016/04/24 19:05:45 EDT [FINE] Setup Votifier integration
+2016/04/24 19:05:45 EDT [FINE] mcMMO found, hooking custom stats.
+2016/04/24 19:05:45 EDT [FINE] Registering events.
+2016/04/24 19:05:45 EDT [FINE] Starting periodic tasks.
+2016/04/24 19:05:45 EDT [FINE] Starting tasks.
+2016/04/24 19:05:45 EDT [FINE] Starting votifier task.
+2016/04/24 19:05:45 EDT [FINE] Connecting to Enjin to send config...
+2016/04/24 19:05:45 EDT [FINE] Sending content: 
+authkey=e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f&statscollected_player_deaths=1&statscollected_player_creeperexplosions=0&debug=0&listenforbans=1&statscollected_player_blocksbroken=1&statscollected_player_kills=1&statscollected_player_travel=1&statscollected_player_playerkicks=0&autoupdate=1&sendstatsinterval=5&collectplayerstats=1&statscollected_player_xp=1&statscollected_player_blocksplaced=1&https=1&usebuygui=1&buycommand=buy
+2016/04/24 19:06:51 EDT [FINE] Connecting to Enjin...
+2016/04/24 19:06:51 EDT [FINE] Sending content: 
+authkey=e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f&maxplayers=20&mc_version=1.8.6&players=0&hasranks=TRUE&pluginversion=2.7.2&plugins=OreGen2%2CAntiLag%2CPlugMan%2CAdministration_Panel%2CLockette%2CCustomRecipes%2CPixelator%2CSuperTrails%2CVoxelSniper%2CColoredChat%2CTelevator%2CSimple-AutoSave%2CChatColor%2CChatManager%2CChestMaster%2CLeakParkour%2CWorldEdit%2CAdminFun%2CTimTheEnchanter%2CFirstJoinPlus%2CHealthBar%2COpenInv%2CEssentials%2CAutoBroadcaster%2CScoreboard%2CCommandSigns%2CVotifier%2CProtocolLib%2CLibsDisguises%2CNoCheatPlus%2CShopkeepers%2CEssentialsChat%2CPermissionsEx%2CPTweaks%2CSuperCrate%2CmcMMO%2CGAListener%2CVault%2CMassiveCore%2CEnjinMinecraftPlugin%2CLift%2CHolographicDisplays%2CWorldGuard%2CPunishmental%2CASkyBlock%2CEssentialsXMPP%2CEssentialsProtect%2CEssentialsGeoIP%2CServerSigns%2CEssentialsSpawn%2CPlayerHeads%2CGreenhouses%2CMobile_Workbench%2CSilkSpawners%2CEchoPet%2CFramePicture%2CCS-CoreLib%2CChestShop%2CSlimefun&playerlist=&worlds=world%2Cworld_nether%2Cworld_the_end%2CASkyBlock%2CASkyBlock_nether&tps=19.990411834716795&time=world%3A13757%2C7%2C0%3BASkyBlock%3A23278%2C4%2C0&groups=Default%2CVIP%2CDonor%2CElite%2CUltra%2CYouTube%2CHelper%2CModerator%2CUniversal-Moderator%2CHead-Moderator%2CAdmin%2CHead-Dev%2CBuilder%2CHead-Admin%2COwner%2CMember%2CUvip
+2016/04/24 19:06:51 EDT [FINE] Packet [0x19](Enjin Status) received.
+2016/04/24 19:06:51 EDT [FINE] No more packets. End of stream. Update ended.
+2016/04/24 19:06:51 EDT [FINE] Raw data received:
+auth_error
+2016/04/24 19:06:51 EDT [WARNING] [Enjin Minecraft Plugin] Auth key invalid. Please regenerate on the enjin control panel.
+2016/04/24 19:06:51 EDT [FINE] Stopping tasks.
+2016/04/24 19:06:51 EDT [FINE] Synch unsuccessful.
+2016/04/24 19:06:51 EDT [FINE] Stats saved to enjin-stats.json.
+2016/04/24 19:36:20 EDT [FINE] Stopping tasks.
+2016/04/24 19:36:20 EDT [FINE] Stats saved to enjin-stats.json.
+2016/04/24 19:36:27 EDT [FINE] Key value retrieved: e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f
+2016/04/24 19:36:27 EDT [FINE] Initializing internal logger
+2016/04/24 19:36:27 EDT [FINE] Logger initialized.
+2016/04/24 19:36:27 EDT [FINE] Begin init
+2016/04/24 19:36:27 EDT [FINE] Init vars done.
+2016/04/24 19:36:27 EDT [FINE] Minecraft version: git-Spigot-044d928-e8c6403 (MC: 1.8.6)
+2016/04/24 19:36:27 EDT [FINE] MC Version string: 1.8.6
+2016/04/24 19:36:27 EDT [FINE] Get the ban list
+2016/04/24 19:36:27 EDT [FINE] Ban list loaded
+2016/04/24 19:36:27 EDT [FINE] Init files done.
+2016/04/24 19:36:27 EDT [INFO] Couldn't find the TuxTwoLib plugin. Only able to give items to online players only.
+2016/04/24 19:36:27 EDT [FINE] Initializing permissions.
+2016/04/24 19:36:27 EDT [FINE] Init plugins done.
+2016/04/24 19:36:27 EDT [FINE] PermissionsEx found, hooking custom events.
+2016/04/24 19:36:27 EDT [FINE] Setup permissions integration
+2016/04/24 19:36:27 EDT [INFO] Votifier plugin found, enabling Votifier support.
+2016/04/24 19:36:27 EDT [FINE] Setup Votifier integration
+2016/04/24 19:36:27 EDT [FINE] mcMMO found, hooking custom stats.
+2016/04/24 19:36:27 EDT [FINE] Registering events.
+2016/04/24 19:36:27 EDT [FINE] Starting periodic tasks.
+2016/04/24 19:36:27 EDT [FINE] Starting tasks.
+2016/04/24 19:36:27 EDT [FINE] Starting votifier task.
+2016/04/24 19:36:28 EDT [FINE] Connecting to Enjin to send config...
+2016/04/24 19:36:28 EDT [FINE] Sending content: 
+authkey=e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f&statscollected_player_deaths=1&statscollected_player_creeperexplosions=0&debug=0&listenforbans=1&statscollected_player_blocksbroken=1&statscollected_player_kills=1&statscollected_player_travel=1&statscollected_player_playerkicks=0&autoupdate=1&sendstatsinterval=5&collectplayerstats=1&statscollected_player_xp=1&statscollected_player_blocksplaced=1&https=1&usebuygui=1&buycommand=buy
+2016/04/24 19:37:38 EDT [FINE] Connecting to Enjin...
+2016/04/24 19:37:38 EDT [FINE] Sending content: 
+authkey=e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f&maxplayers=20&mc_version=1.8.6&players=2&hasranks=TRUE&pluginversion=2.7.2&plugins=OreGen2%2CAntiLag%2CPlugMan%2CAdministration_Panel%2CLockette%2CCustomRecipes%2CPixelator%2CSuperTrails%2CVoxelSniper%2CColoredChat%2CTelevator%2CSimple-AutoSave%2CChatColor%2CChatManager%2CChestMaster%2CLeakParkour%2CWorldEdit%2CAdminFun%2CTimTheEnchanter%2CFirstJoinPlus%2CHealthBar%2COpenInv%2CEssentials%2CAutoBroadcaster%2CScoreboard%2CCommandSigns%2CVotifier%2CProtocolLib%2CLibsDisguises%2CNoCheatPlus%2CShopkeepers%2CEssentialsChat%2CPermissionsEx%2CPTweaks%2CSuperCrate%2CmcMMO%2CGAListener%2CVault%2CMassiveCore%2CEnjinMinecraftPlugin%2CLift%2CHolographicDisplays%2CWorldGuard%2CPunishmental%2CASkyBlock%2CEssentialsXMPP%2CEssentialsProtect%2CEssentialsGeoIP%2CServerSigns%2CEssentialsSpawn%2CPlayerHeads%2CGreenhouses%2CMobile_Workbench%2CSilkSpawners%2CEchoPet%2CFramePicture%2CCS-CoreLib%2CChestShop%2CSlimefun&playerlist=77dfc7d1-7e24-4371-9f9d-c89cf60bc59a%3AUnstableTNT%3Afalse%2Cb1d489a0-0a6f-44c1-997b-135a7bcc0916%3APreistest_Dragon%3Afalse&worlds=world%2Cworld_nether%2Cworld_the_end%2CASkyBlock%2CASkyBlock_nether&tps=19.97936378479004&time=world%3A2293%2C1%2C0%3BASkyBlock%3A11815%2C6%2C0&groups=Default%2CVIP%2CDonor%2CElite%2CUltra%2CYouTube%2CHelper%2CModerator%2CUniversal-Moderator%2CHead-Moderator%2CAdmin%2CHead-Dev%2CBuilder%2CHead-Admin%2COwner%2CMember%2CUvip
+2016/04/24 19:37:38 EDT [FINE] Packet [0x19](Enjin Status) received.
+2016/04/24 19:37:38 EDT [FINE] No more packets. End of stream. Update ended.
+2016/04/24 19:37:38 EDT [FINE] Raw data received:
+auth_error
+2016/04/24 19:37:38 EDT [WARNING] [Enjin Minecraft Plugin] Auth key invalid. Please regenerate on the enjin control panel.
+2016/04/24 19:37:38 EDT [FINE] Stopping tasks.
+2016/04/24 19:37:38 EDT [FINE] Synch unsuccessful.
+2016/04/24 19:37:39 EDT [FINE] Stats saved to enjin-stats.json.
+2016/04/24 19:44:31 EDT [FINE] Stopping tasks.
+2016/04/24 19:44:31 EDT [FINE] Stats saved to enjin-stats.json.
+Started logging the Enjin Plugin on 2016/04/24 19:45:05 EDT
+2016/04/24 19:45:05 EDT [FINE] Logger initialized.
+2016/04/24 19:45:05 EDT [FINE] Begin init
+2016/04/24 19:45:05 EDT [FINE] Init vars done.
+2016/04/24 19:45:05 EDT [FINE] Minecraft version: git-Spigot-044d928-e8c6403 (MC: 1.8.6)
+2016/04/24 19:45:05 EDT [FINE] MC Version string: 1.8.6
+2016/04/24 19:45:05 EDT [FINE] Get the ban list
+2016/04/24 19:45:05 EDT [FINE] Ban list loaded
+2016/04/24 19:45:05 EDT [FINE] Init files done.
+2016/04/24 19:45:05 EDT [INFO] Couldn't find the TuxTwoLib plugin. Only able to give items to online players only.
+2016/04/24 19:45:05 EDT [FINE] Initializing permissions.
+2016/04/24 19:45:05 EDT [FINE] Init plugins done.
+2016/04/24 19:45:05 EDT [FINE] PermissionsEx found, hooking custom events.
+2016/04/24 19:45:05 EDT [FINE] Setup permissions integration
+2016/04/24 19:45:05 EDT [INFO] Votifier plugin found, enabling Votifier support.
+2016/04/24 19:45:05 EDT [FINE] Setup Votifier integration
+2016/04/24 19:45:05 EDT [FINE] mcMMO found, hooking custom stats.
+2016/04/24 19:45:05 EDT [FINE] Registering events.
+2016/04/24 19:45:05 EDT [FINE] Starting periodic tasks.
+2016/04/24 19:45:05 EDT [FINE] Starting tasks.
+2016/04/24 19:45:05 EDT [FINE] Starting votifier task.
+2016/04/24 19:45:05 EDT [FINE] Connecting to Enjin to send config...
+2016/04/24 19:45:05 EDT [FINE] Sending content: 
+authkey=e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f&statscollected_player_deaths=1&statscollected_player_creeperexplosions=0&debug=0&listenforbans=1&statscollected_player_blocksbroken=1&statscollected_player_kills=1&statscollected_player_travel=1&statscollected_player_playerkicks=0&autoupdate=1&sendstatsinterval=5&collectplayerstats=1&statscollected_player_xp=1&statscollected_player_blocksplaced=1&https=1&usebuygui=1&buycommand=buy
+2016/04/24 19:46:11 EDT [FINE] Connecting to Enjin...
+2016/04/24 19:46:11 EDT [FINE] Sending content: 
+authkey=e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f&maxplayers=20&mc_version=1.8.6&players=2&hasranks=TRUE&pluginversion=2.7.2&plugins=OreGen2%2CAntiLag%2CPlugMan%2CAdministration_Panel%2CLockette%2CCustomRecipes%2CPixelator%2CSuperTrails%2CVoxelSniper%2CColoredChat%2CTelevator%2CSimple-AutoSave%2CChatColor%2CChatManager%2CChestMaster%2CLeakParkour%2CWorldEdit%2CAdminFun%2CTimTheEnchanter%2CFirstJoinPlus%2CHealthBar%2COpenInv%2CEssentials%2CAutoBroadcaster%2CScoreboard%2CCommandSigns%2CVotifier%2CProtocolLib%2CLibsDisguises%2CNoCheatPlus%2CShopkeepers%2CEssentialsChat%2CPermissionsEx%2CPTweaks%2CSuperCrate%2CmcMMO%2CGAListener%2CVault%2CMassiveCore%2CEnjinMinecraftPlugin%2CLift%2CHolographicDisplays%2CWorldGuard%2CPunishmental%2CASkyBlock%2CEssentialsXMPP%2CEssentialsProtect%2CEssentialsGeoIP%2CServerSigns%2CEssentialsSpawn%2CPlayerHeads%2CGreenhouses%2CMobile_Workbench%2CSilkSpawners%2CEchoPet%2CFramePicture%2CCS-CoreLib%2CChestShop%2CSlimefun&playerlist=77dfc7d1-7e24-4371-9f9d-c89cf60bc59a%3AUnstableTNT%3Afalse%2Cb1d489a0-0a6f-44c1-997b-135a7bcc0916%3APreistest_Dragon%3Afalse&worlds=world%2Cworld_nether%2Cworld_the_end%2CASkyBlock%2CASkyBlock_nether&tps=19.949560394287108&time=world%3A11738%2C1%2C0%3BASkyBlock%3A21260%2C6%2C1&groups=Default%2CVIP%2CDonor%2CElite%2CUltra%2CYouTube%2CHelper%2CModerator%2CUniversal-Moderator%2CHead-Moderator%2CAdmin%2CHead-Dev%2CBuilder%2CHead-Admin%2COwner%2CMember%2CUvip&playergroups=Preistest_Dragon%7Cb1d489a0-0a6f-44c1-997b-135a7bcc0916%3B*%3AHelper%0AUnstableTNT%7C77dfc7d1-7e24-4371-9f9d-c89cf60bc59a%3B*%3AOwner
+2016/04/24 19:46:11 EDT [FINE] Packet [0x19](Enjin Status) received.
+2016/04/24 19:46:11 EDT [FINE] No more packets. End of stream. Update ended.
+2016/04/24 19:46:11 EDT [FINE] Raw data received:
+auth_error
+2016/04/24 19:46:11 EDT [WARNING] [Enjin Minecraft Plugin] Auth key invalid. Please regenerate on the enjin control panel.
+2016/04/24 19:46:11 EDT [FINE] Stopping tasks.
+2016/04/24 19:46:11 EDT [FINE] Synch unsuccessful.
+2016/04/24 19:46:12 EDT [FINE] Stats saved to enjin-stats.json.
+2016/04/24 20:14:07 EDT [FINE] Stopping tasks.
+2016/04/24 20:14:08 EDT [FINE] Stats saved to enjin-stats.json.
+2016/04/24 20:14:14 EDT [FINE] Key value retrieved: e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f
+2016/04/24 20:14:14 EDT [FINE] Initializing internal logger
+2016/04/24 20:14:14 EDT [FINE] Logger initialized.
+2016/04/24 20:14:14 EDT [FINE] Begin init
+2016/04/24 20:14:14 EDT [FINE] Init vars done.
+2016/04/24 20:14:14 EDT [FINE] Minecraft version: git-Spigot-044d928-e8c6403 (MC: 1.8.6)
+2016/04/24 20:14:14 EDT [FINE] MC Version string: 1.8.6
+2016/04/24 20:14:14 EDT [FINE] Get the ban list
+2016/04/24 20:14:14 EDT [FINE] Ban list loaded
+2016/04/24 20:14:14 EDT [FINE] Init files done.
+2016/04/24 20:14:14 EDT [INFO] Couldn't find the TuxTwoLib plugin. Only able to give items to online players only.
+2016/04/24 20:14:14 EDT [FINE] Initializing permissions.
+2016/04/24 20:14:14 EDT [FINE] Init plugins done.
+2016/04/24 20:14:14 EDT [FINE] PermissionsEx found, hooking custom events.
+2016/04/24 20:14:14 EDT [FINE] Setup permissions integration
+2016/04/24 20:14:14 EDT [INFO] Votifier plugin found, enabling Votifier support.
+2016/04/24 20:14:14 EDT [FINE] Setup Votifier integration
+2016/04/24 20:14:14 EDT [FINE] mcMMO found, hooking custom stats.
+2016/04/24 20:14:14 EDT [FINE] Registering events.
+2016/04/24 20:14:14 EDT [FINE] Starting periodic tasks.
+2016/04/24 20:14:14 EDT [FINE] Starting tasks.
+2016/04/24 20:14:14 EDT [FINE] Starting votifier task.
+2016/04/24 20:14:14 EDT [FINE] Connecting to Enjin to send config...
+2016/04/24 20:14:14 EDT [FINE] Sending content: 
+authkey=e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f&statscollected_player_deaths=1&statscollected_player_creeperexplosions=0&debug=0&listenforbans=1&statscollected_player_blocksbroken=1&statscollected_player_kills=1&statscollected_player_travel=1&statscollected_player_playerkicks=0&autoupdate=1&sendstatsinterval=5&collectplayerstats=1&statscollected_player_xp=1&statscollected_player_blocksplaced=1&https=1&usebuygui=1&buycommand=buy
+2016/04/24 20:15:25 EDT [FINE] Connecting to Enjin...
+2016/04/24 20:15:25 EDT [FINE] Sending content: 
+authkey=e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f&maxplayers=20&mc_version=1.8.6&players=2&hasranks=TRUE&pluginversion=2.7.2&plugins=OreGen2%2CAntiLag%2CPlugMan%2CAdministration_Panel%2CLockette%2CCustomRecipes%2CPixelator%2CSuperTrails%2CVoxelSniper%2CColoredChat%2CTelevator%2CSimple-AutoSave%2CChatColor%2CChatManager%2CChestMaster%2CLeakParkour%2CWorldEdit%2CAdminFun%2CTimTheEnchanter%2CFirstJoinPlus%2CHealthBar%2COpenInv%2CEssentials%2CAutoBroadcaster%2CScoreboard%2CCommandSigns%2CVotifier%2CProtocolLib%2CLibsDisguises%2CNoCheatPlus%2CShopkeepers%2CEssentialsChat%2CPermissionsEx%2CPTweaks%2CSuperCrate%2CmcMMO%2CGAListener%2CVault%2CMassiveCore%2CEnjinMinecraftPlugin%2CLift%2CHolographicDisplays%2CWorldGuard%2CPunishmental%2CASkyBlock%2CEssentialsXMPP%2CEssentialsProtect%2CEssentialsGeoIP%2CServerSigns%2CEssentialsSpawn%2CPlayerHeads%2CGreenhouses%2CMobile_Workbench%2CSilkSpawners%2CEchoPet%2CFramePicture%2CCS-CoreLib%2CChestShop%2CSlimefun&playerlist=b1d489a0-0a6f-44c1-997b-135a7bcc0916%3APreistest_Dragon%3Afalse%2C77dfc7d1-7e24-4371-9f9d-c89cf60bc59a%3AUnstableTNT%3Afalse&worlds=world%2Cworld_nether%2Cworld_the_end%2CASkyBlock%2CASkyBlock_nether&tps=19.987234649658202&time=world%3A22426%2C2%2C0%3BASkyBlock%3A7948%2C0%2C1&groups=Default%2CVIP%2CDonor%2CElite%2CUltra%2CYouTube%2CHelper%2CModerator%2CUniversal-Moderator%2CHead-Moderator%2CAdmin%2CHead-Dev%2CBuilder%2CHead-Admin%2COwner%2CMember%2CUvip
+2016/04/24 20:15:25 EDT [FINE] Packet [0x19](Enjin Status) received.
+2016/04/24 20:15:25 EDT [FINE] No more packets. End of stream. Update ended.
+2016/04/24 20:15:25 EDT [FINE] Raw data received:
+auth_error
+2016/04/24 20:15:25 EDT [WARNING] [Enjin Minecraft Plugin] Auth key invalid. Please regenerate on the enjin control panel.
+2016/04/24 20:15:25 EDT [FINE] Stopping tasks.
+2016/04/24 20:15:25 EDT [FINE] Synch unsuccessful.
+2016/04/24 20:15:25 EDT [FINE] Stats saved to enjin-stats.json.
+2016/04/24 20:52:10 EDT [FINE] Stopping tasks.
+2016/04/24 20:52:10 EDT [FINE] Stats saved to enjin-stats.json.
+Started logging the Enjin Plugin on 2016/04/24 20:58:20 EDT
+2016/04/24 20:58:20 EDT [FINE] Logger initialized.
+2016/04/24 20:58:20 EDT [FINE] Begin init
+2016/04/24 20:58:20 EDT [FINE] Init vars done.
+2016/04/24 20:58:20 EDT [FINE] Minecraft version: git-Spigot-044d928-e8c6403 (MC: 1.8.6)
+2016/04/24 20:58:20 EDT [FINE] MC Version string: 1.8.6
+2016/04/24 20:58:20 EDT [FINE] Get the ban list
+2016/04/24 20:58:20 EDT [FINE] Ban list loaded
+2016/04/24 20:58:20 EDT [FINE] Init files done.
+2016/04/24 20:58:20 EDT [INFO] Couldn't find the TuxTwoLib plugin. Only able to give items to online players only.
+2016/04/24 20:58:20 EDT [FINE] Initializing permissions.
+2016/04/24 20:58:20 EDT [FINE] Init plugins done.
+2016/04/24 20:58:20 EDT [FINE] PermissionsEx found, hooking custom events.
+2016/04/24 20:58:20 EDT [FINE] Setup permissions integration
+2016/04/24 20:58:20 EDT [INFO] Votifier plugin found, enabling Votifier support.
+2016/04/24 20:58:20 EDT [FINE] Setup Votifier integration
+2016/04/24 20:58:20 EDT [FINE] mcMMO found, hooking custom stats.
+2016/04/24 20:58:20 EDT [FINE] Registering events.
+2016/04/24 20:58:20 EDT [FINE] Starting periodic tasks.
+2016/04/24 20:58:20 EDT [FINE] Starting tasks.
+2016/04/24 20:58:20 EDT [FINE] Starting votifier task.
+2016/04/24 20:58:20 EDT [FINE] Connecting to Enjin to send config...
+2016/04/24 20:58:20 EDT [FINE] Sending content: 
+authkey=e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f&statscollected_player_deaths=1&statscollected_player_creeperexplosions=0&debug=0&listenforbans=1&statscollected_player_blocksbroken=1&statscollected_player_kills=1&statscollected_player_travel=1&statscollected_player_playerkicks=0&autoupdate=1&sendstatsinterval=5&collectplayerstats=1&statscollected_player_xp=1&statscollected_player_blocksplaced=1&https=1&usebuygui=1&buycommand=buy
+2016/04/24 20:59:27 EDT [FINE] Connecting to Enjin...
+2016/04/24 20:59:27 EDT [FINE] Sending content: 
+authkey=e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f&maxplayers=20&mc_version=1.8.6&players=1&hasranks=TRUE&pluginversion=2.7.2&plugins=OreGen2%2CAntiLag%2CPlugMan%2CAdministration_Panel%2CLockette%2CCustomRecipes%2CPixelator%2CSuperTrails%2CVoxelSniper%2CColoredChat%2CTelevator%2CSimple-AutoSave%2CChatColor%2CChatManager%2CChestMaster%2CLeakParkour%2CWorldEdit%2CAdminFun%2CTimTheEnchanter%2CFirstJoinPlus%2CHealthBar%2COpenInv%2CEssentials%2CAutoBroadcaster%2CScoreboard%2CCommandSigns%2CVotifier%2CMultiverse-Core%2CProtocolLib%2CLibsDisguises%2CNoCheatPlus%2CShopkeepers%2CEssentialsChat%2CPermissionsEx%2CPTweaks%2CSuperCrate%2CmcMMO%2CGAListener%2CVault%2CEnjinMinecraftPlugin%2CLift%2CHolographicDisplays%2CWorldGuard%2CPunishmental%2CEssentialsXMPP%2CChestCommands%2CEssentialsProtect%2CEssentialsGeoIP%2CServerSigns%2CEssentialsSpawn%2CPlayerHeads%2CGreenhouses%2CMobile_Workbench%2CuSkyBlock%2CSilkSpawners%2CEchoPet%2CFramePicture%2CCS-CoreLib%2CChestShop%2CSlimefun&playerlist=77dfc7d1-7e24-4371-9f9d-c89cf60bc59a%3AUnstableTNT%3Afalse&worlds=world%2Cworld_nether%2Cworld_the_end%2Cskyworld&tps=20.098785552978516&time=world%3A19678%2C4%2C0%3Bskyworld%3A1153%2C0%2C0&groups=Default%2CVIP%2CDonor%2CElite%2CUltra%2CYouTube%2CHelper%2CModerator%2CUniversal-Moderator%2CHead-Moderator%2CAdmin%2CHead-Dev%2CBuilder%2CHead-Admin%2COwner%2CMember%2CUvip&playergroups=Preistest_Dragon%7Cb1d489a0-0a6f-44c1-997b-135a7bcc0916%3B*%3AHelper%0AUnstableTNT%7C77dfc7d1-7e24-4371-9f9d-c89cf60bc59a%3B*%3AOwner
+2016/04/24 20:59:27 EDT [FINE] Packet [0x19](Enjin Status) received.
+2016/04/24 20:59:27 EDT [FINE] No more packets. End of stream. Update ended.
+2016/04/24 20:59:27 EDT [FINE] Raw data received:
+auth_error
+2016/04/24 20:59:27 EDT [WARNING] [Enjin Minecraft Plugin] Auth key invalid. Please regenerate on the enjin control panel.
+2016/04/24 20:59:27 EDT [FINE] Stopping tasks.
+2016/04/24 20:59:27 EDT [FINE] Synch unsuccessful.
+2016/04/24 20:59:27 EDT [FINE] Stats saved to enjin-stats.json.
+2016/04/24 21:00:19 EDT [FINE] Stopping tasks.
+2016/04/24 21:00:19 EDT [FINE] Stats saved to enjin-stats.json.
+Started logging the Enjin Plugin on 2016/04/24 21:32:19 EDT
+2016/04/24 21:32:19 EDT [FINE] Logger initialized.
+2016/04/24 21:32:19 EDT [FINE] Begin init
+2016/04/24 21:32:19 EDT [FINE] Init vars done.
+2016/04/24 21:32:19 EDT [FINE] Minecraft version: git-Spigot-044d928-e8c6403 (MC: 1.8.6)
+2016/04/24 21:32:19 EDT [FINE] MC Version string: 1.8.6
+2016/04/24 21:32:19 EDT [FINE] Get the ban list
+2016/04/24 21:32:19 EDT [FINE] Ban list loaded
+2016/04/24 21:32:19 EDT [FINE] Init files done.
+2016/04/24 21:32:19 EDT [INFO] Couldn't find the TuxTwoLib plugin. Only able to give items to online players only.
+2016/04/24 21:32:19 EDT [FINE] Initializing permissions.
+2016/04/24 21:32:19 EDT [FINE] Init plugins done.
+2016/04/24 21:32:19 EDT [FINE] PermissionsEx found, hooking custom events.
+2016/04/24 21:32:19 EDT [FINE] Setup permissions integration
+2016/04/24 21:32:19 EDT [INFO] Votifier plugin found, enabling Votifier support.
+2016/04/24 21:32:19 EDT [FINE] Setup Votifier integration
+2016/04/24 21:32:19 EDT [FINE] mcMMO found, hooking custom stats.
+2016/04/24 21:32:19 EDT [FINE] Registering events.
+2016/04/24 21:32:19 EDT [FINE] Starting periodic tasks.
+2016/04/24 21:32:19 EDT [FINE] Starting tasks.
+2016/04/24 21:32:19 EDT [FINE] Starting votifier task.
+2016/04/24 21:32:19 EDT [FINE] Connecting to Enjin to send config...
+2016/04/24 21:32:19 EDT [FINE] Sending content: 
+authkey=e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f&statscollected_player_deaths=1&statscollected_player_creeperexplosions=0&debug=0&listenforbans=1&statscollected_player_blocksbroken=1&statscollected_player_kills=1&statscollected_player_travel=1&statscollected_player_playerkicks=0&autoupdate=1&sendstatsinterval=5&collectplayerstats=1&statscollected_player_xp=1&statscollected_player_blocksplaced=1&https=1&usebuygui=1&buycommand=buy
+2016/04/24 21:33:01 EDT [FINE] Stopping tasks.
+2016/04/24 21:33:01 EDT [FINE] Stats saved to enjin-stats.json.
+2016/04/24 21:33:09 EDT [FINE] Key value retrieved: e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f
+2016/04/24 21:33:09 EDT [FINE] Initializing internal logger
+2016/04/24 21:33:09 EDT [FINE] Logger initialized.
+2016/04/24 21:33:09 EDT [FINE] Begin init
+2016/04/24 21:33:09 EDT [FINE] Init vars done.
+2016/04/24 21:33:09 EDT [FINE] Minecraft version: git-Spigot-044d928-e8c6403 (MC: 1.8.6)
+2016/04/24 21:33:09 EDT [FINE] MC Version string: 1.8.6
+2016/04/24 21:33:09 EDT [FINE] Get the ban list
+2016/04/24 21:33:09 EDT [FINE] Ban list loaded
+2016/04/24 21:33:09 EDT [FINE] Init files done.
+2016/04/24 21:33:09 EDT [INFO] Couldn't find the TuxTwoLib plugin. Only able to give items to online players only.
+2016/04/24 21:33:09 EDT [FINE] Initializing permissions.
+2016/04/24 21:33:09 EDT [FINE] Init plugins done.
+2016/04/24 21:33:09 EDT [FINE] PermissionsEx found, hooking custom events.
+2016/04/24 21:33:09 EDT [FINE] Setup permissions integration
+2016/04/24 21:33:09 EDT [INFO] Votifier plugin found, enabling Votifier support.
+2016/04/24 21:33:09 EDT [FINE] Setup Votifier integration
+2016/04/24 21:33:09 EDT [FINE] mcMMO found, hooking custom stats.
+2016/04/24 21:33:09 EDT [FINE] Registering events.
+2016/04/24 21:33:09 EDT [FINE] Starting periodic tasks.
+2016/04/24 21:33:09 EDT [FINE] Starting tasks.
+2016/04/24 21:33:09 EDT [FINE] Starting votifier task.
+2016/04/24 21:33:09 EDT [FINE] Connecting to Enjin to send config...
+2016/04/24 21:33:09 EDT [FINE] Sending content: 
+authkey=e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f&statscollected_player_deaths=1&statscollected_player_creeperexplosions=0&debug=0&listenforbans=1&statscollected_player_blocksbroken=1&statscollected_player_kills=1&statscollected_player_travel=1&statscollected_player_playerkicks=0&autoupdate=1&sendstatsinterval=5&collectplayerstats=1&statscollected_player_xp=1&statscollected_player_blocksplaced=1&https=1&usebuygui=1&buycommand=buy
+2016/04/24 21:34:16 EDT [FINE] Connecting to Enjin...
+2016/04/24 21:34:16 EDT [FINE] Sending content: 
+authkey=e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f&maxplayers=20&mc_version=1.8.6&players=1&hasranks=TRUE&pluginversion=2.7.2&plugins=OreGen2%2CAntiLag%2CPlugMan%2CAdministration_Panel%2CLockette%2CCustomRecipes%2CPixelator%2CSuperTrails%2CVoxelSniper%2CColoredChat%2CTelevator%2CSimple-AutoSave%2CChatColor%2CChatManager%2CChestMaster%2CLeakParkour%2CWorldEdit%2CAdminFun%2CTimTheEnchanter%2CFirstJoinPlus%2CHealthBar%2COpenInv%2CEssentials%2CAutoBroadcaster%2CScoreboard%2CCommandSigns%2CVotifier%2CMultiverse-Core%2CProtocolLib%2CLibsDisguises%2CNoCheatPlus%2CShopkeepers%2CEssentialsChat%2CPermissionsEx%2CPTweaks%2CSuperCrate%2CmcMMO%2CGAListener%2CVault%2CEnjinMinecraftPlugin%2CLift%2CHolographicDisplays%2CWorldGuard%2CPunishmental%2CEssentialsXMPP%2CChestCommands%2CEssentialsProtect%2CEssentialsGeoIP%2CServerSigns%2CEssentialsSpawn%2CPlayerHeads%2CGreenhouses%2CMobile_Workbench%2CuSkyBlock%2CSilkSpawners%2CEchoPet%2CFramePicture%2CCS-CoreLib%2CChestShop%2CSlimefun&playerlist=77dfc7d1-7e24-4371-9f9d-c89cf60bc59a%3AUnstableTNT%3Afalse&worlds=world%2Cworld_nether%2Cworld_the_end%2Cskyworld_nether%2Cskyworld&tps=20.065599479675292&time=world%3A22524%2C4%2C0%3Bskyworld%3A5924%2C2%2C0&groups=Default%2CVIP%2CDonor%2CElite%2CUltra%2CYouTube%2CHelper%2CModerator%2CUniversal-Moderator%2CHead-Moderator%2CAdmin%2CHead-Dev%2CBuilder%2CHead-Admin%2COwner%2CMember%2CUvip&playergroups=UnstableTNT%7C77dfc7d1-7e24-4371-9f9d-c89cf60bc59a%3B*%3AOwner
+2016/04/24 21:34:16 EDT [FINE] Packet [0x19](Enjin Status) received.
+2016/04/24 21:34:16 EDT [FINE] No more packets. End of stream. Update ended.
+2016/04/24 21:34:16 EDT [FINE] Raw data received:
+auth_error
+2016/04/24 21:34:16 EDT [WARNING] [Enjin Minecraft Plugin] Auth key invalid. Please regenerate on the enjin control panel.
+2016/04/24 21:34:16 EDT [FINE] Stopping tasks.
+2016/04/24 21:34:16 EDT [FINE] Synch unsuccessful.
+2016/04/24 21:34:16 EDT [FINE] Stats saved to enjin-stats.json.
+2016/04/25 08:36:57 EDT [FINE] Stopping tasks.
+2016/04/25 08:36:57 EDT [FINE] Stats saved to enjin-stats.json.
+Started logging the Enjin Plugin on 2016/04/25 08:39:02 EDT
+2016/04/25 08:39:02 EDT [FINE] Logger initialized.
+2016/04/25 08:39:02 EDT [FINE] Begin init
+2016/04/25 08:39:02 EDT [FINE] Init vars done.
+2016/04/25 08:39:02 EDT [FINE] Minecraft version: git-Spigot-044d928-e8c6403 (MC: 1.8.6)
+2016/04/25 08:39:02 EDT [FINE] MC Version string: 1.8.6
+2016/04/25 08:39:02 EDT [FINE] Get the ban list
+2016/04/25 08:39:02 EDT [FINE] Ban list loaded
+2016/04/25 08:39:02 EDT [FINE] Init files done.
+2016/04/25 08:39:02 EDT [INFO] Couldn't find the TuxTwoLib plugin. Only able to give items to online players only.
+2016/04/25 08:39:02 EDT [FINE] Initializing permissions.
+2016/04/25 08:39:02 EDT [FINE] Init plugins done.
+2016/04/25 08:39:02 EDT [FINE] PermissionsEx found, hooking custom events.
+2016/04/25 08:39:02 EDT [FINE] Setup permissions integration
+2016/04/25 08:39:02 EDT [INFO] Votifier plugin found, enabling Votifier support.
+2016/04/25 08:39:02 EDT [FINE] Setup Votifier integration
+2016/04/25 08:39:02 EDT [FINE] mcMMO found, hooking custom stats.
+2016/04/25 08:39:02 EDT [FINE] Registering events.
+2016/04/25 08:39:02 EDT [FINE] Starting periodic tasks.
+2016/04/25 08:39:02 EDT [FINE] Starting tasks.
+2016/04/25 08:39:02 EDT [FINE] Starting votifier task.
+2016/04/25 08:39:02 EDT [FINE] Connecting to Enjin to send config...
+2016/04/25 08:39:02 EDT [FINE] Sending content: 
+authkey=e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f&statscollected_player_deaths=1&statscollected_player_creeperexplosions=0&debug=0&listenforbans=1&statscollected_player_blocksbroken=1&statscollected_player_kills=1&statscollected_player_travel=1&statscollected_player_playerkicks=0&autoupdate=1&sendstatsinterval=5&collectplayerstats=1&statscollected_player_xp=1&statscollected_player_blocksplaced=1&https=1&usebuygui=1&buycommand=buy
+2016/04/25 08:40:10 EDT [FINE] Connecting to Enjin...
+2016/04/25 08:40:10 EDT [FINE] Sending content: 
+authkey=e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f&maxplayers=20&mc_version=1.8.6&players=1&hasranks=TRUE&pluginversion=2.7.2&plugins=OreGen2%2CAntiLag%2CPlugMan%2CAdministration_Panel%2CLockette%2CCustomRecipes%2CPixelator%2CSuperTrails%2CVoxelSniper%2CColoredChat%2CTelevator%2CSimple-AutoSave%2CChatColor%2CChatManager%2CChestMaster%2CLeakParkour%2CWorldEdit%2CAdminFun%2CTimTheEnchanter%2CFirstJoinPlus%2CHealthBar%2COpenInv%2CEssentials%2CAutoBroadcaster%2CScoreboard%2CCommandSigns%2CVotifier%2CProtocolLib%2CLibsDisguises%2CNoCheatPlus%2CEssentialsChat%2CPermissionsEx%2CPTweaks%2CSuperCrate%2CmcMMO%2CGAListener%2CVault%2CEnjinMinecraftPlugin%2CLift%2CWorldGuard%2CPunishmental%2CASkyBlock%2CEssentialsXMPP%2CChestCommands%2CEssentialsProtect%2CEssentialsGeoIP%2CServerSigns%2CEssentialsSpawn%2CPlayerHeads%2CGreenhouses%2CMobile_Workbench%2CSilkSpawners%2CMultiverse-Core%2CShopkeepers%2CEchoPet%2CFramePicture%2CCS-CoreLib%2CChestShop%2CHolographicDisplays%2CSlimefun&playerlist=77dfc7d1-7e24-4371-9f9d-c89cf60bc59a%3AUnstableTNT%3Afalse&worlds=world%2Cworld_nether%2Cworld_the_end%2CASkyBlock%2CASkyBlock_nether&tps=19.96810073852539&time=world%3A1385%2C6%2C0%3BASkyBlock%3A5200%2C2%2C0&groups=Default%2CVIP%2CDonor%2CElite%2CUltra%2CYouTube%2CHelper%2CModerator%2CUniversal-Moderator%2CHead-Moderator%2CAdmin%2CHead-Dev%2CBuilder%2CHead-Admin%2COwner%2CMember%2CUvip&playergroups=UnstableTNT%7C77dfc7d1-7e24-4371-9f9d-c89cf60bc59a%3B*%3AOwner
+2016/04/25 08:40:10 EDT [FINE] Packet [0x19](Enjin Status) received.
+2016/04/25 08:40:10 EDT [FINE] No more packets. End of stream. Update ended.
+2016/04/25 08:40:10 EDT [FINE] Raw data received:
+auth_error
+2016/04/25 08:40:10 EDT [WARNING] [Enjin Minecraft Plugin] Auth key invalid. Please regenerate on the enjin control panel.
+2016/04/25 08:40:10 EDT [FINE] Stopping tasks.
+2016/04/25 08:40:10 EDT [FINE] Synch unsuccessful.
+2016/04/25 08:40:10 EDT [FINE] Stats saved to enjin-stats.json.
+2016/04/25 08:46:04 EDT [FINE] Stopping tasks.
+2016/04/25 08:46:04 EDT [FINE] Stats saved to enjin-stats.json.
+2016/04/25 08:46:10 EDT [FINE] Key value retrieved: e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f
+2016/04/25 08:46:10 EDT [FINE] Initializing internal logger
+2016/04/25 08:46:10 EDT [FINE] Logger initialized.
+2016/04/25 08:46:10 EDT [FINE] Begin init
+2016/04/25 08:46:10 EDT [FINE] Init vars done.
+2016/04/25 08:46:10 EDT [FINE] Minecraft version: git-Spigot-044d928-e8c6403 (MC: 1.8.6)
+2016/04/25 08:46:10 EDT [FINE] MC Version string: 1.8.6
+2016/04/25 08:46:10 EDT [FINE] Get the ban list
+2016/04/25 08:46:10 EDT [FINE] Ban list loaded
+2016/04/25 08:46:10 EDT [FINE] Init files done.
+2016/04/25 08:46:10 EDT [INFO] Couldn't find the TuxTwoLib plugin. Only able to give items to online players only.
+2016/04/25 08:46:10 EDT [FINE] Initializing permissions.
+2016/04/25 08:46:10 EDT [FINE] Init plugins done.
+2016/04/25 08:46:10 EDT [FINE] PermissionsEx found, hooking custom events.
+2016/04/25 08:46:10 EDT [FINE] Setup permissions integration
+2016/04/25 08:46:10 EDT [INFO] Votifier plugin found, enabling Votifier support.
+2016/04/25 08:46:10 EDT [FINE] Setup Votifier integration
+2016/04/25 08:46:10 EDT [FINE] mcMMO found, hooking custom stats.
+2016/04/25 08:46:10 EDT [FINE] Registering events.
+2016/04/25 08:46:10 EDT [FINE] Starting periodic tasks.
+2016/04/25 08:46:10 EDT [FINE] Starting tasks.
+2016/04/25 08:46:10 EDT [FINE] Starting votifier task.
+2016/04/25 08:46:11 EDT [FINE] Connecting to Enjin to send config...
+2016/04/25 08:46:11 EDT [FINE] Sending content: 
+authkey=e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f&statscollected_player_deaths=1&statscollected_player_creeperexplosions=0&debug=0&listenforbans=1&statscollected_player_blocksbroken=1&statscollected_player_kills=1&statscollected_player_travel=1&statscollected_player_playerkicks=0&autoupdate=1&sendstatsinterval=5&collectplayerstats=1&statscollected_player_xp=1&statscollected_player_blocksplaced=1&https=1&usebuygui=1&buycommand=buy
+2016/04/25 08:47:18 EDT [FINE] Connecting to Enjin...
+2016/04/25 08:47:18 EDT [FINE] Sending content: 
+authkey=e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f&maxplayers=20&mc_version=1.8.6&players=2&hasranks=TRUE&pluginversion=2.7.2&plugins=OreGen2%2CAntiLag%2CPlugMan%2CAdministration_Panel%2CLockette%2CCustomRecipes%2CPixelator%2CSuperTrails%2CVoxelSniper%2CColoredChat%2CTelevator%2CSimple-AutoSave%2CChatColor%2CChatManager%2CChestMaster%2CLeakParkour%2CWorldEdit%2CAdminFun%2CTimTheEnchanter%2CFirstJoinPlus%2CHealthBar%2COpenInv%2CEssentials%2CAutoBroadcaster%2CScoreboard%2CCommandSigns%2CVotifier%2CProtocolLib%2CLibsDisguises%2CNoCheatPlus%2CEssentialsChat%2CPermissionsEx%2CPTweaks%2CSuperCrate%2CmcMMO%2CGAListener%2CVault%2CEnjinMinecraftPlugin%2CLift%2CWorldGuard%2CPunishmental%2CASkyBlock%2CEssentialsXMPP%2CChestCommands%2CEssentialsProtect%2CEssentialsGeoIP%2CServerSigns%2CEssentialsSpawn%2CPlayerHeads%2CGreenhouses%2CMobile_Workbench%2CSilkSpawners%2CMultiverse-Core%2CShopkeepers%2CEchoPet%2CFramePicture%2CCS-CoreLib%2CChestShop%2CHolographicDisplays%2CSlimefun&playerlist=77dfc7d1-7e24-4371-9f9d-c89cf60bc59a%3AUnstableTNT%3Afalse%2Cb1d489a0-0a6f-44c1-997b-135a7bcc0916%3APreistest_Dragon%3Afalse&worlds=world%2Cworld_nether%2Cworld_the_end%2CASkyBlock%2CASkyBlock_nether&tps=19.992406921386717&time=world%3A9670%2C6%2C0%3BASkyBlock%3A13485%2C2%2C0&groups=Default%2CVIP%2CDonor%2CElite%2CUltra%2CYouTube%2CHelper%2CModerator%2CUniversal-Moderator%2CHead-Moderator%2CAdmin%2CHead-Dev%2CBuilder%2CHead-Admin%2COwner%2CMember%2CUvip
+2016/04/25 08:47:18 EDT [FINE] Packet [0x19](Enjin Status) received.
+2016/04/25 08:47:18 EDT [FINE] No more packets. End of stream. Update ended.
+2016/04/25 08:47:18 EDT [FINE] Raw data received:
+auth_error
+2016/04/25 08:47:18 EDT [WARNING] [Enjin Minecraft Plugin] Auth key invalid. Please regenerate on the enjin control panel.
+2016/04/25 08:47:18 EDT [FINE] Stopping tasks.
+2016/04/25 08:47:18 EDT [FINE] Synch unsuccessful.
+2016/04/25 08:47:18 EDT [FINE] Stats saved to enjin-stats.json.
+2016/04/25 08:48:05 EDT [FINE] Stopping tasks.
+2016/04/25 08:48:05 EDT [FINE] Stats saved to enjin-stats.json.
+2016/04/25 08:48:11 EDT [FINE] Key value retrieved: e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f
+2016/04/25 08:48:11 EDT [FINE] Initializing internal logger
+2016/04/25 08:48:11 EDT [FINE] Logger initialized.
+2016/04/25 08:48:11 EDT [FINE] Begin init
+2016/04/25 08:48:11 EDT [FINE] Init vars done.
+2016/04/25 08:48:11 EDT [FINE] Minecraft version: git-Spigot-044d928-e8c6403 (MC: 1.8.6)
+2016/04/25 08:48:11 EDT [FINE] MC Version string: 1.8.6
+2016/04/25 08:48:11 EDT [FINE] Get the ban list
+2016/04/25 08:48:11 EDT [FINE] Ban list loaded
+2016/04/25 08:48:11 EDT [FINE] Init files done.
+2016/04/25 08:48:11 EDT [INFO] Couldn't find the TuxTwoLib plugin. Only able to give items to online players only.
+2016/04/25 08:48:11 EDT [FINE] Initializing permissions.
+2016/04/25 08:48:11 EDT [FINE] Init plugins done.
+2016/04/25 08:48:11 EDT [FINE] PermissionsEx found, hooking custom events.
+2016/04/25 08:48:11 EDT [FINE] Setup permissions integration
+2016/04/25 08:48:11 EDT [INFO] Votifier plugin found, enabling Votifier support.
+2016/04/25 08:48:11 EDT [FINE] Setup Votifier integration
+2016/04/25 08:48:11 EDT [FINE] mcMMO found, hooking custom stats.
+2016/04/25 08:48:11 EDT [FINE] Registering events.
+2016/04/25 08:48:11 EDT [FINE] Starting periodic tasks.
+2016/04/25 08:48:11 EDT [FINE] Starting tasks.
+2016/04/25 08:48:11 EDT [FINE] Starting votifier task.
+2016/04/25 08:48:11 EDT [FINE] Connecting to Enjin to send config...
+2016/04/25 08:48:11 EDT [FINE] Sending content: 
+authkey=e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f&statscollected_player_deaths=1&statscollected_player_creeperexplosions=0&debug=0&listenforbans=1&statscollected_player_blocksbroken=1&statscollected_player_kills=1&statscollected_player_travel=1&statscollected_player_playerkicks=0&autoupdate=1&sendstatsinterval=5&collectplayerstats=1&statscollected_player_xp=1&statscollected_player_blocksplaced=1&https=1&usebuygui=1&buycommand=buy
+2016/04/25 08:49:19 EDT [FINE] Connecting to Enjin...
+2016/04/25 08:49:19 EDT [FINE] Sending content: 
+authkey=e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f&maxplayers=20&mc_version=1.8.6&players=2&hasranks=TRUE&pluginversion=2.7.2&plugins=OreGen2%2CAntiLag%2CPlugMan%2CAdministration_Panel%2CLockette%2CCustomRecipes%2CPixelator%2CSuperTrails%2CVoxelSniper%2CColoredChat%2CTelevator%2CSimple-AutoSave%2CChatColor%2CChatManager%2CChestMaster%2CLeakParkour%2CWorldEdit%2CAdminFun%2CTimTheEnchanter%2CFirstJoinPlus%2CHealthBar%2COpenInv%2CEssentials%2CAutoBroadcaster%2CScoreboard%2CCommandSigns%2CVotifier%2CProtocolLib%2CLibsDisguises%2CNoCheatPlus%2CEssentialsChat%2CPermissionsEx%2CPTweaks%2CSuperCrate%2CmcMMO%2CGAListener%2CVault%2CEnjinMinecraftPlugin%2CLift%2CWorldGuard%2CPunishmental%2CASkyBlock%2CEssentialsXMPP%2CChestCommands%2CEssentialsProtect%2CEssentialsGeoIP%2CServerSigns%2CEssentialsSpawn%2CPlayerHeads%2CGreenhouses%2CMobile_Workbench%2CSilkSpawners%2CMultiverse-Core%2CShopkeepers%2CEchoPet%2CFramePicture%2CCS-CoreLib%2CChestShop%2CHolographicDisplays%2CSlimefun&playerlist=77dfc7d1-7e24-4371-9f9d-c89cf60bc59a%3AUnstableTNT%3Afalse%2Cb1d489a0-0a6f-44c1-997b-135a7bcc0916%3APreistest_Dragon%3Afalse&worlds=world%2Cworld_nether%2Cworld_the_end%2CASkyBlock%2CASkyBlock_nether&tps=19.979364929199217&time=world%3A11811%2C6%2C0%3BASkyBlock%3A15626%2C2%2C0&groups=Default%2CVIP%2CDonor%2CElite%2CUltra%2CYouTube%2CHelper%2CModerator%2CUniversal-Moderator%2CHead-Moderator%2CAdmin%2CHead-Dev%2CBuilder%2CHead-Admin%2COwner%2CMember%2CUvip
+2016/04/25 08:49:19 EDT [FINE] Packet [0x19](Enjin Status) received.
+2016/04/25 08:49:19 EDT [FINE] No more packets. End of stream. Update ended.
+2016/04/25 08:49:19 EDT [FINE] Raw data received:
+auth_error
+2016/04/25 08:49:19 EDT [WARNING] [Enjin Minecraft Plugin] Auth key invalid. Please regenerate on the enjin control panel.
+2016/04/25 08:49:19 EDT [FINE] Stopping tasks.
+2016/04/25 08:49:19 EDT [FINE] Synch unsuccessful.
+2016/04/25 08:49:19 EDT [FINE] Stats saved to enjin-stats.json.
+2016/04/25 09:04:11 EDT [FINE] Psychics_ just got a rank change... processing...
+2016/04/25 09:05:11 EDT [FINE] PixelMinerXD123 just got a rank change... processing...
+2016/04/25 09:26:53 EDT [FINE] LadySjako just got a rank change... processing...
+2016/04/25 09:27:34 EDT [FINE] Preistest_Dragon just got a rank change... processing...
+2016/04/25 09:27:41 EDT [FINE] Preistest_Dragon just got a rank change... processing...
+2016/04/25 15:20:43 EDT [FINE] Stopping tasks.
+2016/04/25 15:20:43 EDT [FINE] Stats saved to enjin-stats.json.
+Started logging the Enjin Plugin on 2016/04/26 12:50:31 EDT
+2016/04/26 12:50:31 EDT [FINE] Logger initialized.
+2016/04/26 12:50:31 EDT [FINE] Begin init
+2016/04/26 12:50:31 EDT [FINE] Init vars done.
+2016/04/26 12:50:31 EDT [FINE] Minecraft version: git-Spigot-044d928-e8c6403 (MC: 1.8.6)
+2016/04/26 12:50:31 EDT [FINE] MC Version string: 1.8.6
+2016/04/26 12:50:31 EDT [FINE] Get the ban list
+2016/04/26 12:50:31 EDT [FINE] Ban list loaded
+2016/04/26 12:50:31 EDT [FINE] Init files done.
+2016/04/26 12:50:31 EDT [INFO] Couldn't find the TuxTwoLib plugin. Only able to give items to online players only.
+2016/04/26 12:50:31 EDT [FINE] Initializing permissions.
+2016/04/26 12:50:31 EDT [FINE] Init plugins done.
+2016/04/26 12:50:31 EDT [FINE] PermissionsEx found, hooking custom events.
+2016/04/26 12:50:31 EDT [FINE] Setup permissions integration
+2016/04/26 12:50:31 EDT [INFO] Votifier plugin found, enabling Votifier support.
+2016/04/26 12:50:31 EDT [FINE] Setup Votifier integration
+2016/04/26 12:50:31 EDT [FINE] mcMMO found, hooking custom stats.
+2016/04/26 12:50:31 EDT [FINE] Registering events.
+2016/04/26 12:50:31 EDT [FINE] Starting periodic tasks.
+2016/04/26 12:50:31 EDT [FINE] Starting tasks.
+2016/04/26 12:50:31 EDT [FINE] Starting votifier task.
+2016/04/26 12:50:31 EDT [FINE] Connecting to Enjin to send config...
+2016/04/26 12:50:31 EDT [FINE] Sending content: 
+authkey=e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f&statscollected_player_deaths=1&statscollected_player_creeperexplosions=0&debug=0&listenforbans=1&statscollected_player_blocksbroken=1&statscollected_player_kills=1&statscollected_player_travel=1&statscollected_player_playerkicks=0&autoupdate=1&sendstatsinterval=5&collectplayerstats=1&statscollected_player_xp=1&statscollected_player_blocksplaced=1&https=1&usebuygui=1&buycommand=buy
+2016/04/26 12:51:39 EDT [FINE] Connecting to Enjin...
+2016/04/26 12:51:39 EDT [FINE] Sending content: 
+authkey=e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f&maxplayers=20&mc_version=1.8.6&players=3&hasranks=TRUE&pluginversion=2.7.2&plugins=OreGen2%2CAntiLag%2CPlugMan%2CAdministration_Panel%2CLockette%2CCustomRecipes%2CPixelator%2CSuperTrails%2CVoxelSniper%2CColoredChat%2CTelevator%2CSimple-AutoSave%2CChatColor%2CChatManager%2CChestMaster%2CLeakParkour%2CWorldEdit%2CAdminFun%2CTimTheEnchanter%2CFirstJoinPlus%2CHealthBar%2COpenInv%2CEssentials%2CAutoBroadcaster%2CScoreboard%2CCommandSigns%2CVotifier%2CProtocolLib%2CLibsDisguises%2CNoCheatPlus%2CEssentialsChat%2CPermissionsEx%2CPTweaks%2CSuperCrate%2CmcMMO%2CGAListener%2CVault%2CEnjinMinecraftPlugin%2CLift%2CWorldGuard%2CPunishmental%2CASkyBlock%2CEssentialsXMPP%2CChestCommands%2CEssentialsProtect%2CEssentialsGeoIP%2CServerSigns%2CEssentialsSpawn%2CPlayerHeads%2CGreenhouses%2CMobile_Workbench%2CSilkSpawners%2CMultiverse-Core%2CShopkeepers%2CEchoPet%2CFramePicture%2CCS-CoreLib%2CChestShop%2CHolographicDisplays%2CSlimefun&playerlist=4ecc907f-d0dc-4c18-bb2a-f9e1f71f5ab3%3APsychics_%3Afalse%2C77dfc7d1-7e24-4371-9f9d-c89cf60bc59a%3AUnstableTNT%3Afalse%2Cb1d489a0-0a6f-44c1-997b-135a7bcc0916%3APreistest_Dragon%3Afalse&worlds=world%2Cworld_nether%2Cworld_the_end%2CASkyBlock%2CASkyBlock_nether&tps=20.035309677124022&time=world%3A20744%2C1%2C0%3BASkyBlock%3A559%2C6%2C0&groups=Default%2CVIP%2CDonor%2CElite%2CUltra%2CYouTube%2CHelper%2CModerator%2CUniversal-Moderator%2CHead-Moderator%2CAdmin%2CHead-Dev%2CBuilder%2CHead-Admin%2COwner%2CMember%2CUvip&playergroups=Psychics_%7C4ecc907f-d0dc-4c18-bb2a-f9e1f71f5ab3%3B*%3AModerator%0APreistest_Dragon%7Cb1d489a0-0a6f-44c1-997b-135a7bcc0916%3B*%3AAdmin%0AUnstableTNT%7C77dfc7d1-7e24-4371-9f9d-c89cf60bc59a%3B*%3AOwner
+2016/04/26 12:51:39 EDT [FINE] Packet [0x19](Enjin Status) received.
+2016/04/26 12:51:39 EDT [FINE] No more packets. End of stream. Update ended.
+2016/04/26 12:51:39 EDT [FINE] Raw data received:
+auth_error
+2016/04/26 12:51:39 EDT [WARNING] [Enjin Minecraft Plugin] Auth key invalid. Please regenerate on the enjin control panel.
+2016/04/26 12:51:39 EDT [FINE] Stopping tasks.
+2016/04/26 12:51:39 EDT [FINE] Synch unsuccessful.
+2016/04/26 12:51:40 EDT [FINE] Stats saved to enjin-stats.json.
+2016/04/26 13:19:12 EDT [FINE] Stopping tasks.
+2016/04/26 13:19:12 EDT [FINE] Stats saved to enjin-stats.json.
+2016/04/26 13:19:19 EDT [FINE] Key value retrieved: e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f
+2016/04/26 13:19:19 EDT [FINE] Initializing internal logger
+2016/04/26 13:19:19 EDT [FINE] Logger initialized.
+2016/04/26 13:19:19 EDT [FINE] Begin init
+2016/04/26 13:19:19 EDT [FINE] Init vars done.
+2016/04/26 13:19:19 EDT [FINE] Minecraft version: git-Spigot-044d928-e8c6403 (MC: 1.8.6)
+2016/04/26 13:19:19 EDT [FINE] MC Version string: 1.8.6
+2016/04/26 13:19:19 EDT [FINE] Get the ban list
+2016/04/26 13:19:19 EDT [FINE] Ban list loaded
+2016/04/26 13:19:19 EDT [FINE] Init files done.
+2016/04/26 13:19:19 EDT [INFO] Couldn't find the TuxTwoLib plugin. Only able to give items to online players only.
+2016/04/26 13:19:19 EDT [FINE] Initializing permissions.
+2016/04/26 13:19:19 EDT [FINE] Init plugins done.
+2016/04/26 13:19:19 EDT [FINE] PermissionsEx found, hooking custom events.
+2016/04/26 13:19:19 EDT [FINE] Setup permissions integration
+2016/04/26 13:19:19 EDT [INFO] Votifier plugin found, enabling Votifier support.
+2016/04/26 13:19:19 EDT [FINE] Setup Votifier integration
+2016/04/26 13:19:19 EDT [FINE] mcMMO found, hooking custom stats.
+2016/04/26 13:19:19 EDT [FINE] Registering events.
+2016/04/26 13:19:19 EDT [FINE] Starting periodic tasks.
+2016/04/26 13:19:19 EDT [FINE] Starting tasks.
+2016/04/26 13:19:19 EDT [FINE] Starting votifier task.
+2016/04/26 13:19:19 EDT [FINE] Connecting to Enjin to send config...
+2016/04/26 13:19:19 EDT [FINE] Sending content: 
+authkey=e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f&statscollected_player_deaths=1&statscollected_player_creeperexplosions=0&debug=0&listenforbans=1&statscollected_player_blocksbroken=1&statscollected_player_kills=1&statscollected_player_travel=1&statscollected_player_playerkicks=0&autoupdate=1&sendstatsinterval=5&collectplayerstats=1&statscollected_player_xp=1&statscollected_player_blocksplaced=1&https=1&usebuygui=1&buycommand=buy
+2016/04/26 13:20:33 EDT [FINE] Connecting to Enjin...
+2016/04/26 13:20:33 EDT [FINE] Sending content: 
+authkey=e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f&maxplayers=20&mc_version=1.8.6&players=3&hasranks=TRUE&pluginversion=2.7.2&plugins=OreGen2%2CAntiLag%2CPlugMan%2CAdministration_Panel%2CLockette%2CCustomRecipes%2CPixelator%2CSuperTrails%2CVoxelSniper%2CColoredChat%2CTelevator%2CSimple-AutoSave%2CChatColor%2CChatManager%2CChestMaster%2CLeakParkour%2CWorldEdit%2CAdminFun%2CTimTheEnchanter%2CFirstJoinPlus%2CHealthBar%2COpenInv%2CEssentials%2CAutoBroadcaster%2CScoreboard%2CCommandSigns%2CVotifier%2CProtocolLib%2CLibsDisguises%2CNoCheatPlus%2CEssentialsChat%2CPermissionsEx%2CPTweaks%2CSuperCrate%2CmcMMO%2CGAListener%2CVault%2CEnjinMinecraftPlugin%2CLift%2CWorldGuard%2CPunishmental%2CASkyBlock%2CEssentialsXMPP%2CChestCommands%2CEssentialsProtect%2CEssentialsGeoIP%2CServerSigns%2CEssentialsSpawn%2CPlayerHeads%2CGreenhouses%2CMobile_Workbench%2CSilkSpawners%2CMultiverse-Core%2CShopkeepers%2CEchoPet%2CFramePicture%2CCS-CoreLib%2CChestShop%2CHolographicDisplays%2CSlimefun&playerlist=77dfc7d1-7e24-4371-9f9d-c89cf60bc59a%3AUnstableTNT%3Afalse%2Cb1d489a0-0a6f-44c1-997b-135a7bcc0916%3APreistest_Dragon%3Afalse%2C4ecc907f-d0dc-4c18-bb2a-f9e1f71f5ab3%3APsychics_%3Afalse&worlds=world%2Cworld_nether%2Cworld_the_end%2CASkyBlock%2CASkyBlock_nether&tps=19.982087478637695&time=world%3A5889%2C3%2C0%3BASkyBlock%3A9704%2C7%2C0&groups=Default%2CVIP%2CDonor%2CElite%2CUltra%2CYouTube%2CHelper%2CModerator%2CUniversal-Moderator%2CHead-Moderator%2CAdmin%2CHead-Dev%2CBuilder%2CHead-Admin%2COwner%2CMember%2CUvip&playergroups=Psychics_%7C4ecc907f-d0dc-4c18-bb2a-f9e1f71f5ab3%3B*%3AModerator
+2016/04/26 13:20:33 EDT [FINE] Packet [0x19](Enjin Status) received.
+2016/04/26 13:20:33 EDT [FINE] No more packets. End of stream. Update ended.
+2016/04/26 13:20:33 EDT [FINE] Raw data received:
+auth_error
+2016/04/26 13:20:33 EDT [WARNING] [Enjin Minecraft Plugin] Auth key invalid. Please regenerate on the enjin control panel.
+2016/04/26 13:20:33 EDT [FINE] Stopping tasks.
+2016/04/26 13:20:33 EDT [FINE] Synch unsuccessful.
+2016/04/26 13:20:34 EDT [FINE] Stats saved to enjin-stats.json.
+2016/04/27 14:05:22 EDT [FINE] Stopping tasks.
+2016/04/27 14:05:23 EDT [FINE] Stats saved to enjin-stats.json.
+2016/04/27 14:05:29 EDT [FINE] Key value retrieved: e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f
+2016/04/27 14:05:29 EDT [FINE] Initializing internal logger
+2016/04/27 14:05:29 EDT [FINE] Logger initialized.
+2016/04/27 14:05:29 EDT [FINE] Begin init
+2016/04/27 14:05:29 EDT [FINE] Init vars done.
+2016/04/27 14:05:29 EDT [FINE] Minecraft version: git-Spigot-044d928-e8c6403 (MC: 1.8.6)
+2016/04/27 14:05:29 EDT [FINE] MC Version string: 1.8.6
+2016/04/27 14:05:29 EDT [FINE] Get the ban list
+2016/04/27 14:05:29 EDT [FINE] Ban list loaded
+2016/04/27 14:05:29 EDT [FINE] Init files done.
+2016/04/27 14:05:29 EDT [INFO] Couldn't find the TuxTwoLib plugin. Only able to give items to online players only.
+2016/04/27 14:05:29 EDT [FINE] Initializing permissions.
+2016/04/27 14:05:29 EDT [FINE] Init plugins done.
+2016/04/27 14:05:29 EDT [FINE] PermissionsEx found, hooking custom events.
+2016/04/27 14:05:29 EDT [FINE] Setup permissions integration
+2016/04/27 14:05:29 EDT [INFO] Votifier plugin found, enabling Votifier support.
+2016/04/27 14:05:29 EDT [FINE] Setup Votifier integration
+2016/04/27 14:05:29 EDT [FINE] mcMMO found, hooking custom stats.
+2016/04/27 14:05:29 EDT [FINE] Registering events.
+2016/04/27 14:05:29 EDT [FINE] Starting periodic tasks.
+2016/04/27 14:05:29 EDT [FINE] Starting tasks.
+2016/04/27 14:05:29 EDT [FINE] Starting votifier task.
+2016/04/27 14:05:29 EDT [FINE] Connecting to Enjin to send config...
+2016/04/27 14:05:29 EDT [FINE] Sending content: 
+authkey=e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f&statscollected_player_deaths=1&statscollected_player_creeperexplosions=0&debug=0&listenforbans=1&statscollected_player_blocksbroken=1&statscollected_player_kills=1&statscollected_player_travel=1&statscollected_player_playerkicks=0&autoupdate=1&sendstatsinterval=5&collectplayerstats=1&statscollected_player_xp=1&statscollected_player_blocksplaced=1&https=1&usebuygui=1&buycommand=buy
+2016/04/27 14:06:42 EDT [FINE] Connecting to Enjin...
+2016/04/27 14:06:42 EDT [FINE] Sending content: 
+authkey=e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f&maxplayers=20&mc_version=1.8.6&players=3&hasranks=TRUE&pluginversion=2.7.2&plugins=OreGen2%2CAntiLag%2CPlugMan%2CAdministration_Panel%2CLockette%2CCustomRecipes%2CPixelator%2CSuperTrails%2CVoxelSniper%2CColoredChat%2CTelevator%2CSimple-AutoSave%2CChatColor%2CChatManager%2CChestMaster%2CLeakParkour%2CWorldEdit%2CAdminFun%2CTimTheEnchanter%2CFirstJoinPlus%2CHealthBar%2COpenInv%2CEssentials%2CAutoBroadcaster%2CScoreboard%2CCommandSigns%2CVotifier%2CProtocolLib%2CLibsDisguises%2CNoCheatPlus%2CEssentialsChat%2CPermissionsEx%2CPTweaks%2CSuperCrate%2CmcMMO%2CGAListener%2CVault%2CEnjinMinecraftPlugin%2CLift%2CWorldGuard%2CPunishmental%2CASkyBlock%2CEssentialsXMPP%2CChestCommands%2CEssentialsProtect%2CEssentialsGeoIP%2CServerSigns%2CEssentialsSpawn%2CPlayerHeads%2CGreenhouses%2CMobile_Workbench%2CSilkSpawners%2CMultiverse-Core%2CShopkeepers%2CEchoPet%2CFramePicture%2CCS-CoreLib%2CChestShop%2CHolographicDisplays%2CSlimefun&playerlist=4ecc907f-d0dc-4c18-bb2a-f9e1f71f5ab3%3APsychics_%3Afalse%2C77dfc7d1-7e24-4371-9f9d-c89cf60bc59a%3AUnstableTNT%3Afalse%2Cb1d489a0-0a6f-44c1-997b-135a7bcc0916%3APreistest_Dragon%3Afalse&worlds=world%2Cworld_nether%2Cworld_the_end%2CASkyBlock%2CASkyBlock_nether&tps=19.98405403137207&time=world%3A10754%2C5%2C1%3BASkyBlock%3A14569%2C1%2C0&groups=Default%2CVIP%2CDonor%2CElite%2CUltra%2CYouTube%2CHelper%2CModerator%2CUniversal-Moderator%2CHead-Moderator%2CAdmin%2CHead-Dev%2CBuilder%2CHead-Admin%2COwner%2CMember%2CUvip
+2016/04/27 14:06:42 EDT [FINE] Packet [0x19](Enjin Status) received.
+2016/04/27 14:06:42 EDT [FINE] No more packets. End of stream. Update ended.
+2016/04/27 14:06:42 EDT [FINE] Raw data received:
+auth_error
+2016/04/27 14:06:42 EDT [WARNING] [Enjin Minecraft Plugin] Auth key invalid. Please regenerate on the enjin control panel.
+2016/04/27 14:06:42 EDT [FINE] Stopping tasks.
+2016/04/27 14:06:42 EDT [FINE] Synch unsuccessful.
+2016/04/27 14:06:42 EDT [FINE] Stats saved to enjin-stats.json.
+Started logging the Enjin Plugin on 2016/05/22 17:25:17 EDT
+2016/05/22 17:25:17 EDT [FINE] Logger initialized.
+2016/05/22 17:25:17 EDT [FINE] Begin init
+2016/05/22 17:25:17 EDT [FINE] Init vars done.
+2016/05/22 17:25:17 EDT [FINE] Minecraft version: git-Spigot-044d928-e8c6403 (MC: 1.8.6)
+2016/05/22 17:25:17 EDT [FINE] MC Version string: 1.8.6
+2016/05/22 17:25:17 EDT [FINE] Get the ban list
+2016/05/22 17:25:17 EDT [FINE] Ban list loaded
+2016/05/22 17:25:17 EDT [FINE] Init files done.
+2016/05/22 17:25:17 EDT [INFO] Couldn't find the TuxTwoLib plugin. Only able to give items to online players only.
+2016/05/22 17:25:17 EDT [FINE] Initializing permissions.
+2016/05/22 17:25:17 EDT [FINE] Init plugins done.
+2016/05/22 17:25:17 EDT [FINE] PermissionsEx found, hooking custom events.
+2016/05/22 17:25:18 EDT [FINE] Setup permissions integration
+2016/05/22 17:25:18 EDT [INFO] Votifier plugin found, enabling Votifier support.
+2016/05/22 17:25:18 EDT [FINE] Setup Votifier integration
+2016/05/22 17:25:18 EDT [FINE] mcMMO found, hooking custom stats.
+2016/05/22 17:25:18 EDT [FINE] Registering events.
+2016/05/22 17:25:18 EDT [FINE] Starting periodic tasks.
+2016/05/22 17:25:18 EDT [FINE] Starting tasks.
+2016/05/22 17:25:18 EDT [FINE] Starting votifier task.
+2016/05/22 17:25:18 EDT [FINE] Connecting to Enjin to send config...
+2016/05/22 17:25:18 EDT [FINE] Sending content: 
+authkey=e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f&statscollected_player_deaths=1&statscollected_player_creeperexplosions=0&debug=0&listenforbans=1&statscollected_player_blocksbroken=1&statscollected_player_kills=1&statscollected_player_travel=1&statscollected_player_playerkicks=0&autoupdate=1&sendstatsinterval=5&collectplayerstats=1&statscollected_player_xp=1&statscollected_player_blocksplaced=1&https=1&usebuygui=1&buycommand=buy
+2016/05/22 17:26:31 EDT [FINE] Connecting to Enjin...
+2016/05/22 17:26:31 EDT [FINE] Sending content: 
+authkey=e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f&maxplayers=20&mc_version=1.8.6&players=0&hasranks=TRUE&pluginversion=2.7.2&plugins=OreGen2%2CAntiLag%2CPlugMan%2CAdministration_Panel%2CLockette%2CCustomRecipes%2CPixelator%2CSuperTrails%2CVoxelSniper%2CColoredChat%2CTelevator%2CSimple-AutoSave%2CChatColor%2CChatManager%2CChestMaster%2CLeakParkour%2CWorldEdit%2CAdminFun%2CTimTheEnchanter%2CFirstJoinPlus%2CHealthBar%2COpenInv%2CEssentials%2CAutoBroadcaster%2CScoreboard%2CCommandSigns%2CVotifier%2CProtocolLib%2CLibsDisguises%2CNoCheatPlus%2CEssentialsChat%2CPermissionsEx%2CPTweaks%2CSuperCrate%2CmcMMO%2CGAListener%2CVault%2CEnjinMinecraftPlugin%2CLift%2CWorldGuard%2CPunishmental%2CASkyBlock%2CEssentialsXMPP%2CChestCommands%2CEssentialsProtect%2CEssentialsGeoIP%2CServerSigns%2CEssentialsSpawn%2CPlayerHeads%2CGreenhouses%2CMobile_Workbench%2CSilkSpawners%2CMultiverse-Core%2CShopkeepers%2CEchoPet%2CFramePicture%2CCS-CoreLib%2CChestShop%2CHolographicDisplays%2CSlimefun&playerlist=&worlds=world%2Cworld_nether%2Cworld_the_end%2CASkyBlock%2CASkyBlock_nether&tps=19.878944168090822&time=world%3A10743%2C6%2C0%3BASkyBlock%3A16635%2C2%2C0&groups=Default%2CVIP%2CDonor%2CElite%2CUltra%2CYouTube%2CHelper%2CModerator%2CUniversal-Moderator%2CHead-Moderator%2CAdmin%2CHead-Dev%2CBuilder%2CHead-Admin%2COwner%2CMember%2CUvip
+2016/05/22 17:26:31 EDT [FINE] Packet [0x19](Enjin Status) received.
+2016/05/22 17:26:31 EDT [FINE] No more packets. End of stream. Update ended.
+2016/05/22 17:26:31 EDT [FINE] Raw data received:
+auth_error
+2016/05/22 17:26:31 EDT [WARNING] [Enjin Minecraft Plugin] Auth key invalid. Please regenerate on the enjin control panel.
+2016/05/22 17:26:31 EDT [FINE] Stopping tasks.
+2016/05/22 17:26:31 EDT [FINE] Synch unsuccessful.
+2016/05/22 17:26:33 EDT [FINE] Stats saved to enjin-stats.json.
+2016/05/22 17:27:18 EDT [FINE] Stopping tasks.
+2016/05/22 17:27:18 EDT [FINE] Stats saved to enjin-stats.json.
+Started logging the Enjin Plugin on 2016/05/22 17:32:15 EDT
+2016/05/22 17:32:15 EDT [FINE] Logger initialized.
+2016/05/22 17:32:15 EDT [FINE] Begin init
+2016/05/22 17:32:15 EDT [FINE] Init vars done.
+2016/05/22 17:32:15 EDT [FINE] Minecraft version: git-Spigot-044d928-e8c6403 (MC: 1.8.6)
+2016/05/22 17:32:15 EDT [FINE] MC Version string: 1.8.6
+2016/05/22 17:32:15 EDT [FINE] Get the ban list
+2016/05/22 17:32:15 EDT [FINE] Ban list loaded
+2016/05/22 17:32:15 EDT [FINE] Init files done.
+2016/05/22 17:32:15 EDT [INFO] Couldn't find the TuxTwoLib plugin. Only able to give items to online players only.
+2016/05/22 17:32:15 EDT [FINE] Initializing permissions.
+2016/05/22 17:32:15 EDT [FINE] Init plugins done.
+2016/05/22 17:32:15 EDT [FINE] PermissionsEx found, hooking custom events.
+2016/05/22 17:32:15 EDT [FINE] Setup permissions integration
+2016/05/22 17:32:15 EDT [INFO] Votifier plugin found, enabling Votifier support.
+2016/05/22 17:32:15 EDT [FINE] Setup Votifier integration
+2016/05/22 17:32:15 EDT [FINE] mcMMO found, hooking custom stats.
+2016/05/22 17:32:15 EDT [FINE] Registering events.
+2016/05/22 17:32:15 EDT [FINE] Starting periodic tasks.
+2016/05/22 17:32:15 EDT [FINE] Starting tasks.
+2016/05/22 17:32:15 EDT [FINE] Starting votifier task.
+2016/05/22 17:32:15 EDT [FINE] Connecting to Enjin to send config...
+2016/05/22 17:32:15 EDT [FINE] Sending content: 
+authkey=e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f&statscollected_player_deaths=1&statscollected_player_creeperexplosions=0&debug=0&listenforbans=1&statscollected_player_blocksbroken=1&statscollected_player_kills=1&statscollected_player_travel=1&statscollected_player_playerkicks=0&autoupdate=1&sendstatsinterval=5&collectplayerstats=1&statscollected_player_xp=1&statscollected_player_blocksplaced=1&https=1&usebuygui=1&buycommand=buy
+2016/05/22 17:32:56 EDT [FINE] Stopping tasks.
+2016/05/22 17:32:57 EDT [FINE] Stats saved to enjin-stats.json.
+Started logging the Enjin Plugin on 2016/05/22 17:34:55 EDT
+2016/05/22 17:34:55 EDT [FINE] Logger initialized.
+2016/05/22 17:34:55 EDT [FINE] Begin init
+2016/05/22 17:34:55 EDT [FINE] Init vars done.
+2016/05/22 17:34:55 EDT [FINE] Minecraft version: git-Spigot-044d928-e8c6403 (MC: 1.8.6)
+2016/05/22 17:34:55 EDT [FINE] MC Version string: 1.8.6
+2016/05/22 17:34:55 EDT [FINE] Get the ban list
+2016/05/22 17:34:55 EDT [FINE] Ban list loaded
+2016/05/22 17:34:55 EDT [FINE] Init files done.
+2016/05/22 17:34:55 EDT [INFO] Couldn't find the TuxTwoLib plugin. Only able to give items to online players only.
+2016/05/22 17:34:55 EDT [FINE] Initializing permissions.
+2016/05/22 17:34:55 EDT [FINE] Init plugins done.
+2016/05/22 17:34:55 EDT [FINE] PermissionsEx found, hooking custom events.
+2016/05/22 17:34:55 EDT [FINE] Setup permissions integration
+2016/05/22 17:34:55 EDT [INFO] Votifier plugin found, enabling Votifier support.
+2016/05/22 17:34:55 EDT [FINE] Setup Votifier integration
+2016/05/22 17:34:55 EDT [FINE] mcMMO found, hooking custom stats.
+2016/05/22 17:34:55 EDT [FINE] Registering events.
+2016/05/22 17:34:55 EDT [FINE] Starting periodic tasks.
+2016/05/22 17:34:55 EDT [FINE] Starting tasks.
+2016/05/22 17:34:55 EDT [FINE] Starting votifier task.
+2016/05/22 17:34:55 EDT [FINE] Connecting to Enjin to send config...
+2016/05/22 17:34:55 EDT [FINE] Sending content: 
+authkey=e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f&statscollected_player_deaths=1&statscollected_player_creeperexplosions=0&debug=0&listenforbans=1&statscollected_player_blocksbroken=1&statscollected_player_kills=1&statscollected_player_travel=1&statscollected_player_playerkicks=0&autoupdate=1&sendstatsinterval=5&collectplayerstats=1&statscollected_player_xp=1&statscollected_player_blocksplaced=1&https=1&usebuygui=1&buycommand=buy
+2016/05/22 17:36:09 EDT [FINE] Connecting to Enjin...
+2016/05/22 17:36:09 EDT [FINE] Sending content: 
+authkey=e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f&maxplayers=20&mc_version=1.8.6&players=0&hasranks=TRUE&pluginversion=2.7.2&plugins=OreGen2%2CAntiLag%2CPlugMan%2CAdministration_Panel%2CLockette%2CCustomRecipes%2CPixelator%2CSuperTrails%2CVoxelSniper%2CColoredChat%2CTelevator%2CSimple-AutoSave%2CChatColor%2CChatManager%2CChestMaster%2CLeakParkour%2CWorldEdit%2CAdminFun%2CTimTheEnchanter%2CFirstJoinPlus%2CHealthBar%2COpenInv%2CEssentials%2CAutoBroadcaster%2CScoreboard%2CCommandSigns%2CVotifier%2CProtocolLib%2CLibsDisguises%2CNoCheatPlus%2CEssentialsChat%2CPermissionsEx%2CPTweaks%2CSuperCrate%2CmcMMO%2CGAListener%2CVault%2CEnjinMinecraftPlugin%2CLift%2CWorldGuard%2CPunishmental%2CASkyBlock%2CEssentialsXMPP%2CChestCommands%2CEssentialsProtect%2CEssentialsGeoIP%2CServerSigns%2CEssentialsSpawn%2CPlayerHeads%2CGreenhouses%2CMobile_Workbench%2CSilkSpawners%2CMultiverse-Core%2CShopkeepers%2CEchoPet%2CFramePicture%2CCS-CoreLib%2CChestShop%2CHolographicDisplays%2CSlimefun&playerlist=&worlds=world%2Cworld_nether%2Cworld_the_end%2CASkyBlock%2CASkyBlock_nether&tps=19.49721076965332&time=world%3A13543%2C6%2C0%3BASkyBlock%3A19435%2C2%2C0&groups=Default%2CVIP%2CDonor%2CElite%2CUltra%2CYouTube%2CHelper%2CModerator%2CUniversal-Moderator%2CHead-Moderator%2CAdmin%2CHead-Dev%2CBuilder%2CHead-Admin%2COwner%2CMember%2CUvip
+2016/05/22 17:36:10 EDT [FINE] Packet [0x19](Enjin Status) received.
+2016/05/22 17:36:10 EDT [FINE] No more packets. End of stream. Update ended.
+2016/05/22 17:36:10 EDT [FINE] Raw data received:
+auth_error
+2016/05/22 17:36:10 EDT [WARNING] [Enjin Minecraft Plugin] Auth key invalid. Please regenerate on the enjin control panel.
+2016/05/22 17:36:10 EDT [FINE] Stopping tasks.
+2016/05/22 17:36:10 EDT [FINE] Synch unsuccessful.
+2016/05/22 17:36:10 EDT [FINE] Stats saved to enjin-stats.json.
+2016/05/23 20:18:46 EDT [FINE] Stopping tasks.
+2016/05/23 20:18:47 EDT [FINE] Stats saved to enjin-stats.json.
+Started logging the Enjin Plugin on 2016/05/25 09:14:36 EDT
+2016/05/25 09:14:36 EDT [FINE] Logger initialized.
+2016/05/25 09:14:36 EDT [FINE] Begin init
+2016/05/25 09:14:36 EDT [FINE] Init vars done.
+2016/05/25 09:14:36 EDT [FINE] Minecraft version: git-Spigot-044d928-e8c6403 (MC: 1.8.6)
+2016/05/25 09:14:36 EDT [FINE] MC Version string: 1.8.6
+2016/05/25 09:14:36 EDT [FINE] Get the ban list
+2016/05/25 09:14:36 EDT [FINE] Ban list loaded
+2016/05/25 09:14:36 EDT [FINE] Init files done.
+2016/05/25 09:14:36 EDT [INFO] Couldn't find the TuxTwoLib plugin. Only able to give items to online players only.
+2016/05/25 09:14:36 EDT [FINE] Initializing permissions.
+2016/05/25 09:14:36 EDT [FINE] Init plugins done.
+2016/05/25 09:14:36 EDT [FINE] PermissionsEx found, hooking custom events.
+2016/05/25 09:14:36 EDT [FINE] Setup permissions integration
+2016/05/25 09:14:36 EDT [INFO] Votifier plugin found, enabling Votifier support.
+2016/05/25 09:14:36 EDT [FINE] Setup Votifier integration
+2016/05/25 09:14:36 EDT [FINE] mcMMO found, hooking custom stats.
+2016/05/25 09:14:36 EDT [FINE] Registering events.
+2016/05/25 09:14:36 EDT [FINE] Starting periodic tasks.
+2016/05/25 09:14:36 EDT [FINE] Starting tasks.
+2016/05/25 09:14:36 EDT [FINE] Starting votifier task.
+2016/05/25 09:14:36 EDT [FINE] Connecting to Enjin to send config...
+2016/05/25 09:14:36 EDT [FINE] Sending content: 
+authkey=e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f&statscollected_player_deaths=1&statscollected_player_creeperexplosions=0&debug=0&listenforbans=1&statscollected_player_blocksbroken=1&statscollected_player_kills=1&statscollected_player_travel=1&statscollected_player_playerkicks=0&autoupdate=1&sendstatsinterval=5&collectplayerstats=1&statscollected_player_xp=1&statscollected_player_blocksplaced=1&https=1&usebuygui=1&buycommand=buy
+2016/05/25 09:15:46 EDT [FINE] Connecting to Enjin...
+2016/05/25 09:15:46 EDT [FINE] Sending content: 
+authkey=e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f&maxplayers=20&mc_version=1.8.6&players=0&hasranks=TRUE&pluginversion=2.7.2&plugins=OreGen2%2CAntiLag%2CPlugMan%2CAdministration_Panel%2CLockette%2CCustomRecipes%2CPixelator%2CSuperTrails%2CVoxelSniper%2CColoredChat%2CTelevator%2CSimple-AutoSave%2CChatColor%2CChatManager%2CChestMaster%2CLeakParkour%2CWorldEdit%2CAdminFun%2CTimTheEnchanter%2CFirstJoinPlus%2CHealthBar%2COpenInv%2CEssentials%2CAutoBroadcaster%2CScoreboard%2CCommandSigns%2CVotifier%2CProtocolLib%2CLibsDisguises%2CNoCheatPlus%2CEssentialsChat%2CPermissionsEx%2CPTweaks%2CSuperCrate%2CmcMMO%2CGAListener%2CVault%2CEnjinMinecraftPlugin%2CLift%2CWorldGuard%2CPunishmental%2CASkyBlock%2CEssentialsXMPP%2CChestCommands%2CEssentialsProtect%2CEssentialsGeoIP%2CServerSigns%2CEssentialsSpawn%2CPlayerHeads%2CGreenhouses%2CMobile_Workbench%2CSilkSpawners%2CMultiverse-Core%2CShopkeepers%2CEchoPet%2CFramePicture%2CCS-CoreLib%2CChestShop%2CHolographicDisplays%2CSlimefun&playerlist=&worlds=world%2Cworld_nether%2Cworld_the_end%2CASkyBlock%2CASkyBlock_nether&tps=19.989612731933594&time=world%3A13240%2C6%2C0%3BASkyBlock%3A19131%2C2%2C0&groups=Default%2CVIP%2CDonor%2CElite%2CUltra%2CYouTube%2CHelper%2CModerator%2CUniversal-Moderator%2CHead-Moderator%2CAdmin%2CHead-Dev%2CBuilder%2CHead-Admin%2COwner%2CMember%2CUvip
+2016/05/25 09:15:46 EDT [FINE] Packet [0x19](Enjin Status) received.
+2016/05/25 09:15:46 EDT [FINE] No more packets. End of stream. Update ended.
+2016/05/25 09:15:46 EDT [FINE] Raw data received:
+auth_error
+2016/05/25 09:15:46 EDT [WARNING] [Enjin Minecraft Plugin] Auth key invalid. Please regenerate on the enjin control panel.
+2016/05/25 09:15:46 EDT [FINE] Stopping tasks.
+2016/05/25 09:15:46 EDT [FINE] Synch unsuccessful.
+2016/05/25 09:15:47 EDT [FINE] Stats saved to enjin-stats.json.
+2016/05/25 17:02:55 EDT [FINE] Stopping tasks.
+2016/05/25 17:02:57 EDT [FINE] Stats saved to enjin-stats.json.
+Started logging the Enjin Plugin on 2016/05/27 17:11:20 EDT
+2016/05/27 17:11:20 EDT [FINE] Logger initialized.
+2016/05/27 17:11:21 EDT [FINE] Begin init
+2016/05/27 17:11:21 EDT [FINE] Init vars done.
+2016/05/27 17:11:21 EDT [FINE] Minecraft version: git-Spigot-044d928-e8c6403 (MC: 1.8.6)
+2016/05/27 17:11:21 EDT [FINE] MC Version string: 1.8.6
+2016/05/27 17:11:21 EDT [FINE] Get the ban list
+2016/05/27 17:11:21 EDT [FINE] Ban list loaded
+2016/05/27 17:11:21 EDT [FINE] Init files done.
+2016/05/27 17:11:21 EDT [INFO] Couldn't find the TuxTwoLib plugin. Only able to give items to online players only.
+2016/05/27 17:11:21 EDT [FINE] Initializing permissions.
+2016/05/27 17:11:21 EDT [FINE] Init plugins done.
+2016/05/27 17:11:21 EDT [FINE] PermissionsEx found, hooking custom events.
+2016/05/27 17:11:21 EDT [FINE] Setup permissions integration
+2016/05/27 17:11:21 EDT [INFO] Votifier plugin found, enabling Votifier support.
+2016/05/27 17:11:21 EDT [FINE] Setup Votifier integration
+2016/05/27 17:11:21 EDT [FINE] mcMMO found, hooking custom stats.
+2016/05/27 17:11:21 EDT [FINE] Registering events.
+2016/05/27 17:11:21 EDT [FINE] Starting periodic tasks.
+2016/05/27 17:11:21 EDT [FINE] Starting tasks.
+2016/05/27 17:11:21 EDT [FINE] Starting votifier task.
+2016/05/27 17:11:21 EDT [FINE] Connecting to Enjin to send config...
+2016/05/27 17:11:21 EDT [FINE] Sending content: 
+authkey=e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f&statscollected_player_deaths=1&statscollected_player_creeperexplosions=0&debug=0&listenforbans=1&statscollected_player_blocksbroken=1&statscollected_player_kills=1&statscollected_player_travel=1&statscollected_player_playerkicks=0&autoupdate=1&sendstatsinterval=5&collectplayerstats=1&statscollected_player_xp=1&statscollected_player_blocksplaced=1&https=1&usebuygui=1&buycommand=buy
+2016/05/27 17:12:29 EDT [FINE] Connecting to Enjin...
+2016/05/27 17:12:29 EDT [FINE] Sending content: 
+authkey=e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f&maxplayers=20&mc_version=1.8.6&players=1&hasranks=TRUE&pluginversion=2.7.2&plugins=OreGen2%2CAntiLag%2CPlugMan%2CAdministration_Panel%2CLockette%2CCustomRecipes%2CPixelator%2CSuperTrails%2CVoxelSniper%2CColoredChat%2CTelevator%2CSimple-AutoSave%2CChatColor%2CChatManager%2CChestMaster%2CLeakParkour%2CWorldEdit%2CAdminFun%2CTimTheEnchanter%2CFirstJoinPlus%2CHealthBar%2COpenInv%2CEssentials%2CAutoBroadcaster%2CScoreboard%2CCommandSigns%2CVotifier%2CProtocolLib%2CLibsDisguises%2CNoCheatPlus%2CEssentialsChat%2CPermissionsEx%2CPTweaks%2CSuperCrate%2CmcMMO%2CGAListener%2CVault%2CEnjinMinecraftPlugin%2CLift%2CWorldGuard%2CPunishmental%2CASkyBlock%2CEssentialsXMPP%2CChestCommands%2CEssentialsProtect%2CEssentialsGeoIP%2CServerSigns%2CEssentialsSpawn%2CPlayerHeads%2CGreenhouses%2CMobile_Workbench%2CSilkSpawners%2CMultiverse-Core%2CShopkeepers%2CEchoPet%2CFramePicture%2CCS-CoreLib%2CChestShop%2CHolographicDisplays%2CSlimefun&playerlist=77dfc7d1-7e24-4371-9f9d-c89cf60bc59a%3AUnstableTNT%3Afalse&worlds=world%2Cworld_nether%2Cworld_the_end%2CASkyBlock%2CASkyBlock_nether&tps=19.96375259399414&time=world%3A22274%2C5%2C0%3BASkyBlock%3A15145%2C2%2C0&groups=Default%2CVIP%2CDonor%2CElite%2CUltra%2CYouTube%2CHelper%2CModerator%2CUniversal-Moderator%2CHead-Moderator%2CAdmin%2CHead-Dev%2CBuilder%2CHead-Admin%2COwner%2CMember%2CUvip&playergroups=UnstableTNT%7C77dfc7d1-7e24-4371-9f9d-c89cf60bc59a%3B*%3AOwner
+2016/05/27 17:12:29 EDT [FINE] Packet [0x19](Enjin Status) received.
+2016/05/27 17:12:29 EDT [FINE] No more packets. End of stream. Update ended.
+2016/05/27 17:12:29 EDT [FINE] Raw data received:
+auth_error
+2016/05/27 17:12:29 EDT [WARNING] [Enjin Minecraft Plugin] Auth key invalid. Please regenerate on the enjin control panel.
+2016/05/27 17:12:29 EDT [FINE] Stopping tasks.
+2016/05/27 17:12:29 EDT [FINE] Synch unsuccessful.
+2016/05/27 17:12:30 EDT [FINE] Stats saved to enjin-stats.json.
+2016/05/28 11:10:49 EDT [FINE] Stopping tasks.
+2016/05/28 11:10:50 EDT [FINE] Stats saved to enjin-stats.json.
+Started logging the Enjin Plugin on 2016/06/04 13:34:41 EDT
+2016/06/04 13:34:41 EDT [FINE] Logger initialized.
+2016/06/04 13:34:41 EDT [FINE] Begin init
+2016/06/04 13:34:41 EDT [FINE] Init vars done.
+2016/06/04 13:34:41 EDT [FINE] Minecraft version: git-Spigot-044d928-e8c6403 (MC: 1.8.6)
+2016/06/04 13:34:41 EDT [FINE] MC Version string: 1.8.6
+2016/06/04 13:34:41 EDT [FINE] Get the ban list
+2016/06/04 13:34:41 EDT [FINE] Ban list loaded
+2016/06/04 13:34:41 EDT [FINE] Init files done.
+2016/06/04 13:34:41 EDT [INFO] Couldn't find the TuxTwoLib plugin. Only able to give items to online players only.
+2016/06/04 13:34:41 EDT [FINE] Initializing permissions.
+2016/06/04 13:34:41 EDT [FINE] Init plugins done.
+2016/06/04 13:34:41 EDT [FINE] PermissionsEx found, hooking custom events.
+2016/06/04 13:34:41 EDT [FINE] Setup permissions integration
+2016/06/04 13:34:41 EDT [INFO] Votifier plugin found, enabling Votifier support.
+2016/06/04 13:34:41 EDT [FINE] Setup Votifier integration
+2016/06/04 13:34:41 EDT [FINE] mcMMO found, hooking custom stats.
+2016/06/04 13:34:41 EDT [FINE] Registering events.
+2016/06/04 13:34:42 EDT [FINE] Starting periodic tasks.
+2016/06/04 13:34:42 EDT [FINE] Starting tasks.
+2016/06/04 13:34:42 EDT [FINE] Starting votifier task.
+2016/06/04 13:34:42 EDT [FINE] Connecting to Enjin to send config...
+2016/06/04 13:34:42 EDT [FINE] Sending content: 
+authkey=e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f&statscollected_player_deaths=1&statscollected_player_creeperexplosions=0&debug=0&listenforbans=1&statscollected_player_blocksbroken=1&statscollected_player_kills=1&statscollected_player_travel=1&statscollected_player_playerkicks=0&autoupdate=1&sendstatsinterval=5&collectplayerstats=1&statscollected_player_xp=1&statscollected_player_blocksplaced=1&https=1&usebuygui=1&buycommand=buy
+2016/06/04 13:35:49 EDT [FINE] Connecting to Enjin...
+2016/06/04 13:35:49 EDT [FINE] Sending content: 
+authkey=e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f&maxplayers=20&mc_version=1.8.6&players=0&hasranks=TRUE&pluginversion=2.7.2&plugins=OreGen2%2CAntiLag%2CPlugMan%2CAdministration_Panel%2CLockette%2CCustomRecipes%2CPixelator%2CSuperTrails%2CVoxelSniper%2CColoredChat%2CTelevator%2CSimple-AutoSave%2CViaVersion%2CChatColor%2CChatManager%2CChestMaster%2CTTA%2CLeakParkour%2CWorldEdit%2CAdminFun%2CTimTheEnchanter%2CFirstJoinPlus%2CHealthBar%2COpenInv%2CEssentials%2CAutoBroadcaster%2CScoreboard%2CCommandSigns%2CVotifier%2CProtocolLib%2CLibsDisguises%2CNoCheatPlus%2CEssentialsChat%2CPermissionsEx%2CPTweaks%2CSuperCrate%2CmcMMO%2CGAListener%2CVault%2CEnjinMinecraftPlugin%2CLift%2CWorldGuard%2CPunishmental%2CASkyBlock%2CEssentialsXMPP%2CChestCommands%2CEssentialsProtect%2CEssentialsGeoIP%2CServerSigns%2CEssentialsSpawn%2CPlayerHeads%2CGreenhouses%2CMobile_Workbench%2CSilkSpawners%2CMultiverse-Core%2CCTSNC%2CShopkeepers%2CEchoPet%2CFramePicture%2CCS-CoreLib%2CChestShop%2CHolographicDisplays%2CSlimefun&playerlist=&worlds=world%2Cworld_nether%2Cworld_the_end%2CASkyBlock%2CASkyBlock_nether&tps=19.953812561035157&time=world%3A20323%2C3%2C0%3BASkyBlock%3A13194%2C0%2C0&groups=Default%2CVIP%2CDonor%2CElite%2CUltra%2CYouTube%2CHelper%2CModerator%2CUniversal-Moderator%2CHead-Moderator%2CAdmin%2CHead-Dev%2CBuilder%2CHead-Admin%2COwner%2CMember%2CUvip
+2016/06/04 13:35:49 EDT [FINE] Packet [0x19](Enjin Status) received.
+2016/06/04 13:35:49 EDT [FINE] No more packets. End of stream. Update ended.
+2016/06/04 13:35:49 EDT [FINE] Raw data received:
+auth_error
+2016/06/04 13:35:49 EDT [WARNING] [Enjin Minecraft Plugin] Auth key invalid. Please regenerate on the enjin control panel.
+2016/06/04 13:35:49 EDT [FINE] Stopping tasks.
+2016/06/04 13:35:49 EDT [FINE] Synch unsuccessful.
+2016/06/04 13:35:51 EDT [FINE] Stats saved to enjin-stats.json.
+2016/06/04 13:39:39 EDT [FINE] Swaven just got a rank change... processing...
+2016/06/04 13:39:44 EDT [FINE] ONCOLOGIC just got a rank change... processing...
+2016/06/04 13:41:14 EDT [FINE] Ninjyx just got a rank change... processing...
+2016/06/04 15:07:04 EDT [FINE] Stopping tasks.
+2016/06/04 15:07:04 EDT [FINE] Stats saved to enjin-stats.json.
+Started logging the Enjin Plugin on 2016/06/07 14:58:09 EDT
+2016/06/07 14:58:09 EDT [FINE] Logger initialized.
+2016/06/07 14:58:09 EDT [FINE] Begin init
+2016/06/07 14:58:09 EDT [FINE] Init vars done.
+2016/06/07 14:58:09 EDT [FINE] Minecraft version: git-Spigot-044d928-e8c6403 (MC: 1.8.6)
+2016/06/07 14:58:09 EDT [FINE] MC Version string: 1.8.6
+2016/06/07 14:58:09 EDT [FINE] Get the ban list
+2016/06/07 14:58:09 EDT [FINE] Ban list loaded
+2016/06/07 14:58:09 EDT [FINE] Init files done.
+2016/06/07 14:58:09 EDT [INFO] Couldn't find the TuxTwoLib plugin. Only able to give items to online players only.
+2016/06/07 14:58:09 EDT [FINE] Initializing permissions.
+2016/06/07 14:58:09 EDT [FINE] Init plugins done.
+2016/06/07 14:58:09 EDT [FINE] PermissionsEx found, hooking custom events.
+2016/06/07 14:58:09 EDT [FINE] Setup permissions integration
+2016/06/07 14:58:09 EDT [INFO] Votifier plugin found, enabling Votifier support.
+2016/06/07 14:58:09 EDT [FINE] Setup Votifier integration
+2016/06/07 14:58:09 EDT [FINE] mcMMO found, hooking custom stats.
+2016/06/07 14:58:09 EDT [FINE] Registering events.
+2016/06/07 14:58:09 EDT [FINE] Starting periodic tasks.
+2016/06/07 14:58:09 EDT [FINE] Starting tasks.
+2016/06/07 14:58:09 EDT [FINE] Starting votifier task.
+2016/06/07 14:58:09 EDT [FINE] Connecting to Enjin to send config...
+2016/06/07 14:58:09 EDT [FINE] Sending content: 
+authkey=e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f&statscollected_player_deaths=1&statscollected_player_creeperexplosions=0&debug=0&listenforbans=1&statscollected_player_blocksbroken=1&statscollected_player_kills=1&statscollected_player_travel=1&statscollected_player_playerkicks=0&autoupdate=1&sendstatsinterval=5&collectplayerstats=1&statscollected_player_xp=1&statscollected_player_blocksplaced=1&https=1&usebuygui=1&buycommand=buy
+2016/06/07 14:59:20 EDT [FINE] Connecting to Enjin...
+2016/06/07 14:59:20 EDT [FINE] Sending content: 
+authkey=e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f&maxplayers=20&mc_version=1.8.6&players=0&hasranks=TRUE&pluginversion=2.7.2&plugins=OreGen2%2CAntiLag%2CPlugMan%2CAdministration_Panel%2CLockette%2CCustomRecipes%2CPixelator%2CSuperTrails%2CVoxelSniper%2CColoredChat%2CTelevator%2CSimple-AutoSave%2CViaVersion%2CChatColor%2CChatManager%2CChestMaster%2CTTA%2CLeakParkour%2CWorldEdit%2CAdminFun%2CTimTheEnchanter%2CFirstJoinPlus%2CHealthBar%2COpenInv%2CEssentials%2CAutoBroadcaster%2CScoreboard%2CCommandSigns%2CVotifier%2CProtocolLib%2CLibsDisguises%2CNoCheatPlus%2CEssentialsChat%2CPermissionsEx%2CPTweaks%2CSuperCrate%2CmcMMO%2CGAListener%2CVault%2CEnjinMinecraftPlugin%2CLift%2CWorldGuard%2CPunishmental%2CASkyBlock%2CEssentialsXMPP%2CChestCommands%2CEssentialsProtect%2CEssentialsGeoIP%2CServerSigns%2CEssentialsSpawn%2CPlayerHeads%2CGreenhouses%2CMobile_Workbench%2CSilkSpawners%2CMultiverse-Core%2CCTSNC%2CShopkeepers%2CEchoPet%2CFramePicture%2CCS-CoreLib%2CChestShop%2CHolographicDisplays%2CSlimefun&playerlist=&worlds=world%2Cworld_nether%2Cworld_the_end%2CASkyBlock%2CASkyBlock_nether&tps=19.744119873046873&time=world%3A5321%2C0%2C0%3BASkyBlock%3A22192%2C4%2C0&groups=Default%2CVIP%2CDonor%2CElite%2CUltra%2CYouTube%2CHelper%2CModerator%2CUniversal-Moderator%2CHead-Moderator%2CAdmin%2CHead-Dev%2CBuilder%2CHead-Admin%2COwner%2CMember%2CUvip
+2016/06/07 14:59:20 EDT [FINE] Packet [0x19](Enjin Status) received.
+2016/06/07 14:59:20 EDT [FINE] No more packets. End of stream. Update ended.
+2016/06/07 14:59:20 EDT [FINE] Raw data received:
+auth_error
+2016/06/07 14:59:20 EDT [WARNING] [Enjin Minecraft Plugin] Auth key invalid. Please regenerate on the enjin control panel.
+2016/06/07 14:59:20 EDT [FINE] Stopping tasks.
+2016/06/07 14:59:20 EDT [FINE] Synch unsuccessful.
+2016/06/07 14:59:21 EDT [FINE] Stats saved to enjin-stats.json.
+2016/06/08 16:15:21 EDT [FINE] Stopping tasks.
+2016/06/08 16:15:22 EDT [FINE] Stats saved to enjin-stats.json.
+Started logging the Enjin Plugin on 2016/06/09 08:22:23 EDT
+2016/06/09 08:22:23 EDT [FINE] Logger initialized.
+2016/06/09 08:22:23 EDT [FINE] Begin init
+2016/06/09 08:22:23 EDT [FINE] Init vars done.
+2016/06/09 08:22:23 EDT [FINE] Minecraft version: git-Spigot-044d928-e8c6403 (MC: 1.8.6)
+2016/06/09 08:22:23 EDT [FINE] MC Version string: 1.8.6
+2016/06/09 08:22:23 EDT [FINE] Get the ban list
+2016/06/09 08:22:23 EDT [FINE] Ban list loaded
+2016/06/09 08:22:23 EDT [FINE] Init files done.
+2016/06/09 08:22:23 EDT [INFO] Couldn't find the TuxTwoLib plugin. Only able to give items to online players only.
+2016/06/09 08:22:23 EDT [FINE] Initializing permissions.
+2016/06/09 08:22:23 EDT [FINE] Init plugins done.
+2016/06/09 08:22:23 EDT [FINE] PermissionsEx found, hooking custom events.
+2016/06/09 08:22:23 EDT [FINE] Setup permissions integration
+2016/06/09 08:22:23 EDT [INFO] Votifier plugin found, enabling Votifier support.
+2016/06/09 08:22:23 EDT [FINE] Setup Votifier integration
+2016/06/09 08:22:24 EDT [FINE] mcMMO found, hooking custom stats.
+2016/06/09 08:22:24 EDT [FINE] Registering events.
+2016/06/09 08:22:24 EDT [FINE] Starting periodic tasks.
+2016/06/09 08:22:24 EDT [FINE] Starting tasks.
+2016/06/09 08:22:24 EDT [FINE] Starting votifier task.
+2016/06/09 08:22:24 EDT [FINE] Connecting to Enjin to send config...
+2016/06/09 08:22:24 EDT [FINE] Sending content: 
+authkey=e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f&statscollected_player_deaths=1&statscollected_player_creeperexplosions=0&debug=0&listenforbans=1&statscollected_player_blocksbroken=1&statscollected_player_kills=1&statscollected_player_travel=1&statscollected_player_playerkicks=0&autoupdate=1&sendstatsinterval=5&collectplayerstats=1&statscollected_player_xp=1&statscollected_player_blocksplaced=1&https=1&usebuygui=1&buycommand=buy
+2016/06/09 08:23:36 EDT [FINE] Connecting to Enjin...
+2016/06/09 08:23:36 EDT [FINE] Sending content: 
+authkey=e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f&maxplayers=20&mc_version=1.8.6&players=0&hasranks=TRUE&pluginversion=2.7.2&plugins=OreGen2%2CAntiLag%2CPlugMan%2CAdministration_Panel%2CLockette%2CCustomRecipes%2CPixelator%2CSuperTrails%2CVoxelSniper%2CColoredChat%2CTelevator%2CSimple-AutoSave%2CViaVersion%2CChatColor%2CChatManager%2CChestMaster%2CTTA%2CLeakParkour%2CWorldEdit%2CAdminFun%2CTimTheEnchanter%2CFirstJoinPlus%2CHealthBar%2COpenInv%2CEssentials%2CAutoBroadcaster%2CScoreboard%2CCommandSigns%2CVotifier%2CProtocolLib%2CLibsDisguises%2CNoCheatPlus%2CEssentialsChat%2CPermissionsEx%2CPTweaks%2CSuperCrate%2CmcMMO%2CGAListener%2CVault%2CEnjinMinecraftPlugin%2CLift%2CWorldGuard%2CPunishmental%2CASkyBlock%2CEssentialsXMPP%2CChestCommands%2CEssentialsProtect%2CEssentialsGeoIP%2CServerSigns%2CEssentialsSpawn%2CPlayerHeads%2CGreenhouses%2CMobile_Workbench%2CSilkSpawners%2CMultiverse-Core%2CCTSNC%2CShopkeepers%2CEchoPet%2CFramePicture%2CCS-CoreLib%2CChestShop%2CHolographicDisplays%2CSlimefun&playerlist=&worlds=world%2Cworld_nether%2Cworld_the_end%2CASkyBlock%2CASkyBlock_nether&tps=19.87972999572754&time=world%3A438%2C4%2C0%3BASkyBlock%3A17309%2C0%2C0&groups=Default%2CVIP%2CDonor%2CElite%2CUltra%2CYouTube%2CHelper%2CModerator%2CUniversal-Moderator%2CHead-Moderator%2CAdmin%2CHead-Dev%2CBuilder%2CHead-Admin%2COwner%2CMember%2CUvip
+2016/06/09 08:23:36 EDT [FINE] Packet [0x19](Enjin Status) received.
+2016/06/09 08:23:36 EDT [FINE] No more packets. End of stream. Update ended.
+2016/06/09 08:23:36 EDT [FINE] Raw data received:
+auth_error
+2016/06/09 08:23:36 EDT [WARNING] [Enjin Minecraft Plugin] Auth key invalid. Please regenerate on the enjin control panel.
+2016/06/09 08:23:36 EDT [FINE] Stopping tasks.
+2016/06/09 08:23:36 EDT [FINE] Synch unsuccessful.
+2016/06/09 08:23:36 EDT [FINE] Stats saved to enjin-stats.json.
+Started logging the Enjin Plugin on 2016/06/10 12:34:10 EDT
+2016/06/10 12:34:10 EDT [FINE] Logger initialized.
+2016/06/10 12:34:10 EDT [FINE] Begin init
+2016/06/10 12:34:10 EDT [FINE] Init vars done.
+2016/06/10 12:34:10 EDT [FINE] Minecraft version: git-Spigot-044d928-e8c6403 (MC: 1.8.6)
+2016/06/10 12:34:10 EDT [FINE] MC Version string: 1.8.6
+2016/06/10 12:34:10 EDT [FINE] Get the ban list
+2016/06/10 12:34:10 EDT [FINE] Ban list loaded
+2016/06/10 12:34:10 EDT [FINE] Init files done.
+2016/06/10 12:34:10 EDT [INFO] Couldn't find the TuxTwoLib plugin. Only able to give items to online players only.
+2016/06/10 12:34:10 EDT [FINE] Initializing permissions.
+2016/06/10 12:34:10 EDT [FINE] Init plugins done.
+2016/06/10 12:34:10 EDT [FINE] PermissionsEx found, hooking custom events.
+2016/06/10 12:34:10 EDT [FINE] Setup permissions integration
+2016/06/10 12:34:10 EDT [INFO] Votifier plugin found, enabling Votifier support.
+2016/06/10 12:34:10 EDT [FINE] Setup Votifier integration
+2016/06/10 12:34:10 EDT [FINE] mcMMO found, hooking custom stats.
+2016/06/10 12:34:10 EDT [FINE] Registering events.
+2016/06/10 12:34:10 EDT [FINE] Starting periodic tasks.
+2016/06/10 12:34:10 EDT [FINE] Starting tasks.
+2016/06/10 12:34:10 EDT [FINE] Starting votifier task.
+2016/06/10 12:34:10 EDT [FINE] Connecting to Enjin to send config...
+2016/06/10 12:34:10 EDT [FINE] Sending content: 
+authkey=e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f&statscollected_player_deaths=1&statscollected_player_creeperexplosions=0&debug=0&listenforbans=1&statscollected_player_blocksbroken=1&statscollected_player_kills=1&statscollected_player_travel=1&statscollected_player_playerkicks=0&autoupdate=1&sendstatsinterval=5&collectplayerstats=1&statscollected_player_xp=1&statscollected_player_blocksplaced=1&https=1&usebuygui=1&buycommand=buy
+2016/06/10 12:35:31 EDT [FINE] Connecting to Enjin...
+2016/06/10 12:35:31 EDT [FINE] Sending content: 
+authkey=e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f&maxplayers=20&mc_version=1.8.6&players=3&hasranks=TRUE&pluginversion=2.7.2&plugins=OreGen2%2CAntiLag%2CPlugMan%2CAdministration_Panel%2CLockette%2CCustomRecipes%2CPixelator%2CSuperTrails%2CVoxelSniper%2CColoredChat%2CTelevator%2CSimple-AutoSave%2CViaVersion%2CChatColor%2CChatManager%2CChestMaster%2CTTA%2CLeakParkour%2CWorldEdit%2CAdminFun%2CTimTheEnchanter%2CFirstJoinPlus%2CHealthBar%2COpenInv%2CEssentials%2CAutoBroadcaster%2CScoreboard%2CCommandSigns%2CVotifier%2CProtocolLib%2CLibsDisguises%2CNoCheatPlus%2CEssentialsChat%2CPermissionsEx%2CPTweaks%2CSuperCrate%2CmcMMO%2CGAListener%2CVault%2CEnjinMinecraftPlugin%2CLift%2CWorldGuard%2CPunishmental%2CASkyBlock%2CEssentialsXMPP%2CChestCommands%2CEssentialsProtect%2CEssentialsGeoIP%2CServerSigns%2CEssentialsSpawn%2CPlayerHeads%2CGreenhouses%2CMobile_Workbench%2CSilkSpawners%2CMultiverse-Core%2CCTSNC%2CShopkeepers%2CEchoPet%2CFramePicture%2CCS-CoreLib%2CChestShop%2CHolographicDisplays%2CSlimefun&playerlist=9f951c8c-83c6-4db6-93f8-ed843d358ca9%3ANinjyx%3Afalse%2C77dfc7d1-7e24-4371-9f9d-c89cf60bc59a%3AUnstableTNT%3Afalse%2Cfc7a8ba0-ecdf-40ec-a0c5-bdb9985ad22b%3ASwaven%3Afalse&worlds=world%2Cworld_nether%2Cworld_the_end%2CASkyBlock%2CASkyBlock_nether&tps=19.839248809814453&time=world%3A10191%2C0%2C0%3BASkyBlock%3A3062%2C5%2C0&groups=Default%2CVIP%2CDonor%2CElite%2CUltra%2CYouTube%2CHelper%2CModerator%2CUniversal-Moderator%2CHead-Moderator%2CAdmin%2CHead-Dev%2CBuilder%2CHead-Admin%2COwner%2CMember%2CUvip&playergroups=Ninjyx%7C9f951c8c-83c6-4db6-93f8-ed843d358ca9%3B*%3AVIP%0AUnstableTNT%7C77dfc7d1-7e24-4371-9f9d-c89cf60bc59a%3B*%3AOwner%0ASwaven%7Cfc7a8ba0-ecdf-40ec-a0c5-bdb9985ad22b%3B*%3AModerator%2CHelper%2CElite
+2016/06/10 12:35:31 EDT [FINE] Packet [0x19](Enjin Status) received.
+2016/06/10 12:35:31 EDT [FINE] No more packets. End of stream. Update ended.
+2016/06/10 12:35:31 EDT [FINE] Raw data received:
+auth_error
+2016/06/10 12:35:31 EDT [WARNING] [Enjin Minecraft Plugin] Auth key invalid. Please regenerate on the enjin control panel.
+2016/06/10 12:35:31 EDT [FINE] Stopping tasks.
+2016/06/10 12:35:31 EDT [FINE] Synch unsuccessful.
+2016/06/10 12:35:31 EDT [FINE] Stats saved to enjin-stats.json.
+2016/06/10 13:08:01 EDT [FINE] Stopping tasks.
+2016/06/10 13:08:02 EDT [FINE] Stats saved to enjin-stats.json.
+Started logging the Enjin Plugin on 2016/06/11 21:37:44 EDT
+2016/06/11 21:37:44 EDT [FINE] Logger initialized.
+2016/06/11 21:37:44 EDT [FINE] Begin init
+2016/06/11 21:37:44 EDT [FINE] Init vars done.
+2016/06/11 21:37:44 EDT [FINE] Minecraft version: git-Spigot-044d928-e8c6403 (MC: 1.8.6)
+2016/06/11 21:37:44 EDT [FINE] MC Version string: 1.8.6
+2016/06/11 21:37:44 EDT [FINE] Get the ban list
+2016/06/11 21:37:44 EDT [FINE] Ban list loaded
+2016/06/11 21:37:44 EDT [FINE] Init files done.
+2016/06/11 21:37:44 EDT [INFO] Couldn't find the TuxTwoLib plugin. Only able to give items to online players only.
+2016/06/11 21:37:44 EDT [FINE] Initializing permissions.
+2016/06/11 21:37:44 EDT [FINE] Init plugins done.
+2016/06/11 21:37:44 EDT [FINE] PermissionsEx found, hooking custom events.
+2016/06/11 21:37:44 EDT [FINE] Setup permissions integration
+2016/06/11 21:37:44 EDT [INFO] Votifier plugin found, enabling Votifier support.
+2016/06/11 21:37:44 EDT [FINE] Setup Votifier integration
+2016/06/11 21:37:44 EDT [FINE] mcMMO found, hooking custom stats.
+2016/06/11 21:37:44 EDT [FINE] Registering events.
+2016/06/11 21:37:44 EDT [FINE] Starting periodic tasks.
+2016/06/11 21:37:44 EDT [FINE] Starting tasks.
+2016/06/11 21:37:44 EDT [FINE] Starting votifier task.
+2016/06/11 21:37:45 EDT [FINE] Connecting to Enjin to send config...
+2016/06/11 21:37:45 EDT [FINE] Sending content: 
+authkey=e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f&statscollected_player_deaths=1&statscollected_player_creeperexplosions=0&debug=0&listenforbans=1&statscollected_player_blocksbroken=1&statscollected_player_kills=1&statscollected_player_travel=1&statscollected_player_playerkicks=0&autoupdate=1&sendstatsinterval=5&collectplayerstats=1&statscollected_player_xp=1&statscollected_player_blocksplaced=1&https=1&usebuygui=1&buycommand=buy
+2016/06/11 21:38:53 EDT [FINE] Connecting to Enjin...
+2016/06/11 21:38:53 EDT [FINE] Sending content: 
+authkey=e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f&maxplayers=20&mc_version=1.8.6&players=0&hasranks=TRUE&pluginversion=2.7.2&plugins=OreGen2%2CAntiLag%2CPlugMan%2CAdministration_Panel%2CLockette%2CCustomRecipes%2CPixelator%2CSuperTrails%2CVoxelSniper%2CColoredChat%2CTelevator%2CSimple-AutoSave%2CViaVersion%2CChatColor%2CChatManager%2CChestMaster%2CTTA%2CLeakParkour%2CWorldEdit%2CAdminFun%2CTimTheEnchanter%2CFirstJoinPlus%2CHealthBar%2COpenInv%2CEssentials%2CAutoBroadcaster%2CScoreboard%2CCommandSigns%2CVotifier%2CProtocolLib%2CLibsDisguises%2CNoCheatPlus%2CEssentialsChat%2CPermissionsEx%2CPTweaks%2CSuperCrate%2CmcMMO%2CGAListener%2CVault%2CEnjinMinecraftPlugin%2CLift%2CWorldGuard%2CPunishmental%2CASkyBlock%2CEssentialsXMPP%2CChestCommands%2CEssentialsProtect%2CEssentialsGeoIP%2CServerSigns%2CEssentialsSpawn%2CPlayerHeads%2CGreenhouses%2CMobile_Workbench%2CSilkSpawners%2CMultiverse-Core%2CCTSNC%2CShopkeepers%2CEchoPet%2CFramePicture%2CCS-CoreLib%2CChestShop%2CHolographicDisplays%2CSlimefun&playerlist=&worlds=world%2Cworld_nether%2Cworld_the_end%2CASkyBlock%2CASkyBlock_nether&tps=19.94309020996094&time=world%3A2361%2C2%2C0%3BASkyBlock%3A19232%2C6%2C0&groups=Default%2CVIP%2CDonor%2CElite%2CUltra%2CYouTube%2CHelper%2CModerator%2CUniversal-Moderator%2CHead-Moderator%2CAdmin%2CHead-Dev%2CBuilder%2CHead-Admin%2COwner%2CMember%2CUvip
+2016/06/11 21:38:53 EDT [FINE] Packet [0x19](Enjin Status) received.
+2016/06/11 21:38:53 EDT [FINE] No more packets. End of stream. Update ended.
+2016/06/11 21:38:53 EDT [FINE] Raw data received:
+auth_error
+2016/06/11 21:38:53 EDT [WARNING] [Enjin Minecraft Plugin] Auth key invalid. Please regenerate on the enjin control panel.
+2016/06/11 21:38:53 EDT [FINE] Stopping tasks.
+2016/06/11 21:38:53 EDT [FINE] Synch unsuccessful.
+2016/06/11 21:38:53 EDT [FINE] Stats saved to enjin-stats.json.
+2016/06/12 22:44:30 EDT [FINE] Stopping tasks.
+2016/06/12 22:44:31 EDT [FINE] Stats saved to enjin-stats.json.
+Started logging the Enjin Plugin on 2016/06/18 15:11:56 EDT
+2016/06/18 15:11:56 EDT [FINE] Logger initialized.
+2016/06/18 15:11:56 EDT [FINE] Begin init
+2016/06/18 15:11:56 EDT [FINE] Init vars done.
+2016/06/18 15:11:56 EDT [FINE] Minecraft version: git-Spigot-044d928-e8c6403 (MC: 1.8.6)
+2016/06/18 15:11:56 EDT [FINE] MC Version string: 1.8.6
+2016/06/18 15:11:56 EDT [FINE] Get the ban list
+2016/06/18 15:11:56 EDT [FINE] Ban list loaded
+2016/06/18 15:11:56 EDT [FINE] Init files done.
+2016/06/18 15:11:56 EDT [INFO] Couldn't find the TuxTwoLib plugin. Only able to give items to online players only.
+2016/06/18 15:11:56 EDT [FINE] Initializing permissions.
+2016/06/18 15:11:56 EDT [FINE] Init plugins done.
+2016/06/18 15:11:56 EDT [FINE] PermissionsEx found, hooking custom events.
+2016/06/18 15:11:56 EDT [FINE] Setup permissions integration
+2016/06/18 15:11:56 EDT [INFO] Votifier plugin found, enabling Votifier support.
+2016/06/18 15:11:56 EDT [FINE] Setup Votifier integration
+2016/06/18 15:11:56 EDT [FINE] mcMMO found, hooking custom stats.
+2016/06/18 15:11:56 EDT [FINE] Registering events.
+2016/06/18 15:11:56 EDT [FINE] Starting periodic tasks.
+2016/06/18 15:11:56 EDT [FINE] Starting tasks.
+2016/06/18 15:11:56 EDT [FINE] Starting votifier task.
+2016/06/18 15:11:56 EDT [FINE] Connecting to Enjin to send config...
+2016/06/18 15:11:57 EDT [FINE] Sending content: 
+authkey=e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f&statscollected_player_deaths=1&statscollected_player_creeperexplosions=0&debug=0&listenforbans=1&statscollected_player_blocksbroken=1&statscollected_player_kills=1&statscollected_player_travel=1&statscollected_player_playerkicks=0&autoupdate=1&sendstatsinterval=5&collectplayerstats=1&statscollected_player_xp=1&statscollected_player_blocksplaced=1&https=1&usebuygui=1&buycommand=buy
+2016/06/18 15:13:04 EDT [FINE] Connecting to Enjin...
+2016/06/18 15:13:04 EDT [FINE] Sending content: 
+authkey=e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f&maxplayers=20&mc_version=1.8.6&players=0&hasranks=TRUE&pluginversion=2.7.2&plugins=OreGen2%2CAntiLag%2CPlugMan%2CAdministration_Panel%2CLockette%2CCustomRecipes%2CPixelator%2CSuperTrails%2CVoxelSniper%2CColoredChat%2CTelevator%2CSimple-AutoSave%2CViaVersion%2CChatColor%2CChatManager%2CChestMaster%2CTTA%2CLeakParkour%2CWorldEdit%2CAdminFun%2CTimTheEnchanter%2CFirstJoinPlus%2CHealthBar%2COpenInv%2CEssentials%2CAutoBroadcaster%2CScoreboard%2CCommandSigns%2CVotifier%2CProtocolLib%2CLibsDisguises%2CNoCheatPlus%2CEssentialsChat%2CPermissionsEx%2CPTweaks%2CSuperCrate%2CmcMMO%2CGAListener%2CVault%2CEnjinMinecraftPlugin%2CLift%2CWorldGuard%2CPunishmental%2CASkyBlock%2CEssentialsXMPP%2CChestCommands%2CEssentialsProtect%2CEssentialsGeoIP%2CServerSigns%2CEssentialsSpawn%2CPlayerHeads%2CGreenhouses%2CMobile_Workbench%2CSilkSpawners%2CMultiverse-Core%2CCTSNC%2CShopkeepers%2CEchoPet%2CFramePicture%2CCS-CoreLib%2CChestShop%2CHolographicDisplays%2CSlimefun&playerlist=&worlds=world%2Cworld_nether%2Cworld_the_end%2CASkyBlock%2CASkyBlock_nether&tps=19.975709381103517&time=world%3A8130%2C5%2C0%3BASkyBlock%3A1001%2C2%2C0&groups=Default%2CVIP%2CDonor%2CElite%2CUltra%2CYouTube%2CHelper%2CModerator%2CUniversal-Moderator%2CHead-Moderator%2CAdmin%2CHead-Dev%2CBuilder%2CHead-Admin%2COwner%2CMember%2CUvip
+2016/06/18 15:13:04 EDT [FINE] Packet [0x19](Enjin Status) received.
+2016/06/18 15:13:04 EDT [FINE] No more packets. End of stream. Update ended.
+2016/06/18 15:13:04 EDT [FINE] Raw data received:
+auth_error
+2016/06/18 15:13:04 EDT [WARNING] [Enjin Minecraft Plugin] Auth key invalid. Please regenerate on the enjin control panel.
+2016/06/18 15:13:04 EDT [FINE] Stopping tasks.
+2016/06/18 15:13:04 EDT [FINE] Synch unsuccessful.
+2016/06/18 15:13:05 EDT [FINE] Stats saved to enjin-stats.json.
+2016/06/18 15:13:54 EDT [FINE] Stopping tasks.
+2016/06/18 15:13:54 EDT [FINE] Stats saved to enjin-stats.json.
+Started logging the Enjin Plugin on 2016/06/18 15:15:47 EDT
+2016/06/18 15:15:47 EDT [FINE] Logger initialized.
+2016/06/18 15:15:47 EDT [FINE] Begin init
+2016/06/18 15:15:47 EDT [FINE] Init vars done.
+2016/06/18 15:15:47 EDT [FINE] Minecraft version: git-Spigot-044d928-e8c6403 (MC: 1.8.6)
+2016/06/18 15:15:47 EDT [FINE] MC Version string: 1.8.6
+2016/06/18 15:15:47 EDT [FINE] Get the ban list
+2016/06/18 15:15:47 EDT [FINE] Ban list loaded
+2016/06/18 15:15:47 EDT [FINE] Init files done.
+2016/06/18 15:15:47 EDT [INFO] Couldn't find the TuxTwoLib plugin. Only able to give items to online players only.
+2016/06/18 15:15:47 EDT [FINE] Initializing permissions.
+2016/06/18 15:15:47 EDT [FINE] Init plugins done.
+2016/06/18 15:15:47 EDT [FINE] PermissionsEx found, hooking custom events.
+2016/06/18 15:15:47 EDT [FINE] Setup permissions integration
+2016/06/18 15:15:47 EDT [INFO] Votifier plugin found, enabling Votifier support.
+2016/06/18 15:15:47 EDT [FINE] Setup Votifier integration
+2016/06/18 15:15:47 EDT [FINE] mcMMO found, hooking custom stats.
+2016/06/18 15:15:47 EDT [FINE] Registering events.
+2016/06/18 15:15:47 EDT [FINE] Starting periodic tasks.
+2016/06/18 15:15:47 EDT [FINE] Starting tasks.
+2016/06/18 15:15:47 EDT [FINE] Starting votifier task.
+2016/06/18 15:15:47 EDT [FINE] Connecting to Enjin to send config...
+2016/06/18 15:15:47 EDT [FINE] Sending content: 
+authkey=e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f&statscollected_player_deaths=1&statscollected_player_creeperexplosions=0&debug=0&listenforbans=1&statscollected_player_blocksbroken=1&statscollected_player_kills=1&statscollected_player_travel=1&statscollected_player_playerkicks=0&autoupdate=1&sendstatsinterval=5&collectplayerstats=1&statscollected_player_xp=1&statscollected_player_blocksplaced=1&https=1&usebuygui=1&buycommand=buy
+2016/06/18 15:16:54 EDT [FINE] Connecting to Enjin...
+2016/06/18 15:16:54 EDT [FINE] Sending content: 
+authkey=e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f&maxplayers=20&mc_version=1.8.6&players=0&hasranks=TRUE&pluginversion=2.7.2&plugins=OreGen2%2CAntiLag%2CPlugMan%2CAdministration_Panel%2CLockette%2CCustomRecipes%2CPixelator%2CSuperTrails%2CVoxelSniper%2CColoredChat%2CTelevator%2CSimple-AutoSave%2CViaVersion%2CChatColor%2CChatManager%2CChestMaster%2CTTA%2CLeakParkour%2CWorldEdit%2CAdminFun%2CTimTheEnchanter%2CFirstJoinPlus%2CHealthBar%2COpenInv%2CEssentials%2CAutoBroadcaster%2CScoreboard%2CCommandSigns%2CVotifier%2CProtocolLib%2CLibsDisguises%2CNoCheatPlus%2CEssentialsChat%2CPermissionsEx%2CPTweaks%2CSuperCrate%2CmcMMO%2CGAListener%2CVault%2CEnjinMinecraftPlugin%2CLift%2CWorldGuard%2CPunishmental%2CASkyBlock%2CEssentialsXMPP%2CChestCommands%2CEssentialsProtect%2CEssentialsGeoIP%2CServerSigns%2CEssentialsSpawn%2CPlayerHeads%2CGreenhouses%2CMobile_Workbench%2CSilkSpawners%2CMultiverse-Core%2CCTSNC%2CShopkeepers%2CEchoPet%2CFramePicture%2CCS-CoreLib%2CChestShop%2CHolographicDisplays%2CSlimefun&playerlist=&worlds=world%2Cworld_nether%2Cworld_the_end%2CASkyBlock%2CASkyBlock_nether&tps=19.980094833374025&time=world%3A10321%2C5%2C0%3BASkyBlock%3A3192%2C2%2C0&groups=Default%2CVIP%2CDonor%2CElite%2CUltra%2CYouTube%2CHelper%2CModerator%2CUniversal-Moderator%2CHead-Moderator%2CAdmin%2CHead-Dev%2CBuilder%2CHead-Admin%2COwner%2CMember%2CUvip
+2016/06/18 15:16:54 EDT [FINE] Packet [0x19](Enjin Status) received.
+2016/06/18 15:16:54 EDT [FINE] No more packets. End of stream. Update ended.
+2016/06/18 15:16:54 EDT [FINE] Raw data received:
+auth_error
+2016/06/18 15:16:54 EDT [WARNING] [Enjin Minecraft Plugin] Auth key invalid. Please regenerate on the enjin control panel.
+2016/06/18 15:16:54 EDT [FINE] Stopping tasks.
+2016/06/18 15:16:54 EDT [FINE] Synch unsuccessful.
+2016/06/18 15:16:55 EDT [FINE] Stats saved to enjin-stats.json.
+2016/06/18 15:18:10 EDT [FINE] DaOfficialOwen just got a rank change... processing...
+2016/06/19 09:55:40 EDT [FINE] Connecting to Enjin for shop data for player...
+2016/06/19 09:55:40 EDT [FINE] Sending content: 
+authkey=e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f&player=DaOfficialOwen
+2016/06/19 09:55:40 EDT [FINE] Shop output:
+{"status":"error","error":"Server not found"}
+2016/06/19 09:55:40 EDT [FINE] Shop couldn't get json:
+java.lang.ClassCastException: org.json.simple.JSONObject cannot be cast to org.json.simple.JSONArray
+com.enjin.officialplugin.shop.ShopUtils.parseShopsJSON(ShopUtils.java:157)
+com.enjin.officialplugin.shop.PlayerShopGetter.run(PlayerShopGetter.java:61)
+java.lang.Thread.run(Thread.java:745)
+
+2016/06/19 13:08:35 EDT [FINE] ONCOLOGIC just got a rank change... processing...
+2016/06/19 13:24:14 EDT [FINE] Preistest_Dragon just got a rank change... processing...
+2016/06/22 11:10:38 EDT [FINE] Connecting to Enjin for shop data for player...
+2016/06/22 11:10:38 EDT [FINE] Sending content: 
+authkey=e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f&player=_71_
+2016/06/22 11:10:39 EDT [FINE] Shop output:
+{"status":"error","error":"Server not found"}
+2016/06/22 11:10:39 EDT [FINE] Shop couldn't get json:
+java.lang.ClassCastException: org.json.simple.JSONObject cannot be cast to org.json.simple.JSONArray
+com.enjin.officialplugin.shop.ShopUtils.parseShopsJSON(ShopUtils.java:157)
+com.enjin.officialplugin.shop.PlayerShopGetter.run(PlayerShopGetter.java:61)
+java.lang.Thread.run(Thread.java:745)
+
+2016/06/22 12:51:00 EDT [FINE] Connecting to Enjin for shop data for player...
+2016/06/22 12:51:00 EDT [FINE] Sending content: 
+authkey=e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f&player=DaOfficialOwen
+2016/06/22 12:51:00 EDT [FINE] Shop output:
+{"status":"error","error":"Server not found"}
+2016/06/22 12:51:00 EDT [FINE] Shop couldn't get json:
+java.lang.ClassCastException: org.json.simple.JSONObject cannot be cast to org.json.simple.JSONArray
+com.enjin.officialplugin.shop.ShopUtils.parseShopsJSON(ShopUtils.java:157)
+com.enjin.officialplugin.shop.PlayerShopGetter.run(PlayerShopGetter.java:61)
+java.lang.Thread.run(Thread.java:745)
+
+2016/06/22 12:58:16 EDT [FINE] Swaven just got a rank change... processing...
+2016/06/22 13:25:33 EDT [FINE] stimpayyyyyyyyy just got a rank change... processing...
+2016/06/26 15:22:33 EDT [FINE] Stopping tasks.
+2016/06/26 15:22:47 EDT [FINE] Stats saved to enjin-stats.json.
+Started logging the Enjin Plugin on 2016/06/28 11:04:30 EDT
+2016/06/28 11:04:30 EDT [FINE] Logger initialized.
+2016/06/28 11:04:30 EDT [FINE] Begin init
+2016/06/28 11:04:30 EDT [FINE] Init vars done.
+2016/06/28 11:04:30 EDT [FINE] Minecraft version: git-Spigot-044d928-e8c6403 (MC: 1.8.6)
+2016/06/28 11:04:30 EDT [FINE] MC Version string: 1.8.6
+2016/06/28 11:04:30 EDT [FINE] Get the ban list
+2016/06/28 11:04:30 EDT [FINE] Ban list loaded
+2016/06/28 11:04:30 EDT [FINE] Init files done.
+2016/06/28 11:04:30 EDT [INFO] Couldn't find the TuxTwoLib plugin. Only able to give items to online players only.
+2016/06/28 11:04:30 EDT [FINE] Initializing permissions.
+2016/06/28 11:04:30 EDT [FINE] Init plugins done.
+2016/06/28 11:04:30 EDT [FINE] PermissionsEx found, hooking custom events.
+2016/06/28 11:04:30 EDT [FINE] Setup permissions integration
+2016/06/28 11:04:30 EDT [INFO] Votifier plugin found, enabling Votifier support.
+2016/06/28 11:04:30 EDT [FINE] Setup Votifier integration
+2016/06/28 11:04:30 EDT [FINE] mcMMO found, hooking custom stats.
+2016/06/28 11:04:30 EDT [FINE] Registering events.
+2016/06/28 11:04:30 EDT [FINE] Starting periodic tasks.
+2016/06/28 11:04:30 EDT [FINE] Starting tasks.
+2016/06/28 11:04:30 EDT [FINE] Starting votifier task.
+2016/06/28 11:04:30 EDT [FINE] Connecting to Enjin to send config...
+2016/06/28 11:04:30 EDT [FINE] Sending content: 
+authkey=e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f&statscollected_player_deaths=1&statscollected_player_creeperexplosions=0&debug=0&listenforbans=1&statscollected_player_blocksbroken=1&statscollected_player_kills=1&statscollected_player_travel=1&statscollected_player_playerkicks=0&autoupdate=1&sendstatsinterval=5&collectplayerstats=1&statscollected_player_xp=1&statscollected_player_blocksplaced=1&https=1&usebuygui=1&buycommand=buy
+2016/06/28 11:05:45 EDT [FINE] Connecting to Enjin...
+2016/06/28 11:05:45 EDT [FINE] Sending content: 
+authkey=e2079c08f411c2369e7a2d898aed417aa05c274e0b37461c9f&maxplayers=20&mc_version=1.8.6&players=0&hasranks=TRUE&pluginversion=2.7.2&plugins=OreGen2%2CAntiLag%2CPlugMan%2CAdministration_Panel%2CLockette%2CCustomRecipes%2CPixelator%2CSuperTrails%2CVoxelSniper%2CColoredChat%2CTelevator%2CSimple-AutoSave%2CViaVersion%2CChatColor%2CChatManager%2CChestMaster%2CTTA%2CLeakParkour%2CWorldEdit%2CAdminFun%2CTimTheEnchanter%2CFirstJoinPlus%2CHealthBar%2COpenInv%2CEssentials%2CAutoBroadcaster%2CScoreboard%2CCommandSigns%2CVotifier%2CProtocolLib%2CLibsDisguises%2CNoCheatPlus%2CEssentialsChat%2CPermissionsEx%2CPTweaks%2CSuperCrate%2CmcMMO%2CGAListener%2CVault%2CEnjinMinecraftPlugin%2CLift%2CWorldGuard%2CPunishmental%2CASkyBlock%2CEssentialsXMPP%2CChestCommands%2CEssentialsProtect%2CEssentialsGeoIP%2CServerSigns%2CEssentialsSpawn%2CPlayerHeads%2CGreenhouses%2CMobile_Workbench%2CSilkSpawners%2CMultiverse-Core%2CCTSNC%2CShopkeepers%2CEchoPet%2CFramePicture%2CCS-CoreLib%2CChestShop%2CHolographicDisplays%2CSlimefun&playerlist=&worlds=world%2Cworld_nether%2Cworld_the_end%2CASkyBlock%2CASkyBlock_nether&tps=19.90258155822754&time=world%3A12386%2C5%2C0%3BASkyBlock%3A23449%2C3%2C0&groups=Default%2CVIP%2CDonor%2CElite%2CUltra%2CYouTube%2CHelper%2CModerator%2CUniversal-Moderator%2CHead-Moderator%2CAdmin%2CHead-Dev%2CBuilder%2CHead-Admin%2COwner%2CMember%2CUvip
+2016/06/28 11:05:46 EDT [FINE] Packet [0x19](Enjin Status) received.
+2016/06/28 11:05:46 EDT [FINE] No more packets. End of stream. Update ended.
+2016/06/28 11:05:46 EDT [FINE] Raw data received:
+auth_error
+2016/06/28 11:05:46 EDT [WARNING] [Enjin Minecraft Plugin] Auth key invalid. Please regenerate on the enjin control panel.
+2016/06/28 11:05:46 EDT [FINE] Stopping tasks.
+2016/06/28 11:05:46 EDT [FINE] Synch unsuccessful.
+2016/06/28 11:05:47 EDT [FINE] Stats saved to enjin-stats.json.
+2016/06/28 17:55:02 EDT [FINE] Stopping tasks.
+2016/06/28 17:55:02 EDT [FINE] Stats saved to enjin-stats.json.

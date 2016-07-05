@@ -1,0 +1,94 @@
+lastAccountName: CHOOCOBO
+timestamps:
+  login: 1467375580325
+  lastteleport: 1467310748326
+  logout: 1467375751014
+  lastheal: 1467310033856
+  kits:
+    elite: 1467135780694
+    default: 1466666774353
+    mod: 1466353300014
+    donor: 1467135799098
+    color: 1461331110654
+    helper: 1467135855981
+    vip: 1467135578290
+    ultra: 1466580068418
+ipAddress: 85.165.224.75
+geolocation: Norway
+lastlocation:
+  world: Factions
+  x: 24.32677481723658
+  y: 65.0
+  z: 134.22851004476843
+  yaw: 6.3615427
+  pitch: -0.3522262
+logoutlocation:
+  world: Factions
+  x: 10126.699999988079
+  y: 203.63659935567568
+  z: 10021.01896926145
+  yaw: -173.4146
+  pitch: 39.211372
+money: '29287.5'
+homes:
+  base:
+    world: Factions
+    x: 937.8612229278567
+    y: 77.0
+    z: 581.8825855567286
+    yaw: 186.3191
+    pitch: -6.7118673
+  trap:
+    world: Factions
+    x: 979.7023041012357
+    y: 71.0
+    z: 561.4877059426118
+    yaw: -268.2915
+    pitch: -0.16652247
+  grinder:
+    world: Factions
+    x: 1398.2787601215919
+    y: 9.0
+    z: 2026.8541149375123
+    yaw: -168.91309
+    pitch: 7.4087067
+  chestroom:
+    world: Factions
+    x: 1080.4510565123708
+    y: 251.0
+    z: 563.4747475877351
+    yaw: 292.19547
+    pitch: 9.814465
+  sandd:
+    world: Factions_nether
+    x: 280.22774508269686
+    y: 64.875
+    z: 270.21079429960866
+    yaw: 320.19653
+    pitch: 25.804348
+  farm:
+    world: Factions
+    x: 1274.8535060962859
+    y: 20.0
+    z: 572.9294586637518
+    yaw: 36.11174
+    pitch: 27.204573
+  will:
+    world: Factions
+    x: 1500.5772139371725
+    y: 219.1875
+    z: 3969.6750516730426
+    yaw: 1.0771133
+    pitch: 66.73401
+  chiz:
+    world: Factions
+    x: 136.25556214565322
+    y: 63.0
+    z: 182.84200968230425
+    yaw: -82.30475
+    pitch: 27.082022
+powertools: {}
+afk: false
+godmode: false
+socialspy: true
+nickname: "\xa77\xa7l\xa7n\xa7ooChoco"

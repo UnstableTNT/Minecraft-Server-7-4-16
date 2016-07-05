@@ -1,0 +1,145 @@
+# This is the Config File of FreeBungeeChat
+# read readme.md for more information
+
+# you can use %player%
+chatFormat: "&b[suggest=/w %player% ]%player%[/suggest] &f> %message%"
+
+# you can use %target%
+unknownTarget: "&c%target% is not on the server"
+
+# you can use %target%, will be send when trying to message an player who ignores you
+ignored: "&c%target% doesn't like you"
+
+ignoreSuccess: "&7You ignored %target%"
+ignoreUnignore: "&7You no longer ignore %target%"
+
+# you can use %player% and %target%
+privateMessageSend: "&b[suggest=/w %target% ]You -> %target%[/suggest]&f > [i]%message%[/i]"
+
+# you can use %player% and %target%
+privateMessageReceive: "&b[suggest=/w %player% ]%player% -> me[/suggest] &f> [i]%message%[/i]"
+
+# @mentioning players
+enableTaggingPlayers: true
+taggedPlayer: "[color=gold][suggest=/w FreeBungeeChat]@${name}[/suggest][/color]"
+playSoundToTaggedPlayer: true
+playerTaggedSound: ORB_PICKUP
+
+# sound on private message
+playSoundPrivateMessage: true
+privateMessageMessageSound: ORB_PICKUP
+
+# Anti-Spam
+# if enabled players which send too many messages in a short time will be muted for a minute
+enableAntiSpam: true
+antiSpamText: "&cYou send to many messages. Please wait a minute before sending messages again."
+
+# Chat logging
+# if enabled chat messaged are written into proxy log
+logChat: false
+# name used when using /g in the server console
+consoleName: "SERVER"
+
+# you can add custom regular expressions here
+regex:
+# make any pasted links clickable for convenience
+    - search: '(?<link>(?:(https?)://)?([-\w_\.]{2,}\.[a-z]{2,4})(/\S*)?)'
+      replace: "[url]${link}[/url]"
+# shows link target in tooltip for security reasons (only if link target differs from shown text)
+    - search: '(?i)\[(?:url|command)=(?<cmd>(?:(?:[^]\[]*)\[(?:[^]\[]*)\])*(?:[^]\[]*))\]'
+      replace: "[hover=&b${cmd}]$0"
+    - search: '(?i)\[/(?:url|command)\]'
+      replace: "$0[/hover]"
+# if players write commands in chat like ./command, make them clickable + remove the dot
+    - search: '(?i)^\.(?<cmd>/.{2,})'
+      replace: "[suggest]${cmd}[/suggest]"
+# some smileys
+    - search: '--->'
+      replace: "\u21DB"
+    - search: '<---'
+      replace: "\u21DA"
+    - search: '-->'
+      replace: "\u21D2"
+    - search: '<--'
+      replace: "\u21D0"
+    - search: '->'
+      replace: "\u2192"
+    - search: '<-'
+      replace: "\u2190"
+    - search: '(?i)\(C\)'
+      replace: "\u00A9"
+    - search: '(?i)\(R\)'
+      replace: "\u00AE"
+    - search: '\(o\)|\(O\)|\(time\)'
+      replace: "\u231A"
+    - search: '\(rain\)'
+      replace: "\u2602"
+    - search: '\(sun\)'
+      replace: "\u2600"
+    - search: '\(\*\)'
+      replace: "\u2605"
+    - search: ':\)|:=\)|:-\)'
+      replace: "\u263A"
+    - search: ':\(|:=\(|:-\('
+      replace: "\u2639"
+    - search: '(?i):[-=]?D'
+      replace: "\u263B"
+    - search: '<3'
+      replace: "\u2764"
+# underline clickable things
+    - search: '(?i)(?=(\[(?:url|command|suggest)(?:=(?<cmd>(?:(?:[^]\[]*)\[(?:[^]\[]*)\])*(?:[^]\[]*)))?\]))'
+      replace: "[u]"
+    - search: '(?i)\[/(?:url|command|suggest)\]'
+      replace: "$0[/u]"
+
+# COMMANDS
+
+# /ignore allows players to ignore all kind of chat messages from another player
+enableIgnoreCommand: true
+ignoreCommandAliases: ['ignore']
+
+# private messages: /msg <player> and /reply ...
+enableMessageCommand: true
+messageCommandAliases: ['w', 'msg', 'message', 'tell', 'whisper']
+enableReplyCommand: true
+replyCommandAliases: ['reply', 'r']
+
+# command to write something in global chat; e.g. /g Hi there
+# normally the plugin treats all chat as global chat, so you wouldn't need this command
+enableGlobalChatCommand: true
+globalChatCommandAliases: ['global', 'g']
+
+# local chat /local
+# use this command to force a local chat message
+enableLocalChatCommand: false
+localChatCommandAliases: ['local', 'l']
+
+# /freebungeechat allows admins to reload the plugin ingame
+enableAdminCommand: true
+adminCommandAliases: ['freebungeechat', 'fbc']
+
+# conversation command
+# /chat CodeCrafter47 allows you to have a private chat with me
+# This saves you from typing /w CodeCrafter47 ... every time
+enableConversationCommand: true
+conversationCommandAliases: ['chat', 'conversation']
+startConversation: "&aYou started a conversation with %target%. All your chat messages will go directly to %target%."
+endConversation: "&cYour conversation with %target% is over. Chat works as normal again."
+
+###########################################################
+# ONLY EDIT BELOW SETTINGS IF YOU KNOW WHAT YOU ARE DOING #
+###########################################################
+
+# whether to treat all chat as global chat
+# if this is set to false use /g for global chat
+# if you also disable /g you have disabled global chat completely
+# IF YOU DON'T KNOW WHAT THIS DOES DON'T CHANGE IT
+alwaysGlobalChat: false
+
+# exclude servers from global chat, players on these servers will not be able to send or receive global chat
+#excludeServers:
+#  - spawn
+#  - survival
+
+# disallows bbcode in variables, prevents issues that might come up if square brackets are used in the prefix
+allowBBCodeInVariables: false

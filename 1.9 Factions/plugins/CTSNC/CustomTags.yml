@@ -1,0 +1,68 @@
+CTSNC:
+  CUSTOM_TAGS:
+    Enabled: true
+    PermissionBased: false
+    DefaultOP: true
+    OP:
+      Name: '&e<3> &4OP: '
+    Tag1:
+      Permission: YourName.Default
+      Name: '&2Default: '
+    Tag2:
+      Permission: YourName.Admin
+      Name: '&4Admin: '
+    Tag3:
+      Permission: YourName.Dev
+      Name: '&3Developer: '
+    Tag4:
+      Permission: YourName.Builder
+      Name: '&eBuilder: '
+    Tag5:
+      Permission: YourName.Mod
+      Name: '&cModerator: '
+    Tag6:
+      Permission: YourName.Premium
+      Name: '&6Premium: '
+    Tag7:
+      Permission: YourName.Legend
+      Name: '&a&lLegend: '
+    Tag8:
+      Permission: YourName.unused1
+      Name: /
+    Tag9:
+      Permission: YourName.unused2
+      Name: /
+    Tag10:
+      Permission: YourName.unused3
+      Name: /
+    Tag11:
+      Permission: YourName.unused4
+      Name: /
+    Tag12:
+      Permission: YourName.unused5
+      Name: /
+    Tag13:
+      Permission: YourName.unused6
+      Name: /
+    Tag14:
+      Permission: YourName.unused7
+      Name: /
+    Tag15:
+      Permission: YourName.unused8
+      Name: /
+    Tag16:
+      Permission: YourName.unused9
+      Name: /
+    Tag17:
+      Permission: YourName.unused10
+      Name: /
+    Tag18:
+      Permission: YourName.unused11
+      Name: /
+    Tag19:
+      Permission: YourName.unused12
+      Name: /
+    Tag20:
+      Permission: YourName.unused13
+      Name: /
+    TAG_CLEAR!: false

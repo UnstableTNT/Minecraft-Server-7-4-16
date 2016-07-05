@@ -1,0 +1,53 @@
+ShopName: SellShop
+signs:
+  text: '[SellShop]'
+  NeedPermissionToCreateSign: true
+shop:
+  MenuItems:
+    RewardType: shop
+    PriceType: free
+    Reward: BlockShopSell
+    MenuItem:
+    - type:GRASS
+    - amount:1
+    - name:&bBlock Shop
+    - lore:&8Here you can sell blocks!
+    Message: ''
+    InventoryLocation: 1
+    ExtraPermission: ''
+  OreShopBuy:
+    RewardType: shop
+    PriceType: free
+    Reward: OreShopSell
+    MenuItem:
+    - type:DIAMOND_ORE
+    - amount:1
+    - name:&bOres Shop
+    - lore:&8Here you can sell Minerals/Ores!
+    Message: ''
+    InventoryLocation: 2
+    ExtraPermission: ''
+  CropShop:
+    RewardType: shop
+    PriceType: free
+    Reward: CropShopSell
+    MenuItem:
+    - type:CACTUS
+    - amount:1
+    - name:&bCrops Shop
+    - lore:&8Here you can sell Crops and Food related items!
+    Message: ''
+    InventoryLocation: 3
+    ExtraPermission: ''
+  MobDropShop:
+    RewardType: shop
+    PriceType: free
+    Reward: MobDropSell
+    MenuItem:
+    - type:BONE
+    - amount:1
+    - name:&bMob Drops
+    - lore:&8Here you can buy Mob Drops!
+    Message: ''
+    InventoryLocation: 4
+    ExtraPermission: ''

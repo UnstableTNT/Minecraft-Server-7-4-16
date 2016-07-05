@@ -1,0 +1,9 @@
+# This is an example for item creation.
+Type: EMERALD
+Data: none
+DisplayName: '&cEmerald'
+Actions:
+  Action1:
+    RightClick:
+      RunCommands:
+      - say HELLO!

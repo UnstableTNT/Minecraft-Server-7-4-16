@@ -1,0 +1,60 @@
+Size: 54
+Name: Large Backpack
+ID: 0
+Items:
+- null
+- ==: org.bukkit.inventory.ItemStack
+  type: SLIME_BALL
+  amount: 6
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null

@@ -1,0 +1,21 @@
+timestamps:
+  lastteleport: 1464545065564
+  login: 1464545065602
+  logout: 1464545147316
+lastlocation:
+  world: world
+  x: 26.5
+  y: 70.0
+  z: 256.5
+  yaw: 0.0
+  pitch: 0.0
+geolocation: N/A
+lastAccountName: DxSpirit
+ipAddress: 127.0.0.1
+logoutlocation:
+  world: world
+  x: -905.1985045718637
+  y: 72.2673776443314
+  z: 16.821128810612997
+  yaw: 74.14016
+  pitch: 21.122095

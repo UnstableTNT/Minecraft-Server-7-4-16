@@ -1,0 +1,503 @@
+groups:
+  Default:
+    build: true
+    permissions:
+    - DJP.doubleJump
+    - essentials.fly
+    - essentials.repair
+    - essentials.feed
+    - essentials.enderchest
+    - essentials.spawner.pig
+    - essentials.spawner.cow
+    - essentials.spawner.sheep
+    - essentials.spawner.chicken
+    - essentials.spawner.rabbit
+    - essentials.spawner.zombie
+    - essentials.spawner.skeleton
+    - essentials.spawner.blaze
+    - essentials.spawner.cavespider
+    - essentials.spawner.spider
+    - essentials.spawner.creeper
+    - essentials.spawner.enderman
+    - essentials.spawner.ghast
+    - essentials.spawner.magmacube
+    - essentials.spawner.silverfish
+    - essentials.spawner.slime
+    - essentials.spawner.witch
+    - essentials.spawner.pigzombie
+    - essentials.spawner.horse
+    - essentials.spawner.mooshroom
+    - essentials.spawner.squid
+    - essentials.spawner.wolf
+    - essentials.spawner.irongolem
+    - essentials.spawner.villager
+    - guishop.slot.1
+    - guishop.slot.2
+    - guishop.slot.3
+    - guishop.slot.4
+    - guishop.use
+    - echopet.pet.*
+    - playervaults.workbench
+    - playervaults.ammount.3
+    - playervaults.command.use
+    - essentials.kit.VIP
+    - essentials.kit.color
+    options:
+      prefix: '&2[&aVIP&2]&a'
+      suffix: '&a'
+    inheritance:
+    - Elite
+  Donor:
+    build: true
+    inheritance:
+    - Default
+    permissions:
+    - DJP.doubleJump
+    - essentials.fly
+    - essentials.repair
+    - essentials.feed
+    - essentials.enderchest
+    - essentials.spawner.pig
+    - essentials.spawner.cow
+    - essentials.spawner.sheep
+    - essentials.spawner.chicken
+    - essentials.spawner.rabbit
+    - essentials.spawner.zombie
+    - essentials.spawner.skeleton
+    - essentials.spawner.blaze
+    - essentials.spawner.cavespider
+    - essentials.spawner.spider
+    - essentials.spawner.creeper
+    - essentials.spawner.enderman
+    - essentials.spawner.ghast
+    - essentials.spawner.magmacube
+    - essentials.spawner.silverfish
+    - essentials.spawner.slime
+    - essentials.spawner.witch
+    - essentials.spawner.pigzombie
+    - essentials.spawner.horse
+    - essentials.spawner.mooshroom
+    - essentials.spawner.squid
+    - essentials.spawner.wolf
+    - essentials.spawner.irongolem
+    - essentials.spawner.villager
+    - echopet.pet.*
+    - playervaults.workbench
+    - playervaults.ammount.1
+    - playervaults.command.use
+    - essentials.kit.Donor
+    - essentials.kit.color
+    options:
+      prefix: '&2[&aDonor&2]&a'
+      suffix: '&a'
+  Elite:
+    build: true
+    inheritance:
+    - Donor
+    permissions:
+    - DJP.doubleJump
+    - essentials.fly
+    - essentials.repair
+    - essentials.feed
+    - essentials.enderchest
+    - essentials.spawner.pig
+    - essentials.spawner.cow
+    - essentials.spawner.sheep
+    - essentials.spawner.chicken
+    - essentials.spawner.rabbit
+    - essentials.spawner.zombie
+    - essentials.spawner.skeleton
+    - essentials.spawner.blaze
+    - essentials.spawner.cavespider
+    - essentials.spawner.spider
+    - essentials.spawner.creeper
+    - essentials.spawner.enderman
+    - essentials.spawner.ghast
+    - essentials.spawner.magmacube
+    - essentials.spawner.silverfish
+    - essentials.spawner.slime
+    - essentials.spawner.witch
+    - essentials.spawner.pigzombie
+    - essentials.spawner.horse
+    - essentials.spawner.mooshroom
+    - essentials.spawner.squid
+    - essentials.spawner.wolf
+    - essentials.spawner.irongolem
+    - essentials.spawner.villager
+    - echopet.pet.*
+    - playervaults.workbench
+    - playervaults.ammount.2
+    - playervaults.command.use
+    - essentials.kit.Elite
+    - essentials.kit.color
+    options:
+      prefix: '&2[&aElite&2]&a'
+      suffix: '&a'
+  VIP:
+    build: true
+    inheritance:
+    - Elite
+    permissions:
+    - essentials.help
+    - DJP.doubleJump
+    - essentials.fly
+    - essentials.repair
+    - essentials.feed
+    - essentials.enderchest
+    - essentials.spawner.pig
+    - essentials.spawner.cow
+    - essentials.spawner.sheep
+    - essentials.spawner.chicken
+    - essentials.spawner.rabbit
+    - essentials.spawner.zombie
+    - essentials.spawner.skeleton
+    - essentials.spawner.blaze
+    - essentials.spawner.cavespider
+    - essentials.spawner.spider
+    - essentials.spawner.creeper
+    - essentials.spawner.enderman
+    - essentials.spawner.ghast
+    - essentials.spawner.magmacube
+    - essentials.spawner.silverfish
+    - essentials.spawner.slime
+    - essentials.spawner.witch
+    - essentials.spawner.pigzombie
+    - essentials.spawner.horse
+    - essentials.spawner.mooshroom
+    - essentials.spawner.squid
+    - essentials.spawner.wolf
+    - essentials.spawner.irongolem
+    - essentials.spawner.villager
+    - echopet.pet.*
+    - playervaults.workbench
+    - playervaults.ammount.3
+    - playervaults.command.use
+    - essentials.kit.VIP
+    - essentials.kit.color
+    options:
+      prefix: '&2[&aVIP&2]&a'
+      suffix: '&a'
+  Ultra:
+    build: true
+    inheritance:
+    - VIP
+    permissions:
+    - essentials.nick
+    - DJP.doubleJump
+    - essentials.fly
+    - essentials.repair
+    - essentials.feed
+    - essentials.enderchest
+    - essentials.spawner.pig
+    - essentials.spawner.cow
+    - essentials.spawner.sheep
+    - essentials.spawner.chicken
+    - essentials.spawner.rabbit
+    - essentials.spawner.zombie
+    - essentials.spawner.skeleton
+    - essentials.spawner.blaze
+    - essentials.spawner.cavespider
+    - essentials.spawner.spider
+    - essentials.spawner.creeper
+    - essentials.spawner.enderman
+    - essentials.spawner.ghast
+    - essentials.spawner.magmacube
+    - essentials.spawner.silverfish
+    - essentials.spawner.slime
+    - essentials.spawner.witch
+    - essentials.spawner.pigzombie
+    - essentials.spawner.horse
+    - essentials.spawner.mooshroom
+    - essentials.spawner.squid
+    - essentials.spawner.wolf
+    - essentials.spawner.irongolem
+    - essentials.spawner.villager
+    - echopet.pet.*
+    - playervaults.workbench
+    - playervaults.ammount.4
+    - playervaults.command.use
+    - essentials.kit.Ultra
+    - essentials.kit.color
+    options:
+      prefix: '&2[&1U&3L&5T&7R&9A&2]&a'
+      suffix: '&a'
+  YouTube:
+    build: true
+    inheritance:
+    - Ultra
+    permissions:
+    - essentials.nick
+    - essentials.warp.*
+    - essentials.kits
+    - essentials.kits.YouTube
+    - essentials.kit.YouTube
+    - essentials.kit
+    - DJP.doubleJump
+    - essentials.fly
+    - essentials.repair
+    - essentials.feed
+    - essentials.enderchest
+    - essentials.spawner.pig
+    - essentials.spawner.cow
+    - essentials.spawner.sheep
+    - essentials.spawner.chicken
+    - essentials.spawner.rabbit
+    - essentials.spawner.zombie
+    - essentials.spawner.skeleton
+    - essentials.spawner.blaze
+    - essentials.spawner.cavespider
+    - essentials.spawner.spider
+    - essentials.spawner.creeper
+    - essentials.spawner.enderman
+    - essentials.spawner.ghast
+    - essentials.spawner.magmacube
+    - essentials.spawner.silverfish
+    - essentials.spawner.slime
+    - essentials.spawner.witch
+    - essentials.spawner.pigzombie
+    - essentials.spawner.horse
+    - essentials.spawner.mooshroom
+    - essentials.spawner.squid
+    - essentials.spawner.wolf
+    - essentials.kit.youtube
+    - essentials.spawner.snowman
+    - essentials.echopet.*
+    - playervaults.workbench
+    - playervaults.ammount.5
+    - playervaults.command.use
+    - essentials.kit.color
+    - csboard.admin
+    options:
+      prefix: '&2[&fYou&4Tube&2]&a'
+      suffix: '&a'
+  Moderator:
+    build: true
+    inheritance:
+    - VIP
+    permissions:
+    - essentials.kit.color
+    - essentials.kit
+    - essentials.kits
+    - essentials.nick
+    - DJP.doubleJump
+    - bukkit.*
+    - essentials.banip
+    - essentials.ban
+    - essentials.repair
+    - essentials.heal
+    - essentials.item
+    - essentials.give
+    - essentials.fly
+    - essentials.kick
+    - essentials.mute
+    - essentials.tjail
+    - essentials.jail
+    - essentials.tempban
+    - essentials.vanish
+    - essentials.tp
+    - essentials.tphere
+    - essetntials.kit.Mod
+    - csboard.admin
+    options:
+      prefix: '&2[&9Moderator&2]&9'
+      suffix: '&a'
+  Universal-Moderator:
+    build: true
+    inheritance:
+    - VIP
+    permissions:
+    - essentials.nick
+    - DJP.doubleJump
+    - bukkit.*
+    - essentials.banip
+    - essentials.ban
+    - essentials.repair
+    - essentials.heal
+    - essentials.item
+    - essentials.give
+    - essentials.fly
+    - essentials.kick
+    - essentials.mute
+    - essentials.tjail
+    - essentials.jail
+    - essentials.tempban
+    - essentials.vanish
+    - essentials.tp
+    - essentials.tphere
+    - essentials.kit.color
+    - essentials.kit.Mod
+    - csboard.admin
+    options:
+      prefix: '&2[&6Universal &9Moderator&2]&9'
+      suffix: '&6'
+  Head-Moderator:
+    build: true
+    inheritance:
+    - VIP
+    permissions:
+    - essentials.nick
+    - DJP.doubleJump
+    - bukkit.*
+    - essentials.banip
+    - essentials.ban
+    - essentials.repair
+    - essentials.heal
+    - essentials.item
+    - essentials.give
+    - essentials.fly
+    - essentials.kick
+    - essentials.mute
+    - essentials.tjail
+    - essentials.jail
+    - essentials.tempban
+    - essentials.vanish
+    - essentials.tp
+    - essentials.tphere
+    - essentials.gamemode
+    - essentials.ban
+    - essentials.unban
+    - essentials.ipban
+    - essentials.unipban
+    - essentials.pardon
+    - essentials.enchant
+    - essentials.kit.Mod
+    - essentials.kit.color
+    - csboard.admin
+    options:
+      prefix: '&2[&cHead &9Moderator&2]&9'
+      suffix: '&7'
+  Admin:
+    build: true
+    inheritance:
+    - VIP
+    permissions:
+    - essentials.nick
+    - DJP.doubleJump
+    - essentials.*
+    - bukkit.*
+    - essentials.gamemode
+    - essentials.ban
+    - essentials.unban
+    - essentials.ipban
+    - essentials.unipban
+    - essentials.pardon
+    - essentials.enchant
+    - essentials.kit.color
+    - csboard.admin
+    options:
+      prefix: '&2[&cAdmin&2]&b'
+      suffix: '&b'
+  Head-Admin:
+    build: true
+    inheritance:
+    - VIP
+    permissions:
+    - essentials.nick
+    - DJP.doubleJump
+    - essentials.*
+    - bukkit.*
+    - essentials.gamemode
+    - essentials.ban
+    - essentials.unban
+    - essentials.ipban
+    - essentials.unipban
+    - essentials.pardon
+    - essentials.enchant
+    - essentials.kit.color
+    - csboard.admin
+    options:
+      prefix: '&2[&4Head &cAdmin&2]&b'
+      suffix: '&b'
+  Builder:
+    build: true
+    inheritance:
+    - VIP
+    permissions:
+    - worldedit.*
+    - worldguard.*
+    - bukkit.*
+    - essentials.*
+    - DJP.doubleJump
+    - essentials.fly
+    - essentials.repair
+    - essentials.feed
+    - essentials.enderchest
+    - essentials.spawner.*
+    - guishop.slot.1
+    - guishop.slot.2
+    - guishop.slot.3
+    - guishop.slot.4
+    - guishop.use
+    - echopet.pet.*
+    - playervaults.workbench
+    - playervaults.ammount.3
+    - playervaults.command.use
+    options:
+      prefix: '&2[&5Builder&2]&c'
+      suffix: '&c'
+  Owner:
+    build: true
+    inheritance:
+    - Head-Admin
+    permissions:
+    - '*'
+    options:
+      prefix: '&2[&4Owner&2]'
+      suffix: '&c'
+  member: {}
+schema-version: 1
+users:
+  77dfc7d1-7e24-4371-9f9d-c89cf60bc59a:
+    group:
+    - Owner
+    options:
+      name: UnstableTNT
+  91658022-8a47-4f3d-9c4e-2ed2d7cc61c6:
+    group:
+    - Head-Admin
+    - Admin
+    options:
+      name: skyisasquid
+  560984c2-4090-4e29-902b-f8dac1bad41e:
+    group:
+    - Moderator
+    - member
+    options:
+      name: ibellaSlyman
+  e2ec8e14-9040-4d03-b933-bd7a0fcdd3fc:
+    group:
+    - Moderator
+    options:
+      name: MooshroomFunXL
+  4d5b8aca-02b5-4d29-9834-7ef8760d2454:
+    group:
+    - Builder
+    options:
+      name: Mr_cookie105
+  a3f33216-6e72-4db2-8910-abf1bae9308b:
+    group:
+    - YouTube
+    options:
+      name: Jensen_Games
+  c2960ff8-92e0-4802-b61b-5ba87ae8e10b:
+    group:
+    - Universal-Moderator
+    - Universal_Moderator
+    options:
+      name: Thatolddog
+  8f8ccbeb-e3d3-42f2-be35-e2208cce8e87:
+    group:
+    - Donor
+    - Moderator
+    options:
+      name: JaysOnMyFeet554
+  010c1522-cd50-4c94-b945-1fdf87b79c0a:
+    group:
+    - Moderator
+    options:
+      name: _OriginalDoge_
+  eb38fa09-2d8c-41e8-b21a-15fe51343750:
+    group:
+    - VIP
+    options:
+      name: StoneSlicer

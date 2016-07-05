@@ -1,0 +1,14 @@
+CTSNC:
+  TABLIST:
+    Enabled: true
+    Normal:
+      Enabled: true
+      Header: '&c[&e&lCTSNC&c] &8| &a&lWorks fine&e! [NL] &6Also with multiple lines!'
+      Footer: '&2&lExample &e&lNetwork &8&l| &c&oJoin Now! [NL] &6IP: &8<9> &aYourNetwork.com '
+    Animated:
+      Enabled: false
+      Header: '&c[&eCTSNC&c] &8| &aWorks fine&e! &cWith the new &6Animations&c!'
+      Footer: '&2Example &eNetwork &8| &cJoin Now on a &cNetwork &awith &eCTSNC&c!'
+      MaxLenght: 28
+      SpaceBetweenStartAndEnd: 4
+      AnimationSpeed(InTicks): 5

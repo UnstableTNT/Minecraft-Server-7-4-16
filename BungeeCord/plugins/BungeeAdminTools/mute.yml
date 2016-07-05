@@ -1,0 +1,19 @@
+# BungeeAdminTools - mute configuration file
+
+enabled: false
+commands:
+  gtempmute: false
+  gunmute: false
+  gunmuteip: false
+  tempmute: false
+  gtempmuteip: false
+  muteip: false
+  unmuteip: false
+  mute: false
+  unmute: false
+  tempmuteip: false
+  gmute: false
+  gmuteip: false
+# Forbidden commands when a player is mute
+forbiddenCmds:
+- msg

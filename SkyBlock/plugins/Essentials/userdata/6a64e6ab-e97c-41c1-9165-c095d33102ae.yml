@@ -1,0 +1,31 @@
+geolocation: Norway
+lastAccountName: stimpayyyyyyyyy
+timestamps:
+  login: 1466616279048
+  logout: 1466616542360
+  lastteleport: 1466616434521
+  kits:
+    default: 1465062070392
+    vip: 1465062108228
+ipAddress: 85.165.224.75
+lastlocation:
+  world: ASkyBlock
+  x: 283.98175381706164
+  y: 151.4897645693968
+  z: -713.7595900382178
+  yaw: -176.50403
+  pitch: 16.364132
+logoutlocation:
+  world: ASkyBlock
+  x: 636.2256302782861
+  y: 145.42106039971895
+  z: -406.29183239263995
+  yaw: -320.5337
+  pitch: 35.948338
+nickname: Onco
+godmode: false
+socialspy: true
+afk: false
+powertools:
+  '76':
+  - cittycannon

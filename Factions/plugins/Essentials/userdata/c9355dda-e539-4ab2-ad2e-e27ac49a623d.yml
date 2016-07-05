@@ -1,0 +1,20 @@
+geolocation: New Zealand
+lastAccountName: NancyKH
+timestamps:
+  login: 1466429187188
+  logout: 1466429390678
+ipAddress: 47.72.234.180
+lastlocation:
+  world: world
+  x: -618.5
+  y: 175.0
+  z: 338.5
+  yaw: 89.74122
+  pitch: 1.6889309
+logoutlocation:
+  world: world
+  x: -618.5
+  y: 175.0
+  z: 336.5
+  yaw: 29.299406
+  pitch: 22.034437

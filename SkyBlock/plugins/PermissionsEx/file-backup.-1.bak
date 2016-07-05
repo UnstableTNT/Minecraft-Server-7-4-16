@@ -1,0 +1,86 @@
+groups:
+  Default:
+    default: true
+    build: true
+    prefix: '&2[&7Member&2]&f'
+    permissions:
+    - essentials.help
+    - modifyworld.chat
+    - modifyworld.*
+    - essentials.home
+    - essentials.sethome
+    - essentials.back
+    - essentials.tpa
+    - essentials.tpaccept
+    - essentials.tpdeny
+    - essentials.spawn
+    - bungeecord.command.server
+    - bungeecord.command.list
+    - askyblock.island.*
+    - askyblock.team.create
+    - askyblock.team.kick
+    - askyblock.team.makeleader
+    - askyblock.team.join
+    - askyblock.coop
+    - askyblock.island.controlpanel
+    - scoreboardstats.use
+    - ChestShop.shop.create
+    - ChestShop.shop.buy
+    - ChestShop.shop.sell
+    - essentials.delhome
+    - essentials.tpahere
+    - essentials.warp
+    - essentials.warp.list
+    - essentials.warp.*
+    - essentials.build
+    - commandsigns.*
+  VIP:
+    build: true
+    inheritance:
+    - Default
+    prefix: '&2[&aVIP&2]&a'
+    suffix: '&a'
+    permissions:
+    - essentials.fly
+    - essentials.repair
+    - essentials.feed
+  Moderator:
+    build: true
+    inheritance:
+    - VIP
+    prefix: '&2[&1Moderator&2]&2'
+    suffix: '&7'
+    permissions:
+    - essentials.repair
+    - essentials.heal
+    - essentials.item
+    - essentials.give
+    - essentials.fly
+    - essentials.kick
+    - essentials.mute
+    - essentials.tjail
+    - essentials.jail
+    - essentials.tempban
+    - essentials.vanish
+  Admin:
+    build: true
+    inheritance:
+    - Moderator
+    prefix: '&2[&cAdmin&2]&b'
+    suffix: '&b'
+    permissions:
+    - essentials.gamemode
+    - essentials.ban
+    - essentials.unban
+    - essentials.ipban
+    - essentials.unipban
+    - essentials.pardon
+    - essentials.enchant
+  Owner:
+    build: true
+    inheritance:
+    - Admin
+    prefix: '&2[&4Owner&2]'
+    suffix: '&c'
+    permissions:
+    - '*'

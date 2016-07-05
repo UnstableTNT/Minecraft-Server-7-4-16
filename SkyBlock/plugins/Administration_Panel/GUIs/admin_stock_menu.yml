@@ -1,0 +1,26 @@
+# NOT USED! #
+title: "&3Admin &4Stock"
+
+slots: 9
+
+buttons:
+
+  0:
+  
+    type: ADMIN_CHEST
+    
+    item: CHEST
+    
+    slot: 0
+    
+    slots: 27
+    
+    title: "&4Admin Chest"
+    
+    stock: ADMIN
+    
+    permission: "admin-stock.admin"
+    
+    lore:
+    
+      1: "&fOpens the admin chest."

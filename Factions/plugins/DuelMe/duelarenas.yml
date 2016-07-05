@@ -1,0 +1,53 @@
+# do not touch the config version below, it will break the plugin!
+configversion: 1.0
+duelarenas:
+  Arena1:
+    pos1:
+      world: PVP
+      x: -11
+      y: 62
+      z: -17
+    pos2:
+      world: PVP
+      x: 11
+      y: 90
+      z: 16
+    spawnpoint1:
+      world: PVP
+      x: 0.4912665708995171
+      y: 72.0
+      z: 14.511132393985978
+      yaw: 179.79273986816406
+      pitch: -0.8999997973442078
+    spawnpoint2:
+      world: PVP
+      x: 0.5362467870673107
+      y: 72.0
+      z: -13.639354010526098
+      yaw: 0.09271417558193207
+      pitch: -2.849985361099243
+  spawnArena:
+    pos1:
+      world: Factions
+      x: 30
+      y: 64
+      z: 85
+    pos2:
+      world: Factions
+      x: 62
+      y: 64
+      z: 107
+    spawnpoint1:
+      world: Factions
+      x: 59.69999998807908
+      y: 66.0
+      z: 96.53947999957877
+      yaw: -264.43310546875
+      pitch: -1.9891201257705688
+    spawnpoint2:
+      world: Factions
+      x: 33.30000001192092
+      y: 66.0
+      z: 96.58130914645581
+      yaw: -90.8321533203125
+      pitch: 1.9342045783996582

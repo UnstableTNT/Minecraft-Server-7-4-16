@@ -1,0 +1,22 @@
+timestamps:
+  lastteleport: 1466980874036
+  login: 1466980874050
+  logout: 1466981576013
+lastlocation:
+  world: world
+  x: -884.4319364761235
+  y: 141.0
+  z: 27.88696603252242
+  yaw: 269.5908
+  pitch: -0.90002334
+geolocation: Canada
+lastAccountName: ZombieAceman77
+ipAddress: 24.222.228.71
+logoutlocation:
+  world: world
+  x: -898.5
+  y: 140.0
+  z: 22.5
+  yaw: 269.5908
+  pitch: -0.90002334
+afk: false

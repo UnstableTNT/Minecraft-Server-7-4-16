@@ -1,0 +1,84 @@
+playerName: Ninjyx
+hasIsland: true
+islandLocation: ASkyBlock:600:115:-400:0:0
+hasTeam: false
+teamLeader: ''
+islandLevel: 25
+members: []
+resetsLeft: 10
+locale: ''
+useControlPanel: false
+teamIslandLocation: ''
+startIslandRating: 50
+homeLocations:
+  '1': ASkyBlock:600:127:-404:-1014548064:1075419622
+challenges:
+  status:
+    dj: false
+    craftsman: false
+    beaconator: false
+    stewmaker: true
+    enderpearls: false
+    pioneer: false
+    shepherd: false
+    culinaryartist: false
+    acidduke: false
+    ittakesavillage: false
+    homestead: true
+    mason: false
+    builder: true
+    dyemaker: true
+    itsamonsterparty: false
+    glassmaker: true
+    nether: false
+    alchemist: false
+    gemcollector: false
+    grinder: false
+    papermaker: true
+    cobblemaker: true
+    seedbank: false
+    cookiemaker: false
+    slimeballfarmer: false
+    itsaparty: false
+    baker: false
+    breadmaker: true
+    myprecious: false
+    snowplay: false
+    farmer: false
+    angler: false
+    treecutter: false
+  times:
+    dj: 0
+    craftsman: 0
+    beaconator: 0
+    stewmaker: 7
+    enderpearls: 0
+    pioneer: 0
+    shepherd: 0
+    culinaryartist: 0
+    acidduke: 0
+    ittakesavillage: 0
+    homestead: 1
+    mason: 0
+    builder: 1
+    dyemaker: 1
+    itsamonsterparty: 0
+    glassmaker: 2
+    nether: 0
+    alchemist: 0
+    gemcollector: 0
+    grinder: 0
+    papermaker: 6
+    cobblemaker: 77
+    seedbank: 0
+    cookiemaker: 0
+    slimeballfarmer: 0
+    itsaparty: 0
+    baker: 0
+    breadmaker: 11
+    myprecious: 0
+    snowplay: 0
+    farmer: 0
+    angler: 0
+    treecutter: 0
+islandInfo: 600:115:-400:100:200:9f951c8c-83c6-4db6-93f8-ed843d358ca9:false:false:10000000010010000000000110000:PLAINS

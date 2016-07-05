@@ -1,0 +1,22 @@
+lastAccountName: PonasPomidoras
+timestamps:
+  login: 1466666708492
+  lastteleport: 1466666929297
+  logout: 1466667185221
+ipAddress: 90.140.174.240
+geolocation: Sweden
+lastlocation:
+  world: Factions
+  x: 19.892857322305275
+  y: 65.5
+  z: 136.44067553659283
+  yaw: 85.00634
+  pitch: -1.1897031
+money: '0.0'
+logoutlocation:
+  world: Factions
+  x: 57.489012891149216
+  y: 65.0
+  z: 157.47468283650554
+  yaw: 180.78978
+  pitch: 2.8861675

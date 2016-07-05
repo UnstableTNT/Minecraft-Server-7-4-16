@@ -1,0 +1,21 @@
+geolocation: United States
+lastAccountName: Thatolddog
+timestamps:
+  login: 1466964934542
+  logout: 1466964949375
+  lastteleport: 1466964934521
+ipAddress: 173.169.54.87
+lastlocation:
+  world: world
+  x: -884.2230595828956
+  y: 141.0
+  z: 62.45644486172634
+  yaw: 2.7631836
+  pitch: -2.66547
+logoutlocation:
+  world: world
+  x: -884.8280212959139
+  y: 141.0
+  z: 62.40099829357741
+  yaw: 2.4720154
+  pitch: 7.7320924

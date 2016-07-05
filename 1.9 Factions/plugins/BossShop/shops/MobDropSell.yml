@@ -1,0 +1,199 @@
+ShopName: MobDropSell
+signs:
+  text: '[MobDropShop]'
+  NeedPermissionToCreateSign: true
+shop:
+  Gunpowder:
+    RewardType: money
+    PriceType: item
+    Price:
+      - 'id:289'
+      - 'amount:32'
+    Reward: 150
+    MenuItem:
+      - 'id:289'
+      - 'amount:32'
+      - 'lore:&bReward: $150'
+    Message: '&bSold %price% for $%reward%!'
+    InventoryLocation: 1
+    ExtraPermission: ''
+  Enderpearl:
+    RewardType: money
+    PriceType: item
+    Price:
+      - 'id:368'
+      - 'amount:4'
+    Reward: 75
+    MenuItem:
+      - 'id:368'
+      - 'amount:4'
+      - 'lore:&bReward: $75'
+    Message: '&bSold %price% for $%reward%!'
+    InventoryLocation: 2
+    ExtraPermission: ''
+  Leather:
+    RewardType: money
+    PriceType: item
+    Price:
+      - 'id:354'
+      - 'amount:16'
+    Reward: 30
+    MenuItem:
+      - 'id:334'
+      - 'amount:16'
+      - 'lore:&bReward: $30'
+    Message: '&bSold %price% for $%reward%!'
+    InventoryLocation: 3
+    ExtraPermission: ''
+  Steak:
+    RewardType: money
+    PriceType: item
+    Price:
+      - 'id:364'
+      - 'amount:16'
+    Reward: 35
+    MenuItem:
+      - 'id:364'
+      - 'amount:16'
+      - 'lore:&bReward: $35'
+    Message: '&bSold %price% for $%reward%!'
+    InventoryLocation: 4
+    ExtraPermission: ''
+  String:
+    RewardType: money
+    PriceType: item
+    Price:
+      - 'id:287'
+      - 'amount:16'
+    Reward: 20
+    MenuItem:
+      - 'id:287'
+      - 'amount:16'
+      - 'lore:&bReward: $20'
+    Message: '&bSold %price% for $%reward%!'
+    InventoryLocation: 5
+    ExtraPermission: ''
+  Bow:
+    RewardType: money
+    PriceType: item
+    Price:
+      - 'id:261'
+      - 'amount:1'
+    Reward: 15
+    MenuItem:
+      - 'id:261'
+      - 'amount:1'
+      - 'lore:&bReward: $15'
+    Message: '&bSold %price% for $%reward%!'
+    InventoryLocation: 6
+    ExtraPermission: ''
+  Arrow:
+    RewardType: money
+    PriceType: item
+    Price:
+      - 'id:362'
+      - 'amount:32'
+    Reward: 50
+    MenuItem:
+      - 'id:362'
+      - 'amount:32'
+      - 'lore:&bReward: $50'
+    Message: '&bSold %price% for $%reward%!'
+    InventoryLocation: 7
+    ExtraPermission: ''
+  Feather:
+    RewardType: money
+    PriceType: item
+    Price:
+      - 'id:288'
+      - 'amount:32'
+    Reward: 25
+    MenuItem:
+      - 'id:288'
+      - 'amount:32'
+      - 'lore:&bReward: $25'
+    Message: '&bSold %price% for $%reward%!'
+    InventoryLocation: 8
+    ExtraPermission: ''
+  Slimeball:
+    RewardType: money
+    PriceType: item
+    Price:
+      - 'id:341'
+      - 'amount:1'
+    Reward: 30
+    MenuItem:
+      - 'id:341'
+      - 'amount:1'
+      - 'lore:&bReward: $30'
+    Message: '&bSold %price% for $%reward%!'
+    InventoryLocation: 9
+    ExtraPermission: ''
+  Spidereye:
+    RewardType: money
+    PriceType: item
+    Price:
+      - 'id:375'
+      - 'amount:4'
+    Reward: 15
+    MenuItem:
+      - 'id:375'
+      - 'amount:4'
+      - 'lore:&bReward: $15'
+    Message: '&bSold %price% for $%reward%!'
+    InventoryLocation: 10
+    ExtraPermission: ''
+  Bone:
+    RewardType: money
+    PriceType: item
+    Price:
+      - 'id:352'
+      - 'amount:32'
+    Reward: 50
+    MenuItem:
+      - 'id:352'
+      - 'amount:32'
+      - 'lore:&bReward: $50'
+    Message: '&bSold %price% for $%reward%!'
+    InventoryLocation: 11
+    ExtraPermission: ''
+  'Ghast Tear':
+    RewardType: money
+    PriceType: item
+    Price:
+      - 'id:370'
+      - 'amount:4'
+    Reward: 125
+    MenuItem:
+      - 'id:370'
+      - 'amount:125'
+      - 'lore:&bReward: $125'
+    Message: '&bSold %price% for $%reward%!'
+    InventoryLocation: 12
+    ExtraPermission: ''
+  'Blaze Rod':
+    RewardType: money
+    PriceType: item
+    Price:
+      - 'id:369'
+      - 'amount:4'
+    Reward: 75
+    MenuItem:
+      - 'id:369'
+      - 'amount:4'
+      - 'lore:&bReward: $75'
+    Message: '&bSold %price% for $%reward%!'
+    InventoryLocation: 13
+    ExtraPermission: ''
+  Back:
+    RewardType: shop
+    PriceType: free
+    Reward: menu
+    MenuItem:
+      - 'type:REDSTONE'
+      - 'amount:1'
+      - 'name:&cBack'
+      - 'lore:&8Back to Menu'
+    Message: '&6Leaving The Mob Drop Shop...'
+    InventoryLocation: 18
+    ExtraPermission: ''

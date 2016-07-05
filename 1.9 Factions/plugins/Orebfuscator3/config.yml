@@ -1,0 +1,37 @@
+ConfigVersion: 10
+Integers:
+  EngineMode: 2
+  InitialRadius: 1
+  UpdateRadius: 2
+  ProcessingThreads: 5
+  MaxLoadedCacheFiles: 64
+  ProximityHiderDistance: 8
+  ProximityHiderID: 1
+  ProximityHiderEnd: 255
+  AirGeneratorMaxChance: 43
+  OrebfuscatorPriority: 1
+  CompressionLevel: 1
+Booleans:
+  UseProximityHider: true
+  UseSpecialBlockForProximityHider: true
+  UseYLocationProximity: false
+  UpdateOnDamage: true
+  DarknessHideBlocks: false
+  NoObfuscationForOps: false
+  NoObfuscationForPermission: false
+  UseCache: true
+  LoginNotification: true
+  AntiTexturePackAndFreecam: true
+  Enabled: true
+Lists:
+  ObfuscateBlocks:
+  - 14
+  - 15
+  - 16
+  - 21
+  - 54
+  - 56
+  - 73
+  - 74
+  - 129
+  - 130

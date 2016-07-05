@@ -1,0 +1,28 @@
+timestamps:
+  lastteleport: 1465493901053
+  login: 1465493901095
+  logout: 1465493948998
+lastlocation:
+  world: Plots
+  x: 53.5
+  y: 103.0
+  z: 29.5
+  yaw: -7.0142474
+  pitch: 3.7448869
+geolocation: N/A
+lastAccountName: hallie_cakes
+ipAddress: 127.0.0.1
+logoutlocation:
+  world: Plots
+  x: 54.5
+  y: 103.0
+  z: 53.5
+  yaw: -176.82982
+  pitch: -0.16922824
+powertools:
+  '275':
+  - Snipe
+  '332':
+  - lightning
+  '349':
+  - kittycannon

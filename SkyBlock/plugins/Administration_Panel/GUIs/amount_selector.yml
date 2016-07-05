@@ -1,0 +1,89 @@
+title: "&6Amount Selector"
+
+slots: 54
+
+buttons:
+
+  0:
+  
+    item: GHAST_TEAR
+    
+    slot: 0
+    
+    title: "&f1"
+    
+    amount: 1
+    
+    lore:
+    
+      1: "&fAmount of 1."
+      
+  1:
+  
+    item: GHAST_TEAR
+    
+    slot: 1
+    
+    title: "&f2"
+    
+    amount: 2
+    
+    lore:
+    
+      1: "&fAmount of 2."
+      
+  2:
+  
+    item: GHAST_TEAR
+    
+    slot: 2
+    
+    title: "&f5"
+    
+    amount: 5
+    
+    lore:
+    
+      1: "&fAmount of 5."
+      
+  3:
+  
+    item: GHAST_TEAR
+    
+    slot: 3
+    
+    title: "&f10"
+    
+    amount: 10
+    
+    lore:
+    
+      1: "&fAmount of 10."
+      
+  4:
+  
+    item: GHAST_TEAR
+    
+    slot: 4
+    
+    title: "&f20"
+    
+    amount: 20
+    
+    lore:
+    
+      1: "&fAmount of 20."
+      
+  5:
+  
+    item: GHAST_TEAR
+    
+    slot: 5
+    
+    title: "&f64"
+    
+    amount: 64
+    
+    lore:
+    
+      1: "&fAmount of 64."

@@ -1,0 +1,54 @@
+title: "&1World Options"
+
+buttons:
+
+  0:
+  
+    type: TIME
+    
+    item: WATCH
+    
+    slot: 0
+    
+    title: "&2Change time ..."
+    
+    permission: "change-time"
+    
+    lore:
+    
+      1: "&fUse to change the"
+      2: "&ftime."
+      
+  1:
+  
+    type: WEATHER
+    
+    item: WATCH
+    
+    slot: 1
+    
+    title: "&9Change weather ..."
+    
+    permission: "change-weather"
+    
+    lore:
+    
+      1: "&fUse to change the"
+      2: "&fweather."
+    
+  2:
+    
+    type: PLAYER_TIME
+    
+    item: WATCH
+    
+    slot: 2
+    
+    title: "&aChange player time ..."
+    
+    permission: "change-time"
+    
+    lore:
+      
+      1: "&fUse to change the"
+      2: "&fplayer time."

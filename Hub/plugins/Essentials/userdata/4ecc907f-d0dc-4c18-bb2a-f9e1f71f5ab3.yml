@@ -1,0 +1,30 @@
+timestamps:
+  lastteleport: 1467568949740
+  login: 1467568949759
+  logout: 1467568983062
+lastlocation:
+  world: world
+  x: -897.6809734962114
+  y: 141.0
+  z: 36.3129397070744
+  yaw: 129.40228
+  pitch: -17.1443
+geolocation: Norway
+lastAccountName: lilpig
+ipAddress: 85.165.224.75
+logoutlocation:
+  world: world
+  x: -898.5
+  y: 140.0
+  z: 22.5
+  yaw: 269.5908
+  pitch: -0.90002334
+homes:
+  app:
+    world: world
+    x: -896.4543585458622
+    y: 106.27880904500836
+    z: 11.244325518748374
+    yaw: -344.53876
+    pitch: 45.765556
+afk: false

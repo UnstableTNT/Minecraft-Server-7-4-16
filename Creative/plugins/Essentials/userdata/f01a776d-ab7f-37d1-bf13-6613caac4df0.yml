@@ -1,0 +1,32 @@
+timestamps:
+  lastteleport: 1466459263675
+  login: 1466455282025
+  logout: 1466470112471
+  kits:
+    notch: 1465347581557
+lastlocation:
+  world: Plots
+  x: -12.748100438165316
+  y: 101.0
+  z: -12.61561271028371
+  yaw: -207.71425
+  pitch: 26.544878
+geolocation: N/A
+lastAccountName: ThunderKirby12
+ipAddress: 127.0.0.1
+logoutlocation:
+  world: Plots
+  x: 39.404336155273086
+  y: 173.86018731178646
+  z: -22.03723491389411
+  yaw: -270.83667
+  pitch: 6.150015
+nickname: "\xa7eYellow\xa72Slime"
+afk: false
+powertools:
+  '385':
+  - fireball
+  '349':
+  - kittycannon
+  '377':
+  - lightning

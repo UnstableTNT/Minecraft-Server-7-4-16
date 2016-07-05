@@ -1,0 +1,212 @@
+[00:10:04] [Thread-18/INFO]: UUID of player Preistest_Dragon is b1d489a0-0a6f-44c1-997b-135a7bcc0916
+[00:10:04] [Server thread/INFO]: [Server] Welcome to UnstableNetwork, Preistest_Dragon!
+[00:10:04] [Server thread/INFO]: Preistest_Dragon[/73.68.210.208:54203] logged in with entity id 56 at ([world]-898.5, 141.0, 22.5)
+[00:10:04] [Server thread/WARN]: [Essentials] Task #123 for Essentials vTeamCity generated an exception
+java.lang.NullPointerException
+	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:176) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:123) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPPPlayerListener$1.run(EssentialsXMPPPlayerListener.java:35) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-044d928-e8c6403]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:726) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:367) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:657) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:560) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_74]
+[00:10:04] [Server thread/WARN]: [CTSNC] Task #116 for CTSNC v8.9 generated an exception
+java.lang.IllegalArgumentException: Display name '&4<4> &2[&4Unstable&5Network&2] &4<4>' is longer than the limit of 32 characters
+	at org.apache.commons.lang.Validate.isTrue(Validate.java:136) ~[spigot.jar:git-Spigot-044d928-e8c6403]
+	at org.bukkit.craftbukkit.v1_8_R3.scoreboard.CraftObjective.setDisplayName(CraftObjective.java:40) ~[spigot.jar:git-Spigot-044d928-e8c6403]
+	at de.Herbystar.CTSNC.Scoreboards.<init>(Scoreboards.java:61) ~[?:?]
+	at de.Herbystar.CTSNC.PlayerJoinEvents$1.run(PlayerJoinEvents.java:72) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-044d928-e8c6403]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:726) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:367) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:657) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:560) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_74]
+[00:10:26] [Server thread/INFO]: Preistest_Dragon lost connection: Disconnected
+[00:10:26] [Server thread/INFO]: Preistest_Dragon has left the Server!
+[00:10:26] [Server thread/WARN]: [Essentials] Task #126 for Essentials vTeamCity generated an exception
+java.lang.NullPointerException
+	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:171) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:123) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPPPlayerListener$2.run(EssentialsXMPPPlayerListener.java:59) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-044d928-e8c6403]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:726) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:367) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:657) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:560) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_74]
+[01:19:13] [Craft Scheduler Thread - 572/INFO]: [0;37;22m[[0;33;22mSkript[0;37;22m][m Checking for the latest version of Skript...[m
+[01:19:14] [Skript update thread/INFO]: [0;37;22m[[0;33;22mSkript[0;37;22m][m You're currently running the latest stable version of Skript.[m
+[08:03:10] [Server thread/WARN]: [NoCheatPlus] System time ran backwards (1467633799562->1467633790285), clear all data and history...
+[13:20:01] [Craft Scheduler Thread - 1140/INFO]: [0;37;22m[[0;33;22mSkript[0;37;22m][m Checking for the latest version of Skript...[m
+[13:20:02] [Skript update thread/INFO]: [0;37;22m[[0;33;22mSkript[0;37;22m][m You're currently running the latest stable version of Skript.[m
+[17:40:59] [Thread-20/INFO]: UUID of player shortynovember is 28cb2335-f8ac-4303-b977-71dd020040a1
+[17:40:59] [Server thread/INFO]: [Server] Welcome to UnstableNetwork, shortynovember!
+[17:40:59] [Server thread/INFO]: shortynovember[/72.49.243.188:62800] logged in with entity id 94 at ([world]-898.5, 140.0, 22.5)
+[17:40:59] [Server thread/WARN]: [Essentials] Task #138 for Essentials vTeamCity generated an exception
+java.lang.NullPointerException
+	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:176) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:123) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPPPlayerListener$1.run(EssentialsXMPPPlayerListener.java:35) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-044d928-e8c6403]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:726) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:367) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:657) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:560) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_74]
+[17:40:59] [Server thread/WARN]: [CTSNC] Task #131 for CTSNC v8.9 generated an exception
+java.lang.IllegalArgumentException: Display name '&4<4> &2[&4Unstable&5Network&2] &4<4>' is longer than the limit of 32 characters
+	at org.apache.commons.lang.Validate.isTrue(Validate.java:136) ~[spigot.jar:git-Spigot-044d928-e8c6403]
+	at org.bukkit.craftbukkit.v1_8_R3.scoreboard.CraftObjective.setDisplayName(CraftObjective.java:40) ~[spigot.jar:git-Spigot-044d928-e8c6403]
+	at de.Herbystar.CTSNC.Scoreboards.<init>(Scoreboards.java:61) ~[?:?]
+	at de.Herbystar.CTSNC.PlayerJoinEvents$1.run(PlayerJoinEvents.java:72) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-044d928-e8c6403]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:726) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:367) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:657) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:560) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_74]
+[17:41:06] [Server thread/INFO]: shortynovember lost connection: Disconnected
+[17:41:06] [Server thread/INFO]: shortynovember has left the Server!
+[17:41:06] [Server thread/WARN]: [Essentials] Task #141 for Essentials vTeamCity generated an exception
+java.lang.NullPointerException
+	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:171) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:123) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPPPlayerListener$2.run(EssentialsXMPPPlayerListener.java:59) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-044d928-e8c6403]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:726) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:367) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:657) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:560) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_74]
+[19:51:24] [Thread-21/INFO]: UUID of player Ninjyx is 9f951c8c-83c6-4db6-93f8-ed843d358ca9
+[19:51:24] [Server thread/INFO]: [Server] Welcome to UnstableNetwork, Ninjyx!
+[19:51:24] [Server thread/INFO]: Ninjyx[/72.201.122.223:49678] logged in with entity id 95 at ([world]-898.5, 140.0, 22.5)
+[19:51:24] [Server thread/WARN]: [Essentials] Task #149 for Essentials vTeamCity generated an exception
+java.lang.NullPointerException
+	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:176) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:123) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPPPlayerListener$1.run(EssentialsXMPPPlayerListener.java:35) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-044d928-e8c6403]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:726) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:367) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:657) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:560) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_74]
+[19:51:24] [Server thread/WARN]: [CTSNC] Task #142 for CTSNC v8.9 generated an exception
+java.lang.IllegalArgumentException: Display name '&4<4> &2[&4Unstable&5Network&2] &4<4>' is longer than the limit of 32 characters
+	at org.apache.commons.lang.Validate.isTrue(Validate.java:136) ~[spigot.jar:git-Spigot-044d928-e8c6403]
+	at org.bukkit.craftbukkit.v1_8_R3.scoreboard.CraftObjective.setDisplayName(CraftObjective.java:40) ~[spigot.jar:git-Spigot-044d928-e8c6403]
+	at de.Herbystar.CTSNC.Scoreboards.<init>(Scoreboards.java:61) ~[?:?]
+	at de.Herbystar.CTSNC.PlayerJoinEvents$1.run(PlayerJoinEvents.java:72) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-044d928-e8c6403]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:726) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:367) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:657) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:560) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_74]
+[19:51:28] [Server thread/INFO]: Ninjyx lost connection: Disconnected
+[19:51:28] [Server thread/INFO]: Ninjyx has left the Server!
+[19:51:28] [Server thread/WARN]: [Essentials] Task #152 for Essentials vTeamCity generated an exception
+java.lang.NullPointerException
+	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:171) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:123) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPPPlayerListener$2.run(EssentialsXMPPPlayerListener.java:59) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-044d928-e8c6403]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:726) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:367) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:657) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:560) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_74]
+[20:26:29] [Thread-22/INFO]: UUID of player PiePigAnonymous is 1d6e4db5-262d-44f4-939f-7e718186c592
+[20:26:29] [Server thread/INFO]: [Server] Welcome to UnstableNetwork, PiePigAnonymous!
+[20:26:29] [Server thread/INFO]: PiePigAnonymous[/50.148.119.91:50509] logged in with entity id 96 at ([world]-898.5, 141.0, 22.5)
+[20:26:29] [Server thread/WARN]: [Essentials] Task #160 for Essentials vTeamCity generated an exception
+java.lang.NullPointerException
+	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:176) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:123) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPPPlayerListener$1.run(EssentialsXMPPPlayerListener.java:35) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-044d928-e8c6403]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:726) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:367) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:657) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:560) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_74]
+[20:26:30] [Server thread/WARN]: [CTSNC] Task #153 for CTSNC v8.9 generated an exception
+java.lang.IllegalArgumentException: Display name '&4<4> &2[&4Unstable&5Network&2] &4<4>' is longer than the limit of 32 characters
+	at org.apache.commons.lang.Validate.isTrue(Validate.java:136) ~[spigot.jar:git-Spigot-044d928-e8c6403]
+	at org.bukkit.craftbukkit.v1_8_R3.scoreboard.CraftObjective.setDisplayName(CraftObjective.java:40) ~[spigot.jar:git-Spigot-044d928-e8c6403]
+	at de.Herbystar.CTSNC.Scoreboards.<init>(Scoreboards.java:61) ~[?:?]
+	at de.Herbystar.CTSNC.PlayerJoinEvents$1.run(PlayerJoinEvents.java:72) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-044d928-e8c6403]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:726) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:367) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:657) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:560) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_74]
+[20:26:36] [Server thread/INFO]: PiePigAnonymous lost connection: Disconnected
+[20:26:36] [Server thread/INFO]: PiePigAnonymous has left the Server!
+[20:26:36] [Server thread/WARN]: [Essentials] Task #163 for Essentials vTeamCity generated an exception
+java.lang.NullPointerException
+	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:171) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:123) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPPPlayerListener$2.run(EssentialsXMPPPlayerListener.java:59) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-044d928-e8c6403]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:726) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:367) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:657) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:560) [spigot.jar:git-Spigot-044d928-e8c6403]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_74]
+[22:07:52] [Server thread/INFO]: Stopping the server
+[22:07:52] [Server thread/INFO]: Stopping server
+[22:07:52] [Server thread/INFO]: [CompassNavigation] Disabling CompassNavigation v2.2
+[22:07:52] [Server thread/INFO]: [EssentialsXMPP] Disabling EssentialsXMPP vTeamCity
+[22:07:52] [Server thread/INFO]: [BungeePortals] Disabling BungeePortals v1.1
+[22:07:52] [Server thread/INFO]: [BungeePortals] Portal data saved! (6ms)
+[22:07:52] [Server thread/INFO]: [BungeePortals] Version 1.1 has been disabled. (6ms)
+[22:07:52] [Server thread/INFO]: [CTSNC] Disabling CTSNC v8.9
+[22:07:52] [Server thread/INFO]: [0;31;1m[[0;33;1mCTSNC[0;31;1m] [0;36;1mVersion: 8.9 [0;32;1mby [0;31;1m[Herbystar][0;31;1m disabled![m
+[22:07:52] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.1
+[22:07:52] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[22:07:52] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn vTeamCity
+[22:07:52] [Server thread/INFO]: [HolographicDisplays] Disabling HolographicDisplays v2.1.10
+[22:07:52] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v0.8.3
+[22:07:52] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload it may not work.
+[22:07:52] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.22.7-SNAPSHOT
+[22:07:52] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[22:07:52] [Server thread/INFO]: [PressurePush] Disabling PressurePush v1.0
+[22:07:52] [Server thread/INFO]: Essentials: Using config file enhanced permissions.
+[22:07:52] [Server thread/INFO]: Permissions listed in as player-commands will be given to all users.
+[22:07:52] [Server thread/INFO]: [PressurePush] Disabled
+[22:07:52] [Server thread/INFO]: [EssentialsGeoIP] Disabling EssentialsGeoIP vTeamCity
+[22:07:52] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat vTeamCity
+[22:07:52] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect vTeamCity
+[22:07:52] [Server thread/INFO]: [Essentials] Disabling Essentials vTeamCity
+[22:07:52] [Server thread/INFO]: [Skript] Disabling Skript v2.1.2
+[22:07:52] [Server thread/INFO]: [SuperTrails] Disabling SuperTrails v8.7.5
+[22:07:52] [Server thread/INFO]: [TimTheEnchanter] Disabling TimTheEnchanter v3.0
+[22:07:52] [Server thread/INFO]: [TimTheEnchanter] I *warned* you, but did you listen to me? Oh, no, you *knew*, didn't you? Oh, it's just a harmless little *bunny*, isn't it? 
+[22:07:52] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[22:07:52] [Server thread/INFO]: [NoCheatPlus] Disabling NoCheatPlus v3.11.1-RC-sMD5NET-b743
+[22:07:52] [Server thread/INFO]: [NoCheatPlus] Version 3.11.1-RC-sMD5NET-b743 is disabled.
+[22:07:52] [Server thread/INFO]: [TTA] Disabling TTA v2.3
+[22:07:52] [Server thread/INFO]: [0;31;1m[[0;33;22mTTA[0;31;1m] [0;36;22mVersion: 2.3 [0;32;22mby [0;31;22m[Herbystar][0;31;22m disabled![m
+[22:07:52] [Server thread/INFO]: Saving players
+[22:07:52] [Server thread/INFO]: Saving worlds
+[22:07:52] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[22:07:52] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[22:07:52] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End

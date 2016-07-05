@@ -1,0 +1,49 @@
+title: "&6Reason Selector"
+
+slots: 9
+
+buttons:
+
+  0:
+    
+    item: BOOK
+    
+    slot: 0
+    
+    title: "&4Hacking / Bugusing"
+    
+    permission: "hacking-bugusing" # NOTE: The plugin adds automatically "AdministrationPanel.reasons." infront of it.
+    
+    lore:
+    
+      1: "&4Use if:"
+      2: "&f- - - - - -"
+      3: "&c - the player uses any"
+      4: "&c   client-side mods/hacks."
+      5: "&c - the player uses any bugs"
+      6: "&c   to get an advantage over"
+      7: "&c   other players."
+      8: "&c - the player uses any"
+      9: "&c   glitches to get an"
+      10: "&c   advantage over other"
+      11: "&c   players."
+      
+  53:
+  
+    item: BOOK
+    
+    slot: 8
+    
+    title: "&4No reason specified."
+    
+    permission: "no-reason" # NOTE: The plugin adds automatically "AdministrationPanel.reasons." infront of it.
+    
+    lore:
+    
+      1: "&4Use if:"
+      2: "&f- - - - - -"
+      3: "&c - no other reason suits"
+      4: "&c   the current situation."
+      5: "&c   Please use this only"
+      6: "&c   in the last available"
+      7: "&c   situation."

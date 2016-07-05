@@ -1,0 +1,71 @@
+NPCS:
+  '61':
+    Commands:
+    - /spawners~~false
+    - spawners~~false
+  '62':
+    Commands:
+    - spawners~~false
+  '65':
+    Commands:
+    - spawn~~false
+  '78':
+    Commands:
+    - warp ItemShop~~false
+  '102':
+    Commands:
+    - tp %name 46 68 106~~false
+  '104':
+    Commands:
+    - warp Arena~~false
+  '106':
+    Commands:
+    - Warp %name Arena~~false
+    - Warp Arena~~false
+  '128':
+    Commands:
+    - tp %name -10 186 997~~false
+  '127':
+    Commands:
+    - tp %name -10 186 997~~false
+  '130':
+    Commands:
+    - warp BuildingTeam~~false
+  '134':
+    Commands:
+    - warp BuildingTeam~~false
+  '135':
+    Commands:
+    - warp BuildingTeam~~false
+  '140':
+    Commands:
+    - warp BuildingTeam~~false
+  '142':
+    Commands:
+    - msg %name &8&lEmpty Slot!~~false
+    - msg %name &8&lEmpty Slot!~~false
+  '141':
+    Commands:
+    - msg %name &8&lEmpty Slot!~~false
+  '146':
+    Commands:
+    - tp %name -10 186 999~~false
+  '152':
+    Commands:
+    - /spawners~~false
+    - /spawners open %name~~false
+    - /spawners %name open~~false
+    - /spawners %name~~false
+    - /spawners~~false
+    - /spawner~~false
+    - /spawners @p open~~false
+    - /spawners open %name~~false
+  '155':
+    Commands:
+    - smite %name~~false
+  '159':
+    Commands:
+    - tp %name 21 57 72~~false
+    - tp %name 21 57 72 180.76~~false
+    - tp %name 21 57 72 180.76 12.953~~false
+    - tp %name 21 57 72~~false

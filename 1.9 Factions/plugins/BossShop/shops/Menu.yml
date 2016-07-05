@@ -1,0 +1,41 @@
+ShopName: Menu
+signs:
+  text: '[Menu]'
+  NeedPermissionToCreateSign: true
+shop:
+  MenuItems:
+    RewardType: shop
+    PriceType: free
+    Reward: BuyShop
+    MenuItem:
+    - type:DIAMOND_BLOCK
+    - amount:1
+    - name:&bBuy
+    - lore:&8Here you can buy items!
+    Message: ''
+    InventoryLocation: 1
+    ExtraPermission: ''
+  MenuSellShop:
+    RewardType: shop
+    PriceType: free
+    Reward: SellShop
+    MenuItem:
+    - type:GOLD_BLOCK
+    - amount:1
+    - name:&bSell
+    - lore:&8Here you can sell items!
+    Message: ''
+    InventoryLocation: 2
+    ExtraPermission: ''
+  MenuPotionShop:
+    RewardType: shop
+    PriceType: free
+    Reward: Potions
+    MenuItem:
+    - name:&bPotions
+    - lore:&8Here you can buy potions!
+    - type:POTION
+    - amount:1
+    Message: ''
+    InventoryLocation: 9
+    ExtraPermission: ''

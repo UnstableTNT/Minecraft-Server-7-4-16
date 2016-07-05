@@ -1,0 +1,178 @@
+Size: 54
+Name: Large Backpack
+ID: 10
+Items:
+- null
+- null
+- ==: org.bukkit.inventory.ItemStack
+  type: DIAMOND_SPADE
+  damage: 40
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: "\xa7k\xa72\xa7kii\xa7r\xa75Elite\xa7k\xa72\xa7kii"
+    enchants:
+      DIG_SPEED: 2
+- ==: org.bukkit.inventory.ItemStack
+  type: BOW
+  damage: 23
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: "\xa74DIE SKEDS"
+    lore:
+    - "\xa77Bounty Hunter III"
+    - "\xa77Volley III"
+    enchants:
+      ARROW_DAMAGE: 5
+      DURABILITY: 3
+      ARROW_INFINITE: 1
+- ==: org.bukkit.inventory.ItemStack
+  type: DIAMOND_AXE
+  damage: 81
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: "\xa7k\xa72\xa7kii\xa7r\xa75Elite\xa7k\xa72\xa7kii"
+    enchants:
+      DIG_SPEED: 2
+- null
+- null
+- null
+- ==: org.bukkit.inventory.ItemStack
+  type: FISHING_ROD
+- ==: org.bukkit.inventory.ItemStack
+  type: COBBLESTONE
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  type: COBBLESTONE
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  type: COBBLESTONE
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  type: COBBLESTONE
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  type: COBBLESTONE
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  type: COBBLESTONE
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  type: COBBLESTONE
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  type: COBBLESTONE
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  type: COBBLESTONE
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  type: COBBLESTONE
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  type: COBBLESTONE
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  type: COBBLESTONE
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  type: COBBLESTONE
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  type: COBBLESTONE
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  type: COBBLESTONE
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  type: COBBLESTONE
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  type: COBBLESTONE
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  type: COBBLESTONE
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  type: COBBLESTONE
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  type: COBBLESTONE
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  type: COBBLESTONE
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  type: COBBLESTONE
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  type: COBBLESTONE
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  type: COBBLESTONE
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  type: COBBLESTONE
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  type: COBBLESTONE
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  type: COBBLESTONE
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  type: COBBLESTONE
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  type: COBBLESTONE
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  type: COBBLESTONE
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  type: COBBLESTONE
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  type: COBBLESTONE
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  type: COBBLESTONE
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  type: COBBLESTONE
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  type: COBBLESTONE
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  type: COBBLESTONE
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  type: COBBLESTONE
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  type: COBBLESTONE
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  type: COBBLESTONE
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  type: COBBLESTONE
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  type: COBBLESTONE
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  type: COBBLESTONE
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  type: COBBLESTONE
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  type: COBBLESTONE
+  amount: 64
+- ==: org.bukkit.inventory.ItemStack
+  type: COBBLESTONE
+  amount: 64

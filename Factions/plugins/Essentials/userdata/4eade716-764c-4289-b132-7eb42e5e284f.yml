@@ -1,0 +1,27 @@
+geolocation: United States
+lastAccountName: DeezCoolDonuts
+timestamps:
+  login: 1467297077867
+  logout: 1467301506420
+  lastteleport: 1467301254839
+  kits:
+    default: 1467297113492
+    vip: 1467301083652
+    ultra: 1467300999286
+ipAddress: 104.177.44.223
+lastlocation:
+  world: Factions
+  x: 4036.0485922326648
+  y: 154.5
+  z: 272.52812922079175
+  yaw: -288.77734
+  pitch: 43.170788
+logoutlocation:
+  world: Factions
+  x: 4045.3305343844445
+  y: 153.0
+  z: 274.91371073458134
+  yaw: 2.2341206
+  pitch: -2.8238995
+godmode: false
+money: '40500.0'

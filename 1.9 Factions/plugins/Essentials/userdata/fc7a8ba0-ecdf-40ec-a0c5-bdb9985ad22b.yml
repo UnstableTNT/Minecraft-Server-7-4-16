@@ -1,0 +1,23 @@
+lastAccountName: Swaven
+timestamps:
+  login: 1465584531855
+  lastteleport: 1465575622007
+  logout: 1465587606844
+ipAddress: 72.201.122.223
+geolocation: United States
+lastlocation:
+  world: Factions
+  x: -1323.614139164359
+  y: 71.0
+  z: -1421.699999988079
+  yaw: 0.7354126
+  pitch: 23.249989
+logoutlocation:
+  world: Factions
+  x: -1342.300000011921
+  y: 72.96636804164123
+  z: -1532.300000011921
+  yaw: 176.54626
+  pitch: 35.699986
+afk: false
+godmode: false

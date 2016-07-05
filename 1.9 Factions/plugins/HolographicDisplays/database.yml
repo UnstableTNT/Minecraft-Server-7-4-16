@@ -1,0 +1,24 @@
+spawnbuild:
+  location: Factions, -1306.514, 180.200, -1533.529
+  lines:
+  - '&2Spawn Built by'
+  - '&2[&4Owner&2]&5UnstableTNT'
+  - '&2[&4Head &cAdmin&2]&bPreistest_Dragon'
+unstabletnt:
+  location: Factions, -1299.524, 178.200, -1532.474
+  lines:
+  - '&2Built by'
+  - '&2[&4Owner&2]&5UnstableTNT'
+preistest_dragon:
+  location: Factions, -1313.533, 178.200, -1532.528
+  lines:
+  - '&2Built by'
+  - '&2[&4Head &cAdmin&2]&bPreistest_Dragon'
+mentions1:
+  location: Factions, -1298.485, 178.200, -1517.498
+  lines:
+  - '&2Honorable Mentions'
+mentions2:
+  location: Factions, -1314.523, 178.200, -1517.502
+  lines:
+  - '&2Honorable Mentions'

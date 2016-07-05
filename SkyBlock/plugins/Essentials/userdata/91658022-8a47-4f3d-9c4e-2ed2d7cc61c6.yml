@@ -1,0 +1,46 @@
+geolocation: United States
+lastAccountName: skyisasquid
+timestamps:
+  login: 1461722376930
+  logout: 1461722543262
+  lastteleport: 1461712226576
+  kits:
+    youtube: 1450811762705
+    default: 1454793941505
+    elite: 1452204953097
+    mod: 1452205115325
+    donor: 1452205090839
+    color: 1453421468315
+    helper: 1452205132733
+    vip: 1452205015973
+    ultra: 1452808521572
+ipAddress: 65.27.235.106
+lastlocation:
+  world: ASkyBlock
+  x: -198.56424744585252
+  y: 117.5
+  z: 602.3481038395914
+  yaw: 338.40002
+  pitch: 37.94999
+logoutlocation:
+  world: ASkyBlock
+  x: -199.5
+  y: 131.0
+  z: 600.5
+  yaw: 0.0
+  pitch: 0.0
+money: '20904249.00'
+afk: false
+powertools:
+  '286':
+  - thor
+godmode: false
+homes:
+  home:
+    world: ASkyBlock
+    x: -197.71330003840066
+    y: 118.0
+    z: 398.59861473070987
+    yaw: -108.600006
+    pitch: 57.000004
+powertoolsenabled: true

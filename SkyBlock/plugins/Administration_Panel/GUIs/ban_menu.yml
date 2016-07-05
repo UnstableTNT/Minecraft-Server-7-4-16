@@ -1,0 +1,35 @@
+title: "&4Ban Menu"
+
+buttons:
+
+  0:
+  
+    type: TEMP
+    
+    item: IRON_BOOTS
+    
+    slot: 0
+    
+    title: "&cTemporary ban ..."
+    
+    permission: "ban-player.temporary" # NOTE: The plugin adds automatically "AdministrationPanel.functions." infront of it.
+    
+    lore:
+     
+      1: "&cSelect for temporary bans."
+     
+  1:
+  
+    type: PERM
+    
+    item: DIAMOND_BOOTS
+    
+    slot: 1
+    
+    title: "&cPermanent ban ..."
+    
+    permission: "ban-player" # NOTE: The plugin adds automatically "AdministrationPanel.functions." infront of it.
+    
+    lore:
+    
+      1: "&cSelect for permanent bans."

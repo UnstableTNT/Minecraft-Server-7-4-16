@@ -1,0 +1,19 @@
+# BungeeAdminTools - comment configuration file
+
+enabled: true
+commands:
+  warn: true
+  clearcomment: true
+  comment: true
+# Triggers list
+# Trigger name:
+#   pattern: reason which must be provided to trigger this
+#   commands: list of commands that should be executed when it triggers, you can use {player} variable
+#   triggerNumber: the number at which this triggers
+triggers:
+  example:
+    triggerNumber: 3
+    pattern: ''
+    commands:
+    - 'alert {player} sparks a trigger. Reason: {reason}'
+    - gtempmute {player} 30m

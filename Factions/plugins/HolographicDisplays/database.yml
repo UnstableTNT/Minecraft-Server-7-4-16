@@ -1,0 +1,13 @@
+welcomefactions:
+  location: Factions, 41.475, 71.200, 85.481
+  lines:
+  - '&2Welcome to &4Unstable&5Network'
+  - '&c&lFactions'
+lines1:
+  location: Factions, 56.500, 68.000, 112.500
+  lines:
+  - '&5&l[x]&0&lRight_Click&5&l[x]'
+lines2:
+  location: Factions, 56.500, 69.000, 112.500
+  lines:
+  - '&5&l[x]&bVote_Crate&5[x]'

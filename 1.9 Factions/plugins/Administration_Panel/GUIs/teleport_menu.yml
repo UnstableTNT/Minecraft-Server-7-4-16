@@ -1,0 +1,37 @@
+title: "&dTeleport Menu"
+
+buttons:
+
+  0:
+  
+    type: ME_TO_PLAYER
+  
+    item: ENDER_PEARL
+    
+    slot: 0
+    
+    title: "&dTeleport you to a player ..."
+    
+    permission: "clicker-to-target"
+    
+    lore:
+    
+     1: "&fTeleports yourself to"
+     2: "&fa player."
+     
+  1:
+  
+    type: PLAYER_TO_ME
+  
+    item: ENDER_PEARL
+    
+    slot: 1
+    
+    title: "&dTeleport a player to you  ..."
+    
+    permission: "target-to-clicker"
+    
+    lore:
+    
+     1: "&fTeleports a player to"
+     2: "&fyourself."

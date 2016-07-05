@@ -1,0 +1,24 @@
+timestamps:
+  lastteleport: 1467306677798
+  login: 1467306677832
+  logout: 1467306775466
+  kits:
+    color: 1466278477013
+  lastheal: 1466355308975
+lastlocation:
+  world: world
+  x: -898.5
+  y: 140.0
+  z: 22.5
+  yaw: 269.5908
+  pitch: -0.90002334
+geolocation: United Kingdom
+lastAccountName: DaOfficialOwen
+ipAddress: 87.112.208.192
+logoutlocation:
+  world: world
+  x: -893.1435518181796
+  y: 141.0
+  z: 22.50536011690565
+  yaw: 270.42554
+  pitch: 20.719925

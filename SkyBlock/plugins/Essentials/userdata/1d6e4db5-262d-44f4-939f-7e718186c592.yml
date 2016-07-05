@@ -1,0 +1,26 @@
+lastAccountName: PiePigAnonymous
+timestamps:
+  login: 1461594159398
+  kits:
+    elite: 1460043580774
+    default: 1460044264023
+    donor: 1460043571140
+    vip: 1460043199524
+    ultra: 1460043125340
+  logout: 1461594178289
+ipAddress: 50.148.119.91
+geolocation: United States
+lastlocation:
+  world: world
+  x: 10.5
+  y: 218.0
+  z: 373.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: ASkyBlock
+  x: -191.49542513609836
+  y: 125.0
+  z: 391.7687915604045
+  yaw: 284.4267
+  pitch: 36.449936

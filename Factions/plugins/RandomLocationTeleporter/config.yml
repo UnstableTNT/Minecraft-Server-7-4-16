@@ -1,0 +1,15 @@
+cooldown: 30
+listen_for_damage: 'true'
+limits:
+  maxX: 250000
+  maxY: 250000
+  minX: -250000
+  minY: -250000
+excludedbiomes:
+  one: ocean
+  two: deep_ocean
+  three: nothing
+  four: nothing
+  five: nothing
+  six: nothing
+  seven: nothing

@@ -1,0 +1,76 @@
+# This is the Config File of BungeeTabListPlus
+# You can find more detailed information on the wiki: https://github.com/CodeCrafter47/BungeeTabListPlus/wiki
+
+# time in seconds after which the tabList will be resend to all players
+# set this to -1 to disable scheduled update of the tabList
+tablistUpdateIntervall: 1.0
+# whether tabList should be resend if a player joins or leaves the server
+updateOnPlayerJoinLeave: true
+# whether tablist should be resend if a player switches the server
+updateOnServerChange: true
+# whether to use scoreboard functions to bypass the 16 character limit
+# does NOT conflict if other scoreboard plugins
+useScoreboardToBypass16CharLimit: true
+# You can limit the number of characters per slot here
+# Color codes do not count as a character; -1 means unlimited
+charLimit: -1
+# Decide from where BungeeTabListPlus takes informations like permissions,
+# prefix, suffix and group.
+# Possible values:
+# AUTO        - take best source
+# BUKKIT      - take informations from bukkit/vault
+# BUNGEEPERMS - take informations from bungeeperms
+# BUNGEE      - take group from bungee, prefix from config.yml, permissions from bungee
+permissionSource: AUTO
+# whether ping is sent to clients
+# setting this to false can help you reducing network traffic
+sendPing: true
+# whether to show players in suspector mode
+showPlayersInGamemode3: true
+# if enabled the plugin checks for new versions automatically.
+# Use /BTLP to see whether a new version is available
+# this does NOT automatically install an update
+checkForUpdates: true
+# this notifies admins (everyone with the permission `bungeetablistplus.admin`) if an update is available
+notifyAdminsIfUpdateAvailable: true
+# server Alias fo the {server} Variable
+serverAlias:
+  server3: PvP
+  server2: Creative
+  server1: Spawn
+# Alias fo the {world} Variable. Match 'server:world' to an alias
+worldAlias:
+  server3:world: PvP
+  server1:world1: Spawn
+  server2:world: Creative
+# list servers you wish to create custom prefixes for.
+# to use the custom prefixes use the new {serverPrefix} variable
+serverPrefixes:
+  SkyBlock: '&8(&dS&8) '
+  Minigames: '&8(&bM&8)'
+# the prefixes used for the {prefix} variable, based upon permission groups
+# IMPORTANT: these prefixes won't be used by default. see the wiki for details
+prefixes:
+  default: ''
+  admin: '&c[A] '
+# Interval (in seconds) at which all servers of your network get pinged to check whether they are online
+# If you intend to use the {onlineState:SERVER} variable set this to 2 or any value you like
+# setting this to -1 disables this feature
+pingDelay: -1
+online:
+  # replacement for the {onlineState} variable if the server is online
+  text: '&2 ON'
+offline:
+  # replacement for the {onlineState} variable if the server is offline
+  text: '&c OFF'
+# those fakeplayers will randomly appear on the tablist. If you don't put any names there then no fakeplayers will appear
+fakePlayers: []
+# servers which you wish to show their own tabList (The one provided by bukkit)
+excludeServers:
+- server2
+- server7
+# Detects which servers are using a bukkit-side tabList-plugin
+# and lets them show it / doesn't show the tablist provided by this plugin on these servers
+# This is disabled by default because it could be accidentially triggered by other plugins (Essentials nicknames etc.)
+# Warning: This is an experimental feature, it may cause unintended behaviour
+autoExcludeServers: false

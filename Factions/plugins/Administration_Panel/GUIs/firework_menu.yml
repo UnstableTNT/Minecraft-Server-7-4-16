@@ -1,0 +1,36 @@
+# NOT USED #
+title: "&bFireworks &3Menu"
+
+buttons:
+
+  0:
+  
+    type: RANDOM
+    
+    item: NETHER_STAR
+    
+    slot: 0
+    
+    title: "&4&kR&2&kG&1&kB"
+    
+    permission: "fireworks"
+    
+    lore:
+    
+      1: "&fShoots random fireworks."
+      
+  1:
+  
+    type: CUSTOM
+    
+    item: NETHER_STAR
+    
+    slot: 1
+    
+    title: "&9Custom"
+    
+    permission: "fireworks"
+    
+    lore:
+    
+      1: "&fShoots custom fireworks."

@@ -1,0 +1,26 @@
+geolocation: United States
+lastAccountName: DeezCoolDonuts
+timestamps:
+  login: 1461721429334
+  logout: 1461721446821
+  kits:
+    vip: 1459198486020
+    ultra: 1458568292798
+  lastheal: 1458569437562
+  lastteleport: 1459198450822
+ipAddress: 104.177.44.223
+lastlocation:
+  world: world
+  x: 36.69999998807907
+  y: 194.0
+  z: 370.2874975029964
+  yaw: -302.4356
+  pitch: 16.950027
+money: '1625.0'
+logoutlocation:
+  world: world
+  x: 12.807660455412458
+  y: 191.0
+  z: 369.0190639847826
+  yaw: -262.09393
+  pitch: 6.443662

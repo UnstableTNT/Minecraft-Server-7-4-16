@@ -1,0 +1,21 @@
+geolocation: United Kingdom
+lastAccountName: MasterK9910
+timestamps:
+  login: 1461869120564
+  lastteleport: 1461868845742
+  logout: 1461869189673
+ipAddress: 82.46.130.144
+lastlocation:
+  world: world
+  x: -0.3000000119209293
+  y: 194.0
+  z: 363.3405767645484
+  yaw: 224.79907
+  pitch: 15.330379
+logoutlocation:
+  world: world
+  x: -6.661084773976396
+  y: 188.0
+  z: 361.18869473174834
+  yaw: -339.92395
+  pitch: -1.4108016

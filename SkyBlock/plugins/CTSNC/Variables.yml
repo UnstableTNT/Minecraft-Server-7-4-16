@@ -1,0 +1,14 @@
+CTSNC:
+  VARIABLES:
+    PlayerPoints: true
+    PointsAPI: true
+    PermissionEx: true
+    GroupManager: true
+    PlaceholderAPI: true
+    MVdWPlaceholderAPI: true
+    TokenManager: true
+    RPGPlayerLeveling: true
+    ASkyBlock: true
+    Vault: true
+    TPS: false
+    Emojis: true

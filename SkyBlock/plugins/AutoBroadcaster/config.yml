@@ -1,0 +1,45 @@
+broadcaster:
+    #Should the plugin debug?
+    debugging: false
+
+    global:
+        #Who will be the announcer? Ex: [AutoBroadcaster]: Message
+        announcerName: '&2{&4Unstable&5Network&2}: &3SERVER IS WORKING OUT SOME BUGS! PLEASE REPORT THEM IF YOU FIND THEM AT, unstablenetwork.enjin.com '
+
+        #Interval, in seconds
+        interval: 120
+
+        #Should messages be sent to console as well?
+        broadcast-to-console: true
+
+        #Minimum number of players before any message is broadcasted (0 to broadcast even if no one is online)
+        min-players: 1
+        #What the messages file should be split by (Don't modify this unless you know what you're doing!)
+        delimeter: '\n'
+
+    # To customize settings for a world, say a world named Test, you can simply create a new section. Any settings you don't
+    # fill out are defaulted to the global settings. Example:
+    Site:
+        #announcerName: '&2{&4Unstable&5Network&2}: &3Love the server? Come to the website: unstablenetwork.enjin.com '
+
+        ## If you wanted the rest to be like global, you could just delete them or leave them commented :)
+
+        interval: 60
+
+        broadcast-to-console: true
+
+        min-players: 1
+
+        delimeter: '\n'
+    Site:
+        #announcerName: '&2{&4Unstable&5Network&2}: &3WERE NEED STAFF!!! BUILDERS APPLY AT, http://unstablenetwork.enjin.com/forum/m/28800889/viewforum/5355612     MODERATORS APPLY AT, http://unstablenetwork.enjin.com/forum/m/28800889/viewforum/5355924 '
+
+        ## If you wanted the rest to be like global, you could just delete them or leave them commented :)
+
+        interval: 90
+
+        broadcast-to-console: true
+
+        min-players: 1
+
+        delimeter: '\n'

@@ -1,0 +1,23 @@
+timestamps:
+  lastteleport: 1467039563241
+  login: 1467039563274
+  logout: 1467039579129
+  mute: 0
+lastlocation:
+  world: world
+  x: -857.3000000119209
+  y: 141.3754130509853
+  z: 23.037956486600837
+  yaw: 242.60527
+  pitch: 35.72633
+geolocation: Norway
+lastAccountName: TrackMax_
+ipAddress: 51.174.237.180
+logoutlocation:
+  world: world
+  x: -897.8318630201856
+  y: 140.0
+  z: 22.64857044131761
+  yaw: 134.93163
+  pitch: 19.679096
+muted: false

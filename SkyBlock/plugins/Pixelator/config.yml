@@ -1,0 +1,38 @@
+# ,------. ,--.                ,--.          ,--.                
+# |  .--. '`--',--.  ,--.,---. |  | ,--,--.,-'  '-. ,---. ,--.--.
+# |  '--' |,--. \  `'  /| .-. :|  |' ,-.  |'-.  .-'| .-. ||  .--'
+# |  | --' |  | /  /.  \\   --.|  |\ '-'  |  |  |  ' '-' '|  |   
+# `--'     `--''--'  '--'`----'`--' `--`--'  `--'   `---' `--'   
+#
+# Copyright DarkBlade12 - All rights reserved.
+# DarkBlade12 is the developer and respective owner of this plugin.
+
+# This section contains general settings like specific conditions for commands etc.
+General_Settings:
+
+ # Determines whether players have to hold a map in their hands to give themselves an image map
+ # Can be bypasses with the permission Pixelator.bypass.map
+ Require_Map: true
+
+# This section contains settings for the images
+Image_Settings:
+
+ # Determines whether an image will be centered if its height or width value is lower than 128
+ # Only works if automatic scaling is disabled
+ Center_Enabled: false
+
+ # This section contains setting for the automatic scaling of images
+ # An image will be automatically scaled if it doesn't match the specified size
+ Automatic_Scaling:
+ 
+  # Determines whether automatic scaling is enabled
+  Enabled: true
+  
+  # Width value of the scaled image
+  # 128 is the default width of a map
+  Width: 128
+  
+  # Height value of the scaled image
+  # 128 is the default height of a map
+  Height: 128
+ 

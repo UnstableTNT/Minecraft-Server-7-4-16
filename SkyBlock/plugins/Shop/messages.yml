@@ -1,0 +1,87 @@
+# +====================================================================================================================================================+
+# It is recommended to make a backup of this if you make changes because if an error occurs it will be completely replaced with a new one.
+# +====TERMS===========================================================================================================================================+
+# 
+# +HideAllFail+ : This term, when placed at the start of the message, makes the message hide if all the items failed to buy.
+# +HideFail+ : This term, when placed at the start of the message, makes the message hide if one or more items failed to buy.
+# +FailNotice+ : This term, when placed at the start of the message, makes the message only show when one or more items failed to buy.
+# +cost+ : This term is replaced with how much the successfully purchased items costed.
+# +price+ : This term is replaced with how much the transaction is going to cost if the player is able to purchase all the items.
+# +baseprice+ : This term is replaced with how much the item costs and only the item. That means the quantity isn't counted.
+# +balance+ : This term is replaced with the current balance of the player (aka the new balance after the purchase).
+# +oldbalance+ : This term is replaced with what the balance of the player was before the purchase.
+# +rawquantity+ : This term is replaced with the quantity amount that the player chose to buy.
+# +quantity+ : This term is replaced with the quantity of the item that was purchased.
+# +fquantity+ : This term is replaced with the quantity of the item that failed to purchase.
+# +item+ : This term is replaced with the name of the item that was purchased.
+# 
+# +npc+ : This term is replaced with the rank the NPC requires. This term only works for npcRankRequirementError.
+# +amount+ : This term is replaced with the amount you made from selling items. This term only works for sellAmountMade.
+# +moneyreq+ : This term is replaced with how much money you need to access the item. This term only works for command.
+# 
+# +====TERM SUPPORT====================================================================================================================================+
+# sellAmountMade : Supports only +amount+.
+# buyRankRequirementError : Supports only +rank+.
+# transportRankRequirementError : Supports only +rank+.
+# commandRankRequirementError : Supports only +rank+.
+# commandNotEnoughMoney : Supports only +moneyreq+.
+# Purchase Complete : Supports all terms except +rank+.
+# Purchase Confirm : Supports +rawquantity+, +price+, +baseprice+, +oldbalance+, +balance+.
+# Purchase Request : Supports no terms.
+# +====================================================================================================================================================+
+# 
+# rankTag : This is the tag that gets put behind the required rank of items if there is one.
+# worthTag : This is the tag that gets put behind the value of items in pages that sell items.
+# sellAmountMade : This message occurs when you sell one or more items on a sell page.
+# blacklistOpenPrevent : This message occurs when you try to open the shop in a world that's blacklisted and you don't have the correct permissions to bypass it.
+# attemptShopOpenWhileBuying : This message occurs when you try to open the shop while trying to buy an item.
+# npcRankRequirementError : This messages occurs when you try to interact with an NPC that you don't have permission to interact with.
+# buyRankRequirementError : This message occurs when you try to buy an item that requires a rank that you are not.
+# transportRankRequirementError : This message occurs when you try to open a shop page that requires a rank that you are not.
+# commandRankRequirementError : This messages occurs when you try to interact with an item that has the function COMMAND and requires a rank you are not.
+# failedToBuy : This message occurs when you fail to buy an amount of items due to full inventory.
+# shopDisabledError : This message occurs when you try to use the /shop command but it's disabled and you don't have permission to bypass the disable.
+# commandNotEnoughMoney : This message occurs when you try to interact with a COMMAND item that requires you to have a certain amount of money that you don't have.
+# notEnoughMoney : This message occurs when you try to buy an item and you don't have enough money for it.
+# 
+# NOTICE: When making an apostrophe you need to write two instead of one otherwise an error will occur.
+# +====================================================================================================================================================+
+Purchase:
+  Complete:
+  - '&b&l&n          Purchase Information          '
+  - ' '
+  - '+HideAllFail+&dItem&8: &7+item+'
+  - '+HideAllFail+&dQuantity&8: &e+quantity+'
+  - '+HideAllFail+&6Cost&8: &c$+cost+ &8(&7$+oldbalance+&8-&a$+balance+&8)'
+  - +FailNotice+&cFailed to buy &e+fquantity+ &cout of the &e+rawquantity+&c item(s).
+  - '+HideAllFail+ '
+  - +HideAllFail+&aYou purchased &e+quantity+ +item+(s) &afor $+price+.
+  - '+HideAllFail+&3Your new balance is&8: &a$+balance+'
+  Confirm:
+  - '&6Cost: &a$+price+ &8(&7$+oldbalance+&8-&a$+balance+&8)'
+  - '&2Current balance&8: &7$+oldbalance+'
+  - '&2Balance after purchase&8: &a$+balance+'
+  - '&bWould you like to proceed with the purchase?'
+  Request:
+  - '&dEnter how many you would like to buy in the chat.'
+  - '&eType "cancel" in the chat to cancel.'
+  Invalid:
+  - '&eType "yes" in the chat to proceed.'
+  - '&eType "back" in the chat to go back to picking the quantity.'
+  - '&eType "cancel" in the chat to cancel.'
+  notEnoughMoney: '&cYou don''t have enough money to purchase that.'
+  chatEnable: '&aChat enabled.'
+  invalidQuantityError: '&cInvalid quantity amount.'
+Misc:
+  sellAmountMade: '&eYou earned &a$+amount+ &efrom selling items.'
+  attemptShopOpenWhileBuying: '&cYou can''t open the shop right now.'
+  permissionRequirementError: '&cYou don''t have enough permission to access this
+    item.'
+  shopDisabledError: '&rUnknown command. Type "/help" for help.'
+  costTag: '&9Cost&7: &a'
+  rankTag: '&6Rank&7: &r'
+  worthTag: '&9Worth&7: &a'
+Blacklist:
+  blacklistOpenPrevent: '&cYou can''t open the shop in this world.'
+NPC:
+  permissionReq: '&cYou don''t have enough permission to access &r+npc+&c.'

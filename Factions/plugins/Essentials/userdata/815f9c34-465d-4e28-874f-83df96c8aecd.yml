@@ -1,0 +1,21 @@
+geolocation: Norway
+lastAccountName: ItzBob_
+timestamps:
+  login: 1466520045394
+  logout: 1466520837611
+  lastteleport: 1466520464499
+ipAddress: 90.149.254.206
+lastlocation:
+  world: Factions_nether
+  x: 154.23307277065163
+  y: 36.0
+  z: 65.31248385036292
+  yaw: -278.47174
+  pitch: 22.53182
+logoutlocation:
+  world: Factions
+  x: 978.6999999880791
+  y: 71.0
+  z: 552.4224062862646
+  yaw: 23.055542
+  pitch: 9.803969

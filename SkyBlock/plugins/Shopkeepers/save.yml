@@ -1,0 +1,815 @@
+'0':
+  uniqueId: 75fba6d9-4867-4a20-a9ac-1edbd42ecbb2
+  name: Building Blocks
+  world: world
+  x: -86
+  y: 244
+  z: 277
+  type: admin
+  object: villager
+  uuid: 3d77979c-98f7-4d9c-8fe1-dcd5407e6266
+  prof: 0
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+        amount: 16
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: GRASS
+        amount: 32
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+        amount: 8
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIRT
+        amount: 32
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: LOG_2
+        damage: 1
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: LOG_2
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: LOG
+        damage: 3
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: LOG
+        damage: 1
+    '6':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: LOG
+        damage: 2
+    '7':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: LOG
+'1':
+  uniqueId: f3e96a67-09b2-4e09-a76b-e6cff9ef76ec
+  world: world
+  x: -81
+  y: 244
+  z: 277
+  type: admin
+  object: villager
+  uuid: 2f2cbc31-60bf-487b-907a-17f9e5c5e59d
+  prof: 0
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+        amount: 64
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: STONE
+        damage: 4
+        amount: 64
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+        amount: 64
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: STONE
+        damage: 2
+        amount: 64
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+        amount: 64
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: SANDSTONE
+        amount: 64
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+        amount: 64
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: STONE
+        damage: 6
+        amount: 64
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+        amount: 64
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: SOUL_SAND
+'2':
+  uniqueId: 9416bc1d-0eec-4b9b-b539-2ee8b589aa67
+  name: Saplings
+  world: world
+  x: -81
+  y: 244
+  z: 285
+  type: admin
+  object: villager
+  uuid: 705b6f77-a78b-446f-9fe8-f6fc2fc9564c
+  prof: 0
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+        amount: 16
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: SAPLING
+        amount: 16
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+        amount: 16
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: SAPLING
+        damage: 1
+        amount: 16
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+        amount: 16
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: SAPLING
+        damage: 2
+        amount: 16
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+        amount: 16
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: SAPLING
+        damage: 3
+        amount: 16
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+        amount: 16
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: SAPLING
+        damage: 4
+        amount: 16
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+        amount: 16
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: SAPLING
+        damage: 5
+        amount: 16
+'3':
+  uniqueId: 209a6863-3841-4464-b1ea-b49cac13e1a1
+  name: Seeds
+  world: world
+  x: -76
+  y: 244
+  z: 285
+  type: admin
+  object: villager
+  uuid: f3d8dfd8-2103-4029-8c85-52c1ee938bc1
+  prof: 0
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+        amount: 16
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: MELON_SEEDS
+        amount: 16
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+        amount: 16
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: PUMPKIN_SEEDS
+        amount: 16
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+        amount: 16
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: SEEDS
+        amount: 16
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+        amount: 16
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: SUGAR_CANE
+        amount: 16
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+        amount: 16
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: RED_MUSHROOM
+        amount: 16
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+        amount: 16
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: BROWN_MUSHROOM
+        amount: 16
+    '6':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+        amount: 32
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: CARROT_ITEM
+        amount: 8
+    '7':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+        amount: 32
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: POTATO_ITEM
+        amount: 8
+'4':
+  uniqueId: 5c9e3fbd-0d6d-46a1-b6ae-c803d5f0dd8f
+  name: CobbleGen
+  world: world
+  x: -76
+  y: 244
+  z: 277
+  type: admin
+  object: villager
+  uuid: f683dee0-3031-41a4-894f-2df60c714a00
+  prof: 0
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+        amount: 32
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: WATER_BUCKET
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+        amount: 32
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: LAVA_BUCKET
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+        amount: 64
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: OBSIDIAN
+        amount: 16
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+        amount: 32
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: GLASS
+        amount: 64
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+        amount: 32
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: SMOOTH_BRICK
+        amount: 16
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+        amount: 16
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: STONE
+        amount: 16
+    '6':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+        amount: 16
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 16
+'5':
+  uniqueId: 3fd061eb-8193-484f-ba66-d790374a817f
+  world: world
+  x: -71
+  y: 244
+  z: 285
+  type: admin
+  object: villager
+  uuid: e984c2ad-3d37-4c4c-9b76-93c7a92a480a
+  prof: 0
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+        amount: 64
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: MOB_SPAWNER
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: "\xa7eCow \xa7fSpawner"
+          internal: H4sIAAAAAAAAAONiYOBi4HPKyU/Ods0rySypDElM52DggLA9UxiYnfPLgSp4gjNzsoMLEsvzUouKmRg4UiHyLgwxDAwA3xw860MAAAA=
+          blockMaterial: MOB_SPAWNER
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+        amount: 64
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: MOB_SPAWNER
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: "\xa7eSquid \xa7fSpawner"
+          internal: H4sIAAAAAAAAAONiYOBi4HPKyU/Ods0rySypDElM52DggLA9UxhYgwtLM1OAaniCM3OygwsSy/NSi4qZGDhSISpcGOIYGAAV4R0uRQAAAA==
+          blockMaterial: MOB_SPAWNER
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+        amount: 64
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: MOB_SPAWNER
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: "\xa7eMooshroom \xa7fSpawner"
+          internal: H4sIAAAAAAAAAONiYOBi4HPKyU/Ods0rySypDElM52DggLA9Uxi4fUuLM4ry83Od88uBKnmCM3OygwsSy/NSi4qZGDhSIepcGBIYGAC1JPbOSwAAAA==
+          blockMaterial: MOB_SPAWNER
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+        amount: 64
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: MOB_SPAWNER
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: "\xa7eRabbit \xa7fSpawner"
+          internal: H4sIAAAAAAAAAONiYOBi4HPKyU/Ods0rySypDElM52DggLA9UxjYghKTkjJLgIp4gjNzsoMLEsvzUouKmRg4UiFKXBhSGRgAVb/FNUYAAAA=
+          blockMaterial: MOB_SPAWNER
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+        amount: 64
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: MOB_SPAWNER
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: "\xa7eChicken \xa7fSpawner"
+          internal: H4sIAAAAAAAAAONiYOBi4HPKyU/Ods0rySypDElM52DggLA9UxjYnTMyk7NT84CqeIIzc7KDCxLL81KLipkYOFIhalwYYhkYAFCbDKxHAAAA
+          blockMaterial: MOB_SPAWNER
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+        amount: 64
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: MOB_SPAWNER
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: "\xa7eSheep \xa7fSpawner"
+          internal: H4sIAAAAAAAAAONiYOBi4HPKyU/Ods0rySypDElM52DggLA9UxhYgzNSUwuAaniCM3OygwsSy/NSi4qZGDhSISpcGKIZGAANfr2cRQAAAA==
+          blockMaterial: MOB_SPAWNER
+    '6':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+        amount: 64
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: MOB_SPAWNER
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: "\xa7ePig \xa7fSpawner"
+          internal: H4sIAAAAAAAAAONiYOBi4HPKyU/Ods0rySypDElM52DggLA9UxiYAzLTgSp4gjNzsoMLEsvzUouKmRg4UiHyLgxRDAwAV4b3DEMAAAA=
+          blockMaterial: MOB_SPAWNER
+    '7':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+        amount: 64
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: MOB_SPAWNER
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: "\xa7eVillager \xa7fSpawner"
+          internal: H4sIAAAAAAAAAONiYOBi4HPKyU/Ods0rySypDElM52DggLA9Uxg4wjJzchLTU4uAyniCM3OygwsSy/NSi4qZGDhSIYpcGCoYGADYK8asSAAAAA==
+          blockMaterial: MOB_SPAWNER
+'6':
+  uniqueId: b13bd6c7-ba51-48fa-9e4b-785dbb296a34
+  world: world
+  x: -71
+  y: 244
+  z: 277
+  type: admin
+  object: villager
+  uuid: ff713c80-a036-43f8-950e-12a9c1d9dbb0
+  prof: 0
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+        amount: 32
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: MOB_SPAWNER
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: "\xa7eMagma Cube \xa7fSpawner"
+          internal: H4sIAAAAAAAAAONiYOBi4HPKyU/Ods0rySypDElM52DggLA9Uxg4fRLLEoNzMnNTgep4gjNzsoMLEsvzUouKmRg4UiGqXBjsGBgA9qZIsEkAAAA=
+          blockMaterial: MOB_SPAWNER
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+        amount: 32
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: MOB_SPAWNER
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: "\xa7eSkeleton \xa7fSpawner"
+          internal: H4sIAAAAAAAAAONiYOBi4HPKyU/Ods0rySypDElM52DggLA9Uxg4grNTc1JL8vOAyniCM3OygwsSy/NSi4qZGDhSIYpcGIwZGACidI6tSAAAAA==
+          blockMaterial: MOB_SPAWNER
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+        amount: 32
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: MOB_SPAWNER
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: "\xa7eZombie \xa7fSpawner"
+          internal: H4sIAAAAAAAAAONiYOBi4HPKyU/Ods0rySypDElM52DggLA9UxjYovJzkzJTgYp4gjNzsoMLEsvzUouKmRg4UiFKXBjMGBgA7WN2G0YAAAA=
+          blockMaterial: MOB_SPAWNER
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+        amount: 32
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: MOB_SPAWNER
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: "\xa7eBlaze \xa7fSpawner"
+          internal: H4sIAAAAAAAAAONiYOBi4HPKyU/Ods0rySypDElM52DggLA9UxhYnXISq1KBaniCM3OygwsSy/NSi4qZGDhSISpcGGwZGAD3ab8WRQAAAA==
+          blockMaterial: MOB_SPAWNER
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+        amount: 32
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: MOB_SPAWNER
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: "\xa7eWitch \xa7fSpawner"
+          internal: H4sIAAAAAAAAAONiYOBi4HPKyU/Ods0rySypDElM52DggLA9UxhYwzNLkjOAaniCM3OygwsSy/NSi4qZGDhSISpcGJwYGACv2dIxRQAAAA==
+          blockMaterial: MOB_SPAWNER
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+        amount: 32
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: MOB_SPAWNER
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: "\xa7eSpider \xa7fSpawner"
+          internal: H4sIAAAAAAAAAONiYOBi4HPKyU/Ods0rySypDElM52DggLA9UxjYggsyU1KLgIp4gjNzsoMLEsvzUouKmRg4UiFKXBhMGBgAhvaByEYAAAA=
+          blockMaterial: MOB_SPAWNER
+    '6':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+        amount: 32
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: MOB_SPAWNER
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: "\xa7eZombie Pigman \xa7fSpawner"
+          internal: H4sIAAAAAAAAAONiYOBi4HPKyU/Ods0rySypDElM52DggLA9Uxg4AzLTo/JzkzJTgep4gjNzsoMLEsvzUouKmRg4UiGqXBgsGRgAwz6D3EkAAAA=
+          blockMaterial: MOB_SPAWNER
+    '7':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+        amount: 64
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: MOB_SPAWNER
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: "\xa7eIron Golem \xa7fSpawner"
+          internal: H4sIAAAAAAAAAONiYOBi4HPKyU/Ods0rySypDElM52DggLA9Uxh4wzJzchLTU4vc83NSc4FqeYIzc7KDCxLL81KLipkYOFIhKl0YkhkYAAov8TVNAAAA
+          blockMaterial: MOB_SPAWNER
+'7':
+  uniqueId: f01090b1-4c50-4e77-9300-cae0315e8944
+  name: Currency
+  world: world
+  x: -86
+  y: 244
+  z: 285
+  type: admin
+  object: villager
+  uuid: 50880118-d7d7-42cb-8c61-a550d4b36ff9
+  prof: 0
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND
+        amount: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+        amount: 64
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 5
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+        amount: 64
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_INGOT
+        amount: 32
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+        amount: 48
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_INGOT
+        amount: 32
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+        amount: 32
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: COAL
+        amount: 64
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+        amount: 16
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: INK_SACK
+        damage: 4
+        amount: 64
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+        amount: 16
+    '6':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: REDSTONE
+        amount: 64
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+        amount: 8
+'8':
+  uniqueId: 006237ec-8387-47a3-bc13-6e029260dce2
+  world: world
+  x: -83
+  y: 244
+  z: 285
+  type: admin
+  object: villager
+  uuid: 27945c83-3e5a-493e-8e75-742ed68ff118
+  prof: 0
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: SUGAR_CANE
+        amount: 32
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+        amount: 16
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: CACTUS
+        amount: 32
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+        amount: 16
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: INK_SACK
+        damage: 3
+        amount: 32
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+        amount: 16
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: PUMPKIN
+        amount: 32
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+        amount: 16
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: WHEAT
+        amount: 32
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+        amount: 16
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: MELON
+        amount: 32
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+        amount: 16
+    '6':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: NETHER_STALK
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: NETHER_STALK
+        amount: 64
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEDROCK
+        amount: 64

@@ -1,0 +1,81 @@
+title: "&7Time Selector"
+
+slots: 9
+
+buttons:
+
+  0:
+
+    item: WATCH
+
+    title: "Sunrise"
+
+    slot: 0
+
+    ticks: 23000
+
+    permission: "change-time"
+
+    lore:
+    
+      1: "&fSets the time in"
+      2: "&fthe current world"
+      3: "&fto morning time."
+      4: "&f(23000 ticks)"
+      
+  1:
+  
+    item: WATCH
+    
+    title: "Noon"
+    
+    slot: 1
+    
+    ticks: 0
+    
+    permission: "change-time"
+    
+    lore:
+    
+      1: "&fSets the time in"
+      2: "&fthe current world"
+      3: "&fto noon time."
+      4: "&f(0 ticks)"
+      
+  2:
+
+    item: WATCH
+
+    title: "Evening"
+
+    slot: 2
+
+    ticks: 13000
+
+    permission: "change-time"
+
+    lore:
+    
+      1: "&fSets the time in"
+      2: "&fthe current world"
+      3: "&fto evening time."
+      4: "&f(12500 ticks)"
+      
+  3:
+
+    item: WATCH
+
+    title: "Night"
+
+    slot: 3
+
+    ticks: 14500
+
+    permission: "change-time"
+
+    lore:
+    
+      1: "&fSets the time in"
+      2: "&fthe current world"
+      3: "&fto night time."
+      4: "&f(14500 ticks)"

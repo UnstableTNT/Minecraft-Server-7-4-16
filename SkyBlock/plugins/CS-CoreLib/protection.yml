@@ -1,0 +1,11 @@
+plugins:
+  WorldGuard:
+    no-block-access: '&4&l! &cSorry, but the Plugin &4WorldGuard &cdoes not allow
+      you to access this Block'
+    no-block-breaking: '&4&l! &cSorry, but the Plugin &4WorldGuard &cdoes not allow
+      you to break this Block'
+  ASkyBlock:
+    no-block-access: '&4&l! &cSorry, but the Plugin &4ASkyBlock &cdoes not allow you
+      to access this Block'
+    no-block-breaking: '&4&l! &cSorry, but the Plugin &4ASkyBlock &cdoes not allow
+      you to break this Block'

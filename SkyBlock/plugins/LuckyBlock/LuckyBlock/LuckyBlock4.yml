@@ -1,0 +1,155 @@
+LuckyBlock:
+  SplitSymbol: '#'
+  DroppedItems:
+    Chances: 100
+    Items:
+    - Chance:1-10#type:diamond_sword#DisplayName:&eLucky Sword#Enchants:16 1-2%%19 1-2
+    - Chance:11-20#type:flint_and_steel#Enchants:34 1-3
+    - Chance:21-30#type:diamond_pickaxe
+    - Chance:31-40#type:diamond_axe
+    - Chance:41-45#type:diamond_helmet//type:diamond_chestplate//typeid:312/313
+    - Chance:46-50#type:cooked_chicken#amount:8-16//type:cooked_beef#amount:8-16
+    - Chance:55-65#type:chest#data:0#hasItemMeta:true#DisplayName:&a&l&oRandom Chest#hasLore:true#Lore:&7Place It%%&7Random Chest
+    - Chance:66-70#type:golden_apple#amount:3-6//type:golden_apple#amount:1-2#data:1
+    - Chance:71-75#type:gold_ingot#amount:3-6//type:diamond#amount:2-4//type:iron_ingot#amount:4-6//type:emerald#amount:2-4
+    - Chance:76-80#type:ender_pearl#amount:3-6
+    - Chance:81-85#type:beacon
+    - Chance:86-90#type:monster_egg#amount:2-5#data:90-93#tries:4-5
+    - Chance:91-100#typeid:417-419
+  AddedItems:
+    Chances: 100
+    Items:
+    - Chance:1-40#Title:&3Lucky Block Taker#type:arrow#DisplayName:&8&lLucky Block Taker#Lore:&7Right Click to use#Message:&aAdded (&8&lLucky Block Taker&a) To your Inventory!
+    - Chance:41-70#Title:&4Exploding Block#type:stained_clay#amount:15-30#data:0-15#DisplayName:&4Exploding!#Lore:&7Place It#Message:&5Added Exploding Blocks To your Inventory!
+    - Chance:71-100#Title:&fCake#type:cake#Message:&aGiving Cake
+Luck:
+  Values:
+  - Chance:1-50#Type:Chest#Title:&6Chest#Luck:Good
+  - Chance:51-89#Type:Mob#Title:&2Mobs#Luck:Try your luck
+  - Chance:90-99#Type:Falling Block#Title:&eFalling Block#Luck:Good
+  - Chance:100-110#Type:Splash Potion#Title:&1Splash Potion#Luck:Try your luck
+  - Chance:111-113#Type:Enchant#Title:&9Enchant Item in Hand#Luck:Good
+  - Chance:114-118#Type:Repair#Title:&cRepair Items#Luck:Good
+  - Chance:119-121#Type:XP#Title:&aXP#Amount:280-340#Luck:Good
+  - Chance:122#Type:Firework#Title:&3Firework#Luck:Try your luck
+  - Chance:123-125#Type:Poison Enemies#Title:&2Poison Enemies#Luck:Good
+  - Chance:126-189#Type:Dropped Items#Title:&dDropped Items#Luck:Good
+  - Chance:190-191#Type:Gift#Title:&dGift#Luck:Good
+  - Chance:192-193#Type:Remove Harmful Effects#Title:&5Remove Harmful Effects#Luck:Good
+  - Chance:194#Type:Tower#Title:&bDiamond Tower#Luck:Very Good
+  - Chance:195#Type:FPigs#Title:&dFlying Pigs#Luck:Good
+  - Chance:196#Type:House#Title:&1House#Luck:Good
+  - Chance:197-198#Type:FlyingLB#Title:&eFlying Lucky Block#Luck:Good
+  - Chance:199-203#Type:Tree#TreeType:tree#Title:&aTree#Luck:Good
+  - Chance:204-208#Type:Feed#Title:&6Feed#Luck:Good
+  - Chance:209-212#Type:Heal#Title:&aHeal#Luck:Good
+  - Chance:213-216#Type:Fireworks#Title:&dFireworks#Luck:Good
+  - Chance:217-220#Type:Wolves or Ocelots#Title:&2Wolves or Ocelots#Luck:Good
+  - Chance:221-225#Type:Changeable Block#Title:&4Changeable Block#Luck:Good
+  - Chance:226-230#Type:Added Item#Title:&5Added Item#Luck:Good
+  - Chance:231-240#Type:Custom Structure#Title:&dCustom Structure#Luck:Bad
+  Chances: 240
+FallingBlocks:
+  Chances: 80
+  Blocks:
+  - Chance:1-20#Type:emerald_block
+  - Chance:21-30#Type:gold_block
+  - Chance:31-45#Type:iron_block
+  - Chance:46-60#Type:lapis_block
+  - Chance:61-80#Type:quartz_block
+Entities:
+  Chances: 85
+  Mobs:
+  - Chance:1-12#Type:mooshroom#CustomName:&e&lLucky Mooshroom#CustomNameVisible:1#Tries:3-5
+  - Chance:13-20#Type:sheep#CustomName:&e&lLucky Sheep &4&l&k@@@#CustomNameVisible:true#maxHealth:70#Health:70#Color:0-15
+  - Chance:21-30#Type:cow#CustomName:&6&lRideable Cow#CustomNameVisible:true#maxHealth:20#Health:20#Metadatas:rideable,true
+  - Chance:31-37#Type:wolf#Tamed:true#Owner:{playername}#CollarColor:0-15#ParticleEffects:name:heart,rx:0.3,ry:0.3,rz:0.3,speed:0,amount:10,range:64
+  - Chance:38-45#Tries:8-16#Type:squid#maxHealth:30-60#Health:%maxHealth%#CustomName:&eLucky Squid &c%health%&f/&c%maxhealth%#Metadatas:luckysquid,true
+  - Chance:46-65#Title:&eChicken#Tries:3-5#Type:chicken#maxHealth:20#Health:20#CustomName:&e&lLucky Chicken#CustomNameVisible:true#ParticleEffects:name:heart,rx:0.2,ry:0.2,rz:0.2,speed:0,amount:30,range:30//Type:droppeditem#ItemStack:type:266,amount:10
+  - Chance:65-75#Type:Horse#HorseColor:creamy#Style:whitedots#Saddle:true#CarryingChest:true#Tamed:true#Owner:{playername}#CustomName:&1&l%playername%#maxHealth:120#Health:120#Metadatas:superhorse,true
+Chest:
+  Items:
+    Chest:
+    - Times:6-12
+    - Chances:250
+    - Chance:1-10#type:%lb%#DisplayName:&eLucky Block#Lore:&9{playername}#Luck:50-80#amount:1-5
+    - Chance:11-25#type:bow
+    - Chance:26-38#type:stick#DisplayName:&6Gun#Lore:&4Deals 1.0 Damage#amount:6-12
+    - Chance:39-42#type:bow#Enchants:48-52 1-4%%48-52 1-4
+    - Chance:43-53#type:stick#DisplayName:&6Gun I#Lore:&4Deals 2.5 Damage#amount:5-10
+    - Chance:54-58#type:stick#DisplayName:&6Gun II#Lore:&4Deals 5.5 Damage#amount:3-6
+    - Chance:59-72#type:gold_ingot#amount:4-6
+    - Chance:73-78#type:coal_block#amount:4-8
+    - Chance:79-89#type:arrow#amount:10-32
+    - Chance:90-91#type:diamond#amount:3-5
+    - Chance:92-94#type:iron_ingot#amount:4-10
+    - Chance:95-99#type:stone_sword
+    - Chance:100-102#type:golden_apple#amount:1-2#data:1
+    - Chance:103-113#type:water_bucket
+    - Chance:114-124#type:lava_bucket
+    - Chance:125-134#type:snow_ball#amount:10-16
+    - Chance:135-137#type:raw_fish#amount:3-6#data:0-2#DisplayName:&6&lFast Food!#Lore:&7Right Click to eat
+    - Chance:138-149#type:ender_pearl#amount:2-3
+    - Chance:150-152#type:bread#amount:2-6#DisplayName:&6&lFast Food!#Lore:&7Right Click to eat
+    - Chance:153-155#type:carrot_item#amount:2-6#DisplayName:&6&lFast Food!#Lore:&7Right Click to eat
+    - Chance:156-160#type:exp_bottle#amount:3-7
+    - Chance:161-163#type:mushroom_soup#DisplayName:&6&lFast Food!#Lore:&7Right Click to eat
+    - Chance:164-168#type:wood#amount:24-32
+    - Chance:169-171#type:fishing_rod#Enchants:34 1-2
+    - Chance:171-174#type:melon#amount:2-8#DisplayName:&6&lFast Food!#Lore:&7Right Click to eat
+    - Chance:175-179#type:iron_helmet
+    - Chance:180-182#type:iron_chestplate
+    - Chance:183-186#type:iron_leggings
+    - Chance:187-192#type:iron_boots
+    - Chance:193-195#type:emerald#amount:1-3#DisplayName:&7Wolf Tool
+    - Chance:196-200#type:web#amount:3-6
+    - Chance:201-204#type:%LuckyBow%
+    - Chance:205-209#type:%LuckySword%
+    - Chance:210-215#type:%LuckyBoots%
+    - Chance:216-219#type:%LuckyLeggings%
+    - Chance:220-224#type:%LuckyHelmet%
+    - Chance:225-227#type:%LuckyChestplate%
+    - Chance:228-230#type:%LuckyTool%
+    - Chance:231-235#type:%ThorAxe%
+    - Chance:236-240#type:%LuckyShovel%
+    - Chance:241-245#type:%LuckyAxe%
+    - Chance:246-250#type:%LuckyPickaxe%
+    Chest1:
+    - Times:6-12
+    - Chances:90
+    - Chance:1-20#type:glass_bottle#amount:1-3
+    - Chance:21-35#type:potion
+    - Chance:36-37#type:nether_star
+    - Chance:38-40#type:quartz
+    - Chance:41-45#type:magma_cream#amount:1-3
+    - Chance:46-50#type:golden_carrot#amount:1-2
+    - Chance:51-55#type:speckled_melon#amount:1-2
+    - Chance:56-60#type:blaze_rod#amount:1-2
+    - Chance:61-65#type:gold_nugget#amount:1-4
+    - Chance:66-70#type:nether_warts#amount:1-5
+    - Chance:71-75#type:sulphur#amount:1-2
+    - Chance:76-80#type:glowstone_dust#amount:2-4
+    - Chance:81-90#type:redstone#amount:1-3
+    Chest2:
+    - Times:6-8
+    - Chances:116
+    - Chance:1-10#typeid:306/307/308/309
+    - Chance:11-20#type:blaze_powder#amount:1-3#DisplayName:&cshoot#Lore:&7Right Click to shoot
+    - Chance:21-40#type:cookie#amount:1-5#DisplayName:&6Super Cookie#Lore:&eKick Them all%%&9{playername}
+    - Chance:41-50#type:lever#amount:2-3#DisplayName:&8C4 Item#Enchants:34 3#&c{playername}
+    - Chance:51-52#type:chest#DisplayName:&6(BackPack)#Lore:{randomcolor}{randomcolor}{randomnumber}{playername}%%&79
+    - Chance:53-60#type:slime_ball#amount:1-3#Enchants:34 10#DisplayName:&2Timed Bomb
+    - Chance:61-64#type:slime_ball#amount:1-3#Enchants:34 10#DisplayName:&2Timed Bomb#Lore:&7Range I
+    - Chance:65-67#type:slime_ball#amount:1-3#Enchants:34 10#DisplayName:&2Timed Bomb#Lore:&7Range II
+    - Chance:68-73#type:diamond_helmet
+    - Chance:74-77#type:diamond_chestplate
+    - Chance:78-82#type:diamond_leggings
+    - Chance:83-89#type:diamond_boots
+    - Chance:90-93#type:name_tag#DisplayName:&eLucky Block Tool#Lore:&8Made in China
+    - Chance:111-113#type:chest#DisplayName:&6(BackPack)#Lore:{randomcolor}{randomcolor}{randomnumber}{playername}%%&718
+    - Chance:114-115#type:chest#DisplayName:&6(BackPack)#Lore:{randomcolor}{randomcolor}{randomnumber}{playername}%%&727
+    - Chance:116#type:chest#DisplayName:&6(BackPack)#Lore:{randomcolor}{randomcolor}{randomnumber}{playername}%%&736
+CustomStructures:
+  Chances: 100
+  Structures:
+  - Chance:1-100#LocationType:Player#Type:49#Loc:0,-1,0//Type:49#Loc:1,-1,0//Type:49#Loc:-1,-1,0//Type:49#Loc:0,-1,-1//Type:49#Loc:1,-1,-1//Type:49#Loc:-1,-1,-1//Type:49#Loc:0,-1,1//Type:49#Loc:1,-1,1//Type:49#Loc:-1,-1,1//Type:98#Loc:-2,0,2//Type:98#Loc:-1,0,2//Type:98#Loc:1,0,2//Type:98#Loc:2,0,2//Type:98#Loc:-2,0,1//Type:98#Loc:-2,0,0//Type:98#Loc:-2,0,-1//Type:98#Loc:-2,0,-2//Type:98#Loc:-1,0,-2//Type:98#Loc:0,0,-2//Type:98#Loc:1,0,-2//Type:98#Loc:2,0,-2//Type:98#Loc:2,0,1//Type:98#Loc:2,0,0//Type:98#Loc:2,0,-1//Type:98#Loc:-2,1,2//Type:98#Loc:-2,2,2//Type:98#Loc:-2,3,2//Type:98#Loc:-2,1,-2//Type:98#Loc:-2,2,-2//Type:98#Loc:-2,3,-2//Type:98#Loc:2,1,2//Type:98#Loc:2,2,2//Type:98#Loc:2,3,2//Type:98#Loc:2,1,-2//Type:98#Loc:2,2,-2//Type:98#Loc:2,3,-2//Type:98#Loc:-2,3,1//Type:98#Loc:-2,3,0//Type:98#Loc:-2,3,-1//Type:98#Loc:-1,1,2//Type:98#Loc:-1,2,2//Type:98#Loc:-1,3,2//Type:101#Loc:1,1,-2//Type:101#Loc:1,2,-2//Type:98#Loc:1,3,-2//Type:98#Loc:0,2,2//Type:98#Loc:0,3,2//Type:98#Loc:1,1,2//Type:98#Loc:1,2,2//Type:98#Loc:1,3,2//Type:101#Loc:0,1,-2//Type:101#Loc:0,2,-2//Type:98#Loc:0,3,-2//Type:101#Loc:-1,1,-2//Type:101#Loc:-1,2,-2//Type:98#Loc:-1,3,-2//Type:101#Loc:-1,1,-2//Type:101#Loc:-2,2,-1//Type:101#Loc:-2,1,0//Type:101#Loc:-2,2,0//Type:101#Loc:-2,1,-1//Type:101#Loc:-2,1,1//Type:101#Loc:-2,2,1//Type:101#Loc:2,1,-1//Type:101#Loc:2,2,-1//Type:101#Loc:2,1,0//Type:101#Loc:2,2,0//Type:101#Loc:2,1,1//Type:101#Loc:2,2,1//Type:98#Loc:2,3,-1//Type:98#Loc:2,3,0//Type:98#Loc:2,3,1//Type:98#Loc:-1,4,-1//Type:98#Loc:0,4,-1//Type:98#Loc:1,4,-1//Type:98#Loc:-1,4,0//Type:98#Loc:0,4,0//Type:98#Loc:1,4,0//Type:98#Loc:-1,4,1//Type:98#Loc:0,4,1//Type:98#Loc:1,4,1//Type:diamond_block#Loc:1,0,-1//Type:diamond_block#Loc:1,0,1//Type:diamond_block#Loc:-1,0,-1//Type:diamond_block#Loc:-1,0,1

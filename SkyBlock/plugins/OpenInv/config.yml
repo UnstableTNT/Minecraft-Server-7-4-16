@@ -1,0 +1,9 @@
+config-version: 2
+notify:
+  any-chest: true
+  silent-chest: true
+items:
+  open-inv: STICK
+toggles:
+  silent-chest:
+    b1d489a0-0a6f-44c1-997b-135a7bcc0916: true

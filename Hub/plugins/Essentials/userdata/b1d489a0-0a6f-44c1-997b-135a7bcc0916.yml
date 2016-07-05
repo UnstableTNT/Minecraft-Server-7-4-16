@@ -1,0 +1,44 @@
+geolocation: United States
+lastAccountName: Preistest_Dragon
+timestamps:
+  login: 1467605404732
+  logout: 1467605424912
+  lastteleport: 1467605404698
+  kits:
+    color: 1461546450162
+  jail: 0
+ipAddress: 73.68.210.208
+lastlocation:
+  world: world
+  x: -898.5
+  y: 140.0
+  z: 22.5
+  yaw: 270.3408
+  pitch: -0.15002334
+logoutlocation:
+  world: world
+  x: -857.3129859141017
+  y: 142.10465426770722
+  z: 23.003822768367513
+  yaw: 271.84082
+  pitch: 9.899974
+homes:
+  home:
+    world: world
+    x: 377.2398179965312
+    y: 24.087345181070788
+    z: 122.48450938566593
+    yaw: 122.699326
+    pitch: 12.750009
+afk: false
+powertools:
+  '280':
+  - smite
+  '369':
+  - fireball
+  '399':
+  - jump
+  '344':
+  - spawnmob bat,pig,pig,pig,pig,pig,pig,pig,pig,pig
+money: '10989999990'
+jailed: false
